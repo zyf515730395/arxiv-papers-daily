@@ -2057,7 +2057,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-25**|**Game4Loc: A UAV Geo-Localization Benchmark from Game Data**|Yuxiang Ji et.al.|[2409.16925](http://arxiv.org/abs/2409.16925)|null|
+|**2024-09-26**|**SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation**|Xin Li et.al.|[2409.18082](http://arxiv.org/abs/2409.18082)|null|
+|**2024-09-25**|**Game4Loc: A UAV Geo-Localization Benchmark from Game Data**|Yuxiang Ji et.al.|[2409.16925](http://arxiv.org/abs/2409.16925)|**[link](https://github.com/Yux1angJi/GTA-UAV)**|
 |**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502](http://arxiv.org/abs/2409.16502)|null|
 |**2024-09-24**|**Automatic Registration of SHG and H&E Images with Feature-based Initial Alignment and Intensity-based Instance Optimization: Contribution to the COMULIS Challenge**|Marek Wodzinski et.al.|[2409.15931](http://arxiv.org/abs/2409.15931)|null|
 |**2024-09-20**|**Keypoint Detection Technique for Image-Based Visual Servoing of Manipulators**|Niloufar Amiri et.al.|[2409.13668](http://arxiv.org/abs/2409.13668)|null|
@@ -2326,6 +2327,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**LightAvatar: Efficient Head Avatar as Dynamic Neural Light Field**|Huan Wang et.al.|[2409.18057](http://arxiv.org/abs/2409.18057)|**[link](https://github.com/mingsun-tse/lightavatar-tensorflow)**|
+|**2024-09-26**|**Deblur e-NeRF: NeRF from Motion-Blurred Events under High-speed or Low-light Conditions**|Weng Fei Low et.al.|[2409.17988](http://arxiv.org/abs/2409.17988)|null|
+|**2024-09-26**|**Neural Implicit Representation for Highly Dynamic LiDAR Mapping and Odometry**|Qi Zhang et.al.|[2409.17729](http://arxiv.org/abs/2409.17729)|null|
+|**2024-09-26**|**TFS-NeRF: Template-Free NeRF for Semantic 3D Reconstruction of Dynamic Scene**|Sandika Biswas et.al.|[2409.17459](http://arxiv.org/abs/2409.17459)|null|
+|**2024-09-25**|**SeaSplat: Representing Underwater Scenes with 3D Gaussian Splatting and a Physically Grounded Image Formation Model**|Daniel Yang et.al.|[2409.17345](http://arxiv.org/abs/2409.17345)|null|
 |**2024-09-25**|**Let's Make a Splan: Risk-Aware Trajectory Optimization in a Normalized Gaussian Splat**|Jonathan Michaux et.al.|[2409.16915](http://arxiv.org/abs/2409.16915)|null|
 |**2024-09-25**|**TalkinNeRF: Animatable Neural Fields for Full-Body Talking Humans**|Aggelina Chatziagapi et.al.|[2409.16666](http://arxiv.org/abs/2409.16666)|null|
 |**2024-09-24**|**SDFit: 3D Object Pose and Shape by Fitting a Morphable SDF to a Single Image**|Dimitrije Antić et.al.|[2409.16178](http://arxiv.org/abs/2409.16178)|null|
@@ -3607,6 +3613,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**Self-supervised Monocular Depth Estimation with Large Kernel Attention**|Xuezhi Xiang et.al.|[2409.17895](http://arxiv.org/abs/2409.17895)|null|
+|**2024-09-26**|**Self-Distilled Depth Refinement with Noisy Poisson Fusion**|Jiaqi Li et.al.|[2409.17880](http://arxiv.org/abs/2409.17880)|null|
+|**2024-09-26**|**A New Dataset for Monocular Depth Estimation Under Viewpoint Shifts**|Aurel Pjetri et.al.|[2409.17851](http://arxiv.org/abs/2409.17851)|null|
+|**2024-09-26**|**Event-based Stereo Depth Estimation: A Survey**|Suman Ghosh et.al.|[2409.17680](http://arxiv.org/abs/2409.17680)|null|
+|**2024-09-26**|**CAMOT: Camera Angle-aware Multi-Object Tracking**|Felix Limanta et.al.|[2409.17533](http://arxiv.org/abs/2409.17533)|null|
+|**2024-09-25**|**Optical Lens Attack on Deep Learning Based Monocular Depth Estimation**|Ce Zhou et.al.|[2409.17376](http://arxiv.org/abs/2409.17376)|null|
 |**2024-09-25**|**Parameter-efficient Bayesian Neural Networks for Uncertainty-aware Depth Estimation**|Richard D. Paul et.al.|[2409.17085](http://arxiv.org/abs/2409.17085)|null|
 |**2024-09-25**|**EventHDR: from Event to High-Speed HDR Videos and Beyond**|Yunhao Zou et.al.|[2409.17029](http://arxiv.org/abs/2409.17029)|null|
 |**2024-09-25**|**3DDX: Bone Surface Reconstruction from a Single Standard-Geometry Radiograph via Dual-Face Depth Estimation**|Yi Gu et.al.|[2409.16702](http://arxiv.org/abs/2409.16702)|null|
@@ -3622,6 +3634,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**MMDVS-LF: A Multi-Modal Dynamic-Vision-Sensor Line Following Dataset**|Felix Resch et.al.|[2409.18038](http://arxiv.org/abs/2409.18038)|null|
+|**2024-09-26**|**Upper-Body Pose-based Gaze Estimation for Privacy-Preserving 3D Gaze Target Detection**|Andrea Toaiari et.al.|[2409.17886](http://arxiv.org/abs/2409.17886)|**[link](https://github.com/intelligolabs/privacy-gtd-3d)**|
+|**2024-09-25**|**Energy-Efficient & Real-Time Computer Vision with Intelligent Skipping via Reconfigurable CMOS Image Sensors**|Md Abdullah-Al Kaiser et.al.|[2409.17341](http://arxiv.org/abs/2409.17341)|null|
 |**2024-09-23**|**FACET: Fast and Accurate Event-Based Eye Tracking Using Ellipse Modeling for Extended Reality**|Junyuan Ding et.al.|[2409.15584](http://arxiv.org/abs/2409.15584)|**[link](https://github.com/deanjy/facet)**|
 |**2024-09-23**|**Analysis of Human Perception in Distinguishing Real and AI-Generated Faces: An Eye-Tracking Based Study**|Jin Huang et.al.|[2409.15498](http://arxiv.org/abs/2409.15498)|null|
 |**2024-09-23**|**AIM 2024 Challenge on Video Saliency Prediction: Methods and Results**|Andrey Moskalenko et.al.|[2409.14827](http://arxiv.org/abs/2409.14827)|**[link](https://github.com/msu-video-group/ECCVW24_Saliency_Prediction)**|
@@ -3652,6 +3667,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness**|Chenming Zhu et.al.|[2409.18125](http://arxiv.org/abs/2409.18125)|null|
+|**2024-09-26**|**GSON: A Group-based Social Navigation Framework with Large Multimodal Model**|Shangyi Luo et.al.|[2409.18084](http://arxiv.org/abs/2409.18084)|null|
+|**2024-09-26**|**SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation**|Xin Li et.al.|[2409.18082](http://arxiv.org/abs/2409.18082)|null|
+|**2024-09-26**|**Infering Alt-text For UI Icons With Large Language Models During App Development**|Sabrina Haque et.al.|[2409.18060](http://arxiv.org/abs/2409.18060)|null|
+|**2024-09-26**|**EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions**|Kai Chen et.al.|[2409.18042](http://arxiv.org/abs/2409.18042)|null|
+|**2024-09-26**|**DARE: Diverse Visual Question Answering with Robustness Evaluation**|Hannah Sterz et.al.|[2409.18023](http://arxiv.org/abs/2409.18023)|null|
+|**2024-09-26**|**The Hard Positive Truth about Vision-Language Compositionality**|Amita Kamath et.al.|[2409.17958](http://arxiv.org/abs/2409.17958)|null|
+|**2024-09-26**|**Cascade Prompt Learning for Vision-Language Model Adaptation**|Ge Wu et.al.|[2409.17805](http://arxiv.org/abs/2409.17805)|null|
+|**2024-09-26**|**Robotic-CLIP: Fine-tuning CLIP on Action Data for Robotic Applications**|Nghia Nguyen et.al.|[2409.17727](http://arxiv.org/abs/2409.17727)|null|
+|**2024-09-26**|**MIO: A Foundation Model on Multimodal Tokens**|Zekun Wang et.al.|[2409.17692](http://arxiv.org/abs/2409.17692)|null|
 |**2024-09-25**|**Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models**|Matt Deitke et.al.|[2409.17146](http://arxiv.org/abs/2409.17146)|null|
 |**2024-09-25**|**Attention Prompting on Image for Large Vision-Language Models**|Runpeng Yu et.al.|[2409.17143](http://arxiv.org/abs/2409.17143)|**[link](https://github.com/yu-rp/apiprompting)**|
 |**2024-09-25**|**Blox-Net: Generative Design-for-Robot-Assembly Using VLM Supervision, Physics Simulation, and a Robot with Reset**|Andrew Goldberg et.al.|[2409.17126](http://arxiv.org/abs/2409.17126)|null|
@@ -3667,6 +3692,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity Refiner**|Wenliang Zhao et.al.|[2409.18128](http://arxiv.org/abs/2409.18128)|**[link](https://github.com/shiml20/flowturbo)**|
+|**2024-09-26**|**Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction**|Jing He et.al.|[2409.18124](http://arxiv.org/abs/2409.18124)|null|
+|**2024-09-26**|**EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation**|Jiaxiang Tang et.al.|[2409.18114](http://arxiv.org/abs/2409.18114)|null|
+|**2024-09-26**|**StackGen: Generating Stable Structures from Silhouettes via Diffusion**|Luzhe Sun et.al.|[2409.18098](http://arxiv.org/abs/2409.18098)|null|
+|**2024-09-26**|**DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models**|Helin Cao et.al.|[2409.18092](http://arxiv.org/abs/2409.18092)|null|
+|**2024-09-26**|**Stable Video Portraits**|Mirela Ostrek et.al.|[2409.18083](http://arxiv.org/abs/2409.18083)|null|
+|**2024-09-26**|**The radio halo in PLCKESZ G171.94 $-$ 40.65: Beacon of merging activity**|Ramananda Santra et.al.|[2409.18075](http://arxiv.org/abs/2409.18075)|null|
+|**2024-09-26**|**Low Photon Number Non-Invasive Imaging Through Time-Varying Diffusers**|Adrian Makowski et.al.|[2409.18072](http://arxiv.org/abs/2409.18072)|null|
+|**2024-09-26**|**Radio-FIR correlation- A probe into cosmic ray propagation in the nearby galaxy IC 342**|M. R. Nasirzadeh et.al.|[2409.17999](http://arxiv.org/abs/2409.17999)|null|
+|**2024-09-26**|**Distributed Invariant Unscented Kalman Filter based on Inverse Covariance Intersection with Intermittent Measurements**|Zhian Ruan et.al.|[2409.17997](http://arxiv.org/abs/2409.17997)|null|
 |**2024-09-25**|**DreamWaltz-G: Expressive 3D Gaussian Avatars from Skeleton-Guided 2D Diffusion**|Yukun Huang et.al.|[2409.17145](http://arxiv.org/abs/2409.17145)|null|
 |**2024-09-25**|**Language-oriented Semantic Communication for Image Transmission with Fine-Tuned Diffusion Model**|Xinfeng Wei et.al.|[2409.17104](http://arxiv.org/abs/2409.17104)|null|
 |**2024-09-25**|**Effects of the internal temperature on vertical mixing and on cloud structures in Ultra Hot Jupiters**|Pascal A. Noti et.al.|[2409.17101](http://arxiv.org/abs/2409.17101)|null|
@@ -3682,6 +3717,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**RT-GuIDE: Real-Time Gaussian splatting for Information-Driven Exploration**|Yuezhan Tao et.al.|[2409.18122](http://arxiv.org/abs/2409.18122)|null|
+|**2024-09-26**|**Language-Embedded Gaussian Splats (LEGS): Incrementally Building Room-Scale Representations with a Mobile Robot**|Justin Yu et.al.|[2409.18108](http://arxiv.org/abs/2409.18108)|null|
+|**2024-09-26**|**WaSt-3D: Wasserstein-2 Distance for Scene-to-Scene Stylization on 3D Gaussians**|Dmytro Kotovenko et.al.|[2409.17917](http://arxiv.org/abs/2409.17917)|null|
+|**2024-09-26**|**HGS-Planner: Hierarchical Planning Framework for Active Scene Reconstruction Using 3D Gaussian Splatting**|Zijun Xu et.al.|[2409.17624](http://arxiv.org/abs/2409.17624)|null|
+|**2024-09-25**|**SeaSplat: Representing Underwater Scenes with 3D Gaussian Splatting and a Physically Grounded Image Formation Model**|Daniel Yang et.al.|[2409.17345](http://arxiv.org/abs/2409.17345)|null|
+|**2024-09-25**|**Disco4D: Disentangled 4D Human Generation and Animation from a Single Image**|Hui En Pang et.al.|[2409.17280](http://arxiv.org/abs/2409.17280)|null|
 |**2024-09-25**|**Go-SLAM: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM**|Phu Pham et.al.|[2409.16944](http://arxiv.org/abs/2409.16944)|null|
 |**2024-09-25**|**Generative Object Insertion in Gaussian Splatting with a Multi-View Diffusion Model**|Hongliang Zhong et.al.|[2409.16938](http://arxiv.org/abs/2409.16938)|**[link](https://github.com/jiutongbro/multiview_inpaint)**|
 |**2024-09-25**|**Let's Make a Splan: Risk-Aware Trajectory Optimization in a Normalized Gaussian Splat**|Jonathan Michaux et.al.|[2409.16915](http://arxiv.org/abs/2409.16915)|null|
