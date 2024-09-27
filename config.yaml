@@ -22,18 +22,23 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
+    "Depth Estimation":
+        filters: ["Depth Estimation", "Monocular Depth Estimation", "Stereo Matching", "Multi-View Stereo"]
+    "Eye Tracking":
+        filters: ["Eye Tracking", "Gaze Estimation"]
+    "Gesture Recognition":
+        filters: ["Gesture Recognition", "Hand Tracking", "Gesture Classification"]
     "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
+        filters: ["Keypoint Detection", "Feature Descriptor", "Image Matching", "Keypoint Matching", 
                   "Line Segment Detection", "Local Feature Matching"]
+    "Embodied AI":
+        filters: [
+            "Multimodal Models", "Multi-Modal Large Language Model", "Embodied Perception", 
+            "Multimodal Interaction", "Vision Language Model", "VLM", "Embodied Large Language Model", "Embodied LLM",
+        ]
+    "Diffusion":
+        filters: ["Diffusion", "Diffusion Models", "Text to 3D", "Image to 3D"]
     "NeRF":
-        filters: ["NeRF"]
+        filters: ["NeRF", "Neural Radiance Fields", "SDF", "Signed Distance Funciton"]
+    "Gaussian Splatting":
+        filters: ["Gaussian Splatting", "3D Gaussian Splatting", "3D GS"]
