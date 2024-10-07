@@ -1,22 +1,32 @@
----
-layout: default
----
+> Updated on 2024.10.07
+> Usage instructions: [here](./docs/README.md#usage)
 
-## Updated on 2024.10.07
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href=#depth-estimation>Depth Estimation</a></li>
+    <li><a href=#image-matching>Image Matching</a></li>
+    <li><a href=#gesture-recognition>Gesture Recognition</a></li>
+    <li><a href=#eye-tracking>Eye Tracking</a></li>
+    <li><a href=#embodied-ai>Embodied AI</a></li>
+    <li><a href=#diffusion>Diffusion</a></li>
+    <li><a href=#gaussian-splatting>Gaussian Splatting</a></li>
+    <li><a href=#nerf>NeRF</a></li>
+  </ol>
+</details>
 
 ## Depth Estimation
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-03**|**Pseudo-Stereo Inputs: A Solution to the Occlusion Challenge in Self-Supervised Stereo Matching**|Ruizhi Yang et.al.|[2410.02534](http://arxiv.org/abs/2410.02534)|**[link](https://github.com/qrzyang/pseudo-stereo)**|
-|**2024-10-02**|**Depth Pro: Sharp Monocular Metric Depth in Less Than a Second**|Aleksei Bochkovskii et.al.|[2410.02073](http://arxiv.org/abs/2410.02073)|**[link](https://github.com/apple/ml-depth-pro)**|
-|**2024-10-01**|**Towards Full-parameter and Parameter-efficient Self-learning For Endoscopic Camera Depth Estimation**|Shuting Zhao et.al.|[2410.00979](http://arxiv.org/abs/2410.00979)|null|
-|**2024-10-01**|**Radar Meets Vision: Robustifying Monocular Metric Depth Prediction for Mobile Robotics**|Marco Job et.al.|[2410.00736](http://arxiv.org/abs/2410.00736)|null|
-|**2024-10-01**|**Drone Stereo Vision for Radiata Pine Branch Detection and Distance Measurement: Utilizing Deep Learning and YOLO Integration**|Yida Lin et.al.|[2410.00503](http://arxiv.org/abs/2410.00503)|null|
-|**2024-10-01**|**Seamless Augmented Reality Integration in Arthroscopy: A Pipeline for Articular Reconstruction and Guidance**|Hongchao Shu et.al.|[2410.00386](http://arxiv.org/abs/2410.00386)|null|
-|**2024-09-30**|**Match Stereo Videos via Bidirectional Alignment**|Junpeng Jing et.al.|[2409.20283](http://arxiv.org/abs/2409.20283)|null|
-|**2024-09-30**|**CCDepth: A Lightweight Self-supervised Depth Estimation Network with Enhanced Interpretability**|Xi Zhang et.al.|[2409.19933](http://arxiv.org/abs/2409.19933)|null|
-|**2024-09-30**|**EndoDepth: A Benchmark for Assessing Robustness in Endoscopic Depth Prediction**|Ivan Reyes-Amezcua et.al.|[2409.19930](http://arxiv.org/abs/2409.19930)|**[link](https://github.com/Ivanrs297/endoscopycorruptions)**|
+- 2024-10-03, **RSA: Resolving Scale Ambiguities in Monocular Depth Estimators through Language Descriptions**, Ziyao Zeng et.al., Paper: [http://arxiv.org/abs/2410.02924](http://arxiv.org/abs/2410.02924)
+- 2024-10-03, **Pseudo-Stereo Inputs: A Solution to the Occlusion Challenge in Self-Supervised Stereo Matching**, Ruizhi Yang et.al., Paper: [http://arxiv.org/abs/2410.02534](http://arxiv.org/abs/2410.02534), Code: **[https://github.com/qrzyang/pseudo-stereo](https://github.com/qrzyang/pseudo-stereo)**
+- 2024-10-02, **Depth Pro: Sharp Monocular Metric Depth in Less Than a Second**, Aleksei Bochkovskii et.al., Paper: [http://arxiv.org/abs/2410.02073](http://arxiv.org/abs/2410.02073), Code: **[https://github.com/apple/ml-depth-pro](https://github.com/apple/ml-depth-pro)**
+- 2024-10-01, **Towards Full-parameter and Parameter-efficient Self-learning For Endoscopic Camera Depth Estimation**, Shuting Zhao et.al., Paper: [http://arxiv.org/abs/2410.00979](http://arxiv.org/abs/2410.00979)
+- 2024-10-01, **Radar Meets Vision: Robustifying Monocular Metric Depth Prediction for Mobile Robotics**, Marco Job et.al., Paper: [http://arxiv.org/abs/2410.00736](http://arxiv.org/abs/2410.00736)
+- 2024-10-01, **Drone Stereo Vision for Radiata Pine Branch Detection and Distance Measurement: Utilizing Deep Learning and YOLO Integration**, Yida Lin et.al., Paper: [http://arxiv.org/abs/2410.00503](http://arxiv.org/abs/2410.00503)
+- 2024-10-01, **Seamless Augmented Reality Integration in Arthroscopy: A Pipeline for Articular Reconstruction and Guidance**, Hongchao Shu et.al., Paper: [http://arxiv.org/abs/2410.00386](http://arxiv.org/abs/2410.00386)
+- 2024-09-30, **Match Stereo Videos via Bidirectional Alignment**, Junpeng Jing et.al., Paper: [http://arxiv.org/abs/2409.20283](http://arxiv.org/abs/2409.20283)
+- 2024-09-30, **CCDepth: A Lightweight Self-supervised Depth Estimation Network with Enhanced Interpretability**, Xi Zhang et.al., Paper: [http://arxiv.org/abs/2409.19933](http://arxiv.org/abs/2409.19933)
+- 2024-09-30, **EndoDepth: A Benchmark for Assessing Robustness in Endoscopic Depth Prediction**, Ivan Reyes-Amezcua et.al., Paper: [http://arxiv.org/abs/2409.19930](http://arxiv.org/abs/2409.19930), Code: **[https://github.com/Ivanrs297/endoscopycorruptions](https://github.com/Ivanrs297/endoscopycorruptions)**
 |**2024-09-29**|**fCOP: Focal Length Estimation from Category-level Object Priors**|Xinyue Zhang et.al.|[2409.19641](http://arxiv.org/abs/2409.19641)|null|
 |**2024-09-29**|**KineDepth: Utilizing Robot Kinematics for Online Metric Depth Estimation**|Soofiyan Atar et.al.|[2409.19490](http://arxiv.org/abs/2409.19490)|null|
 |**2024-09-27**|**Speckle-illumination spatial frequency domain imaging with a stereo laparoscope for profile-corrected optical property mapping**|Anthony A. Song et.al.|[2409.19153](http://arxiv.org/abs/2409.19153)|null|
@@ -37,20 +47,20 @@ layout: default
 |**2024-09-23**|**GroCo: Ground Constraint for Metric Self-Supervised Monocular Depth**|Aurélien Cecille et.al.|[2409.14850](http://arxiv.org/abs/2409.14850)|null|
 |**2024-09-23**|**Robust and Flexible Omnidirectional Depth Estimation with Multiple 360° Cameras**|Ming Li et.al.|[2409.14766](http://arxiv.org/abs/2409.14766)|null|
 
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
+
 ## Image Matching
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-03**|**Key-Grid: Unsupervised 3D Keypoints Detection using Grid Heatmap Features**|Chengkai Hou et.al.|[2410.02237](http://arxiv.org/abs/2410.02237)|null|
-|**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404](http://arxiv.org/abs/2410.01404)|null|
-|**2024-09-30**|**OpenKD: Opening Prompt Diversity for Zero- and Few-shot Keypoint Detection**|Changsheng Lu et.al.|[2409.19899](http://arxiv.org/abs/2409.19899)|null|
-|**2024-09-27**|**Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**|Yipeng Lu et.al.|[2409.18673](http://arxiv.org/abs/2409.18673)|null|
-|**2024-09-26**|**SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation**|Xin Li et.al.|[2409.18082](http://arxiv.org/abs/2409.18082)|null|
-|**2024-09-25**|**Game4Loc: A UAV Geo-Localization Benchmark from Game Data**|Yuxiang Ji et.al.|[2409.16925](http://arxiv.org/abs/2409.16925)|**[link](https://github.com/Yux1angJi/GTA-UAV)**|
-|**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502](http://arxiv.org/abs/2409.16502)|**[link](https://github.com/haksorus/gsplatloc)**|
-|**2024-09-24**|**Automatic Registration of SHG and H&E Images with Feature-based Initial Alignment and Intensity-based Instance Optimization: Contribution to the COMULIS Challenge**|Marek Wodzinski et.al.|[2409.15931](http://arxiv.org/abs/2409.15931)|null|
-|**2024-09-20**|**Keypoint Detection Technique for Image-Based Visual Servoing of Manipulators**|Niloufar Amiri et.al.|[2409.13668](http://arxiv.org/abs/2409.13668)|null|
-|**2024-09-25**|**Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**|Rania Hossam et.al.|[2409.08695](http://arxiv.org/abs/2409.08695)|**[link](https://github.com/ahmedheakl/fish-counting)**|
+- 2024-10-03, **Key-Grid: Unsupervised 3D Keypoints Detection using Grid Heatmap Features**, Chengkai Hou et.al., Paper: [http://arxiv.org/abs/2410.02237](http://arxiv.org/abs/2410.02237)
+- 2024-10-02, **Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**, Hongru Yan et.al., Paper: [http://arxiv.org/abs/2410.01404](http://arxiv.org/abs/2410.01404)
+- 2024-09-30, **OpenKD: Opening Prompt Diversity for Zero- and Few-shot Keypoint Detection**, Changsheng Lu et.al., Paper: [http://arxiv.org/abs/2409.19899](http://arxiv.org/abs/2409.19899)
+- 2024-09-27, **Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**, Yipeng Lu et.al., Paper: [http://arxiv.org/abs/2409.18673](http://arxiv.org/abs/2409.18673)
+- 2024-09-26, **SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation**, Xin Li et.al., Paper: [http://arxiv.org/abs/2409.18082](http://arxiv.org/abs/2409.18082)
+- 2024-09-25, **Game4Loc: A UAV Geo-Localization Benchmark from Game Data**, Yuxiang Ji et.al., Paper: [http://arxiv.org/abs/2409.16925](http://arxiv.org/abs/2409.16925), Code: **[https://github.com/Yux1angJi/GTA-UAV](https://github.com/Yux1angJi/GTA-UAV)**
+- 2024-09-24, **GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**, Gennady Sidorov et.al., Paper: [http://arxiv.org/abs/2409.16502](http://arxiv.org/abs/2409.16502), Code: **[https://github.com/haksorus/gsplatloc](https://github.com/haksorus/gsplatloc)**
+- 2024-09-24, **Automatic Registration of SHG and H&E Images with Feature-based Initial Alignment and Intensity-based Instance Optimization: Contribution to the COMULIS Challenge**, Marek Wodzinski et.al., Paper: [http://arxiv.org/abs/2409.15931](http://arxiv.org/abs/2409.15931)
+- 2024-09-20, **Keypoint Detection Technique for Image-Based Visual Servoing of Manipulators**, Niloufar Amiri et.al., Paper: [http://arxiv.org/abs/2409.13668](http://arxiv.org/abs/2409.13668)
+- 2024-09-25, **Precision Aquaculture: An Integrated Computer Vision and IoT Approach for Optimized Tilapia Feeding**, Rania Hossam et.al., Paper: [http://arxiv.org/abs/2409.08695](http://arxiv.org/abs/2409.08695), Code: **[https://github.com/ahmedheakl/fish-counting](https://github.com/ahmedheakl/fish-counting)**
 |**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471](http://arxiv.org/abs/2409.06471)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
 |**2024-09-06**|**D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection**|Kentaro Hirahara et.al.|[2409.04060](http://arxiv.org/abs/2409.04060)|null|
 |**2024-09-05**|**Enabling Practical and Privacy-Preserving Image Processing**|Chao Wang et.al.|[2409.03568](http://arxiv.org/abs/2409.03568)|null|
@@ -311,40 +321,40 @@ layout: default
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
+
 ## Gesture Recognition
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-03**|**An Evaluation of Large Pre-Trained Models for Gesture Recognition using Synthetic Videos**|Arun Reddy et.al.|[2410.02152](http://arxiv.org/abs/2410.02152)|null|
-|**2024-09-16**|**Impact of Electrode Position on Forearm Orientation Invariant Hand Gesture Recognition**|Md. Johirul Islam et.al.|[2410.00029](http://arxiv.org/abs/2410.00029)|null|
-|**2024-09-28**|**Solution of Multiview Egocentric Hand Tracking Challenge ECCV2024**|Minqiang Zou et.al.|[2409.19362](http://arxiv.org/abs/2409.19362)|null|
-|**2024-09-28**|**Gesture Recognition for Feedback Based Mixed Reality and Robotic Fabrication: A Case Study of the UnLog Tower**|Alexander Htet Kyaw et.al.|[2409.19281](http://arxiv.org/abs/2409.19281)|null|
-|**2024-09-24**|**Hand Gesture Classification Based on Forearm Ultrasound Video Snippets Using 3D Convolutional Neural Networks**|Keshav Bimbraw et.al.|[2409.16431](http://arxiv.org/abs/2409.16431)|null|
-|**2024-09-24**|**Improving Intersession Reproducibility for Forearm Ultrasound based Hand Gesture Classification through an Incremental Learning Approach**|Keshav Bimbraw et.al.|[2409.16415](http://arxiv.org/abs/2409.16415)|null|
-|**2024-09-20**|**V-Hands: Touchscreen-based Hand Tracking for Remote Whiteboard Interaction**|Xinshuang Liu et.al.|[2409.13347](http://arxiv.org/abs/2409.13347)|null|
-|**2024-09-18**|**WiLoR: End-to-end 3D Hand Localization and Reconstruction in-the-wild**|Rolandos Alexandros Potamias et.al.|[2409.12259](http://arxiv.org/abs/2409.12259)|**[link](https://github.com/rolpotamias/WiLoR)**|
-|**2024-09-17**|**Exploring Dimensions of Expertise in AR-Guided Psychomotor Tasks**|Steven Yoo et.al.|[2409.11599](http://arxiv.org/abs/2409.11599)|null|
+- 2024-09-17, **Complex-valued convolutional neural network classification of hand gesture from radar images**, Shokooh Khandan et.al., Paper: [http://arxiv.org/abs/2410.02771](http://arxiv.org/abs/2410.02771)
+- 2024-10-03, **An Evaluation of Large Pre-Trained Models for Gesture Recognition using Synthetic Videos**, Arun Reddy et.al., Paper: [http://arxiv.org/abs/2410.02152](http://arxiv.org/abs/2410.02152)
+- 2024-09-16, **Impact of Electrode Position on Forearm Orientation Invariant Hand Gesture Recognition**, Md. Johirul Islam et.al., Paper: [http://arxiv.org/abs/2410.00029](http://arxiv.org/abs/2410.00029)
+- 2024-09-28, **Solution of Multiview Egocentric Hand Tracking Challenge ECCV2024**, Minqiang Zou et.al., Paper: [http://arxiv.org/abs/2409.19362](http://arxiv.org/abs/2409.19362)
+- 2024-09-28, **Gesture Recognition for Feedback Based Mixed Reality and Robotic Fabrication: A Case Study of the UnLog Tower**, Alexander Htet Kyaw et.al., Paper: [http://arxiv.org/abs/2409.19281](http://arxiv.org/abs/2409.19281)
+- 2024-09-24, **Hand Gesture Classification Based on Forearm Ultrasound Video Snippets Using 3D Convolutional Neural Networks**, Keshav Bimbraw et.al., Paper: [http://arxiv.org/abs/2409.16431](http://arxiv.org/abs/2409.16431)
+- 2024-09-24, **Improving Intersession Reproducibility for Forearm Ultrasound based Hand Gesture Classification through an Incremental Learning Approach**, Keshav Bimbraw et.al., Paper: [http://arxiv.org/abs/2409.16415](http://arxiv.org/abs/2409.16415)
+- 2024-09-20, **V-Hands: Touchscreen-based Hand Tracking for Remote Whiteboard Interaction**, Xinshuang Liu et.al., Paper: [http://arxiv.org/abs/2409.13347](http://arxiv.org/abs/2409.13347)
+- 2024-09-18, **WiLoR: End-to-end 3D Hand Localization and Reconstruction in-the-wild**, Rolandos Alexandros Potamias et.al., Paper: [http://arxiv.org/abs/2409.12259](http://arxiv.org/abs/2409.12259), Code: **[https://github.com/rolpotamias/WiLoR](https://github.com/rolpotamias/WiLoR)**
+- 2024-09-17, **Exploring Dimensions of Expertise in AR-Guided Psychomotor Tasks**, Steven Yoo et.al., Paper: [http://arxiv.org/abs/2409.11599](http://arxiv.org/abs/2409.11599)
 |**2024-09-16**|**Forearm Ultrasound based Gesture Recognition on Edge**|Keshav Bimbraw et.al.|[2409.09915](http://arxiv.org/abs/2409.09915)|null|
 |**2024-09-12**|**Customized Mid-Air Gestures for Accessibility: A $B Recognizer for Multi-Dimensional Biosignal Gestures**|Momona Yamagami et.al.|[2409.08402](http://arxiv.org/abs/2409.08402)|null|
 |**2024-09-12**|**Spatial Adaptation Layer: Interpretable Domain Adaptation For Biosignal Sensor Array Applications**|Joao Pereira et.al.|[2409.08058](http://arxiv.org/abs/2409.08058)|null|
 |**2024-09-10**|**Advancements in Gesture Recognition Techniques and Machine Learning for Enhanced Human-Robot Interaction: A Comprehensive Review**|Sajjad Hussain et.al.|[2409.06503](http://arxiv.org/abs/2409.06503)|null|
 |**2024-09-05**|**MVTN: A Multiscale Video Transformer Network for Hand Gesture Recognition**|Mallika Garg et.al.|[2409.03890](http://arxiv.org/abs/2409.03890)|**[link](https://github.com/mallikagarg/mvtn)**|
 
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
 
 ## Eye Tracking
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-02**|**Seeing Eye to AI: Human Alignment via Gaze-Based Response Rewards for Large Language Models**|Angela Lopez-Cardona et.al.|[2410.01532](http://arxiv.org/abs/2410.01532)|null|
-|**2024-09-27**|**Gaze-informed Signatures of Trust and Collaboration in Human-Autonomy Teams**|Anthony J. Ries et.al.|[2409.19139](http://arxiv.org/abs/2409.19139)|null|
-|**2024-09-27**|**EyeTrAES: Fine-grained, Low-Latency Eye Tracking via Adaptive Event Slicing**|Argha Sen et.al.|[2409.18813](http://arxiv.org/abs/2409.18813)|null|
-|**2024-09-26**|**MMDVS-LF: A Multi-Modal Dynamic-Vision-Sensor Line Following Dataset**|Felix Resch et.al.|[2409.18038](http://arxiv.org/abs/2409.18038)|null|
-|**2024-09-26**|**Upper-Body Pose-based Gaze Estimation for Privacy-Preserving 3D Gaze Target Detection**|Andrea Toaiari et.al.|[2409.17886](http://arxiv.org/abs/2409.17886)|**[link](https://github.com/intelligolabs/privacy-gtd-3d)**|
-|**2024-09-25**|**Energy-Efficient & Real-Time Computer Vision with Intelligent Skipping via Reconfigurable CMOS Image Sensors**|Md Abdullah-Al Kaiser et.al.|[2409.17341](http://arxiv.org/abs/2409.17341)|null|
-|**2024-09-23**|**FACET: Fast and Accurate Event-Based Eye Tracking Using Ellipse Modeling for Extended Reality**|Junyuan Ding et.al.|[2409.15584](http://arxiv.org/abs/2409.15584)|**[link](https://github.com/deanjy/facet)**|
-|**2024-09-23**|**Analysis of Human Perception in Distinguishing Real and AI-Generated Faces: An Eye-Tracking Based Study**|Jin Huang et.al.|[2409.15498](http://arxiv.org/abs/2409.15498)|null|
-|**2024-09-23**|**AIM 2024 Challenge on Video Saliency Prediction: Methods and Results**|Andrey Moskalenko et.al.|[2409.14827](http://arxiv.org/abs/2409.14827)|**[link](https://github.com/msu-video-group/ECCVW24_Saliency_Prediction)**|
-|**2024-09-20**|**Dermatologist-like explainable AI enhances melanoma diagnosis accuracy: eye-tracking study**|Tirtha Chanda et.al.|[2409.13476](http://arxiv.org/abs/2409.13476)|null|
+- 2024-10-02, **Seeing Eye to AI: Human Alignment via Gaze-Based Response Rewards for Large Language Models**, Angela Lopez-Cardona et.al., Paper: [http://arxiv.org/abs/2410.01532](http://arxiv.org/abs/2410.01532)
+- 2024-09-27, **Gaze-informed Signatures of Trust and Collaboration in Human-Autonomy Teams**, Anthony J. Ries et.al., Paper: [http://arxiv.org/abs/2409.19139](http://arxiv.org/abs/2409.19139)
+- 2024-09-27, **EyeTrAES: Fine-grained, Low-Latency Eye Tracking via Adaptive Event Slicing**, Argha Sen et.al., Paper: [http://arxiv.org/abs/2409.18813](http://arxiv.org/abs/2409.18813)
+- 2024-09-26, **MMDVS-LF: A Multi-Modal Dynamic-Vision-Sensor Line Following Dataset**, Felix Resch et.al., Paper: [http://arxiv.org/abs/2409.18038](http://arxiv.org/abs/2409.18038)
+- 2024-09-26, **Upper-Body Pose-based Gaze Estimation for Privacy-Preserving 3D Gaze Target Detection**, Andrea Toaiari et.al., Paper: [http://arxiv.org/abs/2409.17886](http://arxiv.org/abs/2409.17886), Code: **[https://github.com/intelligolabs/privacy-gtd-3d](https://github.com/intelligolabs/privacy-gtd-3d)**
+- 2024-09-25, **Energy-Efficient & Real-Time Computer Vision with Intelligent Skipping via Reconfigurable CMOS Image Sensors**, Md Abdullah-Al Kaiser et.al., Paper: [http://arxiv.org/abs/2409.17341](http://arxiv.org/abs/2409.17341)
+- 2024-09-23, **FACET: Fast and Accurate Event-Based Eye Tracking Using Ellipse Modeling for Extended Reality**, Junyuan Ding et.al., Paper: [http://arxiv.org/abs/2409.15584](http://arxiv.org/abs/2409.15584), Code: **[https://github.com/deanjy/facet](https://github.com/deanjy/facet)**
+- 2024-09-23, **Analysis of Human Perception in Distinguishing Real and AI-Generated Faces: An Eye-Tracking Based Study**, Jin Huang et.al., Paper: [http://arxiv.org/abs/2409.15498](http://arxiv.org/abs/2409.15498)
+- 2024-09-23, **AIM 2024 Challenge on Video Saliency Prediction: Methods and Results**, Andrey Moskalenko et.al., Paper: [http://arxiv.org/abs/2409.14827](http://arxiv.org/abs/2409.14827), Code: **[https://github.com/msu-video-group/ECCVW24_Saliency_Prediction](https://github.com/msu-video-group/ECCVW24_Saliency_Prediction)**
+- 2024-09-20, **Dermatologist-like explainable AI enhances melanoma diagnosis accuracy: eye-tracking study**, Tirtha Chanda et.al., Paper: [http://arxiv.org/abs/2409.13476](http://arxiv.org/abs/2409.13476)
 |**2024-09-18**|**Exploring Gaze Pattern in Autistic Children: Clustering, Visualization, and Prediction**|Weiyan Shi et.al.|[2409.11744](http://arxiv.org/abs/2409.11744)|null|
 |**2024-09-13**|**Reading ability detection using eye-tracking data with LSTM-based few-shot learning**|Nanxi Li et.al.|[2409.08798](http://arxiv.org/abs/2409.08798)|null|
 |**2024-09-12**|**GAZEploit: Remote Keystroke Inference Attack by Gaze Estimation from Avatar Views in VR/MR Devices**|Hanqiu Wang et.al.|[2409.08122](http://arxiv.org/abs/2409.08122)|null|
@@ -352,10 +362,20 @@ layout: default
 |**2024-09-11**|**Bridging Quantitative and Qualitative Methods for Visualization Research: A Data/Semantics Perspective in Light of Advanced AI**|Daniel Weiskopf et.al.|[2409.07250](http://arxiv.org/abs/2409.07250)|null|
 |**2024-09-10**|**Mazed and Confused: A Dataset of Cybersickness, Working Memory, Mental Load, Physical Load, and Attention During a Real Walking Task in VR**|Jyotirmay Nag Setu et.al.|[2409.06898](http://arxiv.org/abs/2409.06898)|null|
 
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
+
 ## Embodied AI
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+- 2024-10-04, **Unraveling Cross-Modality Knowledge Conflict in Large Vision-Language Models**, Tinghui Zhu et.al., Paper: [http://arxiv.org/abs/2410.03659](http://arxiv.org/abs/2410.03659)
+- 2024-10-04, **LeLaN: Learning A Language-Conditioned Navigation Policy from In-the-Wild Videos**, Noriaki Hirose et.al., Paper: [http://arxiv.org/abs/2410.03603](http://arxiv.org/abs/2410.03603)
+- 2024-10-04, **An X-Ray Is Worth 15 Features: Sparse Autoencoders for Interpretable Radiology Report Generation**, Ahmed Abdulaal et.al., Paper: [http://arxiv.org/abs/2410.03334](http://arxiv.org/abs/2410.03334)
+- 2024-10-04, **Multimodal Point-of-Interest Recommendation**, Yuta Kanzawa et.al., Paper: [http://arxiv.org/abs/2410.03265](http://arxiv.org/abs/2410.03265)
+- 2024-10-04, **Generalizable Prompt Tuning for Vision-Language Models**, Qian Zhang et.al., Paper: [http://arxiv.org/abs/2410.03189](http://arxiv.org/abs/2410.03189)
+- 2024-10-04, **Investigating and Mitigating Object Hallucinations in Pretrained Vision-Language (CLIP) Models**, Yufang Liu et.al., Paper: [http://arxiv.org/abs/2410.03176](http://arxiv.org/abs/2410.03176), Code: **[https://github.com/yufang-liu/clip_hallucination](https://github.com/yufang-liu/clip_hallucination)**
+- 2024-10-04, **Bridging the Gap between Text, Audio, Image, and Any Sequence: A Novel Approach using Gloss-based Annotation**, Sen Fang et.al., Paper: [http://arxiv.org/abs/2410.03146](http://arxiv.org/abs/2410.03146)
+- 2024-10-04, **CLIP-Clique: Graph-based Correspondence Matching Augmented by Vision Language Models for Object-based Global Localization**, Shigemichi Matsuzaki et.al., Paper: [http://arxiv.org/abs/2410.03054](http://arxiv.org/abs/2410.03054)
+- 2024-10-04, **AuroraCap: Efficient, Performant Video Detailed Captioning and a New Benchmark**, Wenhao Chai et.al., Paper: [http://arxiv.org/abs/2410.03051](http://arxiv.org/abs/2410.03051)
+- 2024-10-03, **CPFD: Confidence-aware Privileged Feature Distillation for Short Video Classification**, Jinghao Shi et.al., Paper: [http://arxiv.org/abs/2410.03038](http://arxiv.org/abs/2410.03038)
 |**2024-10-03**|**Vinoground: Scrutinizing LMMs over Dense Temporal Reasoning with Short Videos**|Jianrui Zhang et.al.|[2410.02763](http://arxiv.org/abs/2410.02763)|null|
 |**2024-10-03**|**Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations**|Nick Jiang et.al.|[2410.02762](http://arxiv.org/abs/2410.02762)|**[link](https://github.com/nickjiang2378/vl-interp)**|
 |**2024-10-03**|**Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models**|Zhengfeng Lai et.al.|[2410.02740](http://arxiv.org/abs/2410.02740)|null|
@@ -412,10 +432,20 @@ layout: default
 |**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278](http://arxiv.org/abs/2409.16278)|null|
 |**2024-09-24**|**CDChat: A Large Multimodal Model for Remote Sensing Change Description**|Mubashir Noman et.al.|[2409.16261](http://arxiv.org/abs/2409.16261)|**[link](https://github.com/techmn/cdchat)**|
 
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
+
 ## Diffusion
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+- 2024-10-04, **Estimating Body and Hand Motion in an Ego-sensed World**, Brent Yi et.al., Paper: [http://arxiv.org/abs/2410.03665](http://arxiv.org/abs/2410.03665)
+- 2024-10-04, **Connecting Lyman- $α$ and ionizing photon escape in the Sunburst Arc**, M. Riley Owens et.al., Paper: [http://arxiv.org/abs/2410.03660](http://arxiv.org/abs/2410.03660)
+- 2024-10-04, **Geometric Representation Condition Improves Equivariant Molecule Generation**, Zian Li et.al., Paper: [http://arxiv.org/abs/2410.03655](http://arxiv.org/abs/2410.03655)
+- 2024-10-04, **Real-World Benchmarks Make Membership Inference Attacks Fail on Diffusion Models**, Chumeng Liang et.al., Paper: [http://arxiv.org/abs/2410.03640](http://arxiv.org/abs/2410.03640), Code: **[https://github.com/caradryanl/copymark](https://github.com/caradryanl/copymark)**
+- 2024-10-04, **Stabilizing the Consistent Quasidiffusion Method with Linear Prolongation**, Dean Wang et.al., Paper: [http://arxiv.org/abs/2410.03605](http://arxiv.org/abs/2410.03605)
+- 2024-10-04, **How Discrete and Continuous Diffusion Meet: Comprehensive Analysis of Discrete Diffusion Models via a Stochastic Integral Framework**, Yinuo Ren et.al., Paper: [http://arxiv.org/abs/2410.03601](http://arxiv.org/abs/2410.03601)
+- 2024-10-04, **Free boundary problem governed by a non-linear diffusion-convection equation with Neumann condition**, Adriana C. Briozzo et.al., Paper: [http://arxiv.org/abs/2410.03564](http://arxiv.org/abs/2410.03564)
+- 2024-10-04, **Not All Diffusion Model Activations Have Been Evaluated as Discriminative Features**, Benyuan Meng et.al., Paper: [http://arxiv.org/abs/2410.03558](http://arxiv.org/abs/2410.03558), Code: **[https://github.com/darkbblue/generic-diffusion-feature](https://github.com/darkbblue/generic-diffusion-feature)**
+- 2024-10-04, **Seizure freedom after surgical resection of diffusion-weighted MRI abnormalities**, Jonathan Horsley et.al., Paper: [http://arxiv.org/abs/2410.03548](http://arxiv.org/abs/2410.03548)
+- 2024-10-04, **Generative Artificial Intelligence for Navigating Synthesizable Chemical Space**, Wenhao Gao et.al., Paper: [http://arxiv.org/abs/2410.03494](http://arxiv.org/abs/2410.03494), Code: **[https://github.com/wenhao-gao/synformer](https://github.com/wenhao-gao/synformer)**
 |**2024-10-03**|**Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models**|Zhengfeng Lai et.al.|[2410.02740](http://arxiv.org/abs/2410.02740)|null|
 |**2024-10-03**|**Discovery of three magnetic He-sdOs with SALT**|M. Dorsch et.al.|[2410.02737](http://arxiv.org/abs/2410.02737)|null|
 |**2024-10-03**|**NETS: A Non-Equilibrium Transport Sampler**|Michael S. Albergo et.al.|[2410.02711](http://arxiv.org/abs/2410.02711)|null|
@@ -477,20 +507,20 @@ layout: default
 |**2024-09-25**|**Decomposition of Friction Coefficients to Analyze Hydration Effects on a C $_{60}$(OH)$_{\rm n}$**|Tomoya Iwashita et.al.|[2409.17028](http://arxiv.org/abs/2409.17028)|null|
 |**2024-09-25**|**Single Image, Any Face: Generalisable 3D Face Generation**|Wenqing Wang et.al.|[2409.16990](http://arxiv.org/abs/2409.16990)|null|
 
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
 
 ## Gaussian Splatting
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-03**|**Flash-Splat: 3D Reflection Removal with Flash Cues and Gaussian Splats**|Mingyang Xie et.al.|[2410.02764](http://arxiv.org/abs/2410.02764)|null|
-|**2024-10-03**|**GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering**|Hongze Chen et.al.|[2410.02619](http://arxiv.org/abs/2410.02619)|null|
-|**2024-10-03**|**SuperGS: Super-Resolution 3D Gaussian Splatting via Latent Feature Field and Gradient-guided Splitting**|Shiyun Xie et.al.|[2410.02571](http://arxiv.org/abs/2410.02571)|null|
-|**2024-10-02**|**MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**|Xiaobiao Du et.al.|[2410.02103](http://arxiv.org/abs/2410.02103)|null|
-|**2024-10-03**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804](http://arxiv.org/abs/2410.01804)|null|
-|**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647](http://arxiv.org/abs/2410.01647)|**[link](https://github.com/yangcaoai/3dgs-det)**|
-|**2024-10-02**|**Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization**|Zihan Wang et.al.|[2410.01614](http://arxiv.org/abs/2410.01614)|null|
-|**2024-10-02**|**GaussianBlock: Building Part-Aware Compositional and Editable 3D Scene by Primitives and Gaussians**|Shuyi Jiang et.al.|[2410.01535](http://arxiv.org/abs/2410.01535)|null|
-|**2024-10-02**|**MiraGe: Editable 2D Images using Gaussian Splatting**|Joanna Waczyńska et.al.|[2410.01521](http://arxiv.org/abs/2410.01521)|**[link](https://github.com/waczjoan/mirage)**|
+- 2024-10-04, **Variational Bayes Gaussian Splatting**, Toon Van de Maele et.al., Paper: [http://arxiv.org/abs/2410.03592](http://arxiv.org/abs/2410.03592), Code: **[https://github.com/versestech/vbgs](https://github.com/versestech/vbgs)**
+- 2024-10-03, **Flash-Splat: 3D Reflection Removal with Flash Cues and Gaussian Splats**, Mingyang Xie et.al., Paper: [http://arxiv.org/abs/2410.02764](http://arxiv.org/abs/2410.02764)
+- 2024-10-03, **GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering**, Hongze Chen et.al., Paper: [http://arxiv.org/abs/2410.02619](http://arxiv.org/abs/2410.02619)
+- 2024-10-03, **SuperGS: Super-Resolution 3D Gaussian Splatting via Latent Feature Field and Gradient-guided Splitting**, Shiyun Xie et.al., Paper: [http://arxiv.org/abs/2410.02571](http://arxiv.org/abs/2410.02571)
+- 2024-10-02, **MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**, Xiaobiao Du et.al., Paper: [http://arxiv.org/abs/2410.02103](http://arxiv.org/abs/2410.02103)
+- 2024-10-03, **EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**, Alexander Mai et.al., Paper: [http://arxiv.org/abs/2410.01804](http://arxiv.org/abs/2410.01804)
+- 2024-10-02, **3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**, Yang Cao et.al., Paper: [http://arxiv.org/abs/2410.01647](http://arxiv.org/abs/2410.01647), Code: **[https://github.com/yangcaoai/3dgs-det](https://github.com/yangcaoai/3dgs-det)**
+- 2024-10-02, **Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization**, Zihan Wang et.al., Paper: [http://arxiv.org/abs/2410.01614](http://arxiv.org/abs/2410.01614)
+- 2024-10-02, **GaussianBlock: Building Part-Aware Compositional and Editable 3D Scene by Primitives and Gaussians**, Shuyi Jiang et.al., Paper: [http://arxiv.org/abs/2410.01535](http://arxiv.org/abs/2410.01535)
+- 2024-10-02, **MiraGe: Editable 2D Images using Gaussian Splatting**, Joanna Waczyńska et.al., Paper: [http://arxiv.org/abs/2410.01521](http://arxiv.org/abs/2410.01521), Code: **[https://github.com/waczjoan/mirage](https://github.com/waczjoan/mirage)**
 |**2024-10-02**|**UW-GS: Distractor-Aware 3D Gaussian Splatting for Enhanced Underwater Scene Reconstruction**|Haoran Wang et.al.|[2410.01517](http://arxiv.org/abs/2410.01517)|null|
 |**2024-10-02**|**EVA-Gaussian: 3D Gaussian-based Real-time Human Novel View Synthesis under Diverse Camera Settings**|Yingdong Hu et.al.|[2410.01425](http://arxiv.org/abs/2410.01425)|null|
 |**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404](http://arxiv.org/abs/2410.01404)|null|
@@ -520,18 +550,20 @@ layout: default
 |**2024-09-23**|**Human Hair Reconstruction with Strand-Aligned 3D Gaussians**|Egor Zakharov et.al.|[2409.14778](http://arxiv.org/abs/2409.14778)|null|
 |**2024-09-22**|**MVPGS: Excavating Multi-view Priors for Gaussian Splatting from Sparse Input Views**|Wangze Xu et.al.|[2409.14316](http://arxiv.org/abs/2409.14316)|null|
 
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
+
 ## NeRF
 
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-02**|**MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**|Xiaobiao Du et.al.|[2410.02103](http://arxiv.org/abs/2410.02103)|null|
-|**2024-10-03**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804](http://arxiv.org/abs/2410.01804)|null|
-|**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647](http://arxiv.org/abs/2410.01647)|**[link](https://github.com/yangcaoai/3dgs-det)**|
-|**2024-10-02**|**Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization**|Zihan Wang et.al.|[2410.01614](http://arxiv.org/abs/2410.01614)|null|
-|**2024-10-02**|**GaussianBlock: Building Part-Aware Compositional and Editable 3D Scene by Primitives and Gaussians**|Shuyi Jiang et.al.|[2410.01535](http://arxiv.org/abs/2410.01535)|null|
-|**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404](http://arxiv.org/abs/2410.01404)|null|
-|**2024-10-02**|**AniSDF: Fused-Granularity Neural Surfaces with Anisotropic Encoding for High-Fidelity 3D Reconstruction**|Jingnan Gao et.al.|[2410.01202](http://arxiv.org/abs/2410.01202)|null|
-|**2024-10-01**|**GMT: Enhancing Generalizable Neural Rendering via Geometry-Driven Multi-Reference Texture Transfer**|Youngho Yoon et.al.|[2410.00672](http://arxiv.org/abs/2410.00672)|**[link](https://github.com/yh-yoon/gmt)**|
+- 2024-10-04, **Shrinking: Reconstruction of Parameterized Surfaces from Signed Distance Fields**, Haotian Yin et.al., Paper: [http://arxiv.org/abs/2410.03123](http://arxiv.org/abs/2410.03123)
+- 2024-10-04, **Partial-to-Full Registration based on Gradient-SDF for Computer-Assisted Orthopedic Surgery**, Tiancheng Li et.al., Paper: [http://arxiv.org/abs/2410.03078](http://arxiv.org/abs/2410.03078)
+- 2024-10-02, **MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**, Xiaobiao Du et.al., Paper: [http://arxiv.org/abs/2410.02103](http://arxiv.org/abs/2410.02103)
+- 2024-10-03, **EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**, Alexander Mai et.al., Paper: [http://arxiv.org/abs/2410.01804](http://arxiv.org/abs/2410.01804)
+- 2024-10-02, **3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**, Yang Cao et.al., Paper: [http://arxiv.org/abs/2410.01647](http://arxiv.org/abs/2410.01647), Code: **[https://github.com/yangcaoai/3dgs-det](https://github.com/yangcaoai/3dgs-det)**
+- 2024-10-02, **Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization**, Zihan Wang et.al., Paper: [http://arxiv.org/abs/2410.01614](http://arxiv.org/abs/2410.01614)
+- 2024-10-02, **GaussianBlock: Building Part-Aware Compositional and Editable 3D Scene by Primitives and Gaussians**, Shuyi Jiang et.al., Paper: [http://arxiv.org/abs/2410.01535](http://arxiv.org/abs/2410.01535)
+- 2024-10-02, **Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**, Hongru Yan et.al., Paper: [http://arxiv.org/abs/2410.01404](http://arxiv.org/abs/2410.01404)
+- 2024-10-02, **AniSDF: Fused-Granularity Neural Surfaces with Anisotropic Encoding for High-Fidelity 3D Reconstruction**, Jingnan Gao et.al., Paper: [http://arxiv.org/abs/2410.01202](http://arxiv.org/abs/2410.01202)
+- 2024-10-01, **GMT: Enhancing Generalizable Neural Rendering via Geometry-Driven Multi-Reference Texture Transfer**, Youngho Yoon et.al., Paper: [http://arxiv.org/abs/2410.00672](http://arxiv.org/abs/2410.00672), Code: **[https://github.com/yh-yoon/gmt](https://github.com/yh-yoon/gmt)**
 |**2024-10-01**|**Cafca: High-quality Novel View Synthesis of Expressive Faces from Casual Few-shot Captures**|Marcel C. Bühler et.al.|[2410.00630](http://arxiv.org/abs/2410.00630)|null|
 |**2024-10-01**|**Seamless Augmented Reality Integration in Arthroscopy: A Pipeline for Articular Reconstruction and Guidance**|Hongchao Shu et.al.|[2410.00386](http://arxiv.org/abs/2410.00386)|null|
 |**2024-09-30**|**Distributed NeRF Learning for Collaborative Multi-Robot Perception**|Hongrui Zhao et.al.|[2409.20289](http://arxiv.org/abs/2409.20289)|null|
@@ -1821,3 +1853,6 @@ layout: default
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741](http://arxiv.org/abs/2207.14741)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
+
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
+
