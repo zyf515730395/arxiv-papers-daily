@@ -53,7 +53,7 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Github Action Automatic Update Arxiv Papers"
-          files: README.md docs/arxiv-papers-daily.json docs/arxiv-papers-daily-web.json docs/gitpage.md docs/arxiv-papers-daily-wechat.json docs/wechat.md
+          files: README.md docs/arxiv-papers-daily.json docs/arxiv-papers-daily-web.json docs/index.md docs/arxiv-papers-daily-wechat.json docs/wechat.md
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}

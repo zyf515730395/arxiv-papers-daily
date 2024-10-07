@@ -17,7 +17,7 @@ json_gitpage_path: './docs/arxiv-papers-daily-web.json'
 json_wechat_path: './docs/arxiv-papers-daily-wechat.json'
 
 md_readme_path: 'README.md'
-md_gitpage_path: './docs/gitpage.md'
+md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
 # keywords to search
