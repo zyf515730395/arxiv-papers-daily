@@ -1,5 +1,5 @@
 
-## Intro
+# Arxiv Papers Daily
 
 This repository hosts the source code for arxiv-papers-daily, an useful sripts to fetch arxiv paper daily. 
 
