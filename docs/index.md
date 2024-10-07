@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.06
+## Updated on 2024.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2332,7 +2332,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-02**|**MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**|Xiaobiao Du et.al.|[2410.02103](http://arxiv.org/abs/2410.02103)|null|
-|**2024-10-02**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804](http://arxiv.org/abs/2410.01804)|null|
+|**2024-10-03**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804](http://arxiv.org/abs/2410.01804)|null|
 |**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647](http://arxiv.org/abs/2410.01647)|**[link](https://github.com/yangcaoai/3dgs-det)**|
 |**2024-10-02**|**Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization**|Zihan Wang et.al.|[2410.01614](http://arxiv.org/abs/2410.01614)|null|
 |**2024-10-02**|**GaussianBlock: Building Part-Aware Compositional and Editable 3D Scene by Primitives and Gaussians**|Shuyi Jiang et.al.|[2410.01535](http://arxiv.org/abs/2410.01535)|null|
@@ -3711,7 +3711,7 @@ layout: default
 |**2024-10-03**|**Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models**|Zhengfeng Lai et.al.|[2410.02740](http://arxiv.org/abs/2410.02740)|null|
 |**2024-10-03**|**DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**|Zhaowei Wang et.al.|[2410.02730](http://arxiv.org/abs/2410.02730)|null|
 |**2024-10-03**|**Unified Multi-Modal Interleaved Document Representation for Information Retrieval**|Jaewoo Lee et.al.|[2410.02729](http://arxiv.org/abs/2410.02729)|null|
-|**2024-10-03**|**Video Instruction Tuning With Synthetic Data**|Yuanhan Zhang et.al.|[2410.02713](http://arxiv.org/abs/2410.02713)|null|
+|**2024-10-04**|**Video Instruction Tuning With Synthetic Data**|Yuanhan Zhang et.al.|[2410.02713](http://arxiv.org/abs/2410.02713)|null|
 |**2024-10-03**|**LLaVA-Critic: Learning to Evaluate Multimodal Models**|Tianyi Xiong et.al.|[2410.02712](http://arxiv.org/abs/2410.02712)|null|
 |**2024-10-03**|**Understanding and Mitigating Miscalibration in Prompt Tuning for Vision-Language Models**|Shuoyuan Wang et.al.|[2410.02681](http://arxiv.org/abs/2410.02681)|null|
 |**2024-10-03**|**Plots Unlock Time-Series Understanding in Multimodal Models**|Mayank Daswani et.al.|[2410.02637](http://arxiv.org/abs/2410.02637)|null|
@@ -3835,7 +3835,7 @@ layout: default
 |**2024-10-03**|**GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering**|Hongze Chen et.al.|[2410.02619](http://arxiv.org/abs/2410.02619)|null|
 |**2024-10-03**|**SuperGS: Super-Resolution 3D Gaussian Splatting via Latent Feature Field and Gradient-guided Splitting**|Shiyun Xie et.al.|[2410.02571](http://arxiv.org/abs/2410.02571)|null|
 |**2024-10-02**|**MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**|Xiaobiao Du et.al.|[2410.02103](http://arxiv.org/abs/2410.02103)|null|
-|**2024-10-02**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804](http://arxiv.org/abs/2410.01804)|null|
+|**2024-10-03**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804](http://arxiv.org/abs/2410.01804)|null|
 |**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647](http://arxiv.org/abs/2410.01647)|**[link](https://github.com/yangcaoai/3dgs-det)**|
 |**2024-10-02**|**Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization**|Zihan Wang et.al.|[2410.01614](http://arxiv.org/abs/2410.01614)|null|
 |**2024-10-02**|**GaussianBlock: Building Part-Aware Compositional and Editable 3D Scene by Primitives and Gaussians**|Shuyi Jiang et.al.|[2410.01535](http://arxiv.org/abs/2410.01535)|null|
