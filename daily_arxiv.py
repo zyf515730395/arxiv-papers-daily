@@ -300,7 +300,7 @@ def json_to_md(filename,md_filename,
         elif use_title == 'gitpage':
             f.write("* toc \n")
             f.write("{:toc} \n")
-            f.write("# Intro \n")
+            f.write("## Intro \n")
             f.write("Updated on " + DateNow + "\n")
         else:
             f.write("> Updated on " + DateNow + "\n")
