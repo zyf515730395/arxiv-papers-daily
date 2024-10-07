@@ -3,6 +3,20 @@ layout: default
 ---
 
 ## Updated on 2024.10.07
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href=#depth-estimation>Depth Estimation</a></li>
+    <li><a href=#image-matching>Image Matching</a></li>
+    <li><a href=#gesture-recognition>Gesture Recognition</a></li>
+    <li><a href=#eye-tracking>Eye Tracking</a></li>
+    <li><a href=#embodied-ai>Embodied AI</a></li>
+    <li><a href=#diffusion>Diffusion</a></li>
+    <li><a href=#gaussian-splatting>Gaussian Splatting</a></li>
+    <li><a href=#nerf>NeRF</a></li>
+  </ol>
+</details>
+
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
