@@ -1,36 +1,36 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Vincentqyw"
-repo_name: "cv-arxiv-daily"
+user_name: "Zhang Yufan"
+repo_name: "arxiv-papers-daily"
 show_authors: True
 show_links: True
-show_badge: True
+show_badge: False
 max_results: 10
 
 publish_readme: True
 publish_gitpage: True
-publish_wechat: False
+publish_wechat: True
 
 # file paths
-json_readme_path: './docs/cv-arxiv-daily.json'
-json_gitpage_path: './docs/cv-arxiv-daily-web.json'
-json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
+json_readme_path: './docs/arxiv-papers-daily.json'
+json_gitpage_path: './docs/arxiv-papers-daily-web.json'
+json_wechat_path: './docs/arxiv-papers-daily-wechat.json'
 
 md_readme_path: 'README.md'
-md_gitpage_path: './docs/index.md'
+md_gitpage_path: './docs/gitpage.md'
 md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
     "Depth Estimation":
         filters: ["Depth Estimation", "Monocular Depth Estimation", "Stereo Matching", "Multi-View Stereo"]
-    "Eye Tracking":
-        filters: ["Eye Tracking", "Gaze Estimation"]
-    "Gesture Recognition":
-        filters: ["Gesture Recognition", "Hand Tracking", "Gesture Classification"]
     "Image Matching":
         filters: ["Keypoint Detection", "Feature Descriptor", "Image Matching", "Keypoint Matching", 
                   "Line Segment Detection", "Local Feature Matching"]
+    "Gesture Recognition":
+        filters: ["Gesture Recognition", "Hand Tracking", "Gesture Classification"]
+    "Eye Tracking":
+        filters: ["Eye Tracking", "Gaze Estimation"]
     "Embodied AI":
         filters: [
             "Multimodal Models", "Multi-Modal Large Language Model", "Embodied Perception", 
@@ -38,7 +38,7 @@ keywords:
         ]
     "Diffusion":
         filters: ["Diffusion", "Diffusion Models", "Text to 3D", "Image to 3D"]
-    "NeRF":
-        filters: ["NeRF", "Neural Radiance Fields", "SDF", "Signed Distance Funciton"]
     "Gaussian Splatting":
         filters: ["Gaussian Splatting", "3D Gaussian Splatting", "3D GS"]
+    "NeRF":
+        filters: ["NeRF", "Neural Radiance Fields", "SDF", "Signed Distance Funciton"]

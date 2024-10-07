@@ -294,8 +294,8 @@ def json_to_md(filename,md_filename,
             f.write(f"[![Issues][issues-shield]][issues-url]\n\n")
 
         if use_title == True:
-            #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
-            #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
+            #f.write(("<p align="center"><h1 align="center"><br><ins>ARXIV-PAPERS-DAILY"
+            #         "</ins><br>Automatically Update Arxiv Papers Daily</h1></p>\n"))
             f.write("## Updated on " + DateNow + "\n")
         else:
             f.write("> Updated on " + DateNow + "\n")
