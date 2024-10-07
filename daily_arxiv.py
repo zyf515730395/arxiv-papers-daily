@@ -243,7 +243,7 @@ def update_json_file(filename,data_dict):
 def json_to_md(filename,md_filename,
                task = '',
                to_web = False,
-               use_title = True,
+               use_title = 'github',
                use_tc = True,
                show_badge = True,
                use_b2t = True):
@@ -284,7 +284,7 @@ def json_to_md(filename,md_filename,
     # write data into README.md
     with open(md_filename,"a+") as f:
 
-        if (use_title == True) and (to_web == True):
+        if (use_title == 'github' or use_title == 'gitpage') and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
 
         if show_badge == True:
@@ -293,10 +293,15 @@ def json_to_md(filename,md_filename,
             f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
             f.write(f"[![Issues][issues-shield]][issues-url]\n\n")
 
-        if use_title == True:
+        if use_title == 'github':
             #f.write(("<p align="center"><h1 align="center"><br><ins>ARXIV-PAPERS-DAILY"
             #         "</ins><br>Automatically Update Arxiv Papers Daily</h1></p>\n"))
             f.write("## Updated on " + DateNow + "\n")
+        elif use_title == 'gitpage':
+            f.write("* toc \n")
+            f.write("{:toc} \n")
+            f.write("# Papers \n")
+            f.write("Updated on " + DateNow + "\n")
         else:
             f.write("> Updated on " + DateNow + "\n")
 
@@ -324,7 +329,7 @@ def json_to_md(filename,md_filename,
             # the head of each part
             f.write(f"## {keyword}\n\n")
 
-            if use_title == True :
+            if use_title != 'wechat' :
                 if to_web == False:
                     f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
                 else:
@@ -416,7 +421,7 @@ def demo(**config):
         else:
             update_json_file(json_file,data_collector)
         json_to_md(json_file, md_file, task ='Update GitPage', \
-            to_web = True, show_badge = show_badge, \
+            to_web = True, use_title= 'gitpage', show_badge = show_badge, \
             use_tc=False, use_b2t=False)
 
     # 3. Update docs/wechat.md file
@@ -429,7 +434,7 @@ def demo(**config):
         else:
             update_json_file(json_file, data_collector_web)
         json_to_md(json_file, md_file, task ='Update Wechat', \
-            to_web=False, use_title= False, show_badge = show_badge)
+            to_web=False, use_title= 'wechat', show_badge = show_badge)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
