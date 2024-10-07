@@ -1,5 +1,5 @@
 title: Arxiv Papers Daily
-description: Automatically Update Arxiv Papers Daily using Github Actions
+description: Update Arxiv Papers Daily using Github Actions
 show_downloads: true
 
 github:
@@ -12,10 +12,10 @@ remote_theme: jekyll/minima@v2.5.1
 # minima:
 skin: dark
 social_links:
-  twitter: AlphaRealcat
-  github: vincentqyw
+  github: zyf515730395
 
 plugins:
  - jekyll-remote-theme # add this line to the plugins list if you already have one
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-toc
