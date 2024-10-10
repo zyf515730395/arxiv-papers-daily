@@ -15,6 +15,11 @@
 
 ## Depth Estimation
 
+- 2024-10-09, **Structure-Centric Robust Monocular Depth Estimation via Knowledge Distillation**, Runze Chen et.al., Paper: [http://arxiv.org/abs/2410.06982](http://arxiv.org/abs/2410.06982)
+- 2024-10-09, **Analysis of different disparity estimation techniques on aerial stereo image datasets**, Ishan Narayan et.al., Paper: [http://arxiv.org/abs/2410.06711](http://arxiv.org/abs/2410.06711)
+- 2024-10-09, **The Sampling-Gaussian for stereo matching**, Baiyu Pan et.al., Paper: [http://arxiv.org/abs/2410.06527](http://arxiv.org/abs/2410.06527)
+- 2024-10-08, **Vision Transformer based Random Walk for Group Re-Identification**, Guoqing Zhang et.al., Paper: [http://arxiv.org/abs/2410.05808](http://arxiv.org/abs/2410.05808)
+- 2024-10-08, **CUBE360: Learning Cubic Field Representation for Monocular 360 Depth Estimation for Virtual Reality**, Wenjie Chang et.al., Paper: [http://arxiv.org/abs/2410.05735](http://arxiv.org/abs/2410.05735)
 - 2024-10-07, **PhotoReg: Photometrically Registering 3D Gaussian Splatting Models**, Ziwen Yuan et.al., Paper: [http://arxiv.org/abs/2410.05044](http://arxiv.org/abs/2410.05044)
 - 2024-10-05, **Hybrid NeRF-Stereo Vision: Pioneering Depth Estimation and 3D Reconstruction in Endoscopy**, Pengcheng Chen et.al., Paper: [http://arxiv.org/abs/2410.04041](http://arxiv.org/abs/2410.04041)
 - 2024-10-04, **Refinement of Monocular Depth Maps via Multi-View Differentiable Rendering**, Laura Fink et.al., Paper: [http://arxiv.org/abs/2410.03861](http://arxiv.org/abs/2410.03861)
@@ -52,6 +57,8 @@
 
 ## Image Matching
 
+- 2024-10-08, **Unsupervised Model Diagnosis**, Yinong Oliver Wang et.al., Paper: [http://arxiv.org/abs/2410.06243](http://arxiv.org/abs/2410.06243)
+- 2024-10-08, **Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud Registration**, Xueyang Kang et.al., Paper: [http://arxiv.org/abs/2410.05729](http://arxiv.org/abs/2410.05729), Code: **[https://github.com/alexandor91/se3-equi-graph-registration](https://github.com/alexandor91/se3-equi-graph-registration)**
 - 2024-10-03, **Key-Grid: Unsupervised 3D Keypoints Detection using Grid Heatmap Features**, Chengkai Hou et.al., Paper: [http://arxiv.org/abs/2410.02237](http://arxiv.org/abs/2410.02237)
 - 2024-10-02, **Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**, Hongru Yan et.al., Paper: [http://arxiv.org/abs/2410.01404](http://arxiv.org/abs/2410.01404)
 - 2024-09-30, **OpenKD: Opening Prompt Diversity for Zero- and Few-shot Keypoint Detection**, Changsheng Lu et.al., Paper: [http://arxiv.org/abs/2409.19899](http://arxiv.org/abs/2409.19899)
@@ -326,6 +333,7 @@
 
 ## Gesture Recognition
 
+- 2024-10-08, **TouchInsight: Uncertainty-aware Rapid Touch and Text Input for Mixed Reality from Egocentric Vision**, Paul Streli et.al., Paper: [http://arxiv.org/abs/2410.05940](http://arxiv.org/abs/2410.05940)
 - 2024-10-07, **Exploring Gestural Interaction with a Cushion Interface for Smart Home Control**, Yuri Suzuki et.al., Paper: [http://arxiv.org/abs/2410.04730](http://arxiv.org/abs/2410.04730)
 - 2024-09-17, **Complex-valued convolutional neural network classification of hand gesture from radar images**, Shokooh Khandan et.al., Paper: [http://arxiv.org/abs/2410.02771](http://arxiv.org/abs/2410.02771)
 - 2024-10-03, **An Evaluation of Large Pre-Trained Models for Gesture Recognition using Synthetic Videos**, Arun Reddy et.al., Paper: [http://arxiv.org/abs/2410.02152](http://arxiv.org/abs/2410.02152)
@@ -347,6 +355,7 @@
 
 ## Eye Tracking
 
+- 2024-10-08, **Towards Unsupervised Eye-Region Segmentation for Eye Tracking**, Jiangfan Deng et.al., Paper: [http://arxiv.org/abs/2410.06131](http://arxiv.org/abs/2410.06131)
 - 2024-10-05, **Assessing the Impact of Disorganized Background Noise on Timed Stress Task Performance Through Attention Using Machine-Learning Based Eye-Tracking Techniques**, Hubert Huang et.al., Paper: [http://arxiv.org/abs/2410.04208](http://arxiv.org/abs/2410.04208)
 - 2024-10-05, **The Impact of Surface Co-location and Eye-tracking on Mixed Reality Typing**, Cecilia Schmitz et.al., Paper: [http://arxiv.org/abs/2410.04177](http://arxiv.org/abs/2410.04177)
 - 2024-10-02, **Seeing Eye to AI: Human Alignment via Gaze-Based Response Rewards for Large Language Models**, Angela Lopez-Cardona et.al., Paper: [http://arxiv.org/abs/2410.01532](http://arxiv.org/abs/2410.01532)
@@ -370,6 +379,16 @@
 
 ## Embodied AI
 
+- 2024-10-09, **Deciphering Cross-Modal Alignment in Large Vision-Language Models with Modality Integration Rate**, Qidong Huang et.al., Paper: [http://arxiv.org/abs/2410.07167](http://arxiv.org/abs/2410.07167), Code: **[https://github.com/shikiw/modality-integration-rate](https://github.com/shikiw/modality-integration-rate)**
+- 2024-10-09, **Towards Interpreting Visual Information Processing in Vision-Language Models**, Clement Neo et.al., Paper: [http://arxiv.org/abs/2410.07149](http://arxiv.org/abs/2410.07149)
+- 2024-10-09, **EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models**, Rui Zhao et.al., Paper: [http://arxiv.org/abs/2410.07133](http://arxiv.org/abs/2410.07133), Code: **[https://github.com/showlab/evolvedirector](https://github.com/showlab/evolvedirector)**
+- 2024-10-09, **VHELM: A Holistic Evaluation of Vision Language Models**, Tony Lee et.al., Paper: [http://arxiv.org/abs/2410.07112](http://arxiv.org/abs/2410.07112)
+- 2024-10-09, **Pixtral 12B**, Pravesh Agrawal et.al., Paper: [http://arxiv.org/abs/2410.07073](http://arxiv.org/abs/2410.07073), Code: **[https://github.com/mistralai/mistral-inference](https://github.com/mistralai/mistral-inference)**
+- 2024-10-09, **Clean Evaluations on Contaminated Visual Language Models**, Hongyuan Lu et.al., Paper: [http://arxiv.org/abs/2410.07030](http://arxiv.org/abs/2410.07030)
+- 2024-10-09, **Preference Fine-Tuning for Factuality in Chest X-Ray Interpretation Models Without Human Feedback**, Dennis Hein et.al., Paper: [http://arxiv.org/abs/2410.07025](http://arxiv.org/abs/2410.07025)
+- 2024-10-09, **$\texttt{ModSCAN}$ : Measuring Stereotypical Bias in Large Vision-Language Models from Vision and Language Modalities**, Yukun Jiang et.al., Paper: [http://arxiv.org/abs/2410.06967](http://arxiv.org/abs/2410.06967)
+- 2024-10-09, **Compositional Entailment Learning for Hyperbolic Vision-Language Models**, Avik Pal et.al., Paper: [http://arxiv.org/abs/2410.06912](http://arxiv.org/abs/2410.06912)
+- 2024-10-09, **From Pixels to Tokens: Revisiting Object Hallucinations in Large Vision-Language Models**, Yuying Shang et.al., Paper: [http://arxiv.org/abs/2410.06795](http://arxiv.org/abs/2410.06795)
 - 2024-10-07, **Fine-Tuning CLIP's Last Visual Projector: A Few-Shot Cornucopia**, Mohammad Fahes et.al., Paper: [http://arxiv.org/abs/2410.05270](http://arxiv.org/abs/2410.05270), Code: **[https://github.com/astra-vision/prolip](https://github.com/astra-vision/prolip)**
 - 2024-10-07, **TextHawk2: A Large Vision-Language Model Excels in Bilingual OCR and Grounding with 16x Fewer Tokens**, Ya-Qi Yu et.al., Paper: [http://arxiv.org/abs/2410.05261](http://arxiv.org/abs/2410.05261)
 - 2024-10-08, **TuneVLSeg: Prompt Tuning Benchmark for Vision-Language Segmentation Models**, Rabin Adhikari et.al., Paper: [http://arxiv.org/abs/2410.05239](http://arxiv.org/abs/2410.05239), Code: **[https://github.com/naamiinepal/tunevlseg](https://github.com/naamiinepal/tunevlseg)**
@@ -450,6 +469,16 @@
 
 ## Diffusion
 
+- 2024-10-09, **Simulating realistic self-interacting dark matter models including small and large-angle scattering**, Cenanda Arido et.al., Paper: [http://arxiv.org/abs/2410.07175](http://arxiv.org/abs/2410.07175)
+- 2024-10-09, **IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation**, Xinchen Zhang et.al., Paper: [http://arxiv.org/abs/2410.07171](http://arxiv.org/abs/2410.07171), Code: **[https://github.com/yangling0818/itercomp](https://github.com/yangling0818/itercomp)**
+- 2024-10-09, **AvatarGO: Zero-shot 4D Human-Object Interaction Generation and Animation**, Yukang Cao et.al., Paper: [http://arxiv.org/abs/2410.07164](http://arxiv.org/abs/2410.07164)
+- 2024-10-09, **InstructG2I: Synthesizing Images from Multimodal Attributed Graphs**, Bowen Jin et.al., Paper: [http://arxiv.org/abs/2410.07157](http://arxiv.org/abs/2410.07157)
+- 2024-10-09, **Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis**, Bohan Zeng et.al., Paper: [http://arxiv.org/abs/2410.07155](http://arxiv.org/abs/2410.07155), Code: **[https://github.com/yangling0818/trans4d](https://github.com/yangling0818/trans4d)**
+- 2024-10-09, **Measuring Minority Carrier Diffusion Length Using High-Injection Scanning Photocurrent Microscopy**, Xiujun Lian et.al., Paper: [http://arxiv.org/abs/2410.07089](http://arxiv.org/abs/2410.07089)
+- 2024-10-09, **FlowBotHD: History-Aware Diffuser Handling Ambiguities in Articulated Objects Manipulation**, Yishu Li et.al., Paper: [http://arxiv.org/abs/2410.07078](http://arxiv.org/abs/2410.07078)
+- 2024-10-09, **A short proof of diffusivity for the directed polymers in the weak disorder phase**, Hubert Lacoin et.al., Paper: [http://arxiv.org/abs/2410.07068](http://arxiv.org/abs/2410.07068)
+- 2024-10-09, **Active fluids form system-spanning filamentary networks**, Paarth Gulati et.al., Paper: [http://arxiv.org/abs/2410.07058](http://arxiv.org/abs/2410.07058)
+- 2024-10-09, **Transients by Black Hole Formation from Red Supergiants: Impact of Dense Circumstellar Matter**, Daichi Tsuna et.al., Paper: [http://arxiv.org/abs/2410.07055](http://arxiv.org/abs/2410.07055)
 - 2024-10-07, **DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control**, Kaifeng Zhao et.al., Paper: [http://arxiv.org/abs/2410.05260](http://arxiv.org/abs/2410.05260)
 - 2024-10-07, **GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**, Yukang Cao et.al., Paper: [http://arxiv.org/abs/2410.05259](http://arxiv.org/abs/2410.05259)
 - 2024-10-07, **SePPO: Semi-Policy Preference Optimization for Diffusion Alignment**, Daoan Zhang et.al., Paper: [http://arxiv.org/abs/2410.05255](http://arxiv.org/abs/2410.05255), Code: **[https://github.com/dwanzhang-ai/seppo](https://github.com/dwanzhang-ai/seppo)**
@@ -535,6 +564,15 @@
 
 ## Gaussian Splatting
 
+- 2024-10-09, **DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation**, Zhiqi Li et.al., Paper: [http://arxiv.org/abs/2410.06756](http://arxiv.org/abs/2410.06756)
+- 2024-10-09, **ES-Gaussian: Gaussian Splatting Mapping via Error Space-Based Gaussian Completion**, Lu Chen et.al., Paper: [http://arxiv.org/abs/2410.06613](http://arxiv.org/abs/2410.06613)
+- 2024-10-09, **3D Representation Methods: A Survey**, Zhengren Wang et.al., Paper: [http://arxiv.org/abs/2410.06475](http://arxiv.org/abs/2410.06475)
+- 2024-10-08, **HiSplat: Hierarchical 3D Gaussian Splatting for Generalizable Sparse-View Reconstruction**, Shengji Tang et.al., Paper: [http://arxiv.org/abs/2410.06245](http://arxiv.org/abs/2410.06245)
+- 2024-10-08, **RelitLRM: Generative Relightable Radiance for Large Reconstruction Models**, Tianyuan Zhang et.al., Paper: [http://arxiv.org/abs/2410.06231](http://arxiv.org/abs/2410.06231)
+- 2024-10-08, **GSLoc: Visual Localization with 3D Gaussian Splatting**, Kazii Botashev et.al., Paper: [http://arxiv.org/abs/2410.06165](http://arxiv.org/abs/2410.06165)
+- 2024-10-08, **SplaTraj: Camera Trajectory Generation with Semantic Gaussian Splatting**, Xinyi Liu et.al., Paper: [http://arxiv.org/abs/2410.06014](http://arxiv.org/abs/2410.06014)
+- 2024-10-08, **Comparative Analysis of Novel View Synthesis and Photogrammetry for 3D Forest Stand Reconstruction and extraction of individual tree parameters**, Guoji Tian et.al., Paper: [http://arxiv.org/abs/2410.05772](http://arxiv.org/abs/2410.05772)
+- 2024-10-07, **PH-Dropout: Prctical Epistemic Uncertainty Quantification for View Synthesis**, Chuanhao Sun et.al., Paper: [http://arxiv.org/abs/2410.05468](http://arxiv.org/abs/2410.05468)
 - 2024-10-07, **GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**, Yukang Cao et.al., Paper: [http://arxiv.org/abs/2410.05259](http://arxiv.org/abs/2410.05259)
 - 2024-10-07, **LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting**, Qifeng Chen et.al., Paper: [http://arxiv.org/abs/2410.05111](http://arxiv.org/abs/2410.05111)
 - 2024-10-07, **DreamSat: Towards a General 3D Model for Novel View Synthesis of Space Objects**, Nidhi Mathihalli et.al., Paper: [http://arxiv.org/abs/2410.05097](http://arxiv.org/abs/2410.05097), Code: **[https://github.com/arclab-mit/space-nvs](https://github.com/arclab-mit/space-nvs)**
@@ -586,6 +624,13 @@
 
 ## NeRF
 
+- 2024-10-09, **DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation**, Zhiqi Li et.al., Paper: [http://arxiv.org/abs/2410.06756](http://arxiv.org/abs/2410.06756)
+- 2024-10-09, **MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes**, Zhenhui Ye et.al., Paper: [http://arxiv.org/abs/2410.06734](http://arxiv.org/abs/2410.06734)
+- 2024-10-09, **3D Representation Methods: A Survey**, Zhengren Wang et.al., Paper: [http://arxiv.org/abs/2410.06475](http://arxiv.org/abs/2410.06475)
+- 2024-10-08, **Comparative Analysis of Novel View Synthesis and Photogrammetry for 3D Forest Stand Reconstruction and extraction of individual tree parameters**, Guoji Tian et.al., Paper: [http://arxiv.org/abs/2410.05772](http://arxiv.org/abs/2410.05772)
+- 2024-10-07, **VisDiff: SDF-Guided Polygon Generation for Visibility Reconstruction and Recognition**, Rahul Moorthy et.al., Paper: [http://arxiv.org/abs/2410.05530](http://arxiv.org/abs/2410.05530)
+- 2024-10-07, **Toward General Object-level Mapping from Sparse Views with 3D Diffusion Priors**, Ziwei Liao et.al., Paper: [http://arxiv.org/abs/2410.05514](http://arxiv.org/abs/2410.05514), Code: **[https://github.com/trailab/generalobjectmapping](https://github.com/trailab/generalobjectmapping)**
+- 2024-10-07, **PH-Dropout: Prctical Epistemic Uncertainty Quantification for View Synthesis**, Chuanhao Sun et.al., Paper: [http://arxiv.org/abs/2410.05468](http://arxiv.org/abs/2410.05468)
 - 2024-10-07, **LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting**, Qifeng Chen et.al., Paper: [http://arxiv.org/abs/2410.05111](http://arxiv.org/abs/2410.05111)
 - 2024-10-07, **6DGS: Enhanced Direction-Aware Gaussian Splatting for Volumetric Rendering**, Zhongpai Gao et.al., Paper: [http://arxiv.org/abs/2410.04974](http://arxiv.org/abs/2410.04974)
 - 2024-10-07, **TeX-NeRF: Neural Radiance Fields from Pseudo-TeX Vision**, Chonghao Zhong et.al., Paper: [http://arxiv.org/abs/2410.04873](http://arxiv.org/abs/2410.04873)
