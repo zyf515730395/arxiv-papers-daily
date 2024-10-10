@@ -1,4 +1,4 @@
-> Updated on 2024.10.09
+> Updated on 2024.10.10
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -48,7 +48,7 @@
 |**2024-09-23**|**GroCo: Ground Constraint for Metric Self-Supervised Monocular Depth**|Aurélien Cecille et.al.|[2409.14850](http://arxiv.org/abs/2409.14850)|null|
 |**2024-09-23**|**Robust and Flexible Omnidirectional Depth Estimation with Multiple 360° Cameras**|Ming Li et.al.|[2409.14766](http://arxiv.org/abs/2409.14766)|null|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 ## Image Matching
 
@@ -322,7 +322,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 ## Gesture Recognition
 
@@ -330,7 +330,7 @@
 - 2024-09-17, **Complex-valued convolutional neural network classification of hand gesture from radar images**, Shokooh Khandan et.al., Paper: [http://arxiv.org/abs/2410.02771](http://arxiv.org/abs/2410.02771)
 - 2024-10-03, **An Evaluation of Large Pre-Trained Models for Gesture Recognition using Synthetic Videos**, Arun Reddy et.al., Paper: [http://arxiv.org/abs/2410.02152](http://arxiv.org/abs/2410.02152)
 - 2024-09-16, **Impact of Electrode Position on Forearm Orientation Invariant Hand Gesture Recognition**, Md. Johirul Islam et.al., Paper: [http://arxiv.org/abs/2410.00029](http://arxiv.org/abs/2410.00029)
-- 2024-09-28, **Solution of Multiview Egocentric Hand Tracking Challenge ECCV2024**, Minqiang Zou et.al., Paper: [http://arxiv.org/abs/2409.19362](http://arxiv.org/abs/2409.19362)
+- 2024-10-08, **1st Place Solution of Multiview Egocentric Hand Tracking Challenge ECCV2024**, Minqiang Zou et.al., Paper: [http://arxiv.org/abs/2409.19362](http://arxiv.org/abs/2409.19362)
 - 2024-09-28, **Gesture Recognition for Feedback Based Mixed Reality and Robotic Fabrication: A Case Study of the UnLog Tower**, Alexander Htet Kyaw et.al., Paper: [http://arxiv.org/abs/2409.19281](http://arxiv.org/abs/2409.19281)
 - 2024-09-24, **Hand Gesture Classification Based on Forearm Ultrasound Video Snippets Using 3D Convolutional Neural Networks**, Keshav Bimbraw et.al., Paper: [http://arxiv.org/abs/2409.16431](http://arxiv.org/abs/2409.16431)
 - 2024-09-24, **Improving Intersession Reproducibility for Forearm Ultrasound based Hand Gesture Classification through an Incremental Learning Approach**, Keshav Bimbraw et.al., Paper: [http://arxiv.org/abs/2409.16415](http://arxiv.org/abs/2409.16415)
@@ -343,7 +343,7 @@
 |**2024-09-10**|**Advancements in Gesture Recognition Techniques and Machine Learning for Enhanced Human-Robot Interaction: A Comprehensive Review**|Sajjad Hussain et.al.|[2409.06503](http://arxiv.org/abs/2409.06503)|null|
 |**2024-09-05**|**MVTN: A Multiscale Video Transformer Network for Hand Gesture Recognition**|Mallika Garg et.al.|[2409.03890](http://arxiv.org/abs/2409.03890)|**[link](https://github.com/mallikagarg/mvtn)**|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 ## Eye Tracking
 
@@ -352,7 +352,7 @@
 - 2024-10-02, **Seeing Eye to AI: Human Alignment via Gaze-Based Response Rewards for Large Language Models**, Angela Lopez-Cardona et.al., Paper: [http://arxiv.org/abs/2410.01532](http://arxiv.org/abs/2410.01532)
 - 2024-09-27, **Gaze-informed Signatures of Trust and Collaboration in Human-Autonomy Teams**, Anthony J. Ries et.al., Paper: [http://arxiv.org/abs/2409.19139](http://arxiv.org/abs/2409.19139)
 - 2024-09-27, **EyeTrAES: Fine-grained, Low-Latency Eye Tracking via Adaptive Event Slicing**, Argha Sen et.al., Paper: [http://arxiv.org/abs/2409.18813](http://arxiv.org/abs/2409.18813)
-- 2024-09-26, **MMDVS-LF: A Multi-Modal Dynamic-Vision-Sensor Line Following Dataset**, Felix Resch et.al., Paper: [http://arxiv.org/abs/2409.18038](http://arxiv.org/abs/2409.18038)
+- 2024-09-26, **MMDVS-LF: A Multi-Modal Dynamic-Vision-Sensor Line Following Dataset**, Felix Resch et.al., Paper: [http://arxiv.org/abs/2409.18038](http://arxiv.org/abs/2409.18038), Code: **[https://github.com/CPS-TUWien/mmdvs](https://github.com/CPS-TUWien/mmdvs)**
 - 2024-09-26, **Upper-Body Pose-based Gaze Estimation for Privacy-Preserving 3D Gaze Target Detection**, Andrea Toaiari et.al., Paper: [http://arxiv.org/abs/2409.17886](http://arxiv.org/abs/2409.17886), Code: **[https://github.com/intelligolabs/privacy-gtd-3d](https://github.com/intelligolabs/privacy-gtd-3d)**
 - 2024-09-25, **Energy-Efficient & Real-Time Computer Vision with Intelligent Skipping via Reconfigurable CMOS Image Sensors**, Md Abdullah-Al Kaiser et.al., Paper: [http://arxiv.org/abs/2409.17341](http://arxiv.org/abs/2409.17341)
 - 2024-09-23, **FACET: Fast and Accurate Event-Based Eye Tracking Using Ellipse Modeling for Extended Reality**, Junyuan Ding et.al., Paper: [http://arxiv.org/abs/2409.15584](http://arxiv.org/abs/2409.15584), Code: **[https://github.com/deanjy/facet](https://github.com/deanjy/facet)**
@@ -366,13 +366,13 @@
 |**2024-09-11**|**Bridging Quantitative and Qualitative Methods for Visualization Research: A Data/Semantics Perspective in Light of Advanced AI**|Daniel Weiskopf et.al.|[2409.07250](http://arxiv.org/abs/2409.07250)|null|
 |**2024-09-10**|**Mazed and Confused: A Dataset of Cybersickness, Working Memory, Mental Load, Physical Load, and Attention During a Real Walking Task in VR**|Jyotirmay Nag Setu et.al.|[2409.06898](http://arxiv.org/abs/2409.06898)|null|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 ## Embodied AI
 
 - 2024-10-07, **Fine-Tuning CLIP's Last Visual Projector: A Few-Shot Cornucopia**, Mohammad Fahes et.al., Paper: [http://arxiv.org/abs/2410.05270](http://arxiv.org/abs/2410.05270), Code: **[https://github.com/astra-vision/prolip](https://github.com/astra-vision/prolip)**
 - 2024-10-07, **TextHawk2: A Large Vision-Language Model Excels in Bilingual OCR and Grounding with 16x Fewer Tokens**, Ya-Qi Yu et.al., Paper: [http://arxiv.org/abs/2410.05261](http://arxiv.org/abs/2410.05261)
-- 2024-10-07, **TuneVLSeg: Prompt Tuning Benchmark for Vision-Language Segmentation Models**, Rabin Adhikari et.al., Paper: [http://arxiv.org/abs/2410.05239](http://arxiv.org/abs/2410.05239), Code: **[https://github.com/naamiinepal/tunevlseg](https://github.com/naamiinepal/tunevlseg)**
+- 2024-10-08, **TuneVLSeg: Prompt Tuning Benchmark for Vision-Language Segmentation Models**, Rabin Adhikari et.al., Paper: [http://arxiv.org/abs/2410.05239](http://arxiv.org/abs/2410.05239), Code: **[https://github.com/naamiinepal/tunevlseg](https://github.com/naamiinepal/tunevlseg)**
 - 2024-10-07, **Preserving Multi-Modal Capabilities of Pre-trained VLMs for Improving Vision-Linguistic Compositionality**, Youngtaek Oh et.al., Paper: [http://arxiv.org/abs/2410.05210](http://arxiv.org/abs/2410.05210), Code: **[https://github.com/ytaek-oh/fsc-clip](https://github.com/ytaek-oh/fsc-clip)**
 - 2024-10-07, **LADEV: A Language-Driven Testing and Evaluation Platform for Vision-Language-Action Models in Robotic Manipulation**, Zhijie Wang et.al., Paper: [http://arxiv.org/abs/2410.05191](http://arxiv.org/abs/2410.05191)
 - 2024-10-07, **VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks**, Ziyan Jiang et.al., Paper: [http://arxiv.org/abs/2410.05160](http://arxiv.org/abs/2410.05160)
@@ -446,7 +446,7 @@
 |**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278](http://arxiv.org/abs/2409.16278)|null|
 |**2024-09-24**|**CDChat: A Large Multimodal Model for Remote Sensing Change Description**|Mubashir Noman et.al.|[2409.16261](http://arxiv.org/abs/2409.16261)|**[link](https://github.com/techmn/cdchat)**|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 ## Diffusion
 
@@ -454,7 +454,7 @@
 - 2024-10-07, **GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**, Yukang Cao et.al., Paper: [http://arxiv.org/abs/2410.05259](http://arxiv.org/abs/2410.05259)
 - 2024-10-07, **SePPO: Semi-Policy Preference Optimization for Diffusion Alignment**, Daoan Zhang et.al., Paper: [http://arxiv.org/abs/2410.05255](http://arxiv.org/abs/2410.05255), Code: **[https://github.com/dwanzhang-ai/seppo](https://github.com/dwanzhang-ai/seppo)**
 - 2024-10-07, **Tritium-Lean Fusion Power Plants with Asymmetric Deuterium-Tritium Transport and Pumping**, J. F. Parisi et.al., Paper: [http://arxiv.org/abs/2410.05238](http://arxiv.org/abs/2410.05238)
-- 2024-10-07, **DiffuseReg: Denoising Diffusion Model for Obtaining Deformation Fields in Unsupervised Deformable Image Registration**, Yongtai Zhuo et.al., Paper: [http://arxiv.org/abs/2410.05234](http://arxiv.org/abs/2410.05234)
+- 2024-10-07, **DiffuseReg: Denoising Diffusion Model for Obtaining Deformation Fields in Unsupervised Deformable Image Registration**, Yongtai Zhuo et.al., Paper: [http://arxiv.org/abs/2410.05234](http://arxiv.org/abs/2410.05234), Code: **[https://github.com/yutazhuo/diffusereg](https://github.com/yutazhuo/diffusereg)**
 - 2024-10-07, **Presto! Distilling Steps and Layers for Accelerating Music Generation**, Zachary Novack et.al., Paper: [http://arxiv.org/abs/2410.05167](http://arxiv.org/abs/2410.05167)
 - 2024-10-07, **A Simulation-Free Deep Learning Approach to Stochastic Optimal Control**, Mengjian Hua et.al., Paper: [http://arxiv.org/abs/2410.05163](http://arxiv.org/abs/2410.05163)
 - 2024-10-07, **Formation of Anisotropic Polarons in Antimony Selenide**, Yijie Shi et.al., Paper: [http://arxiv.org/abs/2410.05155](http://arxiv.org/abs/2410.05155)
@@ -531,7 +531,7 @@
 |**2024-09-25**|**Decomposition of Friction Coefficients to Analyze Hydration Effects on a C $_{60}$(OH)$_{\rm n}$**|Tomoya Iwashita et.al.|[2409.17028](http://arxiv.org/abs/2409.17028)|null|
 |**2024-09-25**|**Single Image, Any Face: Generalisable 3D Face Generation**|Wenqing Wang et.al.|[2409.16990](http://arxiv.org/abs/2409.16990)|null|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 ## Gaussian Splatting
 
@@ -582,7 +582,7 @@
 |**2024-09-23**|**Human Hair Reconstruction with Strand-Aligned 3D Gaussians**|Egor Zakharov et.al.|[2409.14778](http://arxiv.org/abs/2409.14778)|null|
 |**2024-09-22**|**MVPGS: Excavating Multi-view Priors for Gaussian Splatting from Sparse Input Views**|Wangze Xu et.al.|[2409.14316](http://arxiv.org/abs/2409.14316)|null|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 ## NeRF
 
@@ -1892,5 +1892,5 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
