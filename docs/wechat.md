@@ -15,6 +15,9 @@
 
 ## Depth Estimation
 
+- 2024-10-10, **Color-Guided Flying Pixel Correction in Depth Images**, Ekamresh Vasudevan et.al., Paper: [http://arxiv.org/abs/2410.08084](http://arxiv.org/abs/2410.08084)
+- 2024-10-10, **A Lightweight Target-Driven Network of Stereo Matching for Inland Waterways**, Jing Su et.al., Paper: [http://arxiv.org/abs/2410.07915](http://arxiv.org/abs/2410.07915)
+- 2024-10-09, **Surgical Depth Anything: Depth Estimation for Surgical Scenes using Foundation Models**, Ange Lou et.al., Paper: [http://arxiv.org/abs/2410.07434](http://arxiv.org/abs/2410.07434)
 - 2024-10-09, **Structure-Centric Robust Monocular Depth Estimation via Knowledge Distillation**, Runze Chen et.al., Paper: [http://arxiv.org/abs/2410.06982](http://arxiv.org/abs/2410.06982)
 - 2024-10-09, **Analysis of different disparity estimation techniques on aerial stereo image datasets**, Ishan Narayan et.al., Paper: [http://arxiv.org/abs/2410.06711](http://arxiv.org/abs/2410.06711)
 - 2024-10-09, **The Sampling-Gaussian for stereo matching**, Baiyu Pan et.al., Paper: [http://arxiv.org/abs/2410.06527](http://arxiv.org/abs/2410.06527)
@@ -379,6 +382,16 @@
 
 ## Embodied AI
 
+- 2024-10-10, **LatteCLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts**, Anh-Quan Cao et.al., Paper: [http://arxiv.org/abs/2410.08211](http://arxiv.org/abs/2410.08211)
+- 2024-10-10, **Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision**, Shengcao Cao et.al., Paper: [http://arxiv.org/abs/2410.08209](http://arxiv.org/abs/2410.08209)
+- 2024-10-10, **MRAG-Bench: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models**, Wenbo Hu et.al., Paper: [http://arxiv.org/abs/2410.08182](http://arxiv.org/abs/2410.08182)
+- 2024-10-10, **On the Evaluation of Generative Robotic Simulations**, Feng Chen et.al., Paper: [http://arxiv.org/abs/2410.08172](http://arxiv.org/abs/2410.08172)
+- 2024-10-10, **Q-VLM: Post-training Quantization for Large Vision-Language Models**, Changyuan Wang et.al., Paper: [http://arxiv.org/abs/2410.08119](http://arxiv.org/abs/2410.08119), Code: **[https://github.com/changyuanwang17/qvlm](https://github.com/changyuanwang17/qvlm)**
+- 2024-10-10, **Generated Bias: Auditing Internal Bias Dynamics of Text-To-Image Generative Models**, Abhishek Mandal et.al., Paper: [http://arxiv.org/abs/2410.07884](http://arxiv.org/abs/2410.07884)
+- 2024-10-10, **Unsupervised Data Validation Methods for Efficient Model Training**, Yurii Paniv et.al., Paper: [http://arxiv.org/abs/2410.07880](http://arxiv.org/abs/2410.07880)
+- 2024-10-10, **HeGraphAdapter: Tuning Multi-Modal Vision-Language Models with Heterogeneous Graph Adapter**, Yumiao Zhao et.al., Paper: [http://arxiv.org/abs/2410.07854](http://arxiv.org/abs/2410.07854)
+- 2024-10-10, **FLIER: Few-shot Language Image Models Embedded with Latent Representations**, Zhinuo Zhou et.al., Paper: [http://arxiv.org/abs/2410.07648](http://arxiv.org/abs/2410.07648)
+- 2024-10-10, **A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks**, Hoin Jung et.al., Paper: [http://arxiv.org/abs/2410.07593](http://arxiv.org/abs/2410.07593)
 - 2024-10-09, **Deciphering Cross-Modal Alignment in Large Vision-Language Models with Modality Integration Rate**, Qidong Huang et.al., Paper: [http://arxiv.org/abs/2410.07167](http://arxiv.org/abs/2410.07167), Code: **[https://github.com/shikiw/modality-integration-rate](https://github.com/shikiw/modality-integration-rate)**
 - 2024-10-09, **Towards Interpreting Visual Information Processing in Vision-Language Models**, Clement Neo et.al., Paper: [http://arxiv.org/abs/2410.07149](http://arxiv.org/abs/2410.07149)
 - 2024-10-10, **EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models**, Rui Zhao et.al., Paper: [http://arxiv.org/abs/2410.07133](http://arxiv.org/abs/2410.07133), Code: **[https://github.com/showlab/evolvedirector](https://github.com/showlab/evolvedirector)**
@@ -469,6 +482,16 @@
 
 ## Diffusion
 
+- 2024-10-10, **Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision**, Shengcao Cao et.al., Paper: [http://arxiv.org/abs/2410.08209](http://arxiv.org/abs/2410.08209)
+- 2024-10-10, **DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models**, Xiaoxiao He et.al., Paper: [http://arxiv.org/abs/2410.08207](http://arxiv.org/abs/2410.08207)
+- 2024-10-10, **HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation**, Shanyan Guan et.al., Paper: [http://arxiv.org/abs/2410.08192](http://arxiv.org/abs/2410.08192)
+- 2024-10-10, **DifFRelight: Diffusion-Based Facial Performance Relighting**, Mingming He et.al., Paper: [http://arxiv.org/abs/2410.08188](http://arxiv.org/abs/2410.08188)
+- 2024-10-10, **Scaling Laws For Diffusion Transformers**, Zhengyang Liang et.al., Paper: [http://arxiv.org/abs/2410.08184](http://arxiv.org/abs/2410.08184)
+- 2024-10-10, **ZeroComp: Zero-shot Object Compositing from Image Intrinsics via Diffusion**, Zitian Zhang et.al., Paper: [http://arxiv.org/abs/2410.08168](http://arxiv.org/abs/2410.08168)
+- 2024-10-10, **DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation**, Jiatao Gu et.al., Paper: [http://arxiv.org/abs/2410.08159](http://arxiv.org/abs/2410.08159)
+- 2024-10-10, **Progressive Autoregressive Video Diffusion Models**, Desai Xie et.al., Paper: [http://arxiv.org/abs/2410.08151](http://arxiv.org/abs/2410.08151)
+- 2024-10-10, **Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction**, Jarrid Rector-Brooks et.al., Paper: [http://arxiv.org/abs/2410.08134](http://arxiv.org/abs/2410.08134)
+- 2024-10-10, **CrackSegDiff: Diffusion Probability Model-based Multi-modal Crack Segmentation**, Xiaoyan Jiang et.al., Paper: [http://arxiv.org/abs/2410.08100](http://arxiv.org/abs/2410.08100), Code: **[https://github.com/sky-visionx/cracksegdiff](https://github.com/sky-visionx/cracksegdiff)**
 - 2024-10-09, **Simulating realistic self-interacting dark matter models including small and large-angle scattering**, Cenanda Arido et.al., Paper: [http://arxiv.org/abs/2410.07175](http://arxiv.org/abs/2410.07175)
 - 2024-10-09, **IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation**, Xinchen Zhang et.al., Paper: [http://arxiv.org/abs/2410.07171](http://arxiv.org/abs/2410.07171), Code: **[https://github.com/yangling0818/itercomp](https://github.com/yangling0818/itercomp)**
 - 2024-10-09, **AvatarGO: Zero-shot 4D Human-Object Interaction Generation and Animation**, Yukang Cao et.al., Paper: [http://arxiv.org/abs/2410.07164](http://arxiv.org/abs/2410.07164)
@@ -564,6 +587,15 @@
 
 ## Gaussian Splatting
 
+- 2024-10-10, **Poison-splat: Computation Cost Attack on 3D Gaussian Splatting**, Jiahao Lu et.al., Paper: [http://arxiv.org/abs/2410.08190](http://arxiv.org/abs/2410.08190), Code: **[https://github.com/jiahaolu97/poison-splat](https://github.com/jiahaolu97/poison-splat)**
+- 2024-10-10, **DifFRelight: Diffusion-Based Facial Performance Relighting**, Mingming He et.al., Paper: [http://arxiv.org/abs/2410.08188](http://arxiv.org/abs/2410.08188)
+- 2024-10-10, **RGM: Reconstructing High-fidelity 3D Car Assets with Relightable 3D-GS Generative Model from a Single Image**, Xiaoxue Chen et.al., Paper: [http://arxiv.org/abs/2410.08181](http://arxiv.org/abs/2410.08181)
+- 2024-10-10, **Efficient Perspective-Correct 3D Gaussian Splatting Using Hybrid Transparency**, Florian Hahlbohm et.al., Paper: [http://arxiv.org/abs/2410.08129](http://arxiv.org/abs/2410.08129)
+- 2024-10-10, **IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**, Jian Huang et.al., Paper: [http://arxiv.org/abs/2410.08107](http://arxiv.org/abs/2410.08107), Code: **[https://github.com/wu-cvgl/inceventgs](https://github.com/wu-cvgl/inceventgs)**
+- 2024-10-10, **Fast Feedforward 3D Gaussian Splatting Compression**, Yihang Chen et.al., Paper: [http://arxiv.org/abs/2410.08017](http://arxiv.org/abs/2410.08017)
+- 2024-10-10, **L-VITeX: Light-weight Visual Intuition for Terrain Exploration**, Antar Mazumder et.al., Paper: [http://arxiv.org/abs/2410.07872](http://arxiv.org/abs/2410.07872)
+- 2024-10-10, **MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting**, Ruijie Zhu et.al., Paper: [http://arxiv.org/abs/2410.07707](http://arxiv.org/abs/2410.07707)
+- 2024-10-10, **3D Vision-Language Gaussian Splatting**, Qucheng Peng et.al., Paper: [http://arxiv.org/abs/2410.07577](http://arxiv.org/abs/2410.07577)
 - 2024-10-09, **DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation**, Zhiqi Li et.al., Paper: [http://arxiv.org/abs/2410.06756](http://arxiv.org/abs/2410.06756)
 - 2024-10-09, **ES-Gaussian: Gaussian Splatting Mapping via Error Space-Based Gaussian Completion**, Lu Chen et.al., Paper: [http://arxiv.org/abs/2410.06613](http://arxiv.org/abs/2410.06613)
 - 2024-10-09, **3D Representation Methods: A Survey**, Zhengren Wang et.al., Paper: [http://arxiv.org/abs/2410.06475](http://arxiv.org/abs/2410.06475)
@@ -624,6 +656,11 @@
 
 ## NeRF
 
+- 2024-10-10, **RGM: Reconstructing High-fidelity 3D Car Assets with Relightable 3D-GS Generative Model from a Single Image**, Xiaoxue Chen et.al., Paper: [http://arxiv.org/abs/2410.08181](http://arxiv.org/abs/2410.08181)
+- 2024-10-10, **IncEventGS: Pose-Free Gaussian Splatting from a Single Event Camera**, Jian Huang et.al., Paper: [http://arxiv.org/abs/2410.08107](http://arxiv.org/abs/2410.08107), Code: **[https://github.com/wu-cvgl/inceventgs](https://github.com/wu-cvgl/inceventgs)**
+- 2024-10-10, **UW-SDF: Exploiting Hybrid Geometric Priors for Neural SDF Reconstruction from Underwater Multi-view Monocular Images**, Zeyu Chen et.al., Paper: [http://arxiv.org/abs/2410.08092](http://arxiv.org/abs/2410.08092)
+- 2024-10-10, **Generalizable and Animatable Gaussian Head Avatar**, Xuangeng Chu et.al., Paper: [http://arxiv.org/abs/2410.07971](http://arxiv.org/abs/2410.07971), Code: **[https://github.com/xg-chu/gagavatar](https://github.com/xg-chu/gagavatar)**
+- 2024-10-09, **NeRF-Accelerated Ecological Monitoring in Mixed-Evergreen Redwood Forest**, Adam Korycki et.al., Paper: [http://arxiv.org/abs/2410.07418](http://arxiv.org/abs/2410.07418), Code: **[https://github.com/harelab-ucsc/redwoodnerf](https://github.com/harelab-ucsc/redwoodnerf)**
 - 2024-10-09, **DreamMesh4D: Video-to-4D Generation with Sparse-Controlled Gaussian-Mesh Hybrid Representation**, Zhiqi Li et.al., Paper: [http://arxiv.org/abs/2410.06756](http://arxiv.org/abs/2410.06756)
 - 2024-10-09, **MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes**, Zhenhui Ye et.al., Paper: [http://arxiv.org/abs/2410.06734](http://arxiv.org/abs/2410.06734)
 - 2024-10-09, **3D Representation Methods: A Survey**, Zhengren Wang et.al., Paper: [http://arxiv.org/abs/2410.06475](http://arxiv.org/abs/2410.06475)
