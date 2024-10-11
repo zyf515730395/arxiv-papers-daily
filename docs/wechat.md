@@ -1,4 +1,4 @@
-> Updated on 2024.10.10
+> Updated on 2024.10.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -21,7 +21,7 @@
 - 2024-10-08, **Vision Transformer based Random Walk for Group Re-Identification**, Guoqing Zhang et.al., Paper: [http://arxiv.org/abs/2410.05808](http://arxiv.org/abs/2410.05808)
 - 2024-10-08, **CUBE360: Learning Cubic Field Representation for Monocular 360 Depth Estimation for Virtual Reality**, Wenjie Chang et.al., Paper: [http://arxiv.org/abs/2410.05735](http://arxiv.org/abs/2410.05735)
 - 2024-10-07, **PhotoReg: Photometrically Registering 3D Gaussian Splatting Models**, Ziwen Yuan et.al., Paper: [http://arxiv.org/abs/2410.05044](http://arxiv.org/abs/2410.05044)
-- 2024-10-05, **Hybrid NeRF-Stereo Vision: Pioneering Depth Estimation and 3D Reconstruction in Endoscopy**, Pengcheng Chen et.al., Paper: [http://arxiv.org/abs/2410.04041](http://arxiv.org/abs/2410.04041)
+- 2024-10-10, **Hybrid NeRF-Stereo Vision: Pioneering Depth Estimation and 3D Reconstruction in Endoscopy**, Pengcheng Chen et.al., Paper: [http://arxiv.org/abs/2410.04041](http://arxiv.org/abs/2410.04041)
 - 2024-10-04, **Refinement of Monocular Depth Maps via Multi-View Differentiable Rendering**, Laura Fink et.al., Paper: [http://arxiv.org/abs/2410.03861](http://arxiv.org/abs/2410.03861)
 - 2024-10-03, **RSA: Resolving Scale Ambiguities in Monocular Depth Estimators through Language Descriptions**, Ziyao Zeng et.al., Paper: [http://arxiv.org/abs/2410.02924](http://arxiv.org/abs/2410.02924)
 - 2024-10-03, **Pseudo-Stereo Inputs: A Solution to the Occlusion Challenge in Self-Supervised Stereo Matching**, Ruizhi Yang et.al., Paper: [http://arxiv.org/abs/2410.02534](http://arxiv.org/abs/2410.02534), Code: **[https://github.com/qrzyang/pseudo-stereo](https://github.com/qrzyang/pseudo-stereo)**
@@ -53,7 +53,7 @@
 |**2024-09-23**|**GroCo: Ground Constraint for Metric Self-Supervised Monocular Depth**|Aurélien Cecille et.al.|[2409.14850](http://arxiv.org/abs/2409.14850)|null|
 |**2024-09-23**|**Robust and Flexible Omnidirectional Depth Estimation with Multiple 360° Cameras**|Ming Li et.al.|[2409.14766](http://arxiv.org/abs/2409.14766)|null|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 ## Image Matching
 
@@ -329,7 +329,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 ## Gesture Recognition
 
@@ -351,7 +351,7 @@
 |**2024-09-10**|**Advancements in Gesture Recognition Techniques and Machine Learning for Enhanced Human-Robot Interaction: A Comprehensive Review**|Sajjad Hussain et.al.|[2409.06503](http://arxiv.org/abs/2409.06503)|null|
 |**2024-09-05**|**MVTN: A Multiscale Video Transformer Network for Hand Gesture Recognition**|Mallika Garg et.al.|[2409.03890](http://arxiv.org/abs/2409.03890)|**[link](https://github.com/mallikagarg/mvtn)**|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 ## Eye Tracking
 
@@ -375,13 +375,13 @@
 |**2024-09-11**|**Bridging Quantitative and Qualitative Methods for Visualization Research: A Data/Semantics Perspective in Light of Advanced AI**|Daniel Weiskopf et.al.|[2409.07250](http://arxiv.org/abs/2409.07250)|null|
 |**2024-09-10**|**Mazed and Confused: A Dataset of Cybersickness, Working Memory, Mental Load, Physical Load, and Attention During a Real Walking Task in VR**|Jyotirmay Nag Setu et.al.|[2409.06898](http://arxiv.org/abs/2409.06898)|null|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 ## Embodied AI
 
 - 2024-10-09, **Deciphering Cross-Modal Alignment in Large Vision-Language Models with Modality Integration Rate**, Qidong Huang et.al., Paper: [http://arxiv.org/abs/2410.07167](http://arxiv.org/abs/2410.07167), Code: **[https://github.com/shikiw/modality-integration-rate](https://github.com/shikiw/modality-integration-rate)**
 - 2024-10-09, **Towards Interpreting Visual Information Processing in Vision-Language Models**, Clement Neo et.al., Paper: [http://arxiv.org/abs/2410.07149](http://arxiv.org/abs/2410.07149)
-- 2024-10-09, **EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models**, Rui Zhao et.al., Paper: [http://arxiv.org/abs/2410.07133](http://arxiv.org/abs/2410.07133), Code: **[https://github.com/showlab/evolvedirector](https://github.com/showlab/evolvedirector)**
+- 2024-10-10, **EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models**, Rui Zhao et.al., Paper: [http://arxiv.org/abs/2410.07133](http://arxiv.org/abs/2410.07133), Code: **[https://github.com/showlab/evolvedirector](https://github.com/showlab/evolvedirector)**
 - 2024-10-09, **VHELM: A Holistic Evaluation of Vision Language Models**, Tony Lee et.al., Paper: [http://arxiv.org/abs/2410.07112](http://arxiv.org/abs/2410.07112)
 - 2024-10-09, **Pixtral 12B**, Pravesh Agrawal et.al., Paper: [http://arxiv.org/abs/2410.07073](http://arxiv.org/abs/2410.07073), Code: **[https://github.com/mistralai/mistral-inference](https://github.com/mistralai/mistral-inference)**
 - 2024-10-09, **Clean Evaluations on Contaminated Visual Language Models**, Hongyuan Lu et.al., Paper: [http://arxiv.org/abs/2410.07030](http://arxiv.org/abs/2410.07030)
@@ -465,7 +465,7 @@
 |**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278](http://arxiv.org/abs/2409.16278)|null|
 |**2024-09-24**|**CDChat: A Large Multimodal Model for Remote Sensing Change Description**|Mubashir Noman et.al.|[2409.16261](http://arxiv.org/abs/2409.16261)|**[link](https://github.com/techmn/cdchat)**|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 ## Diffusion
 
@@ -560,7 +560,7 @@
 |**2024-09-25**|**Decomposition of Friction Coefficients to Analyze Hydration Effects on a C $_{60}$(OH)$_{\rm n}$**|Tomoya Iwashita et.al.|[2409.17028](http://arxiv.org/abs/2409.17028)|null|
 |**2024-09-25**|**Single Image, Any Face: Generalisable 3D Face Generation**|Wenqing Wang et.al.|[2409.16990](http://arxiv.org/abs/2409.16990)|null|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 ## Gaussian Splatting
 
@@ -568,7 +568,7 @@
 - 2024-10-09, **ES-Gaussian: Gaussian Splatting Mapping via Error Space-Based Gaussian Completion**, Lu Chen et.al., Paper: [http://arxiv.org/abs/2410.06613](http://arxiv.org/abs/2410.06613)
 - 2024-10-09, **3D Representation Methods: A Survey**, Zhengren Wang et.al., Paper: [http://arxiv.org/abs/2410.06475](http://arxiv.org/abs/2410.06475)
 - 2024-10-08, **HiSplat: Hierarchical 3D Gaussian Splatting for Generalizable Sparse-View Reconstruction**, Shengji Tang et.al., Paper: [http://arxiv.org/abs/2410.06245](http://arxiv.org/abs/2410.06245)
-- 2024-10-08, **RelitLRM: Generative Relightable Radiance for Large Reconstruction Models**, Tianyuan Zhang et.al., Paper: [http://arxiv.org/abs/2410.06231](http://arxiv.org/abs/2410.06231)
+- 2024-10-10, **RelitLRM: Generative Relightable Radiance for Large Reconstruction Models**, Tianyuan Zhang et.al., Paper: [http://arxiv.org/abs/2410.06231](http://arxiv.org/abs/2410.06231)
 - 2024-10-08, **GSLoc: Visual Localization with 3D Gaussian Splatting**, Kazii Botashev et.al., Paper: [http://arxiv.org/abs/2410.06165](http://arxiv.org/abs/2410.06165)
 - 2024-10-08, **SplaTraj: Camera Trajectory Generation with Semantic Gaussian Splatting**, Xinyi Liu et.al., Paper: [http://arxiv.org/abs/2410.06014](http://arxiv.org/abs/2410.06014)
 - 2024-10-08, **Comparative Analysis of Novel View Synthesis and Photogrammetry for 3D Forest Stand Reconstruction and extraction of individual tree parameters**, Guoji Tian et.al., Paper: [http://arxiv.org/abs/2410.05772](http://arxiv.org/abs/2410.05772)
@@ -620,7 +620,7 @@
 |**2024-09-23**|**Human Hair Reconstruction with Strand-Aligned 3D Gaussians**|Egor Zakharov et.al.|[2409.14778](http://arxiv.org/abs/2409.14778)|null|
 |**2024-09-22**|**MVPGS: Excavating Multi-view Priors for Gaussian Splatting from Sparse Input Views**|Wangze Xu et.al.|[2409.14316](http://arxiv.org/abs/2409.14316)|null|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 ## NeRF
 
@@ -1937,5 +1937,5 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
