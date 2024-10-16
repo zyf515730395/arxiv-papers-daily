@@ -5,7 +5,7 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2024.10.15
+Updated on 2024.10.16
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -13,7 +13,7 @@ Updated on 2024.10.15
 |**2024-10-14**|**When Does Perceptual Alignment Benefit Vision Representations?**|Shobhita Sundaram et.al.|[2410.10817](http://arxiv.org/abs/2410.10817)|null|
 |**2024-10-14**|**Depth Any Video with Scalable Synthetic Data**|Honghui Yang et.al.|[2410.10815](http://arxiv.org/abs/2410.10815)|null|
 |**2024-10-14**|**Self-Assessed Generation: Trustworthy Label Generation for Optical Flow and Stereo Matching in Real-world**|Han Ling et.al.|[2410.10453](http://arxiv.org/abs/2410.10453)|**[link](https://github.com/hanlingsgjk/unifiedgeneralization)**|
-|**2024-10-14**|**Improved Depth Estimation of Bayesian Neural Networks**|Bart van Erp et.al.|[2410.10395](http://arxiv.org/abs/2410.10395)|**[link](https://github.com/biaslab/depthestimationbnn)**|
+|**2024-10-15**|**Improved Depth Estimation of Bayesian Neural Networks**|Bart van Erp et.al.|[2410.10395](http://arxiv.org/abs/2410.10395)|**[link](https://github.com/biaslab/depthestimationbnn)**|
 |**2024-10-10**|**Color-Guided Flying Pixel Correction in Depth Images**|Ekamresh Vasudevan et.al.|[2410.08084](http://arxiv.org/abs/2410.08084)|null|
 |**2024-10-10**|**A Lightweight Target-Driven Network of Stereo Matching for Inland Waterways**|Jing Su et.al.|[2410.07915](http://arxiv.org/abs/2410.07915)|null|
 |**2024-10-09**|**Surgical Depth Anything: Depth Estimation for Surgical Scenes using Foundation Models**|Ange Lou et.al.|[2410.07434](http://arxiv.org/abs/2410.07434)|null|
@@ -511,7 +511,7 @@ Updated on 2024.10.15
 |**2024-10-14**|**TrajDiffuse: A Conditional Diffusion Model for Environment-Aware Trajectory Prediction**|Qingze et.al.|[2410.10804](http://arxiv.org/abs/2410.10804)|**[link](https://github.com/tl-qz/trajdiffuse)**|
 |**2024-10-14**|**Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies**|Yanjie Ze et.al.|[2410.10803](http://arxiv.org/abs/2410.10803)|**[link](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)**|
 |**2024-10-14**|**Boosting Camera Motion Control for Video Diffusion Transformers**|Soon Yau Cheong et.al.|[2410.10802](http://arxiv.org/abs/2410.10802)|null|
-|**2024-10-14**|**MMAR: Towards Lossless Multi-Modal Auto-Regressive Prababilistic Modeling**|Jian Yang et.al.|[2410.10798](http://arxiv.org/abs/2410.10798)|null|
+|**2024-10-15**|**MMAR: Towards Lossless Multi-Modal Auto-Regressive Probabilistic Modeling**|Jian Yang et.al.|[2410.10798](http://arxiv.org/abs/2410.10798)|null|
 |**2024-10-14**|**Semantic Image Inversion and Editing using Rectified Stochastic Differential Equations**|Litu Rout et.al.|[2410.10792](http://arxiv.org/abs/2410.10792)|null|
 |**2024-10-14**|**3DArticCyclists: Generating Simulated Dynamic 3D Cyclists for Human-Object Interaction (HOI) and Autonomous Driving Applications**|Eduardo R. Corral-Soto et.al.|[2410.10782](http://arxiv.org/abs/2410.10782)|null|
 |**2024-10-14**|**ControlMM: Controllable Masked Motion Generation**|Ekkasit Pinyoanuntapong et.al.|[2410.10780](http://arxiv.org/abs/2410.10780)|null|
@@ -630,7 +630,7 @@ Updated on 2024.10.15
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-14**|**4-LEGS: 4D Language Embedded Gaussian Splatting**|Gal Fiebelman et.al.|[2410.10719](http://arxiv.org/abs/2410.10719)|null|
+|**2024-10-15**|**4-LEGS: 4D Language Embedded Gaussian Splatting**|Gal Fiebelman et.al.|[2410.10719](http://arxiv.org/abs/2410.10719)|null|
 |**2024-10-14**|**4DStyleGaussian: Zero-shot 4D Style Transfer with Gaussian Splatting**|Wanlin Liang et.al.|[2410.10412](http://arxiv.org/abs/2410.10412)|null|
 |**2024-10-13**|**Gaussian Splatting Visual MPC for Granular Media Manipulation**|Wei-Cheng Tseng et.al.|[2410.09740](http://arxiv.org/abs/2410.09740)|null|
 |**2024-10-12**|**Enhancing Single Image to 3D Generation using Gaussian Splatting and Hybrid Diffusion Priors**|Hritam Basak et.al.|[2410.09467](http://arxiv.org/abs/2410.09467)|null|
@@ -711,7 +711,7 @@ Updated on 2024.10.15
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-14**|**Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes**|Jianqi Chen et.al.|[2410.10790](http://arxiv.org/abs/2410.10790)|**[link](https://github.com/windvchen/sitcom-crafter)**|
 |**2024-10-14**|**3DArticCyclists: Generating Simulated Dynamic 3D Cyclists for Human-Object Interaction (HOI) and Autonomous Driving Applications**|Eduardo R. Corral-Soto et.al.|[2410.10782](http://arxiv.org/abs/2410.10782)|null|
-|**2024-10-14**|**Parameterize Structure with Differentiable Template for 3D Shape Generation**|Changfeng Ma et.al.|[2410.10399](http://arxiv.org/abs/2410.10399)|null|
+|**2024-10-15**|**Parameterize Structure with Differentiable Template for 3D Shape Generation**|Changfeng Ma et.al.|[2410.10399](http://arxiv.org/abs/2410.10399)|null|
 |**2024-10-14**|**NeRF-enabled Analysis-Through-Synthesis for ISAR Imaging of Small Everyday Objects with Sparse and Noisy UWB Radar Data**|Md Farhan Tasnim Oshim et.al.|[2410.10085](http://arxiv.org/abs/2410.10085)|null|
 |**2024-10-13**|**Magnituder Layers for Implicit Neural Representations in 3D**|Sang Min Kim et.al.|[2410.09771](http://arxiv.org/abs/2410.09771)|null|
 |**2024-10-12**|**Improving 3D Finger Traits Recognition via Generalizable Neural Rendering**|Hongbin Xu et.al.|[2410.09582](http://arxiv.org/abs/2410.09582)|null|
