@@ -5,7 +5,7 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2024.10.17
+Updated on 2024.10.18
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -14,7 +14,7 @@ Updated on 2024.10.17
 |**2024-10-16**|**Depth Estimation From Monocular Images With Enhanced Encoder-Decoder Architecture**|Dabbrata Das et.al.|[2410.11610](http://arxiv.org/abs/2410.11610)|null|
 |**2024-10-16**|**CVCP-Fusion: On Implicit Depth Estimation for 3D Bounding Box Prediction**|Pranav Gupta et.al.|[2410.11211](http://arxiv.org/abs/2410.11211)|**[link](https://github.com/safetylab24/FusionCVCP)**|
 |**2024-10-14**|**When Does Perceptual Alignment Benefit Vision Representations?**|Shobhita Sundaram et.al.|[2410.10817](http://arxiv.org/abs/2410.10817)|null|
-|**2024-10-14**|**Depth Any Video with Scalable Synthetic Data**|Honghui Yang et.al.|[2410.10815](http://arxiv.org/abs/2410.10815)|null|
+|**2024-10-14**|**Depth Any Video with Scalable Synthetic Data**|Honghui Yang et.al.|[2410.10815](http://arxiv.org/abs/2410.10815)|**[link](https://github.com/Nightmare-n/DepthAnyVideo)**|
 |**2024-10-14**|**Self-Assessed Generation: Trustworthy Label Generation for Optical Flow and Stereo Matching in Real-world**|Han Ling et.al.|[2410.10453](http://arxiv.org/abs/2410.10453)|**[link](https://github.com/hanlingsgjk/unifiedgeneralization)**|
 |**2024-10-15**|**Improved Depth Estimation of Bayesian Neural Networks**|Bart van Erp et.al.|[2410.10395](http://arxiv.org/abs/2410.10395)|**[link](https://github.com/biaslab/depthestimationbnn)**|
 |**2024-10-10**|**Color-Guided Flying Pixel Correction in Depth Images**|Ekamresh Vasudevan et.al.|[2410.08084](http://arxiv.org/abs/2410.08084)|null|
