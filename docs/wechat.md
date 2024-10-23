@@ -15,6 +15,7 @@
 
 ## Depth Estimation
 
+- 2024-10-21, **TIPS: Text-Image Pretraining with Spatial Awareness**, Kevis-Kokitsi Maninis et.al., Paper: [http://arxiv.org/abs/2410.16512](http://arxiv.org/abs/2410.16512)
 - 2024-10-22, **DCDepth: Progressive Monocular Depth Estimation in Discrete Cosine Domain**, Kun Wang et.al., Paper: [http://arxiv.org/abs/2410.14980](http://arxiv.org/abs/2410.14980), Code: **[https://github.com/w2kun/dcdepth](https://github.com/w2kun/dcdepth)**
 - 2024-10-17, **DepthSplat: Connecting Gaussian Splatting and Depth**, Haofei Xu et.al., Paper: [http://arxiv.org/abs/2410.13862](http://arxiv.org/abs/2410.13862), Code: **[https://github.com/cvg/depthsplat](https://github.com/cvg/depthsplat)**
 - 2024-10-16, **DH-VTON: Deep Text-Driven Virtual Try-On via Hybrid Attention Learning**, Jiabao Wei et.al., Paper: [http://arxiv.org/abs/2410.12501](http://arxiv.org/abs/2410.12501)
@@ -403,6 +404,16 @@
 
 ## Embodied AI
 
+- 2024-10-22, **JMMMU: A Japanese Massive Multi-discipline Multimodal Understanding Benchmark for Culture-aware Evaluation**, Shota Onohara et.al., Paper: [http://arxiv.org/abs/2410.17250](http://arxiv.org/abs/2410.17250)
+- 2024-10-22, **PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction**, Long Xing et.al., Paper: [http://arxiv.org/abs/2410.17247](http://arxiv.org/abs/2410.17247), Code: **[https://github.com/cooperx521/pyramiddrop](https://github.com/cooperx521/pyramiddrop)**
+- 2024-10-22, **An Eye for an AI: Evaluating GPT-4o's Visual Perception Skills and Geometric Reasoning Skills Using Computer Graphics Questions**, Tony Haoran Feng et.al., Paper: [http://arxiv.org/abs/2410.16991](http://arxiv.org/abs/2410.16991)
+- 2024-10-22, **MPDS: A Movie Posters Dataset for Image Generation with Diffusion Model**, Meng Xu et.al., Paper: [http://arxiv.org/abs/2410.16840](http://arxiv.org/abs/2410.16840)
+- 2024-10-22, **Combining Ontological Knowledge and Large Language Model for User-Friendly Service Robots**, Haru Nakajima et.al., Paper: [http://arxiv.org/abs/2410.16804](http://arxiv.org/abs/2410.16804)
+- 2024-10-22, **Foundation Models for Remote Sensing and Earth Observation: A Survey**, Aoran Xiao et.al., Paper: [http://arxiv.org/abs/2410.16602](http://arxiv.org/abs/2410.16602)
+- 2024-10-21, **DocEdit-v2: Document Structure Editing Via Multimodal LLM Grounding**, Manan Suri et.al., Paper: [http://arxiv.org/abs/2410.16472](http://arxiv.org/abs/2410.16472)
+- 2024-10-21, **Promoting cross-modal representations to improve multimodal foundation models for physiological signals**, Ching Fang et.al., Paper: [http://arxiv.org/abs/2410.16424](http://arxiv.org/abs/2410.16424)
+- 2024-10-21, **Integrating Reinforcement Learning with Foundation Models for Autonomous Robotics: Methods and Perspectives**, Angelo Moroncelli et.al., Paper: [http://arxiv.org/abs/2410.16411](http://arxiv.org/abs/2410.16411)
+- 2024-10-21, **VipAct: Visual-Perception Enhancement via Specialized VLM Agent Collaboration and Tool-use**, Zhehao Zhang et.al., Paper: [http://arxiv.org/abs/2410.16400](http://arxiv.org/abs/2410.16400)
 - 2024-10-21, **xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video Even in VLMs**, Michael S. Ryoo et.al., Paper: [http://arxiv.org/abs/2410.16267](http://arxiv.org/abs/2410.16267)
 - 2024-10-22, **Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance**, Zhangwei Gao et.al., Paper: [http://arxiv.org/abs/2410.16261](http://arxiv.org/abs/2410.16261), Code: **[https://github.com/opengvlab/internvl](https://github.com/opengvlab/internvl)**
 - 2024-10-21, **Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping**, Ryan Li et.al., Paper: [http://arxiv.org/abs/2410.16232](http://arxiv.org/abs/2410.16232)
@@ -573,6 +584,16 @@
 
 ## Diffusion
 
+- 2024-10-22, **Ergodic Risk Sensitive Control of Markovian Multiclass Many-Server Queues with Abandonment**, Sumith Reddy Anugu et.al., Paper: [http://arxiv.org/abs/2410.17205](http://arxiv.org/abs/2410.17205)
+- 2024-10-22, **Reinforcement learning on structure-conditioned categorical diffusion for protein inverse folding**, Yasha Ektefaie et.al., Paper: [http://arxiv.org/abs/2410.17173](http://arxiv.org/abs/2410.17173)
+- 2024-10-22, **On Lyapunov Conditions for the Well-Posedness of McKean-Vlasov Stochastic Differential Delay Equations**, Dan Noelck et.al., Paper: [http://arxiv.org/abs/2410.17120](http://arxiv.org/abs/2410.17120)
+- 2024-10-22, **Dust ring and gap formation by gas flow induced by low-mass planets embedded in protoplanetary disks $\rm II$ . Time-dependent model**, Ayumu Kuwahara et.al., Paper: [http://arxiv.org/abs/2410.16996](http://arxiv.org/abs/2410.16996)
+- 2024-10-22, **DiP-GO: A Diffusion Pruner via Few-step Gradient Optimization**, Haowei Zhu et.al., Paper: [http://arxiv.org/abs/2410.16942](http://arxiv.org/abs/2410.16942)
+- 2024-10-22, **Hierarchical Clustering for Conditional Diffusion in Image Generation**, Jorge da Silva Goncalves et.al., Paper: [http://arxiv.org/abs/2410.16910](http://arxiv.org/abs/2410.16910), Code: **[https://github.com/jogo175/treediffusion](https://github.com/jogo175/treediffusion)**
+- 2024-10-22, **MBD: Multi b-value Denoising of Diffusion Magnetic Resonance Images**, Jakub Jurek et.al., Paper: [http://arxiv.org/abs/2410.16898](http://arxiv.org/abs/2410.16898)
+- 2024-10-22, **VistaDream: Sampling multiview consistent images for single-view scene reconstruction**, Haiping Wang et.al., Paper: [http://arxiv.org/abs/2410.16892](http://arxiv.org/abs/2410.16892)
+- 2024-10-22, **Inverse first-passage problems of a diffusion with resetting**, Mario Abundo et.al., Paper: [http://arxiv.org/abs/2410.16889](http://arxiv.org/abs/2410.16889)
+- 2024-10-22, **Accelerated Quantum Circuit Monte-Carlo Simulation for Heavy Quark Thermalization**, Wenyang Qian et.al., Paper: [http://arxiv.org/abs/2410.16863](http://arxiv.org/abs/2410.16863)
 - 2024-10-21, **MvDrag3D: Drag-based Creative 3D Editing via Multi-view Generation-Reconstruction Priors**, Honghua Chen et.al., Paper: [http://arxiv.org/abs/2410.16272](http://arxiv.org/abs/2410.16272)
 - 2024-10-21, **3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors**, Xi Liu et.al., Paper: [http://arxiv.org/abs/2410.16266](http://arxiv.org/abs/2410.16266)
 - 2024-10-21, **Role of obstacle softness in the diffusive behavior of active Particles**, Ankit Gupta et.al., Paper: [http://arxiv.org/abs/2410.16223](http://arxiv.org/abs/2410.16223)
@@ -748,6 +769,10 @@
 
 ## Gaussian Splatting
 
+- 2024-10-22, **SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes**, Cheng-De Fan et.al., Paper: [http://arxiv.org/abs/2410.17249](http://arxiv.org/abs/2410.17249)
+- 2024-10-18, **GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting**, Yusen Xie et.al., Paper: [http://arxiv.org/abs/2410.17084](http://arxiv.org/abs/2410.17084)
+- 2024-10-22, **E-3DGS: Gaussian Splatting with Exposure and Motion Events**, Xiaoting Yin et.al., Paper: [http://arxiv.org/abs/2410.16995](http://arxiv.org/abs/2410.16995)
+- 2024-10-22, **Multi-Layer Gaussian Splatting for Immersive Anatomy Visualization**, Constantin Kleinbeck et.al., Paper: [http://arxiv.org/abs/2410.16978](http://arxiv.org/abs/2410.16978)
 - 2024-10-21, **3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors**, Xi Liu et.al., Paper: [http://arxiv.org/abs/2410.16266](http://arxiv.org/abs/2410.16266)
 - 2024-10-21, **MSGField: A Unified Scene Representation Integrating Motion, Semantics, and Geometry for Robotic Manipulation**, Yu Sheng et.al., Paper: [http://arxiv.org/abs/2410.15730](http://arxiv.org/abs/2410.15730)
 - 2024-10-22, **Fully Explicit Dynamic Gaussian Splatting**, Junoh Lee et.al., Paper: [http://arxiv.org/abs/2410.15629](http://arxiv.org/abs/2410.15629)
@@ -848,6 +873,11 @@
 
 ## NeRF
 
+- 2024-10-22, **LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias**, Haian Jin et.al., Paper: [http://arxiv.org/abs/2410.17242](http://arxiv.org/abs/2410.17242)
+- 2024-10-18, **GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting**, Yusen Xie et.al., Paper: [http://arxiv.org/abs/2410.17084](http://arxiv.org/abs/2410.17084)
+- 2024-10-22, **E-3DGS: Gaussian Splatting with Exposure and Motion Events**, Xiaoting Yin et.al., Paper: [http://arxiv.org/abs/2410.16995](http://arxiv.org/abs/2410.16995)
+- 2024-10-21, **Geometric Study on Noncommutativity in Canonical Nonlinearity**, Atsuro Arai et.al., Paper: [http://arxiv.org/abs/2410.16525](http://arxiv.org/abs/2410.16525)
+- 2024-10-21, **Joker: Conditional 3D Head Synthesis with Extreme Facial Expressions**, Malte Prinzler et.al., Paper: [http://arxiv.org/abs/2410.16395](http://arxiv.org/abs/2410.16395)
 - 2024-10-21, **FrugalNeRF: Fast Convergence for Few-shot Novel View Synthesis without Learned Priors**, Chin-Yang Lin et.al., Paper: [http://arxiv.org/abs/2410.16271](http://arxiv.org/abs/2410.16271)
 - 2024-10-20, **EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting**, Bohao Liao et.al., Paper: [http://arxiv.org/abs/2410.15392](http://arxiv.org/abs/2410.15392)
 - 2024-10-20, **Neural Active Structure-from-Motion in Dark and Textureless Environment**, Kazuto Ichimaru et.al., Paper: [http://arxiv.org/abs/2410.15378](http://arxiv.org/abs/2410.15378)
