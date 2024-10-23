@@ -1,4 +1,4 @@
-> Updated on 2024.10.22
+> Updated on 2024.10.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -15,7 +15,7 @@
 
 ## Depth Estimation
 
-- 2024-10-19, **DCDepth: Progressive Monocular Depth Estimation in Discrete Cosine Domain**, Kun Wang et.al., Paper: [http://arxiv.org/abs/2410.14980](http://arxiv.org/abs/2410.14980), Code: **[https://github.com/w2kun/dcdepth](https://github.com/w2kun/dcdepth)**
+- 2024-10-22, **DCDepth: Progressive Monocular Depth Estimation in Discrete Cosine Domain**, Kun Wang et.al., Paper: [http://arxiv.org/abs/2410.14980](http://arxiv.org/abs/2410.14980), Code: **[https://github.com/w2kun/dcdepth](https://github.com/w2kun/dcdepth)**
 - 2024-10-17, **DepthSplat: Connecting Gaussian Splatting and Depth**, Haofei Xu et.al., Paper: [http://arxiv.org/abs/2410.13862](http://arxiv.org/abs/2410.13862), Code: **[https://github.com/cvg/depthsplat](https://github.com/cvg/depthsplat)**
 - 2024-10-16, **DH-VTON: Deep Text-Driven Virtual Try-On via Hybrid Attention Learning**, Jiabao Wei et.al., Paper: [http://arxiv.org/abs/2410.12501](http://arxiv.org/abs/2410.12501)
 - 2024-10-16, **Depth Estimation From Monocular Images With Enhanced Encoder-Decoder Architecture**, Dabbrata Das et.al., Paper: [http://arxiv.org/abs/2410.11610](http://arxiv.org/abs/2410.11610)
@@ -65,7 +65,7 @@
 |**2024-09-23**|**GroCo: Ground Constraint for Metric Self-Supervised Monocular Depth**|Aurélien Cecille et.al.|[2409.14850](http://arxiv.org/abs/2409.14850)|null|
 |**2024-09-23**|**Robust and Flexible Omnidirectional Depth Estimation with Multiple 360° Cameras**|Ming Li et.al.|[2409.14766](http://arxiv.org/abs/2409.14766)|null|
 
-<p align=right>(<a href=#updated-on-20241022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
 
 ## Image Matching
 
@@ -349,7 +349,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20241022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
 
 ## Gesture Recognition
 
@@ -372,7 +372,7 @@
 |**2024-09-10**|**Advancements in Gesture Recognition Techniques and Machine Learning for Enhanced Human-Robot Interaction: A Comprehensive Review**|Sajjad Hussain et.al.|[2409.06503](http://arxiv.org/abs/2409.06503)|null|
 |**2024-09-05**|**MVTN: A Multiscale Video Transformer Network for Hand Gesture Recognition**|Mallika Garg et.al.|[2409.03890](http://arxiv.org/abs/2409.03890)|**[link](https://github.com/mallikagarg/mvtn)**|
 
-<p align=right>(<a href=#updated-on-20241022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
 
 ## Eye Tracking
 
@@ -399,12 +399,12 @@
 |**2024-09-11**|**Bridging Quantitative and Qualitative Methods for Visualization Research: A Data/Semantics Perspective in Light of Advanced AI**|Daniel Weiskopf et.al.|[2409.07250](http://arxiv.org/abs/2409.07250)|null|
 |**2024-09-10**|**Mazed and Confused: A Dataset of Cybersickness, Working Memory, Mental Load, Physical Load, and Attention During a Real Walking Task in VR**|Jyotirmay Nag Setu et.al.|[2409.06898](http://arxiv.org/abs/2409.06898)|null|
 
-<p align=right>(<a href=#updated-on-20241022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
 
 ## Embodied AI
 
 - 2024-10-21, **xGen-MM-Vid (BLIP-3-Video): You Only Need 32 Tokens to Represent a Video Even in VLMs**, Michael S. Ryoo et.al., Paper: [http://arxiv.org/abs/2410.16267](http://arxiv.org/abs/2410.16267)
-- 2024-10-21, **Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance**, Zhangwei Gao et.al., Paper: [http://arxiv.org/abs/2410.16261](http://arxiv.org/abs/2410.16261), Code: **[https://github.com/opengvlab/internvl](https://github.com/opengvlab/internvl)**
+- 2024-10-22, **Mini-InternVL: A Flexible-Transfer Pocket Multimodal Model with 5% Parameters and 90% Performance**, Zhangwei Gao et.al., Paper: [http://arxiv.org/abs/2410.16261](http://arxiv.org/abs/2410.16261), Code: **[https://github.com/opengvlab/internvl](https://github.com/opengvlab/internvl)**
 - 2024-10-21, **Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping**, Ryan Li et.al., Paper: [http://arxiv.org/abs/2410.16232](http://arxiv.org/abs/2410.16232)
 - 2024-10-21, **Improve Vision Language Model Chain-of-thought Reasoning**, Ruohong Zhang et.al., Paper: [http://arxiv.org/abs/2410.16198](http://arxiv.org/abs/2410.16198)
 - 2024-10-21, **Griffon-G: Bridging Vision-Language and Vision-Centric Tasks via Large Multimodal Models**, Yufei Zhan et.al., Paper: [http://arxiv.org/abs/2410.16163](http://arxiv.org/abs/2410.16163), Code: **[https://github.com/jefferyzhan/griffon](https://github.com/jefferyzhan/griffon)**
@@ -569,7 +569,7 @@
 |**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278](http://arxiv.org/abs/2409.16278)|null|
 |**2024-09-24**|**CDChat: A Large Multimodal Model for Remote Sensing Change Description**|Mubashir Noman et.al.|[2409.16261](http://arxiv.org/abs/2409.16261)|**[link](https://github.com/techmn/cdchat)**|
 
-<p align=right>(<a href=#updated-on-20241022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
 
 ## Diffusion
 
@@ -578,7 +578,7 @@
 - 2024-10-21, **Role of obstacle softness in the diffusive behavior of active Particles**, Ankit Gupta et.al., Paper: [http://arxiv.org/abs/2410.16223](http://arxiv.org/abs/2410.16223)
 - 2024-10-21, **A Framework for Evaluating Predictive Models Using Synthetic Image Covariates and Longitudinal Data**, Simon Deltadahl et.al., Paper: [http://arxiv.org/abs/2410.16177](http://arxiv.org/abs/2410.16177)
 - 2024-10-21, **Validity of Prandtl's boundary layer from the Boltzmann theory**, Chanwoo Kim et.al., Paper: [http://arxiv.org/abs/2410.16160](http://arxiv.org/abs/2410.16160)
-- 2024-10-21, **Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**, Giannis Daras et.al., Paper: [http://arxiv.org/abs/2410.16152](http://arxiv.org/abs/2410.16152)
+- 2024-10-22, **Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**, Giannis Daras et.al., Paper: [http://arxiv.org/abs/2410.16152](http://arxiv.org/abs/2410.16152)
 - 2024-10-21, **Universal Linear Response of the Mean First-Passage Time**, Tommer D. Keidar et.al., Paper: [http://arxiv.org/abs/2410.16129](http://arxiv.org/abs/2410.16129)
 - 2024-10-21, **SeaDAG: Semi-autoregressive Diffusion for Conditional Directed Acyclic Graph Generation**, Xinyi Zhou et.al., Paper: [http://arxiv.org/abs/2410.16119](http://arxiv.org/abs/2410.16119)
 - 2024-10-21, **Continuous Speech Synthesis using per-token Latent Diffusion**, Arnon Turetzky et.al., Paper: [http://arxiv.org/abs/2410.16048](http://arxiv.org/abs/2410.16048)
@@ -744,13 +744,13 @@
 |**2024-09-25**|**Decomposition of Friction Coefficients to Analyze Hydration Effects on a C $_{60}$(OH)$_{\rm n}$**|Tomoya Iwashita et.al.|[2409.17028](http://arxiv.org/abs/2409.17028)|null|
 |**2024-09-25**|**Single Image, Any Face: Generalisable 3D Face Generation**|Wenqing Wang et.al.|[2409.16990](http://arxiv.org/abs/2409.16990)|null|
 
-<p align=right>(<a href=#updated-on-20241022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
 
 ## Gaussian Splatting
 
 - 2024-10-21, **3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors**, Xi Liu et.al., Paper: [http://arxiv.org/abs/2410.16266](http://arxiv.org/abs/2410.16266)
 - 2024-10-21, **MSGField: A Unified Scene Representation Integrating Motion, Semantics, and Geometry for Robotic Manipulation**, Yu Sheng et.al., Paper: [http://arxiv.org/abs/2410.15730](http://arxiv.org/abs/2410.15730)
-- 2024-10-21, **Fully Explicit Dynamic Gaussian Splatting**, Junoh Lee et.al., Paper: [http://arxiv.org/abs/2410.15629](http://arxiv.org/abs/2410.15629)
+- 2024-10-22, **Fully Explicit Dynamic Gaussian Splatting**, Junoh Lee et.al., Paper: [http://arxiv.org/abs/2410.15629](http://arxiv.org/abs/2410.15629)
 - 2024-10-20, **EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting**, Bohao Liao et.al., Paper: [http://arxiv.org/abs/2410.15392](http://arxiv.org/abs/2410.15392)
 - 2024-10-18, **LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scenes**, Juliette Marrie et.al., Paper: [http://arxiv.org/abs/2410.14462](http://arxiv.org/abs/2410.14462)
 - 2024-10-18, **Neural Signed Distance Function Inference through Splatting 3D Gaussians Pulled on Zero-Level Set**, Wenyuan Zhang et.al., Paper: [http://arxiv.org/abs/2410.14189](http://arxiv.org/abs/2410.14189)
@@ -844,7 +844,7 @@
 |**2024-09-23**|**Human Hair Reconstruction with Strand-Aligned 3D Gaussians**|Egor Zakharov et.al.|[2409.14778](http://arxiv.org/abs/2409.14778)|null|
 |**2024-09-22**|**MVPGS: Excavating Multi-view Priors for Gaussian Splatting from Sparse Input Views**|Wangze Xu et.al.|[2409.14316](http://arxiv.org/abs/2409.14316)|null|
 
-<p align=right>(<a href=#updated-on-20241022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
 
 ## NeRF
 
@@ -2191,5 +2191,5 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20241022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
 
