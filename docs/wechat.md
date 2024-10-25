@@ -15,6 +15,8 @@
 
 ## Depth Estimation
 
+- 2024-10-24, **Segmentation-aware Prior Assisted Joint Global Information Aggregated 3D Building Reconstruction**, Hongxin Peng et.al., Paper: [http://arxiv.org/abs/2410.18433](http://arxiv.org/abs/2410.18433)
+- 2024-10-24, **Thermal Chameleon: Task-Adaptive Tone-mapping for Radiometric Thermal-Infrared images**, Dong-Guw Lee et.al., Paper: [http://arxiv.org/abs/2410.18340](http://arxiv.org/abs/2410.18340), Code: **[https://github.com/donkeymouse/thermalchameleon](https://github.com/donkeymouse/thermalchameleon)**
 - 2024-10-23, **UnCLe: Unsupervised Continual Learning of Depth Completion**, Suchisrit Gangopadhyay et.al., Paper: [http://arxiv.org/abs/2410.18074](http://arxiv.org/abs/2410.18074)
 - 2024-10-21, **TIPS: Text-Image Pretraining with Spatial Awareness**, Kevis-Kokitsi Maninis et.al., Paper: [http://arxiv.org/abs/2410.16512](http://arxiv.org/abs/2410.16512)
 - 2024-10-22, **DCDepth: Progressive Monocular Depth Estimation in Discrete Cosine Domain**, Kun Wang et.al., Paper: [http://arxiv.org/abs/2410.14980](http://arxiv.org/abs/2410.14980), Code: **[https://github.com/w2kun/dcdepth](https://github.com/w2kun/dcdepth)**
@@ -355,6 +357,8 @@
 
 ## Gesture Recognition
 
+- 2024-10-24, **Research on gesture recognition method based on SEDCNN-SVM**, Mingjin Zhang et.al., Paper: [http://arxiv.org/abs/2410.18557](http://arxiv.org/abs/2410.18557)
+- 2024-10-08, **RingGesture: A Ring-Based Mid-Air Gesture Typing System Powered by a Deep-Learning Word Prediction Framework**, Junxiao Shen et.al., Paper: [http://arxiv.org/abs/2410.18100](http://arxiv.org/abs/2410.18100)
 - 2024-10-07, **Masked Autoencoder with Swin Transformer Network for Mitigating Electrode Shift in HD-EMG-based Gesture Recognition**, Kasra Laamerad et.al., Paper: [http://arxiv.org/abs/2410.17261](http://arxiv.org/abs/2410.17261)
 - 2024-10-12, **Advanced Gesture Recognition in Autism: Integrating YOLOv7, Video Augmentation and VideoMAE for Video Analysis**, Amit Kumar Singh et.al., Paper: [http://arxiv.org/abs/2410.09339](http://arxiv.org/abs/2410.09339)
 - 2024-10-08, **TouchInsight: Uncertainty-aware Rapid Touch and Text Input for Mixed Reality from Egocentric Vision**, Paul Streli et.al., Paper: [http://arxiv.org/abs/2410.05940](http://arxiv.org/abs/2410.05940)
@@ -406,6 +410,14 @@
 
 ## Embodied AI
 
+- 2024-10-24, **CAMEL-Bench: A Comprehensive Arabic LMM Benchmark**, Sara Ghaboura et.al., Paper: [http://arxiv.org/abs/2410.18976](http://arxiv.org/abs/2410.18976)
+- 2024-10-24, **Deep Insights into Cognitive Decline: A Survey of Leveraging Non-Intrusive Modalities with Deep Learning Techniques**, David Ortiz-Perez et.al., Paper: [http://arxiv.org/abs/2410.18972](http://arxiv.org/abs/2410.18972)
+- 2024-10-24, **OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning**, Xiaoqiang Wang et.al., Paper: [http://arxiv.org/abs/2410.18963](http://arxiv.org/abs/2410.18963)
+- 2024-10-24, **A Survey of Multimodal Sarcasm Detection**, Shafkat Farabi et.al., Paper: [http://arxiv.org/abs/2410.18882](http://arxiv.org/abs/2410.18882)
+- 2024-10-24, **Probabilistic Language-Image Pre-Training**, Sanghyuk Chun et.al., Paper: [http://arxiv.org/abs/2410.18857](http://arxiv.org/abs/2410.18857)
+- 2024-10-24, **Zero-shot Object Navigation with Vision-Language Models Reasoning**, Congcong Wen et.al., Paper: [http://arxiv.org/abs/2410.18570](http://arxiv.org/abs/2410.18570)
+- 2024-10-24, **Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data**, Shuhao Gu et.al., Paper: [http://arxiv.org/abs/2410.18558](http://arxiv.org/abs/2410.18558)
+- 2024-10-24, **Beyond Color and Lines: Zero-Shot Style-Specific Image Variations with Coordinated Semantics**, Jinghao Hu et.al., Paper: [http://arxiv.org/abs/2410.18537](http://arxiv.org/abs/2410.18537)
 - 2024-10-23, **R-CoT: Reverse Chain-of-Thought Problem Generation for Geometric Reasoning in Large Multimodal Models**, Linger Deng et.al., Paper: [http://arxiv.org/abs/2410.17885](http://arxiv.org/abs/2410.17885), Code: **[https://github.com/dle666/r-cot](https://github.com/dle666/r-cot)**
 - 2024-10-23, **Lightweight Neural App Control**, Filippos Christianos et.al., Paper: [http://arxiv.org/abs/2410.17883](http://arxiv.org/abs/2410.17883)
 - 2024-10-23, **ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting**, Shaofei Cai et.al., Paper: [http://arxiv.org/abs/2410.17856](http://arxiv.org/abs/2410.17856)
@@ -594,6 +606,16 @@
 
 ## Diffusion
 
+- 2024-10-24, **MotionCLR: Motion Generation and Training-free Editing via Understanding Attention Mechanisms**, Ling-Hao Chen et.al., Paper: [http://arxiv.org/abs/2410.18977](http://arxiv.org/abs/2410.18977)
+- 2024-10-24, **3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D Generation**, Hansheng Chen et.al., Paper: [http://arxiv.org/abs/2410.18974](http://arxiv.org/abs/2410.18974), Code: **[https://github.com/Lakonik/MVEdit](https://github.com/Lakonik/MVEdit)**
+- 2024-10-24, **On the Crucial Role of Initialization for Matrix Factorization**, Bingcong Li et.al., Paper: [http://arxiv.org/abs/2410.18965](http://arxiv.org/abs/2410.18965)
+- 2024-10-24, **Stable Consistency Tuning: Understanding and Improving Consistency Models**, Fu-Yun Wang et.al., Paper: [http://arxiv.org/abs/2410.18958](http://arxiv.org/abs/2410.18958), Code: **[https://github.com/G-U-N/Stable-Consistency-Tuning](https://github.com/G-U-N/Stable-Consistency-Tuning)**
+- 2024-10-24, **Generation of synthetic financial time series by diffusion models**, Tomonori Takahashi et.al., Paper: [http://arxiv.org/abs/2410.18897](http://arxiv.org/abs/2410.18897)
+- 2024-10-24, **Diff-Instruct++: Training One-step Text-to-image Generator Model to Align with Human Preferences**, Weijian Luo et.al., Paper: [http://arxiv.org/abs/2410.18881](http://arxiv.org/abs/2410.18881)
+- 2024-10-24, **Diffusion of impurities in a moderately dense confined granular gas**, Rubén Gómez González et.al., Paper: [http://arxiv.org/abs/2410.18874](http://arxiv.org/abs/2410.18874)
+- 2024-10-24, **On the mean-field limit of diffusive games through the master equation: extreme value analysis**, Erhan Bayraktar et.al., Paper: [http://arxiv.org/abs/2410.18869](http://arxiv.org/abs/2410.18869)
+- 2024-10-24, **The Cat and Mouse Game: The Ongoing Arms Race Between Diffusion Models and Detection Methods**, Linda Laurier et.al., Paper: [http://arxiv.org/abs/2410.18866](http://arxiv.org/abs/2410.18866)
+- 2024-10-24, **A diffusion MRI model for random walks confined on cylindrical surfaces: Towards non-invasive quantification of myelin sheath radius**, Erick J Canales-Rodríguez et.al., Paper: [http://arxiv.org/abs/2410.18842](http://arxiv.org/abs/2410.18842)
 - 2024-10-23, **DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes**, Hengwei Bian et.al., Paper: [http://arxiv.org/abs/2410.18084](http://arxiv.org/abs/2410.18084)
 - 2024-10-23, **Prioritized Generative Replay**, Renhao Wang et.al., Paper: [http://arxiv.org/abs/2410.18082](http://arxiv.org/abs/2410.18082)
 - 2024-10-23, **Training Free Guided Flow Matching with Optimal Control**, Luran Wang et.al., Paper: [http://arxiv.org/abs/2410.18070](http://arxiv.org/abs/2410.18070)
@@ -789,12 +811,16 @@
 
 ## Gaussian Splatting
 
+- 2024-10-24, **3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D Generation**, Hansheng Chen et.al., Paper: [http://arxiv.org/abs/2410.18974](http://arxiv.org/abs/2410.18974), Code: **[https://github.com/Lakonik/MVEdit](https://github.com/Lakonik/MVEdit)**
+- 2024-10-24, **Sort-free Gaussian Splatting via Weighted Sum Rendering**, Qiqi Hou et.al., Paper: [http://arxiv.org/abs/2410.18931](http://arxiv.org/abs/2410.18931)
+- 2024-10-24, **Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling**, Mingtong Zhang et.al., Paper: [http://arxiv.org/abs/2410.18912](http://arxiv.org/abs/2410.18912)
+- 2024-10-24, **Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis**, Liang Han et.al., Paper: [http://arxiv.org/abs/2410.18822](http://arxiv.org/abs/2410.18822)
 - 2024-10-23, **VR-Splatting: Foveated Radiance Field Rendering via 3D Gaussian Splatting and Neural Points**, Linus Franke et.al., Paper: [http://arxiv.org/abs/2410.17932](http://arxiv.org/abs/2410.17932)
 - 2024-10-23, **PLGS: Robust Panoptic Lifting with 3D Gaussian Splatting**, Yu Wang et.al., Paper: [http://arxiv.org/abs/2410.17505](http://arxiv.org/abs/2410.17505)
 - 2024-10-22, **AG-SLAM: Active Gaussian Splatting SLAM**, Wen Jiang et.al., Paper: [http://arxiv.org/abs/2410.17422](http://arxiv.org/abs/2410.17422)
 - 2024-10-22, **SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes**, Cheng-De Fan et.al., Paper: [http://arxiv.org/abs/2410.17249](http://arxiv.org/abs/2410.17249)
 - 2024-10-18, **GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting**, Yusen Xie et.al., Paper: [http://arxiv.org/abs/2410.17084](http://arxiv.org/abs/2410.17084)
-- 2024-10-22, **E-3DGS: Gaussian Splatting with Exposure and Motion Events**, Xiaoting Yin et.al., Paper: [http://arxiv.org/abs/2410.16995](http://arxiv.org/abs/2410.16995)
+- 2024-10-22, **E-3DGS: Gaussian Splatting with Exposure and Motion Events**, Xiaoting Yin et.al., Paper: [http://arxiv.org/abs/2410.16995](http://arxiv.org/abs/2410.16995), Code: **[https://github.com/masterhow/e-3dgs](https://github.com/masterhow/e-3dgs)**
 - 2024-10-22, **Multi-Layer Gaussian Splatting for Immersive Anatomy Visualization**, Constantin Kleinbeck et.al., Paper: [http://arxiv.org/abs/2410.16978](http://arxiv.org/abs/2410.16978), Code: **[https://github.com/roth-hex-lab/Multi-Layer-Gaussian-Splatting-for-Immersive-Anatomy-Visualization](https://github.com/roth-hex-lab/Multi-Layer-Gaussian-Splatting-for-Immersive-Anatomy-Visualization)**
 - 2024-10-21, **3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors**, Xi Liu et.al., Paper: [http://arxiv.org/abs/2410.16266](http://arxiv.org/abs/2410.16266)
 - 2024-10-21, **MSGField: A Unified Scene Representation Integrating Motion, Semantics, and Geometry for Robotic Manipulation**, Yu Sheng et.al., Paper: [http://arxiv.org/abs/2410.15730](http://arxiv.org/abs/2410.15730)
@@ -896,14 +922,17 @@
 
 ## NeRF
 
+- 2024-10-24, **Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis**, Liang Han et.al., Paper: [http://arxiv.org/abs/2410.18822](http://arxiv.org/abs/2410.18822)
+- 2024-10-24, **Monge-Ampere Regularization for Learning Arbitrary Shapes from Point Clouds**, Chuanxiang Yang et.al., Paper: [http://arxiv.org/abs/2410.18477](http://arxiv.org/abs/2410.18477)
+- 2024-10-24, **Real-time 3D-aware Portrait Video Relighting**, Ziqi Cai et.al., Paper: [http://arxiv.org/abs/2410.18355](http://arxiv.org/abs/2410.18355), Code: **[https://github.com/GhostCai/PortraitRelighting](https://github.com/GhostCai/PortraitRelighting)**
 - 2024-10-23, **VR-Splatting: Foveated Radiance Field Rendering via 3D Gaussian Splatting and Neural Points**, Linus Franke et.al., Paper: [http://arxiv.org/abs/2410.17932](http://arxiv.org/abs/2410.17932)
 - 2024-10-23, **Few-shot NeRF by Adaptive Rendering Loss Regularization**, Qingshan Xu et.al., Paper: [http://arxiv.org/abs/2410.17839](http://arxiv.org/abs/2410.17839)
 - 2024-10-23, **Quasi-Medial Distance Field (Q-MDF): A Robust Method for Approximating and Discretizing Neural Medial Axis**, Jiayi Kong et.al., Paper: [http://arxiv.org/abs/2410.17774](http://arxiv.org/abs/2410.17774)
-- 2024-10-23, **Efficient Neural Implicit Representation for 3D Human Reconstruction**, Zexu Huang et.al., Paper: [http://arxiv.org/abs/2410.17741](http://arxiv.org/abs/2410.17741)
+- 2024-10-23, **Efficient Neural Implicit Representation for 3D Human Reconstruction**, Zexu Huang et.al., Paper: [http://arxiv.org/abs/2410.17741](http://arxiv.org/abs/2410.17741), Code: **[https://github.com/HZXu-526/Human-Avatar](https://github.com/HZXu-526/Human-Avatar)**
 - 2024-10-23, **PLGS: Robust Panoptic Lifting with 3D Gaussian Splatting**, Yu Wang et.al., Paper: [http://arxiv.org/abs/2410.17505](http://arxiv.org/abs/2410.17505)
 - 2024-10-22, **LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias**, Haian Jin et.al., Paper: [http://arxiv.org/abs/2410.17242](http://arxiv.org/abs/2410.17242)
 - 2024-10-18, **GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting**, Yusen Xie et.al., Paper: [http://arxiv.org/abs/2410.17084](http://arxiv.org/abs/2410.17084)
-- 2024-10-22, **E-3DGS: Gaussian Splatting with Exposure and Motion Events**, Xiaoting Yin et.al., Paper: [http://arxiv.org/abs/2410.16995](http://arxiv.org/abs/2410.16995)
+- 2024-10-22, **E-3DGS: Gaussian Splatting with Exposure and Motion Events**, Xiaoting Yin et.al., Paper: [http://arxiv.org/abs/2410.16995](http://arxiv.org/abs/2410.16995), Code: **[https://github.com/masterhow/e-3dgs](https://github.com/masterhow/e-3dgs)**
 - 2024-10-21, **Geometric Study on Noncommutativity in Canonical Nonlinearity**, Atsuro Arai et.al., Paper: [http://arxiv.org/abs/2410.16525](http://arxiv.org/abs/2410.16525)
 - 2024-10-21, **Joker: Conditional 3D Head Synthesis with Extreme Facial Expressions**, Malte Prinzler et.al., Paper: [http://arxiv.org/abs/2410.16395](http://arxiv.org/abs/2410.16395)
 - 2024-10-21, **FrugalNeRF: Fast Convergence for Few-shot Novel View Synthesis without Learned Priors**, Chin-Yang Lin et.al., Paper: [http://arxiv.org/abs/2410.16271](http://arxiv.org/abs/2410.16271)
