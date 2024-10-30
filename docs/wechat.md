@@ -1,4 +1,4 @@
-> Updated on 2024.10.29
+> Updated on 2024.10.30
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -73,7 +73,7 @@
 |**2024-09-23**|**GroCo: Ground Constraint for Metric Self-Supervised Monocular Depth**|Aurélien Cecille et.al.|[2409.14850](http://arxiv.org/abs/2409.14850)|null|
 |**2024-09-23**|**Robust and Flexible Omnidirectional Depth Estimation with Multiple 360° Cameras**|Ming Li et.al.|[2409.14766](http://arxiv.org/abs/2409.14766)|null|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
 ## Image Matching
 
@@ -358,7 +358,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
 ## Gesture Recognition
 
@@ -385,7 +385,7 @@
 |**2024-09-10**|**Advancements in Gesture Recognition Techniques and Machine Learning for Enhanced Human-Robot Interaction: A Comprehensive Review**|Sajjad Hussain et.al.|[2409.06503](http://arxiv.org/abs/2409.06503)|null|
 |**2024-09-05**|**MVTN: A Multiscale Video Transformer Network for Hand Gesture Recognition**|Mallika Garg et.al.|[2409.03890](http://arxiv.org/abs/2409.03890)|**[link](https://github.com/mallikagarg/mvtn)**|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
 ## Eye Tracking
 
@@ -414,18 +414,18 @@
 |**2024-09-11**|**Bridging Quantitative and Qualitative Methods for Visualization Research: A Data/Semantics Perspective in Light of Advanced AI**|Daniel Weiskopf et.al.|[2409.07250](http://arxiv.org/abs/2409.07250)|null|
 |**2024-09-10**|**Mazed and Confused: A Dataset of Cybersickness, Working Memory, Mental Load, Physical Load, and Attention During a Real Walking Task in VR**|Jyotirmay Nag Setu et.al.|[2409.06898](http://arxiv.org/abs/2409.06898)|null|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
 ## Embodied AI
 
-- 2024-10-28, **AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?**, Han Bao et.al., Paper: [http://arxiv.org/abs/2410.21259](http://arxiv.org/abs/2410.21259)
+- 2024-10-29, **AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?**, Han Bao et.al., Paper: [http://arxiv.org/abs/2410.21259](http://arxiv.org/abs/2410.21259)
 - 2024-10-28, **Hierarchical Knowledge Graph Construction from Images for Scalable E-Commerce**, Zhantao Yang et.al., Paper: [http://arxiv.org/abs/2410.21237](http://arxiv.org/abs/2410.21237)
 - 2024-10-28, **Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines**, Zhixin Zhang et.al., Paper: [http://arxiv.org/abs/2410.21220](http://arxiv.org/abs/2410.21220), Code: **[https://github.com/cnzzx/vsa](https://github.com/cnzzx/vsa)**
-- 2024-10-28, **Document Parsing Unveiled: Techniques, Challenges, and Prospects for Structured Information Extraction**, Qintong Zhang et.al., Paper: [http://arxiv.org/abs/2410.21169](http://arxiv.org/abs/2410.21169)
+- 2024-10-29, **Document Parsing Unveiled: Techniques, Challenges, and Prospects for Structured Information Extraction**, Qintong Zhang et.al., Paper: [http://arxiv.org/abs/2410.21169](http://arxiv.org/abs/2410.21169)
 - 2024-10-28, **Zero-Shot Action Recognition in Surveillance Videos**, Joao Pereira et.al., Paper: [http://arxiv.org/abs/2410.21113](http://arxiv.org/abs/2410.21113)
 - 2024-10-28, **Large Language Model-assisted Speech and Pointing Benefits Multiple 3D Object Selection in Virtual Reality**, Junlong Chen et.al., Paper: [http://arxiv.org/abs/2410.21091](http://arxiv.org/abs/2410.21091)
 - 2024-10-28, **BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks**, Yunhan Zhao et.al., Paper: [http://arxiv.org/abs/2410.20971](http://arxiv.org/abs/2410.20971)
-- 2024-10-28, **VLMimic: Vision Language Models are Visual Imitation Learner for Fine-grained Actions**, Guanyan Chen et.al., Paper: [http://arxiv.org/abs/2410.20927](http://arxiv.org/abs/2410.20927)
+- 2024-10-29, **VLMimic: Vision Language Models are Visual Imitation Learner for Fine-grained Actions**, Guanyan Chen et.al., Paper: [http://arxiv.org/abs/2410.20927](http://arxiv.org/abs/2410.20927)
 - 2024-10-28, **Improving Generalization in Visual Reasoning via Self-Ensemble**, Tien-Huy Nguyen et.al., Paper: [http://arxiv.org/abs/2410.20883](http://arxiv.org/abs/2410.20883)
 - 2024-10-28, **Guide-LLM: An Embodied LLM Agent and Text-Based Topological Map for Robotic Guidance of People with Visual Impairments**, Sangmim Song et.al., Paper: [http://arxiv.org/abs/2410.20666](http://arxiv.org/abs/2410.20666)
 - 2024-10-25, **Rethinking Visual Dependency in Long-Context Reasoning for Large Vision-Language Models**, Yucheng Zhou et.al., Paper: [http://arxiv.org/abs/2410.19732](http://arxiv.org/abs/2410.19732)
@@ -629,7 +629,7 @@
 |**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278](http://arxiv.org/abs/2409.16278)|null|
 |**2024-09-24**|**CDChat: A Large Multimodal Model for Remote Sensing Change Description**|Mubashir Noman et.al.|[2409.16261](http://arxiv.org/abs/2409.16261)|**[link](https://github.com/techmn/cdchat)**|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
 ## Diffusion
 
@@ -639,7 +639,7 @@
 - 2024-10-28, **Trajectory Flow Matching with Applications to Clinical Time Series Modeling**, Xi Zhang et.al., Paper: [http://arxiv.org/abs/2410.21154](http://arxiv.org/abs/2410.21154), Code: **[https://github.com/nzhangx/trajectoryflowmatching](https://github.com/nzhangx/trajectoryflowmatching)**
 - 2024-10-28, **Extrapolating Prospective Glaucoma Fundus Images through Diffusion Model in Irregular Longitudinal Sequences**, Zhihao Zhao et.al., Paper: [http://arxiv.org/abs/2410.21130](http://arxiv.org/abs/2410.21130)
 - 2024-10-28, **Tree-Wasserstein Distance for High Dimensional Data with a Latent Feature Hierarchy**, Ya-Wei Eileen Lin et.al., Paper: [http://arxiv.org/abs/2410.21107](http://arxiv.org/abs/2410.21107)
-- 2024-10-28, **Shallow Diffuse: Robust and Invisible Watermarking through Low-Dimensional Subspaces in Diffusion Models**, Wenda Li et.al., Paper: [http://arxiv.org/abs/2410.21088](http://arxiv.org/abs/2410.21088)
+- 2024-10-28, **Shallow Diffuse: Robust and Invisible Watermarking through Low-Dimensional Subspaces in Diffusion Models**, Wenda Li et.al., Paper: [http://arxiv.org/abs/2410.21088](http://arxiv.org/abs/2410.21088), Code: **[https://github.com/liwd190019/shallow-diffuse](https://github.com/liwd190019/shallow-diffuse)**
 - 2024-10-28, **Confined active particles with spatially dependent Lorentz force: an odd twist to the "best Fokker-Planck approximation"**, René Wittmann et.al., Paper: [http://arxiv.org/abs/2410.21087](http://arxiv.org/abs/2410.21087)
 - 2024-10-28, **Federated Time Series Generation on Feature and Temporally Misaligned Data**, Chenrui Fan et.al., Paper: [http://arxiv.org/abs/2410.21072](http://arxiv.org/abs/2410.21072)
 - 2024-10-28, **Kandinsky 3: Text-to-Image Synthesis for Multifunctional Generative Framework**, Vladimir Arkhipkin et.al., Paper: [http://arxiv.org/abs/2410.21061](http://arxiv.org/abs/2410.21061)
@@ -854,7 +854,7 @@
 |**2024-09-25**|**Decomposition of Friction Coefficients to Analyze Hydration Effects on a C $_{60}$(OH)$_{\rm n}$**|Tomoya Iwashita et.al.|[2409.17028](http://arxiv.org/abs/2409.17028)|null|
 |**2024-09-25**|**Single Image, Any Face: Generalisable 3D Face Generation**|Wenqing Wang et.al.|[2409.16990](http://arxiv.org/abs/2409.16990)|null|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
 ## Gaussian Splatting
 
@@ -974,11 +974,11 @@
 |**2024-09-23**|**Human Hair Reconstruction with Strand-Aligned 3D Gaussians**|Egor Zakharov et.al.|[2409.14778](http://arxiv.org/abs/2409.14778)|null|
 |**2024-09-22**|**MVPGS: Excavating Multi-view Priors for Gaussian Splatting from Sparse Input Views**|Wangze Xu et.al.|[2409.14316](http://arxiv.org/abs/2409.14316)|null|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
 ## NeRF
 
-- 2024-10-28, **EEG-Driven 3D Object Reconstruction with Color Consistency and Diffusion Prior**, Xin Xiang et.al., Paper: [http://arxiv.org/abs/2410.20981](http://arxiv.org/abs/2410.20981)
+- 2024-10-29, **EEG-Driven 3D Object Reconstruction with Color Consistency and Diffusion Prior**, Xin Xiang et.al., Paper: [http://arxiv.org/abs/2410.20981](http://arxiv.org/abs/2410.20981)
 - 2024-10-28, **ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings**, Suyoung Lee et.al., Paper: [http://arxiv.org/abs/2410.20686](http://arxiv.org/abs/2410.20686)
 - 2024-10-27, **Neural rendering enables dynamic tomography**, Ivan Grega et.al., Paper: [http://arxiv.org/abs/2410.20558](http://arxiv.org/abs/2410.20558)
 - 2024-10-27, **GUMBEL-NERF: Representing Unseen Objects as Part-Compositional Neural Radiance Fields**, Yusuke Sekikawa et.al., Paper: [http://arxiv.org/abs/2410.20306](http://arxiv.org/abs/2410.20306)
@@ -2342,5 +2342,5 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
