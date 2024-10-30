@@ -15,6 +15,8 @@
 
 ## Depth Estimation
 
+- 2024-10-29, **Active Event Alignment for Monocular Distance Estimation**, Nan Cai et.al., Paper: [http://arxiv.org/abs/2410.22280](http://arxiv.org/abs/2410.22280)
+- 2024-10-29, **PF3plat: Pose-Free Feed-Forward 3D Gaussian Splatting**, Sunghwan Hong et.al., Paper: [http://arxiv.org/abs/2410.22128](http://arxiv.org/abs/2410.22128), Code: **[https://github.com/cvlab-kaist/PF3plat](https://github.com/cvlab-kaist/PF3plat)**
 - 2024-10-27, **Unlocking Comics: The AI4VA Dataset for Visual Understanding**, Peter Grönquist et.al., Paper: [http://arxiv.org/abs/2410.20459](http://arxiv.org/abs/2410.20459), Code: **[https://github.com/ivrl/ai4va](https://github.com/ivrl/ai4va)**
 - 2024-10-27, **Depth Attention for Robust RGB Tracking**, Yu Liu et.al., Paper: [http://arxiv.org/abs/2410.20395](http://arxiv.org/abs/2410.20395), Code: **[https://github.com/liuyuml/depth-attention](https://github.com/liuyuml/depth-attention)**
 - 2024-10-21, **YOLO11 and Vision Transformers based 3D Pose Estimation of Immature Green Fruits in Commercial Apple Orchards for Robotic Thinning**, Ranjan Sapkota et.al., Paper: [http://arxiv.org/abs/2410.19846](http://arxiv.org/abs/2410.19846)
@@ -389,6 +391,7 @@
 
 ## Eye Tracking
 
+- 2024-10-29, **Quantum cryptography visualized: assessing visual attention on multiple representations with eye tracking in an AR-enhanced quantum cryptography student experiment**, David Dzsotjan et.al., Paper: [http://arxiv.org/abs/2410.21975](http://arxiv.org/abs/2410.21975)
 - 2024-10-28, **Decoding Reading Goals from Eye Movements**, Omer Shubi et.al., Paper: [http://arxiv.org/abs/2410.20779](http://arxiv.org/abs/2410.20779)
 - 2024-10-25, **Gaze estimation learning architecture as support to affective, social and cognitive studies in natural human-robot interaction**, Maria Lombardi et.al., Paper: [http://arxiv.org/abs/2410.19374](http://arxiv.org/abs/2410.19374)
 - 2024-10-15, **Improving Digital Mentorship: Insights and Recommendations from the Re:Coded Community Platform Case Study**, Huda Najm Alabbas et.al., Paper: [http://arxiv.org/abs/2410.11912](http://arxiv.org/abs/2410.11912)
@@ -418,6 +421,16 @@
 
 ## Embodied AI
 
+- 2024-10-29, **Task Vectors are Cross-Modal**, Grace Luo et.al., Paper: [http://arxiv.org/abs/2410.22330](http://arxiv.org/abs/2410.22330)
+- 2024-10-29, **Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier**, Kai Wang et.al., Paper: [http://arxiv.org/abs/2410.22317](http://arxiv.org/abs/2410.22317), Code: **[https://github.com/wangkai930418/mc_ti](https://github.com/wangkai930418/mc_ti)**
+- 2024-10-29, **Natural Language Inference Improves Compositionality in Vision-Language Models**, Paola Cascante-Bonilla et.al., Paper: [http://arxiv.org/abs/2410.22315](http://arxiv.org/abs/2410.22315)
+- 2024-10-29, **Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**, Bo Jiang et.al., Paper: [http://arxiv.org/abs/2410.22313](http://arxiv.org/abs/2410.22313)
+- 2024-10-29, **ContextIQ: A Multimodal Expert-Based Video Retrieval System for Contextual Advertising**, Ashutosh Chaubey et.al., Paper: [http://arxiv.org/abs/2410.22233](http://arxiv.org/abs/2410.22233)
+- 2024-10-29, **ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding**, Kimihiro Hasegawa et.al., Paper: [http://arxiv.org/abs/2410.22211](http://arxiv.org/abs/2410.22211)
+- 2024-10-29, **Active Learning for Vision-Language Models**, Bardia Safaei et.al., Paper: [http://arxiv.org/abs/2410.22187](http://arxiv.org/abs/2410.22187)
+- 2024-10-29, **Analyzing Multimodal Interaction Strategies for LLM-Assisted Manipulation of 3D Scenes**, Junlong Chen et.al., Paper: [http://arxiv.org/abs/2410.22177](http://arxiv.org/abs/2410.22177)
+- 2024-10-29, **Are VLMs Really Blind**, Ayush Singh et.al., Paper: [http://arxiv.org/abs/2410.22029](http://arxiv.org/abs/2410.22029)
+- 2024-10-29, **Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**, Monica Riedler et.al., Paper: [http://arxiv.org/abs/2410.21943](http://arxiv.org/abs/2410.21943)
 - 2024-10-29, **AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?**, Han Bao et.al., Paper: [http://arxiv.org/abs/2410.21259](http://arxiv.org/abs/2410.21259)
 - 2024-10-28, **Hierarchical Knowledge Graph Construction from Images for Scalable E-Commerce**, Zhantao Yang et.al., Paper: [http://arxiv.org/abs/2410.21237](http://arxiv.org/abs/2410.21237)
 - 2024-10-28, **Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines**, Zhixin Zhang et.al., Paper: [http://arxiv.org/abs/2410.21220](http://arxiv.org/abs/2410.21220), Code: **[https://github.com/cnzzx/vsa](https://github.com/cnzzx/vsa)**
@@ -633,6 +646,16 @@
 
 ## Diffusion
 
+- 2024-10-29, **Driving forces in cell migration and pattern formation in a soft tissue**, Amabile Tatone et.al., Paper: [http://arxiv.org/abs/2410.22273](http://arxiv.org/abs/2410.22273)
+- 2024-10-29, **Surface reconstruction from point cloud using a semi-Lagrangian scheme with local interpolator**, Silvia Preda et.al., Paper: [http://arxiv.org/abs/2410.22205](http://arxiv.org/abs/2410.22205)
+- 2024-10-29, **Confinement of relativistic particles in the vicinity of accelerators: a key for understanding the anomalies in secondary cosmic rays**, Rui-zhi Yang et.al., Paper: [http://arxiv.org/abs/2410.22199](http://arxiv.org/abs/2410.22199)
+- 2024-10-29, **An alternating low-rank projection approach for partial differential equations with random inputs**, Guanjie Wang et.al., Paper: [http://arxiv.org/abs/2410.22183](http://arxiv.org/abs/2410.22183)
+- 2024-10-29, **Capacity Control is an Effective Memorization Mitigation Mechanism in Text-Conditional Diffusion Models**, Raman Dutt et.al., Paper: [http://arxiv.org/abs/2410.22149](http://arxiv.org/abs/2410.22149), Code: **[https://github.com/raman1121/diffusion_memorization_hpo](https://github.com/raman1121/diffusion_memorization_hpo)**
+- 2024-10-29, **Averaging principle for multiscale controlled jump diffusions and associated nonlocal HJB equations**, Qi Zhang et.al., Paper: [http://arxiv.org/abs/2410.22141](http://arxiv.org/abs/2410.22141)
+- 2024-10-29, **Thermodynamic uncertainty relation for systems with active Ornstein--Uhlenbeck particles**, Hyeong-Tark Han et.al., Paper: [http://arxiv.org/abs/2410.22126](http://arxiv.org/abs/2410.22126)
+- 2024-10-29, **TractShapeNet: Efficient Multi-Shape Learning with 3D Tractography Point Clouds**, Yui Lo et.al., Paper: [http://arxiv.org/abs/2410.22099](http://arxiv.org/abs/2410.22099)
+- 2024-10-29, **Generalized arcsine laws for a sluggish random walker with subdiffusive growth**, Giuseppe Del Vecchio Del Vecchio et.al., Paper: [http://arxiv.org/abs/2410.22097](http://arxiv.org/abs/2410.22097)
+- 2024-10-29, **Variational inference for pile-up removal at hadron colliders with diffusion models**, Malte Algren et.al., Paper: [http://arxiv.org/abs/2410.22074](http://arxiv.org/abs/2410.22074)
 - 2024-10-28, **On Inductive Biases That Enable Generalization of Diffusion Transformers**, Jie An et.al., Paper: [http://arxiv.org/abs/2410.21273](http://arxiv.org/abs/2410.21273)
 - 2024-10-28, **One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation**, Zhendong Wang et.al., Paper: [http://arxiv.org/abs/2410.21257](http://arxiv.org/abs/2410.21257)
 - 2024-10-28, **On learning higher-order cumulants in diffusion models**, Gert Aarts et.al., Paper: [http://arxiv.org/abs/2410.21212](http://arxiv.org/abs/2410.21212)
@@ -858,6 +881,10 @@
 
 ## Gaussian Splatting
 
+- 2024-10-29, **PF3plat: Pose-Free Feed-Forward 3D Gaussian Splatting**, Sunghwan Hong et.al., Paper: [http://arxiv.org/abs/2410.22128](http://arxiv.org/abs/2410.22128), Code: **[https://github.com/cvlab-kaist/PF3plat](https://github.com/cvlab-kaist/PF3plat)**
+- 2024-10-29, **FreeGaussian: Guidance-free Controllable 3D Gaussian Splats with Flow Derivatives**, Qizhi Chen et.al., Paper: [http://arxiv.org/abs/2410.22070](http://arxiv.org/abs/2410.22070)
+- 2024-10-29, **ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting**, Yuetao Li et.al., Paper: [http://arxiv.org/abs/2410.21955](http://arxiv.org/abs/2410.21955)
+- 2024-10-28, **MVSDet: Multi-View Indoor 3D Object Detection via Efficient Plane Sweeps**, Yating Xu et.al., Paper: [http://arxiv.org/abs/2410.21566](http://arxiv.org/abs/2410.21566), Code: **[https://github.com/pixie8888/mvsdet](https://github.com/pixie8888/mvsdet)**
 - 2024-10-28, **Grid4D: 4D Decomposed Hash Encoding for High-fidelity Dynamic Gaussian Splatting**, Jiawei Xu et.al., Paper: [http://arxiv.org/abs/2410.20815](http://arxiv.org/abs/2410.20815)
 - 2024-10-28, **LoDAvatar: Hierarchical Embedding and Adaptive Levels of Detail with Gaussian Splatting for Enhanced Human Avatars**, Xiaonuo Dongye et.al., Paper: [http://arxiv.org/abs/2410.20789](http://arxiv.org/abs/2410.20789)
 - 2024-10-28, **CompGS: Unleashing 2D Compositionality for Compositional Text-to-3D via Dynamically Optimizing 3D Gaussians**, Chongjian Ge et.al., Paper: [http://arxiv.org/abs/2410.20723](http://arxiv.org/abs/2410.20723)
@@ -978,6 +1005,7 @@
 
 ## NeRF
 
+- 2024-10-28, **MVSDet: Multi-View Indoor 3D Object Detection via Efficient Plane Sweeps**, Yating Xu et.al., Paper: [http://arxiv.org/abs/2410.21566](http://arxiv.org/abs/2410.21566), Code: **[https://github.com/pixie8888/mvsdet](https://github.com/pixie8888/mvsdet)**
 - 2024-10-29, **EEG-Driven 3D Object Reconstruction with Color Consistency and Diffusion Prior**, Xin Xiang et.al., Paper: [http://arxiv.org/abs/2410.20981](http://arxiv.org/abs/2410.20981)
 - 2024-10-28, **ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings**, Suyoung Lee et.al., Paper: [http://arxiv.org/abs/2410.20686](http://arxiv.org/abs/2410.20686)
 - 2024-10-27, **Neural rendering enables dynamic tomography**, Ivan Grega et.al., Paper: [http://arxiv.org/abs/2410.20558](http://arxiv.org/abs/2410.20558)
