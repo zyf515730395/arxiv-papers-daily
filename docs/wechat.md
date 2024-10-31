@@ -15,6 +15,7 @@
 
 ## Depth Estimation
 
+- 2024-10-30, **Nested ResNet: A Vision-Based Method for Detecting the Sensing Area of a Drop-in Gamma Probe**, Songyu Xu et.al., Paper: [http://arxiv.org/abs/2410.23154](http://arxiv.org/abs/2410.23154)
 - 2024-10-29, **Active Event Alignment for Monocular Distance Estimation**, Nan Cai et.al., Paper: [http://arxiv.org/abs/2410.22280](http://arxiv.org/abs/2410.22280)
 - 2024-10-29, **PF3plat: Pose-Free Feed-Forward 3D Gaussian Splatting**, Sunghwan Hong et.al., Paper: [http://arxiv.org/abs/2410.22128](http://arxiv.org/abs/2410.22128), Code: **[https://github.com/cvlab-kaist/PF3plat](https://github.com/cvlab-kaist/PF3plat)**
 - 2024-10-27, **Unlocking Comics: The AI4VA Dataset for Visual Understanding**, Peter Grönquist et.al., Paper: [http://arxiv.org/abs/2410.20459](http://arxiv.org/abs/2410.20459), Code: **[https://github.com/ivrl/ai4va](https://github.com/ivrl/ai4va)**
@@ -79,6 +80,9 @@
 
 ## Image Matching
 
+- 2024-10-30, **RelationBooth: Towards Relation-Aware Customized Object Generation**, Qingyu Shi et.al., Paper: [http://arxiv.org/abs/2410.23280](http://arxiv.org/abs/2410.23280)
+- 2024-10-30, **ETO:Efficient Transformer-based Local Feature Matching by Organizing Multiple Homography Hypotheses**, Junjie Ni et.al., Paper: [http://arxiv.org/abs/2410.22733](http://arxiv.org/abs/2410.22733)
+- 2024-10-30, **LoFLAT: Local Feature Matching using Focused Linear Attention Transformer**, Naijian Cao et.al., Paper: [http://arxiv.org/abs/2410.22710](http://arxiv.org/abs/2410.22710)
 - 2024-10-26, **Generative Adversarial Patches for Physical Attacks on Cross-Modal Pedestrian Re-Identification**, Yue Su et.al., Paper: [http://arxiv.org/abs/2410.20097](http://arxiv.org/abs/2410.20097)
 - 2024-10-04, **Self-Supervised Keypoint Detection with Distilled Depth Keypoint Representation**, Aman Anand et.al., Paper: [http://arxiv.org/abs/2410.14700](http://arxiv.org/abs/2410.14700)
 - 2024-10-18, **Sim2real Cattle Joint Estimation in 3D point clouds**, Okour Mohammad et.al., Paper: [http://arxiv.org/abs/2410.14419](http://arxiv.org/abs/2410.14419)
@@ -391,6 +395,7 @@
 
 ## Eye Tracking
 
+- 2024-10-30, **Emergence of Human-Like Attention in Self-Supervised Vision Transformers: an eye-tracking study**, Takuto Yamamoto et.al., Paper: [http://arxiv.org/abs/2410.22768](http://arxiv.org/abs/2410.22768)
 - 2024-10-30, **Quantum cryptography visualized: assessing visual attention on multiple representations with eye tracking in an AR-enhanced quantum cryptography student experiment**, David Dzsotjan et.al., Paper: [http://arxiv.org/abs/2410.21975](http://arxiv.org/abs/2410.21975)
 - 2024-10-28, **Decoding Reading Goals from Eye Movements**, Omer Shubi et.al., Paper: [http://arxiv.org/abs/2410.20779](http://arxiv.org/abs/2410.20779), Code: **[https://github.com/lacclab/Goal-Decoding-from-Eye-Movements](https://github.com/lacclab/Goal-Decoding-from-Eye-Movements)**
 - 2024-10-25, **Gaze estimation learning architecture as support to affective, social and cognitive studies in natural human-robot interaction**, Maria Lombardi et.al., Paper: [http://arxiv.org/abs/2410.19374](http://arxiv.org/abs/2410.19374)
@@ -421,6 +426,16 @@
 
 ## Embodied AI
 
+- 2024-10-30, **EMMA: End-to-End Multimodal Model for Autonomous Driving**, Jyh-Jing Hwang et.al., Paper: [http://arxiv.org/abs/2410.23262](http://arxiv.org/abs/2410.23262)
+- 2024-10-30, **Keypoint Abstraction using Large Models for Object-Relative Imitation Learning**, Xiaolin Fang et.al., Paper: [http://arxiv.org/abs/2410.23254](http://arxiv.org/abs/2410.23254)
+- 2024-10-30, **Aligning Audio-Visual Joint Representations with an Agentic Workflow**, Shentong Mo et.al., Paper: [http://arxiv.org/abs/2410.23230](http://arxiv.org/abs/2410.23230)
+- 2024-10-30, **OS-ATLAS: A Foundation Action Model for Generalist GUI Agents**, Zhiyong Wu et.al., Paper: [http://arxiv.org/abs/2410.23218](http://arxiv.org/abs/2410.23218)
+- 2024-10-30, **VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning**, Yichao Liang et.al., Paper: [http://arxiv.org/abs/2410.23156](http://arxiv.org/abs/2410.23156)
+- 2024-10-30, **Unified Triplet-Level Hallucination Evaluation for Large Vision-Language Models**, Junjie Wu et.al., Paper: [http://arxiv.org/abs/2410.23114](http://arxiv.org/abs/2410.23114), Code: **[https://github.com/wujunjie1998/tri-he](https://github.com/wujunjie1998/tri-he)**
+- 2024-10-30, **An Individual Identity-Driven Framework for Animal Re-Identification**, Yihao Wu et.al., Paper: [http://arxiv.org/abs/2410.22927](http://arxiv.org/abs/2410.22927), Code: **[https://github.com/ywu840/indivaid](https://github.com/ywu840/indivaid)**
+- 2024-10-30, **Effective and Efficient Adversarial Detection for Vision-Language Models via A Single Vector**, Youcheng Huang et.al., Paper: [http://arxiv.org/abs/2410.22888](http://arxiv.org/abs/2410.22888), Code: **[https://github.com/mob-scu/radar-nearside](https://github.com/mob-scu/radar-nearside)**
+- 2024-10-30, **Constructing Multimodal Datasets from Scratch for Rapid Development of a Japanese Visual Language Model**, Keito Sasagawa et.al., Paper: [http://arxiv.org/abs/2410.22736](http://arxiv.org/abs/2410.22736)
+- 2024-10-30, **Robotic State Recognition with Image-to-Text Retrieval Task of Pre-Trained Vision-Language Model and Black-Box Optimization**, Kento Kawaharazuka et.al., Paper: [http://arxiv.org/abs/2410.22707](http://arxiv.org/abs/2410.22707)
 - 2024-10-29, **Task Vectors are Cross-Modal**, Grace Luo et.al., Paper: [http://arxiv.org/abs/2410.22330](http://arxiv.org/abs/2410.22330)
 - 2024-10-29, **Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier**, Kai Wang et.al., Paper: [http://arxiv.org/abs/2410.22317](http://arxiv.org/abs/2410.22317), Code: **[https://github.com/wangkai930418/mc_ti](https://github.com/wangkai930418/mc_ti)**
 - 2024-10-29, **Natural Language Inference Improves Compositionality in Vision-Language Models**, Paola Cascante-Bonilla et.al., Paper: [http://arxiv.org/abs/2410.22315](http://arxiv.org/abs/2410.22315)
@@ -646,6 +661,16 @@
 
 ## Diffusion
 
+- 2024-10-30, **ReferEverything: Towards Segmenting Everything We Can Speak of in Videos**, Anurag Bagchi et.al., Paper: [http://arxiv.org/abs/2410.23287](http://arxiv.org/abs/2410.23287)
+- 2024-10-30, **Provable acceleration for diffusion models under minimal assumptions**, Gen Li et.al., Paper: [http://arxiv.org/abs/2410.23285](http://arxiv.org/abs/2410.23285)
+- 2024-10-30, **RelationBooth: Towards Relation-Aware Customized Object Generation**, Qingyu Shi et.al., Paper: [http://arxiv.org/abs/2410.23280](http://arxiv.org/abs/2410.23280)
+- 2024-10-30, **SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation**, Yining Hong et.al., Paper: [http://arxiv.org/abs/2410.23277](http://arxiv.org/abs/2410.23277)
+- 2024-10-30, **Multi-student Diffusion Distillation for Better One-step Generators**, Yanke Song et.al., Paper: [http://arxiv.org/abs/2410.23274](http://arxiv.org/abs/2410.23274)
+- 2024-10-30, **Chapman-Enskog theory for nearly integrable quantum gases**, Maciej Łebek et.al., Paper: [http://arxiv.org/abs/2410.23209](http://arxiv.org/abs/2410.23209)
+- 2024-10-30, **Diffusive shock acceleration of dust grains at supernova remnants**, P. Cristofari et.al., Paper: [http://arxiv.org/abs/2410.23190](http://arxiv.org/abs/2410.23190)
+- 2024-10-30, **CausalDiff: Causality-Inspired Disentanglement via Diffusion Model for Adversarial Defense**, Mingkun Zhang et.al., Paper: [http://arxiv.org/abs/2410.23091](http://arxiv.org/abs/2410.23091)
+- 2024-10-30, **Controlling Language and Diffusion Models by Transporting Activations**, Pau Rodriguez et.al., Paper: [http://arxiv.org/abs/2410.23054](http://arxiv.org/abs/2410.23054)
+- 2024-10-30, **Regularity and stability for the Gibbs conditioning principle on path space via McKean-Vlasov control**, Louis-Pierre Chaintron et.al., Paper: [http://arxiv.org/abs/2410.23016](http://arxiv.org/abs/2410.23016)
 - 2024-10-29, **Driving forces in cell migration and pattern formation in a soft tissue**, Amabile Tatone et.al., Paper: [http://arxiv.org/abs/2410.22273](http://arxiv.org/abs/2410.22273)
 - 2024-10-29, **Surface reconstruction from point cloud using a semi-Lagrangian scheme with local interpolator**, Silvia Preda et.al., Paper: [http://arxiv.org/abs/2410.22205](http://arxiv.org/abs/2410.22205)
 - 2024-10-29, **Confinement of relativistic particles in the vicinity of accelerators: a key for understanding the anomalies in secondary cosmic rays**, Rui-zhi Yang et.al., Paper: [http://arxiv.org/abs/2410.22199](http://arxiv.org/abs/2410.22199)
@@ -881,6 +906,9 @@
 
 ## Gaussian Splatting
 
+- 2024-10-30, **ELMGS: Enhancing memory and computation scaLability through coMpression for 3D Gaussian Splatting**, Muhammad Salman Ali et.al., Paper: [http://arxiv.org/abs/2410.23213](http://arxiv.org/abs/2410.23213)
+- 2024-10-30, **Epipolar-Free 3D Gaussian Splatting for Generalizable Novel View Synthesis**, Zhiyuan Min et.al., Paper: [http://arxiv.org/abs/2410.22817](http://arxiv.org/abs/2410.22817)
+- 2024-10-30, **Geometry Cloak: Preventing TGS-based 3D Reconstruction from Copyrighted Images**, Qi Song et.al., Paper: [http://arxiv.org/abs/2410.22705](http://arxiv.org/abs/2410.22705)
 - 2024-10-29, **PF3plat: Pose-Free Feed-Forward 3D Gaussian Splatting**, Sunghwan Hong et.al., Paper: [http://arxiv.org/abs/2410.22128](http://arxiv.org/abs/2410.22128), Code: **[https://github.com/cvlab-kaist/PF3plat](https://github.com/cvlab-kaist/PF3plat)**
 - 2024-10-29, **FreeGaussian: Guidance-free Controllable 3D Gaussian Splats with Flow Derivatives**, Qizhi Chen et.al., Paper: [http://arxiv.org/abs/2410.22070](http://arxiv.org/abs/2410.22070)
 - 2024-10-29, **ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting**, Yuetao Li et.al., Paper: [http://arxiv.org/abs/2410.21955](http://arxiv.org/abs/2410.21955)
@@ -1005,6 +1033,9 @@
 
 ## NeRF
 
+- 2024-10-30, **ELMGS: Enhancing memory and computation scaLability through coMpression for 3D Gaussian Splatting**, Muhammad Salman Ali et.al., Paper: [http://arxiv.org/abs/2410.23213](http://arxiv.org/abs/2410.23213)
+- 2024-10-30, **Bringing NeRFs to the Latent Space: Inverse Graphics Autoencoder**, Antoine Schnepf et.al., Paper: [http://arxiv.org/abs/2410.22936](http://arxiv.org/abs/2410.22936)
+- 2024-10-29, **Exploiting Semantic Scene Reconstruction for Estimating Building Envelope Characteristics**, Chenghao Xu et.al., Paper: [http://arxiv.org/abs/2410.22383](http://arxiv.org/abs/2410.22383)
 - 2024-10-28, **MVSDet: Multi-View Indoor 3D Object Detection via Efficient Plane Sweeps**, Yating Xu et.al., Paper: [http://arxiv.org/abs/2410.21566](http://arxiv.org/abs/2410.21566), Code: **[https://github.com/pixie8888/mvsdet](https://github.com/pixie8888/mvsdet)**
 - 2024-10-29, **EEG-Driven 3D Object Reconstruction with Color Consistency and Diffusion Prior**, Xin Xiang et.al., Paper: [http://arxiv.org/abs/2410.20981](http://arxiv.org/abs/2410.20981)
 - 2024-10-28, **ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings**, Suyoung Lee et.al., Paper: [http://arxiv.org/abs/2410.20686](http://arxiv.org/abs/2410.20686)
