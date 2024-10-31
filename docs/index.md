@@ -5,7 +5,7 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2024.10.30
+Updated on 2024.10.31
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -386,8 +386,8 @@ Updated on 2024.10.30
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-29**|**Quantum cryptography visualized: assessing visual attention on multiple representations with eye tracking in an AR-enhanced quantum cryptography student experiment**|David Dzsotjan et.al.|[2410.21975](http://arxiv.org/abs/2410.21975)|null|
-|**2024-10-28**|**Decoding Reading Goals from Eye Movements**|Omer Shubi et.al.|[2410.20779](http://arxiv.org/abs/2410.20779)|null|
+|**2024-10-30**|**Quantum cryptography visualized: assessing visual attention on multiple representations with eye tracking in an AR-enhanced quantum cryptography student experiment**|David Dzsotjan et.al.|[2410.21975](http://arxiv.org/abs/2410.21975)|null|
+|**2024-10-28**|**Decoding Reading Goals from Eye Movements**|Omer Shubi et.al.|[2410.20779](http://arxiv.org/abs/2410.20779)|**[link](https://github.com/lacclab/Goal-Decoding-from-Eye-Movements)**|
 |**2024-10-25**|**Gaze estimation learning architecture as support to affective, social and cognitive studies in natural human-robot interaction**|Maria Lombardi et.al.|[2410.19374](http://arxiv.org/abs/2410.19374)|null|
 |**2024-10-15**|**Improving Digital Mentorship: Insights and Recommendations from the Re:Coded Community Platform Case Study**|Huda Najm Alabbas et.al.|[2410.11912](http://arxiv.org/abs/2410.11912)|null|
 |**2024-10-09**|**GazeGenie: Enhancing Multi-Line Reading Research with an Innovative User-Friendly Tool**|Thomas M. Mercier et.al.|[2410.11873](http://arxiv.org/abs/2410.11873)|**[link](https://github.com/gittingthehubbing/gazegenie)**|
@@ -419,13 +419,13 @@ Updated on 2024.10.30
 |**2024-10-29**|**Task Vectors are Cross-Modal**|Grace Luo et.al.|[2410.22330](http://arxiv.org/abs/2410.22330)|null|
 |**2024-10-29**|**Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier**|Kai Wang et.al.|[2410.22317](http://arxiv.org/abs/2410.22317)|**[link](https://github.com/wangkai930418/mc_ti)**|
 |**2024-10-29**|**Natural Language Inference Improves Compositionality in Vision-Language Models**|Paola Cascante-Bonilla et.al.|[2410.22315](http://arxiv.org/abs/2410.22315)|null|
-|**2024-10-29**|**Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**|Bo Jiang et.al.|[2410.22313](http://arxiv.org/abs/2410.22313)|null|
-|**2024-10-29**|**ContextIQ: A Multimodal Expert-Based Video Retrieval System for Contextual Advertising**|Ashutosh Chaubey et.al.|[2410.22233](http://arxiv.org/abs/2410.22233)|null|
-|**2024-10-29**|**ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding**|Kimihiro Hasegawa et.al.|[2410.22211](http://arxiv.org/abs/2410.22211)|null|
+|**2024-10-29**|**Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**|Bo Jiang et.al.|[2410.22313](http://arxiv.org/abs/2410.22313)|**[link](https://github.com/hustvl/senna)**|
+|**2024-10-29**|**ContextIQ: A Multimodal Expert-Based Video Retrieval System for Contextual Advertising**|Ashutosh Chaubey et.al.|[2410.22233](http://arxiv.org/abs/2410.22233)|**[link](https://github.com/WACV2025Submission/ContextIQ)**|
+|**2024-10-29**|**ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding**|Kimihiro Hasegawa et.al.|[2410.22211](http://arxiv.org/abs/2410.22211)|**[link](https://github.com/kimihiroh/promqa)**|
 |**2024-10-29**|**Active Learning for Vision-Language Models**|Bardia Safaei et.al.|[2410.22187](http://arxiv.org/abs/2410.22187)|null|
 |**2024-10-29**|**Analyzing Multimodal Interaction Strategies for LLM-Assisted Manipulation of 3D Scenes**|Junlong Chen et.al.|[2410.22177](http://arxiv.org/abs/2410.22177)|null|
-|**2024-10-29**|**Are VLMs Really Blind**|Ayush Singh et.al.|[2410.22029](http://arxiv.org/abs/2410.22029)|null|
-|**2024-10-29**|**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**|Monica Riedler et.al.|[2410.21943](http://arxiv.org/abs/2410.21943)|null|
+|**2024-10-29**|**Are VLMs Really Blind**|Ayush Singh et.al.|[2410.22029](http://arxiv.org/abs/2410.22029)|**[link](https://github.com/vlgiitr/Are-VLMs-Really-Blind)**|
+|**2024-10-29**|**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**|Monica Riedler et.al.|[2410.21943](http://arxiv.org/abs/2410.21943)|**[link](https://github.com/riedlerm/multimodal_rag_for_industry)**|
 |**2024-10-29**|**AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?**|Han Bao et.al.|[2410.21259](http://arxiv.org/abs/2410.21259)|null|
 |**2024-10-28**|**Hierarchical Knowledge Graph Construction from Images for Scalable E-Commerce**|Zhantao Yang et.al.|[2410.21237](http://arxiv.org/abs/2410.21237)|null|
 |**2024-10-28**|**Vision Search Assistant: Empower Vision-Language Models as Multimodal Search Engines**|Zhixin Zhang et.al.|[2410.21220](http://arxiv.org/abs/2410.21220)|**[link](https://github.com/cnzzx/vsa)**|
@@ -647,7 +647,7 @@ Updated on 2024.10.30
 |**2024-10-29**|**An alternating low-rank projection approach for partial differential equations with random inputs**|Guanjie Wang et.al.|[2410.22183](http://arxiv.org/abs/2410.22183)|null|
 |**2024-10-29**|**Capacity Control is an Effective Memorization Mitigation Mechanism in Text-Conditional Diffusion Models**|Raman Dutt et.al.|[2410.22149](http://arxiv.org/abs/2410.22149)|**[link](https://github.com/raman1121/diffusion_memorization_hpo)**|
 |**2024-10-29**|**Averaging principle for multiscale controlled jump diffusions and associated nonlocal HJB equations**|Qi Zhang et.al.|[2410.22141](http://arxiv.org/abs/2410.22141)|null|
-|**2024-10-29**|**Thermodynamic uncertainty relation for systems with active Ornstein--Uhlenbeck particles**|Hyeong-Tark Han et.al.|[2410.22126](http://arxiv.org/abs/2410.22126)|null|
+|**2024-10-30**|**Thermodynamic uncertainty relation for systems with active Ornstein-Uhlenbeck particles**|Hyeong-Tark Han et.al.|[2410.22126](http://arxiv.org/abs/2410.22126)|null|
 |**2024-10-29**|**TractShapeNet: Efficient Multi-Shape Learning with 3D Tractography Point Clouds**|Yui Lo et.al.|[2410.22099](http://arxiv.org/abs/2410.22099)|null|
 |**2024-10-29**|**Generalized arcsine laws for a sluggish random walker with subdiffusive growth**|Giuseppe Del Vecchio Del Vecchio et.al.|[2410.22097](http://arxiv.org/abs/2410.22097)|null|
 |**2024-10-29**|**Variational inference for pile-up removal at hadron colliders with diffusion models**|Malte Algren et.al.|[2410.22074](http://arxiv.org/abs/2410.22074)|null|
