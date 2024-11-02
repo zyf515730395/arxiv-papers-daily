@@ -1,4 +1,4 @@
-> Updated on 2024.11.01
+> Updated on 2024.11.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -77,7 +77,7 @@
 |**2024-09-23**|**GroCo: Ground Constraint for Metric Self-Supervised Monocular Depth**|Aurélien Cecille et.al.|[2409.14850](http://arxiv.org/abs/2409.14850)|null|
 |**2024-09-23**|**Robust and Flexible Omnidirectional Depth Estimation with Multiple 360° Cameras**|Ming Li et.al.|[2409.14766](http://arxiv.org/abs/2409.14766)|null|
 
-<p align=right>(<a href=#updated-on-20241101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241102>back to top</a>)</p>
 
 ## Image Matching
 
@@ -367,7 +367,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20241101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241102>back to top</a>)</p>
 
 ## Gesture Recognition
 
@@ -395,7 +395,7 @@
 |**2024-09-10**|**Advancements in Gesture Recognition Techniques and Machine Learning for Enhanced Human-Robot Interaction: A Comprehensive Review**|Sajjad Hussain et.al.|[2409.06503](http://arxiv.org/abs/2409.06503)|null|
 |**2024-09-05**|**MVTN: A Multiscale Video Transformer Network for Hand Gesture Recognition**|Mallika Garg et.al.|[2409.03890](http://arxiv.org/abs/2409.03890)|**[link](https://github.com/mallikagarg/mvtn)**|
 
-<p align=right>(<a href=#updated-on-20241101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241102>back to top</a>)</p>
 
 ## Eye Tracking
 
@@ -428,13 +428,13 @@
 |**2024-09-11**|**Bridging Quantitative and Qualitative Methods for Visualization Research: A Data/Semantics Perspective in Light of Advanced AI**|Daniel Weiskopf et.al.|[2409.07250](http://arxiv.org/abs/2409.07250)|null|
 |**2024-09-10**|**Mazed and Confused: A Dataset of Cybersickness, Working Memory, Mental Load, Physical Load, and Attention During a Real Walking Task in VR**|Jyotirmay Nag Setu et.al.|[2409.06898](http://arxiv.org/abs/2409.06898)|null|
 
-<p align=right>(<a href=#updated-on-20241101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241102>back to top</a>)</p>
 
 ## Embodied AI
 
 - 2024-10-31, **$π_0$ : A Vision-Language-Action Flow Model for General Robot Control**, Kevin Black et.al., Paper: [http://arxiv.org/abs/2410.24164](http://arxiv.org/abs/2410.24164)
 - 2024-10-31, **Exploring Vision Language Models for Facial Attribute Recognition: Emotion, Race, Gender, and Age**, Nouar AlDahoul et.al., Paper: [http://arxiv.org/abs/2410.24148](http://arxiv.org/abs/2410.24148)
-- 2024-10-31, **Nearest Neighbor Normalization Improves Multimodal Retrieval**, Neil Chowdhury et.al., Paper: [http://arxiv.org/abs/2410.24114](http://arxiv.org/abs/2410.24114)
+- 2024-10-31, **Nearest Neighbor Normalization Improves Multimodal Retrieval**, Neil Chowdhury et.al., Paper: [http://arxiv.org/abs/2410.24114](http://arxiv.org/abs/2410.24114), Code: **[https://github.com/multimodal-interpretability/nnn](https://github.com/multimodal-interpretability/nnn)**
 - 2024-10-31, **AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents**, Yifan Xu et.al., Paper: [http://arxiv.org/abs/2410.24024](http://arxiv.org/abs/2410.24024)
 - 2024-10-31, **Bayesian-guided Label Mapping for Visual Reprogramming**, Chengyi Cai et.al., Paper: [http://arxiv.org/abs/2410.24018](http://arxiv.org/abs/2410.24018), Code: **[https://github.com/tmlr-group/bayesianlm](https://github.com/tmlr-group/bayesianlm)**
 - 2024-10-31, **EZ-HOI: VLM Adaptation via Guided Prompt Learning for Zero-Shot HOI Detection**, Qinqian Lei et.al., Paper: [http://arxiv.org/abs/2410.23904](http://arxiv.org/abs/2410.23904), Code: **[https://github.com/chelsielei/ez-hoi](https://github.com/chelsielei/ez-hoi)**
@@ -673,7 +673,7 @@
 |**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278](http://arxiv.org/abs/2409.16278)|null|
 |**2024-09-24**|**CDChat: A Large Multimodal Model for Remote Sensing Change Description**|Mubashir Noman et.al.|[2409.16261](http://arxiv.org/abs/2409.16261)|**[link](https://github.com/techmn/cdchat)**|
 
-<p align=right>(<a href=#updated-on-20241101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241102>back to top</a>)</p>
 
 ## Diffusion
 
@@ -686,7 +686,7 @@
 - 2024-10-31, **Modeling Brownian Motion as a Timelapse of the Physical, Persistent, Trajectory**, Ludovico Cademartiri et.al., Paper: [http://arxiv.org/abs/2410.24137](http://arxiv.org/abs/2410.24137)
 - 2024-10-31, **3D-ViTac: Learning Fine-Grained Manipulation with Visuo-Tactile Sensing**, Binghao Huang et.al., Paper: [http://arxiv.org/abs/2410.24091](http://arxiv.org/abs/2410.24091)
 - 2024-10-31, **Deep Chandra Observations of NGC 5728. III: Probing the High-Resolution X-ray Morphology and Multiphase ISM Interactions in the Circumnuclear Region**, Anna Trindade Falcao et.al., Paper: [http://arxiv.org/abs/2410.24061](http://arxiv.org/abs/2410.24061)
-- 2024-10-31, **Understanding Generalizability of Diffusion Models Requires Rethinking the Hidden Gaussian Structure**, Xiang Li et.al., Paper: [http://arxiv.org/abs/2410.24060](http://arxiv.org/abs/2410.24060)
+- 2024-10-31, **Understanding Generalizability of Diffusion Models Requires Rethinking the Hidden Gaussian Structure**, Xiang Li et.al., Paper: [http://arxiv.org/abs/2410.24060](http://arxiv.org/abs/2410.24060), Code: **[https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)**
 - 2024-10-30, **ReferEverything: Towards Segmenting Everything We Can Speak of in Videos**, Anurag Bagchi et.al., Paper: [http://arxiv.org/abs/2410.23287](http://arxiv.org/abs/2410.23287)
 - 2024-10-30, **Provable acceleration for diffusion models under minimal assumptions**, Gen Li et.al., Paper: [http://arxiv.org/abs/2410.23285](http://arxiv.org/abs/2410.23285)
 - 2024-10-30, **RelationBooth: Towards Relation-Aware Customized Object Generation**, Qingyu Shi et.al., Paper: [http://arxiv.org/abs/2410.23280](http://arxiv.org/abs/2410.23280)
@@ -928,11 +928,11 @@
 |**2024-09-25**|**Decomposition of Friction Coefficients to Analyze Hydration Effects on a C $_{60}$(OH)$_{\rm n}$**|Tomoya Iwashita et.al.|[2409.17028](http://arxiv.org/abs/2409.17028)|null|
 |**2024-09-25**|**Single Image, Any Face: Generalisable 3D Face Generation**|Wenqing Wang et.al.|[2409.16990](http://arxiv.org/abs/2409.16990)|null|
 
-<p align=right>(<a href=#updated-on-20241101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241102>back to top</a>)</p>
 
 ## Gaussian Splatting
 
-- 2024-10-31, **No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images**, Botao Ye et.al., Paper: [http://arxiv.org/abs/2410.24207](http://arxiv.org/abs/2410.24207)
+- 2024-10-31, **No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images**, Botao Ye et.al., Paper: [http://arxiv.org/abs/2410.24207](http://arxiv.org/abs/2410.24207), Code: **[https://github.com/cvg/NoPoSplat](https://github.com/cvg/NoPoSplat)**
 - 2024-10-31, **GeoSplatting: Towards Geometry Guided Gaussian Splatting for Physically-based Inverse Rendering**, Kai Ye et.al., Paper: [http://arxiv.org/abs/2410.24204](http://arxiv.org/abs/2410.24204)
 - 2024-10-31, **GaussianMarker: Uncertainty-Aware Copyright Protection of 3D Gaussian Splatting**, Xiufeng Huang et.al., Paper: [http://arxiv.org/abs/2410.23718](http://arxiv.org/abs/2410.23718)
 - 2024-10-31, **GS-Blur: A 3D Scene-Based Dataset for Realistic Image Deblurring**, Dongwoo Lee et.al., Paper: [http://arxiv.org/abs/2410.23658](http://arxiv.org/abs/2410.23658)
@@ -1059,7 +1059,7 @@
 |**2024-09-23**|**Human Hair Reconstruction with Strand-Aligned 3D Gaussians**|Egor Zakharov et.al.|[2409.14778](http://arxiv.org/abs/2409.14778)|null|
 |**2024-09-22**|**MVPGS: Excavating Multi-view Priors for Gaussian Splatting from Sparse Input Views**|Wangze Xu et.al.|[2409.14316](http://arxiv.org/abs/2409.14316)|null|
 
-<p align=right>(<a href=#updated-on-20241101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241102>back to top</a>)</p>
 
 ## NeRF
 
@@ -2434,5 +2434,5 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20241101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241102>back to top</a>)</p>
 

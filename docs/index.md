@@ -5,7 +5,7 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2024.11.01
+Updated on 2024.11.02
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -429,7 +429,7 @@ Updated on 2024.11.01
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-31**|**$π_0$ : A Vision-Language-Action Flow Model for General Robot Control**|Kevin Black et.al.|[2410.24164](http://arxiv.org/abs/2410.24164)|null|
 |**2024-10-31**|**Exploring Vision Language Models for Facial Attribute Recognition: Emotion, Race, Gender, and Age**|Nouar AlDahoul et.al.|[2410.24148](http://arxiv.org/abs/2410.24148)|null|
-|**2024-10-31**|**Nearest Neighbor Normalization Improves Multimodal Retrieval**|Neil Chowdhury et.al.|[2410.24114](http://arxiv.org/abs/2410.24114)|null|
+|**2024-10-31**|**Nearest Neighbor Normalization Improves Multimodal Retrieval**|Neil Chowdhury et.al.|[2410.24114](http://arxiv.org/abs/2410.24114)|**[link](https://github.com/multimodal-interpretability/nnn)**|
 |**2024-10-31**|**AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents**|Yifan Xu et.al.|[2410.24024](http://arxiv.org/abs/2410.24024)|null|
 |**2024-10-31**|**Bayesian-guided Label Mapping for Visual Reprogramming**|Chengyi Cai et.al.|[2410.24018](http://arxiv.org/abs/2410.24018)|**[link](https://github.com/tmlr-group/bayesianlm)**|
 |**2024-10-31**|**EZ-HOI: VLM Adaptation via Guided Prompt Learning for Zero-Shot HOI Detection**|Qinqian Lei et.al.|[2410.23904](http://arxiv.org/abs/2410.23904)|**[link](https://github.com/chelsielei/ez-hoi)**|
@@ -681,7 +681,7 @@ Updated on 2024.11.01
 |**2024-10-31**|**Modeling Brownian Motion as a Timelapse of the Physical, Persistent, Trajectory**|Ludovico Cademartiri et.al.|[2410.24137](http://arxiv.org/abs/2410.24137)|null|
 |**2024-10-31**|**3D-ViTac: Learning Fine-Grained Manipulation with Visuo-Tactile Sensing**|Binghao Huang et.al.|[2410.24091](http://arxiv.org/abs/2410.24091)|null|
 |**2024-10-31**|**Deep Chandra Observations of NGC 5728. III: Probing the High-Resolution X-ray Morphology and Multiphase ISM Interactions in the Circumnuclear Region**|Anna Trindade Falcao et.al.|[2410.24061](http://arxiv.org/abs/2410.24061)|null|
-|**2024-10-31**|**Understanding Generalizability of Diffusion Models Requires Rethinking the Hidden Gaussian Structure**|Xiang Li et.al.|[2410.24060](http://arxiv.org/abs/2410.24060)|null|
+|**2024-10-31**|**Understanding Generalizability of Diffusion Models Requires Rethinking the Hidden Gaussian Structure**|Xiang Li et.al.|[2410.24060](http://arxiv.org/abs/2410.24060)|**[link](https://github.com/Morefre/Understanding-Generalizability-of-Diffusion-Models-Requires-Rethinking-the-Hidden-Gaussian-Structure)**|
 |**2024-10-30**|**ReferEverything: Towards Segmenting Everything We Can Speak of in Videos**|Anurag Bagchi et.al.|[2410.23287](http://arxiv.org/abs/2410.23287)|null|
 |**2024-10-30**|**Provable acceleration for diffusion models under minimal assumptions**|Gen Li et.al.|[2410.23285](http://arxiv.org/abs/2410.23285)|null|
 |**2024-10-30**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
@@ -927,7 +927,7 @@ Updated on 2024.11.01
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-31**|**No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images**|Botao Ye et.al.|[2410.24207](http://arxiv.org/abs/2410.24207)|null|
+|**2024-10-31**|**No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images**|Botao Ye et.al.|[2410.24207](http://arxiv.org/abs/2410.24207)|**[link](https://github.com/cvg/NoPoSplat)**|
 |**2024-10-31**|**GeoSplatting: Towards Geometry Guided Gaussian Splatting for Physically-based Inverse Rendering**|Kai Ye et.al.|[2410.24204](http://arxiv.org/abs/2410.24204)|null|
 |**2024-10-31**|**GaussianMarker: Uncertainty-Aware Copyright Protection of 3D Gaussian Splatting**|Xiufeng Huang et.al.|[2410.23718](http://arxiv.org/abs/2410.23718)|null|
 |**2024-10-31**|**GS-Blur: A 3D Scene-Based Dataset for Realistic Image Deblurring**|Dongwoo Lee et.al.|[2410.23658](http://arxiv.org/abs/2410.23658)|null|
