@@ -188,7 +188,8 @@ def update_paper_links(filename):
             for paper_id,contents in v.items():
                 contents = str(contents)
                 parts = contents.split("|")
-                if len(parts) < 1:
+                if len(parts) == 0:
+                    logging.error(f"exception: parts error: {len(parts)}")
                     continue
                 update_time = parts[1].strip()
                 paper_title = parts[2].strip()
