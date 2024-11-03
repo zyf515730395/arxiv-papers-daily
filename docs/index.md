@@ -5,7 +5,7 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2024.11.02
+Updated on 2024.11.03
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -366,7 +366,7 @@ Updated on 2024.11.02
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-31**|**EgoMimic: Scaling Imitation Learning via Egocentric Video**|Simar Kareer et.al.|[2410.24221](http://arxiv.org/abs/2410.24221)|null|
+|**2024-10-31**|**EgoMimic: Scaling Imitation Learning via Egocentric Video**|Simar Kareer et.al.|[2410.24221](http://arxiv.org/abs/2410.24221)|**[link](https://github.com/SimarKareer/EgoMimic)**|
 |**2024-10-28**|**x-RAGE: eXtended Reality -- Action & Gesture Events Dataset**|Vivek Parmar et.al.|[2410.19486](http://arxiv.org/abs/2410.19486)|null|
 |**2024-10-24**|**Research on gesture recognition method based on SEDCNN-SVM**|Mingjin Zhang et.al.|[2410.18557](http://arxiv.org/abs/2410.18557)|null|
 |**2024-10-08**|**RingGesture: A Ring-Based Mid-Air Gesture Typing System Powered by a Deep-Learning Word Prediction Framework**|Junxiao Shen et.al.|[2410.18100](http://arxiv.org/abs/2410.18100)|null|
