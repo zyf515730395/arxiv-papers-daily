@@ -187,8 +187,15 @@ def update_paper_links(filename):
             logging.info(f'keywords = {keywords}')
             for paper_id,contents in v.items():
                 contents = str(contents)
-
-                update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(contents)
+                parts = contents.split("|")
+                if len(parts) < 1:
+                    continue
+                update_time = parts[1].strip()
+                paper_title = parts[2].strip()
+                paper_first_author = parts[3].strip()
+                arxiv_id = parts[4].strip()
+                code_url = parts[5].strip()
+                paper_url = re.sub(r'v\d+', '', arxiv_id)
 
                 contents = "|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url,code_url)
                 json_data[keywords][paper_id] = str(contents)
@@ -357,18 +364,6 @@ def json_to_md(filename,md_filename,
                      f"contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n"))
             f.write((f"[contributors-url]: https://github.com/Vincentqyw/"
                      f"cv-arxiv-daily/graphs/contributors\n"))
-            f.write((f"[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[forks-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/network/members\n"))
-            f.write((f"[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[stars-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/stargazers\n"))
-            f.write((f"[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[issues-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/issues\n\n"))
 
     logging.info(f"{task} finished")
 
