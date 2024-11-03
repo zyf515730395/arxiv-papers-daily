@@ -23,22 +23,14 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Depth Estimation":
-        filters: ["Depth Estimation", "Monocular Depth Estimation", "Stereo Matching", "Multi-View Stereo"]
-    "Image Matching":
-        filters: ["Keypoint Detection", "Feature Descriptor", "Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
+        filters: ["Depth Estimation", "Stereo Matching", "Multi-View Stereo"]
     "Gesture Recognition":
         filters: ["Gesture Recognition", "Hand Tracking", "Gesture Classification"]
     "Eye Tracking":
         filters: ["Eye Tracking", "Gaze Estimation"]
-    "Embodied AI":
-        filters: [
-            "Multimodal Models", "Multi-Modal Large Language Model", "Embodied Perception", 
-            "Multimodal Interaction", "Vision Language Model", "VLM", "Embodied Large Language Model", "Embodied LLM",
-        ]
+    "VLM/LLM":
+        filters: ["Large Language Model", "LLM", "Vision Language Model", "VLM", "Multi-modal Model", "Embodied AI"]
     "Diffusion":
         filters: ["Diffusion", "Diffusion Models", "Text to 3D", "Image to 3D"]
-    "Gaussian Splatting":
-        filters: ["Gaussian Splatting", "3D Gaussian Splatting", "3D GS"]
-    "NeRF":
-        filters: ["NeRF", "Neural Radiance Fields", "SDF", "Signed Distance Funciton"]
+    "Neural Rendering":
+        filters: ["Neural Rendering", "Gaussian Splatting", "3D GS", "NeRF", "Neural Radiance Fields", "SDF", "Signed Distance Funciton"]
