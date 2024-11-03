@@ -428,7 +428,7 @@ def demo(**config):
         if config['update_paper_links']:
             update_paper_links(json_file)
         else:
-            update_json_file(json_file, data_collector_web)
+            update_json_file(json_file, data_collector)
         json_to_md(json_file, md_file, task ='Update Wechat', \
             to_web=False, use_title= 'wechat', show_badge = show_badge)
 
