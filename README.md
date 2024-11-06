@@ -15,8 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**Monocular Event-Based Vision for Obstacle Avoidance with a Quadrotor**|Anish Bhattacharya et.al.|[2411.03303](http://arxiv.org/abs/2411.03303)|null|
+|**2024-11-05**|**Correlation of Object Detection Performance with Visual Saliency and Depth Estimation**|Matthias Bartolo et.al.|[2411.02844](http://arxiv.org/abs/2411.02844)|**[link](https://github.com/mbar0075/object-detection-correlation-saliency-vs-depth)**|
 |**2024-11-04**|**FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training**|Ruihong Yin et.al.|[2411.02229](http://arxiv.org/abs/2411.02229)|null|
-|**2024-11-04**|**Improving Domain Generalization in Self-supervised Monocular Depth Estimation via Stabilized Adversarial Training**|Yuanqi Yao et.al.|[2411.02149](http://arxiv.org/abs/2411.02149)|null|
+|**2024-11-05**|**Improving Domain Generalization in Self-supervised Monocular Depth Estimation via Stabilized Adversarial Training**|Yuanqi Yao et.al.|[2411.02149](http://arxiv.org/abs/2411.02149)|null|
 |**2024-11-01**|**MultiDepth: Multi-Sample Priors for Refining Monocular Metric Depth Estimations in Indoor Scenes**|Sanghyun Byun et.al.|[2411.01048](http://arxiv.org/abs/2411.01048)|null|
 |**2024-11-01**|**On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR**|Li Li et.al.|[2411.00600](http://arxiv.org/abs/2411.00600)|**[link](https://github.com/l1997i/DurLAR)**|
 |**2024-10-31**|**Optical Lens Attack on Monocular Depth Estimation for Autonomous Driving**|Ce Zhou et.al.|[2411.00192](http://arxiv.org/abs/2411.00192)|null|
@@ -79,8 +81,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**One-Stage-TFS: Thai One-Stage Fingerspelling Dataset for Fingerspelling Recognition Frameworks**|Siriwiwat Lata et.al.|[2411.02768](http://arxiv.org/abs/2411.02768)|null|
+|**2024-10-24**|**SSFold: Learning to Fold Arbitrary Crumpled Cloth Using Graph Dynamics from Human Demonstration**|Changshi Zhou et.al.|[2411.02608](http://arxiv.org/abs/2411.02608)|null|
 |**2024-10-31**|**EgoMimic: Scaling Imitation Learning via Egocentric Video**|Simar Kareer et.al.|[2410.24221](http://arxiv.org/abs/2410.24221)|**[link](https://github.com/SimarKareer/EgoMimic)**|
-|**2024-10-28**|**x-RAGE: eXtended Reality -- Action & Gesture Events Dataset**|Vivek Parmar et.al.|[2410.19486](http://arxiv.org/abs/2410.19486)|null|
+|**2024-10-28**|**x-RAGE: eXtended Reality -- Action & Gesture Events Dataset**|Vivek Parmar et.al.|[2410.19486](http://arxiv.org/abs/2410.19486)|**[link](https://gitlab.com/nvm_iitd_research/xrage)**|
 |**2024-10-24**|**Research on gesture recognition method based on SEDCNN-SVM**|Mingjin Zhang et.al.|[2410.18557](http://arxiv.org/abs/2410.18557)|null|
 |**2024-10-08**|**RingGesture: A Ring-Based Mid-Air Gesture Typing System Powered by a Deep-Learning Word Prediction Framework**|Junxiao Shen et.al.|[2410.18100](http://arxiv.org/abs/2410.18100)|null|
 |**2024-10-07**|**Masked Autoencoder with Swin Transformer Network for Mitigating Electrode Shift in HD-EMG-based Gesture Recognition**|Kasra Laamerad et.al.|[2410.17261](http://arxiv.org/abs/2410.17261)|null|
@@ -113,7 +117,7 @@
 |**2024-10-30**|**AI Support Meets AR Visualization for Alice and Bob: Personalized Learning Based on Individual ChatGPT Feedback in an AR Quantum Cryptography Experiment for Physics Lab Courses**|Atakan Coban et.al.|[2411.00849](http://arxiv.org/abs/2411.00849)|null|
 |**2024-10-31**|**Transit drivers' reflections on the benefits and harms of eye tracking technology**|Shaina Murphy et.al.|[2410.24131](http://arxiv.org/abs/2410.24131)|null|
 |**2024-10-30**|**The Trail Making Test in Virtual Reality (TMT-VR): The Effects of Interaction Modes and Gaming Skills on Cognitive Performance of Young Adults**|Evgenia Giatzoglou et.al.|[2410.23479](http://arxiv.org/abs/2410.23479)|null|
-|**2024-10-30**|**Emergence of Human-Like Attention in Self-Supervised Vision Transformers: an eye-tracking study**|Takuto Yamamoto et.al.|[2410.22768](http://arxiv.org/abs/2410.22768)|null|
+|**2024-10-30**|**Emergence of Human-Like Attention in Self-Supervised Vision Transformers: an eye-tracking study**|Takuto Yamamoto et.al.|[2410.22768](http://arxiv.org/abs/2410.22768)|**[link](https://github.com/KitazawaLab/vit-human-attention-comparison)**|
 |**2024-10-30**|**Quantum cryptography visualized: assessing visual attention on multiple representations with eye tracking in an AR-enhanced quantum cryptography student experiment**|David Dzsotjan et.al.|[2410.21975](http://arxiv.org/abs/2410.21975)|null|
 |**2024-10-28**|**Decoding Reading Goals from Eye Movements**|Omer Shubi et.al.|[2410.20779](http://arxiv.org/abs/2410.20779)|**[link](https://github.com/lacclab/Goal-Decoding-from-Eye-Movements)**|
 |**2024-10-25**|**Gaze estimation learning architecture as support to affective, social and cognitive studies in natural human-robot interaction**|Maria Lombardi et.al.|[2410.19374](http://arxiv.org/abs/2410.19374)|null|
@@ -146,6 +150,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**Inference Optimal VLMs Need Only One Visual Token but Larger Models**|Kevin Y. Li et.al.|[2411.03312](http://arxiv.org/abs/2411.03312)|**[link](https://github.com/locuslab/llava-token-compression)**|
+|**2024-11-05**|**LLMs for Domain Generation Algorithm Detection**|Reynier Leyva La O et.al.|[2411.03307](http://arxiv.org/abs/2411.03307)|null|
+|**2024-11-05**|**VERITAS: A Unified Approach to Reliability Evaluation**|Rajkumar Ramamurthy et.al.|[2411.03300](http://arxiv.org/abs/2411.03300)|null|
+|**2024-11-05**|**Examining Human-AI Collaboration for Co-Writing Constructive Comments Online**|Farhana Shahid et.al.|[2411.03295](http://arxiv.org/abs/2411.03295)|null|
+|**2024-11-05**|**Interaction2Code: How Far Are We From Automatic Interactive Webpage Generation?**|Jingyu Xiao et.al.|[2411.03292](http://arxiv.org/abs/2411.03292)|null|
+|**2024-11-05**|**The Future of Intelligent Healthcare: A Systematic Analysis and Discussion on the Integration and Impact of Robots Using Large Language Models for Healthcare**|Souren Pashangpour et.al.|[2411.03287](http://arxiv.org/abs/2411.03287)|null|
+|**2024-11-05**|**SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents**|Dawei Li et.al.|[2411.03284](http://arxiv.org/abs/2411.03284)|**[link](https://github.com/david-li0406/smoa)**|
+|**2024-11-05**|**Spontaneous Emergence of Agent Individuality through Social Interactions in LLM-Based Communities**|Ryosuke Takata et.al.|[2411.03252](http://arxiv.org/abs/2411.03252)|null|
+|**2024-11-05**|**DiffLM: Controllable Synthetic Data Generation via Diffusion Language Models**|Ying Zhou et.al.|[2411.03250](http://arxiv.org/abs/2411.03250)|null|
+|**2024-11-05**|**GIS Copilot: Towards an Autonomous GIS Agent for Spatial Analysis**|Temitope Akinboyewa et.al.|[2411.03205](http://arxiv.org/abs/2411.03205)|null|
 |**2024-11-04**|**Prompting with Phonemes: Enhancing LLM Multilinguality for non-Latin Script Languages**|Hoang Nguyen et.al.|[2411.02398](http://arxiv.org/abs/2411.02398)|null|
 |**2024-11-04**|**Training-free Regional Prompting for Diffusion Transformers**|Anthony Chen et.al.|[2411.02395](http://arxiv.org/abs/2411.02395)|**[link](https://github.com/antonioo-c/regional-prompting-flux)**|
 |**2024-11-04**|**AutoVFX: Physically Realistic Video Editing from Natural Language Instructions**|Hao-Yu Hsu et.al.|[2411.02394](http://arxiv.org/abs/2411.02394)|null|
@@ -411,6 +425,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**Production and propagation of secondary antideuteron in the Galaxy**|Luis Fernando Galicia Cruztitla et.al.|[2411.03298](http://arxiv.org/abs/2411.03298)|null|
+|**2024-11-05**|**DiT4Edit: Diffusion Transformer for Image Editing**|Kunyu Feng et.al.|[2411.03286](http://arxiv.org/abs/2411.03286)|null|
+|**2024-11-05**|**DiffLM: Controllable Synthetic Data Generation via Diffusion Language Models**|Ying Zhou et.al.|[2411.03250](http://arxiv.org/abs/2411.03250)|null|
+|**2024-11-05**|**bursty_dynamics: A Python Package for Exploring the Temporal Properties of Longitudinal Data**|Alisha Angdembe et.al.|[2411.03210](http://arxiv.org/abs/2411.03210)|null|
+|**2024-11-05**|**Electron-irradiation effects on monolayer MoS2 at elevated temperatures**|Carsten Speckmann et.al.|[2411.03200](http://arxiv.org/abs/2411.03200)|null|
+|**2024-11-05**|**On Improved Conditioning Mechanisms and Pre-training Strategies for Diffusion Models**|Tariq Berrada Ifriqi et.al.|[2411.03177](http://arxiv.org/abs/2411.03177)|null|
+|**2024-11-05**|**Unleashing the power of novel conditional generative approaches for new materials discovery**|Lev Novitskiy et.al.|[2411.03156](http://arxiv.org/abs/2411.03156)|**[link](https://github.com/AIRI-Institute/conditional-crystal-generation)**|
+|**2024-11-05**|**A numerical study on temperature destratification induced by bubble plumes in idealized reservoirs**|Yiran Li et.al.|[2411.03120](http://arxiv.org/abs/2411.03120)|null|
+|**2024-11-05**|**Coupling Methods and Applications on the Exponential Contractivity for Path Dependent McKean-Vlasov SDEs**|Xing Huang et.al.|[2411.03104](http://arxiv.org/abs/2411.03104)|null|
+|**2024-11-05**|**Gradient-Guided Conditional Diffusion Models for Private Image Reconstruction: Analyzing Adversarial Impacts of Differential Privacy and Denoising**|Tao Huang et.al.|[2411.03053](http://arxiv.org/abs/2411.03053)|null|
 |**2024-11-04**|**Adaptive Caching for Faster Video Generation with Diffusion Transformers**|Kumara Kahatapitiya et.al.|[2411.02397](http://arxiv.org/abs/2411.02397)|null|
 |**2024-11-04**|**Training-free Regional Prompting for Diffusion Transformers**|Anthony Chen et.al.|[2411.02395](http://arxiv.org/abs/2411.02395)|**[link](https://github.com/antonioo-c/regional-prompting-flux)**|
 |**2024-11-04**|**How Far is Video Generation from World Model: A Physical Law Perspective**|Bingyi Kang et.al.|[2411.02385](http://arxiv.org/abs/2411.02385)|null|
@@ -678,6 +702,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**HFGaussian: Learning Generalizable Gaussian Human with Integrated Human Features**|Arnab Dey et.al.|[2411.03086](http://arxiv.org/abs/2411.03086)|null|
+|**2024-11-05**|**CAD-NeRF: Learning NeRFs from Uncalibrated Few-view Images by CAD Model Retrieval**|Xin Wen et.al.|[2411.02979](http://arxiv.org/abs/2411.02979)|null|
+|**2024-11-05**|**Exploring Seasonal Variability in the Context of Neural Radiance Fields for 3D Reconstruction on Satellite Imagery**|Liv Kåreborn et.al.|[2411.02972](http://arxiv.org/abs/2411.02972)|null|
+|**2024-11-05**|**Multi-modal NeRF Self-Supervision for LiDAR Semantic Segmentation**|Xavier Timoneda et.al.|[2411.02969](http://arxiv.org/abs/2411.02969)|null|
+|**2024-11-05**|**LVI-GS: Tightly-coupled LiDAR-Visual-Inertial SLAM using 3D Gaussian Splatting**|Huibin Zhao et.al.|[2411.02703](http://arxiv.org/abs/2411.02703)|null|
+|**2024-11-04**|**Modeling Uncertainty in 3D Gaussian Splatting through Continuous Semantic Splatting**|Joey Wilson et.al.|[2411.02547](http://arxiv.org/abs/2411.02547)|null|
+|**2024-11-04**|**NeRF-Aug: Data Augmentation for Robotics with Neural Radiance Fields**|Eric Zhu et.al.|[2411.02482](http://arxiv.org/abs/2411.02482)|null|
 |**2024-11-04**|**SplatOverflow: Asynchronous Hardware Troubleshooting**|Amritansh Kwatra et.al.|[2411.02332](http://arxiv.org/abs/2411.02332)|null|
 |**2024-11-04**|**FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training**|Ruihong Yin et.al.|[2411.02229](http://arxiv.org/abs/2411.02229)|null|
 |**2024-11-04**|**GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes**|Gaochao Song et.al.|[2411.01853](http://arxiv.org/abs/2411.01853)|null|
