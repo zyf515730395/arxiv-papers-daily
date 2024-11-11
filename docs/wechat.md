@@ -53,7 +53,7 @@
 |**2024-10-08**|**CUBE360: Learning Cubic Field Representation for Monocular 360 Depth Estimation for Virtual Reality**|Wenjie Chang et.al.|[2410.05735](http://arxiv.org/abs/2410.05735)|null|
 |**2024-10-10**|**Hybrid NeRF-Stereo Vision: Pioneering Depth Estimation and 3D Reconstruction in Endoscopy**|Pengcheng Chen et.al.|[2410.04041](http://arxiv.org/abs/2410.04041)|null|
 |**2024-10-04**|**Refinement of Monocular Depth Maps via Multi-View Differentiable Rendering**|Laura Fink et.al.|[2410.03861](http://arxiv.org/abs/2410.03861)|null|
-|**2024-10-03**|**RSA: Resolving Scale Ambiguities in Monocular Depth Estimators through Language Descriptions**|Ziyao Zeng et.al.|[2410.02924](http://arxiv.org/abs/2410.02924)|null|
+|**2024-10-03**|**RSA: Resolving Scale Ambiguities in Monocular Depth Estimators through Language Descriptions**|Ziyao Zeng et.al.|[2410.02924](http://arxiv.org/abs/2410.02924)|**[link](https://github.com/adonis-galaxy/rsa)**|
 |**2024-10-03**|**Pseudo-Stereo Inputs: A Solution to the Occlusion Challenge in Self-Supervised Stereo Matching**|Ruizhi Yang et.al.|[2410.02534](http://arxiv.org/abs/2410.02534)|**[link](https://github.com/qrzyang/pseudo-stereo)**|
 |**2024-10-02**|**Depth Pro: Sharp Monocular Metric Depth in Less Than a Second**|Aleksei Bochkovskii et.al.|[2410.02073](http://arxiv.org/abs/2410.02073)|**[link](https://github.com/apple/ml-depth-pro)**|
 |**2024-10-01**|**Towards Full-parameter and Parameter-efficient Self-learning For Endoscopic Camera Depth Estimation**|Shuting Zhao et.al.|[2410.00979](http://arxiv.org/abs/2410.00979)|null|
@@ -176,7 +176,7 @@
 |**2024-11-05**|**LLMs for Domain Generation Algorithm Detection**|Reynier Leyva La O et.al.|[2411.03307](http://arxiv.org/abs/2411.03307)|null|
 |**2024-11-05**|**VERITAS: A Unified Approach to Reliability Evaluation**|Rajkumar Ramamurthy et.al.|[2411.03300](http://arxiv.org/abs/2411.03300)|null|
 |**2024-11-05**|**Examining Human-AI Collaboration for Co-Writing Constructive Comments Online**|Farhana Shahid et.al.|[2411.03295](http://arxiv.org/abs/2411.03295)|null|
-|**2024-11-05**|**Interaction2Code: How Far Are We From Automatic Interactive Webpage Generation?**|Jingyu Xiao et.al.|[2411.03292](http://arxiv.org/abs/2411.03292)|null|
+|**2024-11-05**|**Interaction2Code: How Far Are We From Automatic Interactive Webpage Generation?**|Jingyu Xiao et.al.|[2411.03292](http://arxiv.org/abs/2411.03292)|**[link](https://github.com/webpai/interaction2code)**|
 |**2024-11-05**|**The Future of Intelligent Healthcare: A Systematic Analysis and Discussion on the Integration and Impact of Robots Using Large Language Models for Healthcare**|Souren Pashangpour et.al.|[2411.03287](http://arxiv.org/abs/2411.03287)|null|
 |**2024-11-05**|**SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents**|Dawei Li et.al.|[2411.03284](http://arxiv.org/abs/2411.03284)|**[link](https://github.com/david-li0406/smoa)**|
 |**2024-11-05**|**Spontaneous Emergence of Agent Individuality through Social Interactions in LLM-Based Communities**|Ryosuke Takata et.al.|[2411.03252](http://arxiv.org/abs/2411.03252)|null|
@@ -193,17 +193,17 @@
 |**2024-11-04**|**"Give Me BF16 or Give Me Death"? Accuracy-Performance Trade-Offs in LLM Quantization**|Eldar Kurtic et.al.|[2411.02355](http://arxiv.org/abs/2411.02355)|null|
 |**2024-11-04**|**Social-RAG: Retrieving from Group Interactions to Socially Ground Proactive AI Generation to Group Preferences**|Ruotong Wang et.al.|[2411.02353](http://arxiv.org/abs/2411.02353)|null|
 |**2024-11-01**|**SelfCodeAlign: Self-Alignment for Code Generation**|Yuxiang Wei et.al.|[2410.24198](http://arxiv.org/abs/2410.24198)|**[link](https://github.com/bigcode-project/selfcodealign)**|
-|**2024-10-31**|**Hidden Persuaders: LLMs' Political Leaning and Their Influence on Voters**|Yujin Potter et.al.|[2410.24190](http://arxiv.org/abs/2410.24190)|null|
+|**2024-10-31**|**Hidden Persuaders: LLMs' Political Leaning and Their Influence on Voters**|Yujin Potter et.al.|[2410.24190](http://arxiv.org/abs/2410.24190)|**[link](https://github.com/sunblaze-ucb/political_leaning_RepE)**|
 |**2024-10-31**|**Constraint Back-translation Improves Complex Instruction Following of Large Language Models**|Yunjia Qi et.al.|[2410.24175](http://arxiv.org/abs/2410.24175)|null|
 |**2024-10-31**|**$π_0$ : A Vision-Language-Action Flow Model for General Robot Control**|Kevin Black et.al.|[2410.24164](http://arxiv.org/abs/2410.24164)|null|
 |**2024-10-31**|**Thought Space Explorer: Navigating and Expanding Thought Space for Large Language Model Reasoning**|Jinghan Zhang et.al.|[2410.24155](http://arxiv.org/abs/2410.24155)|null|
 |**2024-10-31**|**Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning**|Jiaqi Liu et.al.|[2410.24152](http://arxiv.org/abs/2410.24152)|null|
 |**2024-10-31**|**Exploring Vision Language Models for Facial Attribute Recognition: Emotion, Race, Gender, and Age**|Nouar AlDahoul et.al.|[2410.24148](http://arxiv.org/abs/2410.24148)|null|
 |**2024-10-31**|**Leveraging Large Language Models for Code Translation and Software Development in Scientific Computing**|Akash Dhruv et.al.|[2410.24119](http://arxiv.org/abs/2410.24119)|**[link](https://github.com/neucol/llm-conversion-performance)**|
-|**2024-10-31**|**Repository-Level Compositional Code Translation and Validation**|Ali Reza Ibrahimzada et.al.|[2410.24117](http://arxiv.org/abs/2410.24117)|null|
+|**2024-10-31**|**Repository-Level Compositional Code Translation and Validation**|Ali Reza Ibrahimzada et.al.|[2410.24117](http://arxiv.org/abs/2410.24117)|**[link](https://github.com/Intelligent-CAT-Lab/AlphaTrans)**|
 |**2024-10-31**|**Nearest Neighbor Normalization Improves Multimodal Retrieval**|Neil Chowdhury et.al.|[2410.24114](http://arxiv.org/abs/2410.24114)|**[link](https://github.com/multimodal-interpretability/nnn)**|
 |**2024-10-31**|**Matchmaker: Self-Improving Large Language Model Programs for Schema Matching**|Nabeel Seedat et.al.|[2410.24105](http://arxiv.org/abs/2410.24105)|null|
-|**2024-10-31**|**AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents**|Yifan Xu et.al.|[2410.24024](http://arxiv.org/abs/2410.24024)|null|
+|**2024-10-31**|**AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents**|Yifan Xu et.al.|[2410.24024](http://arxiv.org/abs/2410.24024)|**[link](https://github.com/THUDM/Android-Lab)**|
 |**2024-10-31**|**Bayesian-guided Label Mapping for Visual Reprogramming**|Chengyi Cai et.al.|[2410.24018](http://arxiv.org/abs/2410.24018)|**[link](https://github.com/tmlr-group/bayesianlm)**|
 |**2024-10-31**|**EZ-HOI: VLM Adaptation via Guided Prompt Learning for Zero-Shot HOI Detection**|Qinqian Lei et.al.|[2410.23904](http://arxiv.org/abs/2410.23904)|**[link](https://github.com/chelsielei/ez-hoi)**|
 |**2024-10-31**|**Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models**|Hao Yang et.al.|[2410.23861](http://arxiv.org/abs/2410.23861)|null|
@@ -242,10 +242,10 @@
 |**2024-10-28**|**Guide-LLM: An Embodied LLM Agent and Text-Based Topological Map for Robotic Guidance of People with Visual Impairments**|Sangmim Song et.al.|[2410.20666](http://arxiv.org/abs/2410.20666)|null|
 |**2024-10-25**|**Rethinking Visual Dependency in Long-Context Reasoning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2410.19732](http://arxiv.org/abs/2410.19732)|null|
 |**2024-10-25**|**OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization**|Hongliang He et.al.|[2410.19609](http://arxiv.org/abs/2410.19609)|**[link](https://github.com/minorjerry/openwebvoyager)**|
-|**2024-10-25**|**GeoLLaVA: Efficient Fine-Tuned Vision-Language Models for Temporal Change Detection in Remote Sensing**|Hosam Elgendy et.al.|[2410.19552](http://arxiv.org/abs/2410.19552)|null|
+|**2024-10-25**|**GeoLLaVA: Efficient Fine-Tuned Vision-Language Models for Temporal Change Detection in Remote Sensing**|Hosam Elgendy et.al.|[2410.19552](http://arxiv.org/abs/2410.19552)|**[link](https://github.com/HosamGen/GeoLLaVA)**|
 |**2024-10-25**|**Bongard in Wonderland: Visual Puzzles that Still Make AI Go Mad?**|Antonia Wüst et.al.|[2410.19546](http://arxiv.org/abs/2410.19546)|**[link](https://github.com/ml-research/bongard-in-wonderland)**|
 |**2024-10-25**|**EDGE: Enhanced Grounded GUI Understanding with Enriched Multi-Granularity Synthetic Data**|Xuetian Chen et.al.|[2410.19461](http://arxiv.org/abs/2410.19461)|null|
-|**2024-10-25**|**COAT: Compressing Optimizer states and Activation for Memory-Efficient FP8 Training**|Haocheng Xi et.al.|[2410.19313](http://arxiv.org/abs/2410.19313)|null|
+|**2024-10-25**|**COAT: Compressing Optimizer states and Activation for Memory-Efficient FP8 Training**|Haocheng Xi et.al.|[2410.19313](http://arxiv.org/abs/2410.19313)|**[link](https://github.com/nvlabs/coat)**|
 |**2024-10-25**|**Enhancing Zero-Shot Vision Models by Label-Free Prompt Distribution Learning and Bias Correcting**|Xingyu Zhu et.al.|[2410.19294](http://arxiv.org/abs/2410.19294)|null|
 |**2024-10-24**|**Visual Text Matters: Improving Text-KVQA with Visual Text Entity Knowledge-aware Large Multimodal Assistant**|Abhirama Subramanyam Penamakuri et.al.|[2410.19144](http://arxiv.org/abs/2410.19144)|**[link](https://github.com/vl2g/KaLMA)**|
 |**2024-10-24**|**VideoWebArena: Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks**|Lawrence Jang et.al.|[2410.19100](http://arxiv.org/abs/2410.19100)|null|
@@ -327,7 +327,7 @@
 |**2024-10-15**|**CLIP-DFGS: A Hard Sample Mining Method for CLIP in Generalizable Person Re-Identification**|Huazhong Zhao et.al.|[2410.11255](http://arxiv.org/abs/2410.11255)|null|
 |**2024-10-14**|**Towards Foundation Models for 3D Vision: How Close Are We?**|Yiming Zuo et.al.|[2410.10799](http://arxiv.org/abs/2410.10799)|null|
 |**2024-10-14**|**VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents**|Shi Yu et.al.|[2410.10594](http://arxiv.org/abs/2410.10594)|**[link](https://github.com/openbmb/visrag)**|
-|**2024-10-14**|**Queryable Prototype Multiple Instance Learning with Vision-Language Models for Incremental Whole Slide Image Classification**|Jiaxiang Gou et.al.|[2410.10573](http://arxiv.org/abs/2410.10573)|null|
+|**2024-10-14**|**Queryable Prototype Multiple Instance Learning with Vision-Language Models for Incremental Whole Slide Image Classification**|Jiaxiang Gou et.al.|[2410.10573](http://arxiv.org/abs/2410.10573)|**[link](https://github.com/can-can-ya/QPMIL-VL)**|
 |**2024-10-14**|**MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks**|Jiacheng Chen et.al.|[2410.10563](http://arxiv.org/abs/2410.10563)|null|
 |**2024-10-14**|**Learning to Ground VLMs without Forgetting**|Aritra Bhowmik et.al.|[2410.10491](http://arxiv.org/abs/2410.10491)|null|
 |**2024-10-14**|**LG-CAV: Train Any Concept Activation Vector with Language Guidance**|Qihan Huang et.al.|[2410.10308](http://arxiv.org/abs/2410.10308)|null|
@@ -456,7 +456,7 @@
 |**2024-11-07**|**Stem-OB: Generalizable Visual Imitation Learning with Stem-Like Convergent Observation through Diffusion Inversion**|Kaizhe Hu et.al.|[2411.04919](http://arxiv.org/abs/2411.04919)|**[link](https://github.com/hukz18/Stem-Ob)**|
 |**2024-11-07**|**Sharp extinction rates for positive solutions of fast diffusion equations**|Tobias König et.al.|[2411.04783](http://arxiv.org/abs/2411.04783)|null|
 |**2024-11-06**|**Community Forensics: Using Thousands of Generators to Train Fake Image Detectors**|Jeongsoo Park et.al.|[2411.04125](http://arxiv.org/abs/2411.04125)|null|
-|**2024-11-06**|**Manifold Diffusion Geometry: Curvature, Tangent Spaces, and Dimension**|Iolo Jones et.al.|[2411.04100](http://arxiv.org/abs/2411.04100)|null|
+|**2024-11-06**|**Manifold Diffusion Geometry: Curvature, Tangent Spaces, and Dimension**|Iolo Jones et.al.|[2411.04100](http://arxiv.org/abs/2411.04100)|**[link](https://github.com/Iolo-Jones/ManifoldDiffusionGeometry)**|
 |**2024-11-06**|**Simulation of solar energetic particle events originated from coronal mass ejection shocks with a data-driven physics-based transport model**|Lei Cheng et.al.|[2411.04095](http://arxiv.org/abs/2411.04095)|null|
 |**2024-11-06**|**A Multi-level Monte Carlo simulation for invariant distribution of Markovian switching Lévy-driven SDEs with super-linearly growth coefficients**|Hoang-Viet Nguyen et.al.|[2411.04081](http://arxiv.org/abs/2411.04081)|null|
 |**2024-11-06**|**The Lorentz Gas in a Mean-Field Potential: Weak Coupling and Diffusive Regime**|Dominik Nowak et.al.|[2411.04076](http://arxiv.org/abs/2411.04076)|null|
@@ -750,7 +750,7 @@
 |**2024-11-06**|**Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis**|Rui Peng et.al.|[2411.03637](http://arxiv.org/abs/2411.03637)|**[link](https://github.com/prstrive/scgaussian)**|
 |**2024-11-06**|**LCP-Fusion: A Neural Implicit SLAM with Enhanced Local Constraints and Computable Prior**|Jiahui Wang et.al.|[2411.03610](http://arxiv.org/abs/2411.03610)|**[link](https://github.com/laliwang/lcp-fusion)**|
 |**2024-11-05**|**Object and Contact Point Tracking in Demonstrations Using 3D Gaussian Splatting**|Michael Büttner et.al.|[2411.03555](http://arxiv.org/abs/2411.03555)|null|
-|**2024-11-05**|**Enhancing Exploratory Capability of Visual Navigation Using Uncertainty of Implicit Scene Representation**|Yichen Wang et.al.|[2411.03487](http://arxiv.org/abs/2411.03487)|null|
+|**2024-11-05**|**Enhancing Exploratory Capability of Visual Navigation Using Uncertainty of Implicit Scene Representation**|Yichen Wang et.al.|[2411.03487](http://arxiv.org/abs/2411.03487)|**[link](https://github.com/IRMVLab/NUE-NeRF-nav)**|
 |**2024-11-05**|**HFGaussian: Learning Generalizable Gaussian Human with Integrated Human Features**|Arnab Dey et.al.|[2411.03086](http://arxiv.org/abs/2411.03086)|null|
 |**2024-11-05**|**CAD-NeRF: Learning NeRFs from Uncalibrated Few-view Images by CAD Model Retrieval**|Xin Wen et.al.|[2411.02979](http://arxiv.org/abs/2411.02979)|null|
 |**2024-11-05**|**Exploring Seasonal Variability in the Context of Neural Radiance Fields for 3D Reconstruction on Satellite Imagery**|Liv Kåreborn et.al.|[2411.02972](http://arxiv.org/abs/2411.02972)|null|
@@ -762,7 +762,7 @@
 |**2024-11-05**|**FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training**|Ruihong Yin et.al.|[2411.02229](http://arxiv.org/abs/2411.02229)|null|
 |**2024-11-04**|**GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes**|Gaochao Song et.al.|[2411.01853](http://arxiv.org/abs/2411.01853)|null|
 |**2024-11-04**|**A Probabilistic Formulation of LiDAR Mapping with Neural Radiance Fields**|Matthew McDermott et.al.|[2411.01725](http://arxiv.org/abs/2411.01725)|**[link](https://github.com/mcdermatt/plink)**|
-|**2024-11-03**|**InstantGeoAvatar: Effective Geometry and Appearance Modeling of Animatable Avatars from Monocular Video**|Alvaro Budria et.al.|[2411.01512](http://arxiv.org/abs/2411.01512)|null|
+|**2024-11-03**|**InstantGeoAvatar: Effective Geometry and Appearance Modeling of Animatable Avatars from Monocular Video**|Alvaro Budria et.al.|[2411.01512](http://arxiv.org/abs/2411.01512)|**[link](https://github.com/alvaro-budria/InstantGeoAvatar)**|
 |**2024-11-03**|**ITS: Implicit Thin Shell for Polygonal Meshes**|Huibiao Wen et.al.|[2411.01488](http://arxiv.org/abs/2411.01488)|null|
 |**2024-11-02**|**Control Strategies for Pursuit-Evasion Under Occlusion Using Visibility and Safety Barrier Functions**|Minnan Zhou et.al.|[2411.01321](http://arxiv.org/abs/2411.01321)|null|
 |**2024-11-02**|**Real-Time Spatio-Temporal Reconstruction of Dynamic Endoscopic Scenes with 4D Gaussian Splatting**|Fengze Li et.al.|[2411.01218](http://arxiv.org/abs/2411.01218)|null|
@@ -773,7 +773,7 @@
 |**2024-10-31**|**Scaled Inverse Graphics: Efficiently Learning Large Sets of 3D Scenes**|Karim Kassab et.al.|[2410.23742](http://arxiv.org/abs/2410.23742)|null|
 |**2024-10-31**|**GaussianMarker: Uncertainty-Aware Copyright Protection of 3D Gaussian Splatting**|Xiufeng Huang et.al.|[2410.23718](http://arxiv.org/abs/2410.23718)|null|
 |**2024-10-31**|**Get a Grip: Multi-Finger Grasp Evaluation at Scale Enables Robust Sim-to-Real Transfer**|Tyler Ga Wei Lum et.al.|[2410.23701](http://arxiv.org/abs/2410.23701)|null|
-|**2024-10-31**|**XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**|Xiaomeng Wang et.al.|[2410.23690](http://arxiv.org/abs/2410.23690)|null|
+|**2024-10-31**|**XRDSLAM: A Flexible and Modular Framework for Deep Learning based SLAM**|Xiaomeng Wang et.al.|[2410.23690](http://arxiv.org/abs/2410.23690)|**[link](https://github.com/openxrlab/xrdslam)**|
 |**2024-10-31**|**GS-Blur: A 3D Scene-Based Dataset for Realistic Image Deblurring**|Dongwoo Lee et.al.|[2410.23658](http://arxiv.org/abs/2410.23658)|null|
 |**2024-10-30**|**ELMGS: Enhancing memory and computation scaLability through coMpression for 3D Gaussian Splatting**|Muhammad Salman Ali et.al.|[2410.23213](http://arxiv.org/abs/2410.23213)|null|
 |**2024-10-30**|**Bringing NeRFs to the Latent Space: Inverse Graphics Autoencoder**|Antoine Schnepf et.al.|[2410.22936](http://arxiv.org/abs/2410.22936)|null|
@@ -792,7 +792,7 @@
 |**2024-10-27**|**Normal-GS: 3D Gaussian Splatting with Normal-Involved Rendering**|Meng Wei et.al.|[2410.20593](http://arxiv.org/abs/2410.20593)|null|
 |**2024-10-27**|**Neural rendering enables dynamic tomography**|Ivan Grega et.al.|[2410.20558](http://arxiv.org/abs/2410.20558)|null|
 |**2024-10-27**|**GUMBEL-NERF: Representing Unseen Objects as Part-Compositional Neural Radiance Fields**|Yusuke Sekikawa et.al.|[2410.20306](http://arxiv.org/abs/2410.20306)|null|
-|**2024-10-26**|**Neural Fields in Robotics: A Survey**|Muhammad Zubair Irshad et.al.|[2410.20220](http://arxiv.org/abs/2410.20220)|null|
+|**2024-10-26**|**Neural Fields in Robotics: A Survey**|Muhammad Zubair Irshad et.al.|[2410.20220](http://arxiv.org/abs/2410.20220)|**[link](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)**|
 |**2024-10-25**|**Inferring Neural Signed Distance Functions by Overfitting on Single Noisy Point Clouds through Finetuning Data-Driven based Priors**|Chao Chen et.al.|[2410.19680](http://arxiv.org/abs/2410.19680)|null|
 |**2024-10-25**|**DiffGS: Functional Gaussian Splatting Diffusion**|Junsheng Zhou et.al.|[2410.19657](http://arxiv.org/abs/2410.19657)|null|
 |**2024-10-25**|**Robotic Learning in your Backyard: A Neural Simulator from Open Source Components**|Liyou Zhou et.al.|[2410.19564](http://arxiv.org/abs/2410.19564)|**[link](https://github.com/splatlearn/splatgym)**|
@@ -839,7 +839,7 @@
 |**2024-10-16**|**Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage Gaussian Splats**|Chen Ziwen et.al.|[2410.12781](http://arxiv.org/abs/2410.12781)|null|
 |**2024-10-16**|**3D Gaussian Splatting in Robotics: A Survey**|Siting Zhu et.al.|[2410.12262](http://arxiv.org/abs/2410.12262)|null|
 |**2024-10-16**|**EG-HumanNeRF: Efficient Generalizable Human NeRF Utilizing Human Prior for Sparse View**|Zhaorong Wang et.al.|[2410.12242](http://arxiv.org/abs/2410.12242)|null|
-|**2024-10-15**|**SplatPose+: Real-time Image-Based Pose-Agnostic 3D Anomaly Detection**|Yizhe Liu et.al.|[2410.12080](http://arxiv.org/abs/2410.12080)|null|
+|**2024-10-15**|**SplatPose+: Real-time Image-Based Pose-Agnostic 3D Anomaly Detection**|Yizhe Liu et.al.|[2410.12080](http://arxiv.org/abs/2410.12080)|**[link](https://github.com/Yizhe-Liu/SplatPosePlus)**|
 |**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505](http://arxiv.org/abs/2410.11505)|null|
 |**2024-10-15**|**GS^3: Efficient Relighting with Triple Gaussian Splatting**|Zoubin Bi et.al.|[2410.11419](http://arxiv.org/abs/2410.11419)|**[link](https://github.com/gsrelight/gs-relight)**|
 |**2024-10-15**|**MCGS: Multiview Consistency Enhancement for Sparse-View 3D Gaussian Radiance Fields**|Yuru Xiao et.al.|[2410.11394](http://arxiv.org/abs/2410.11394)|null|
@@ -1198,7 +1198,7 @@
 |**2024-05-20**|**Embracing Radiance Field Rendering in 6G: Over-the-Air Training and Inference with 3D Contents**|Guanlin Wu et.al.|[2405.12155](http://arxiv.org/abs/2405.12155)|null|
 |**2024-05-20**|**NPLMV-PS: Neural Point-Light Multi-View Photometric Stereo**|Fotios Logothetis et.al.|[2405.12057](http://arxiv.org/abs/2405.12057)|null|
 |**2024-05-19**|**Searching Realistic-Looking Adversarial Objects For Autonomous Driving Systems**|Shengxiang Sun et.al.|[2405.11629](http://arxiv.org/abs/2405.11629)|null|
-|**2024-05-19**|**R-NeRF: Neural Radiance Fields for Modeling RIS-enabled Wireless Environments**|Huiying Yang et.al.|[2405.11541](http://arxiv.org/abs/2405.11541)|null|
+|**2024-05-19**|**R-NeRF: Neural Radiance Fields for Modeling RIS-enabled Wireless Environments**|Huiying Yang et.al.|[2405.11541](http://arxiv.org/abs/2405.11541)|**[link](https://github.com/HUSTGSNeRF/R-NeRF)**|
 |**2024-05-18**|**MotionGS : Compact Gaussian Splatting SLAM by Motion Filter**|Xinli Guo et.al.|[2405.11129](http://arxiv.org/abs/2405.11129)|**[link](https://github.com/antonio521/motiongs)**|
 |**2024-05-16**|**When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**|Xianzheng Ma et.al.|[2405.10255](http://arxiv.org/abs/2405.10255)|**[link](https://github.com/activevisionlab/awesome-llm-3d)**|
 |**2024-05-15**|**From NeRFs to Gaussian Splats, and Back**|Siming He et.al.|[2405.09717](http://arxiv.org/abs/2405.09717)|**[link](https://github.com/grasp-lyrl/nerftogsandback)**|
@@ -1487,7 +1487,7 @@
 |**2024-01-05**|**FED-NeRF: Achieve High 3D Consistency and Temporal Coherence for Face Video Editing on Dynamic NeRF**|Hao Zhang et.al.|[2401.02616](http://arxiv.org/abs/2401.02616)|**[link](https://github.com/zhang1023/fed-nerf)**|
 |**2024-01-05**|**Characterizing Satellite Geometry via Accelerated 3D Gaussian Splatting**|Van Minh Nguyen et.al.|[2401.02588](http://arxiv.org/abs/2401.02588)|null|
 |**2024-01-03**|**SIGNeRF: Scene Integrated Generation for Neural Radiance Fields**|Jan-Niklas Dihlmann et.al.|[2401.01647](http://arxiv.org/abs/2401.01647)|null|
-|**2024-01-02**|**Street Gaussians for Modeling Dynamic Urban Scenes**|Yunzhi Yan et.al.|[2401.01339](http://arxiv.org/abs/2401.01339)|null|
+|**2024-01-02**|**Street Gaussians for Modeling Dynamic Urban Scenes**|Yunzhi Yan et.al.|[2401.01339](http://arxiv.org/abs/2401.01339)|**[link](https://github.com/zju3dv/street_gaussians)**|
 |**2024-01-02**|**Noise-NeRF: Hide Information in Neural Radiance Fields using Trainable Noise**|Qinglong Huang et.al.|[2401.01216](http://arxiv.org/abs/2401.01216)|null|
 |**2024-01-02**|**3D Visibility-aware Generalizable Neural Radiance Fields for Interacting Hands**|Xuan Huang et.al.|[2401.00979](http://arxiv.org/abs/2401.00979)|**[link](https://github.com/xuanhuang0/vanerf)**|
 |**2024-01-01**|**Sharp-NeRF: Grid-based Fast Deblurring Neural Radiance Fields Using Sharpness Prior**|Byeonghyeon Lee et.al.|[2401.00825](http://arxiv.org/abs/2401.00825)|**[link](https://github.com/benhenryl/sharpnerf)**|
