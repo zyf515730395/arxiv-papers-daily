@@ -32,5 +32,7 @@ keywords:
         filters: ["Large Language Model", "LLM", "Vision Language Model", "VLM", "Multi-modal Model", "Embodied AI"]
     "Diffusion":
         filters: ["Diffusion", "Diffusion Models", "Text to 3D", "Image to 3D"]
+    "RSR":
+        filters: ["sim to real", "real to sim", "robot domain gap"]
     "Neural Rendering":
         filters: ["Neural Rendering", "Gaussian Splatting", "3D GS", "NeRF", "Neural Radiance Fields", "SDF", "Signed Distance Funciton"]
