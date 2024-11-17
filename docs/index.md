@@ -2364,3 +2364,18 @@ Updated on 2024.11.17
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
+## RSR
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**Drone Detection using Deep Neural Networks Trained on Pure Synthetic Data**|Mariusz Wisniewski et.al.|[2411.09077](http://arxiv.org/abs/2411.09077)|**[link](https://github.com/mazqtpopx/cranfield-synthetic-drone-detection)**|
+|**2024-11-13**|**Integrative Wrapping System for a Dual-Arm Humanoid Robot**|Yukina Iwata et.al.|[2411.08389](http://arxiv.org/abs/2411.08389)|null|
+|**2024-11-11**|**Instance Performance Difference: A Metric to Measure the Sim-To-Real Gap in Camera Simulation**|Bo-Hsun Chen et.al.|[2411.07375](http://arxiv.org/abs/2411.07375)|null|
+|**2024-11-10**|**Visuotactile-Based Learning for Insertion with Compliant Hands**|Osher Azulay et.al.|[2411.06408](http://arxiv.org/abs/2411.06408)|**[link](https://github.com/osheraz/isaacgyminsertion)**|
+|**2024-11-10**|**Impact-Aware Robotic Manipulation: Quantifying the Sim-To-Real Gap for Velocity Jumps**|Jari van Steen et.al.|[2411.06319](http://arxiv.org/abs/2411.06319)|null|
+|**2024-11-08**|**A Retrospective on the Robot Air Hockey Challenge: Benchmarking Robust, Reliable, and Safe Learning Techniques for Real-world Robotics**|Puze Liu et.al.|[2411.05718](http://arxiv.org/abs/2411.05718)|null|
+|**2024-11-05**|**Monocular Event-Based Vision for Obstacle Avoidance with a Quadrotor**|Anish Bhattacharya et.al.|[2411.03303](http://arxiv.org/abs/2411.03303)|null|
+|**2024-11-04**|**DiffSim2Real: Deploying Quadrupedal Locomotion Policies Purely Trained in Differentiable Simulation**|Joshua Bagajo et.al.|[2411.02189](http://arxiv.org/abs/2411.02189)|null|
+|**2024-11-02**|**GarmentLab: A Unified Simulation and Benchmark for Garment Manipulation**|Haoran Lu et.al.|[2411.01200](http://arxiv.org/abs/2411.01200)|**[link](https://github.com/GarmentLab/GarmentLab)**|
+|**2024-10-31**|**Learning Visual Parkour from Generated Images**|Alan Yu et.al.|[2411.00083](http://arxiv.org/abs/2411.00083)|null|
+
