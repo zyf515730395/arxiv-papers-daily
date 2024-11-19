@@ -14,6 +14,13 @@
 
 ## Depth Estimation
 
+|**2024-11-18**|**Towards Degradation-Robust Reconstruction in Generalizable NeRF**|Chan Ho Park et.al.|[2411.11691](http://arxiv.org/abs/2411.11691)|null|
+|**2024-11-18**|**MGNiceNet: Unified Monocular Geometric Scene Understanding**|Markus Schön et.al.|[2411.11466](http://arxiv.org/abs/2411.11466)|null|
+|**2024-11-18**|**The ADUULM-360 Dataset -- A Multi-Modal Dataset for Depth Estimation in Adverse Weather**|Markus Schön et.al.|[2411.11455](http://arxiv.org/abs/2411.11455)|null|
+|**2024-11-18**|**GPS-Gaussian+: Generalizable Pixel-wise 3D Gaussian Splatting for Real-Time Human-Scene Rendering from Sparse Views**|Boyao Zhou et.al.|[2411.11363](http://arxiv.org/abs/2411.11363)|null|
+|**2024-11-18**|**Scalable Autoregressive Monocular Depth Estimation**|Jinhong Wang et.al.|[2411.11361](http://arxiv.org/abs/2411.11361)|null|
+|**2024-11-16**|**MetricGold: Leveraging Text-To-Image Latent Diffusion Models for Metric Depth Estimation**|Ansh Shah et.al.|[2411.10886](http://arxiv.org/abs/2411.10886)|null|
+|**2024-11-16**|**EVT: Efficient View Transformation for Multi-Modal 3D Object Detection**|Yongjin Lee et.al.|[2411.10715](http://arxiv.org/abs/2411.10715)|null|
 |**2024-11-15**|**Efficient Depth Estimation for Unstable Stereo Camera Systems on AR Glasses**|Yongfan Liu et.al.|[2411.10013](http://arxiv.org/abs/2411.10013)|null|
 |**2024-11-14**|**Architect: Generating Vivid and Interactive 3D Scenes with Hierarchical 2D Inpainting**|Yian Wang et.al.|[2411.09823](http://arxiv.org/abs/2411.09823)|null|
 |**2024-11-14**|**Adversarial Attacks Using Differentiable Rendering: A Survey**|Matthew Hull et.al.|[2411.09749](http://arxiv.org/abs/2411.09749)|null|
@@ -97,7 +104,7 @@
 |**2024-11-13**|**Generative AI for Data Augmentation in Wireless Networks: Analysis, Applications, and Case Study**|Jinbo Wen et.al.|[2411.08341](http://arxiv.org/abs/2411.08341)|null|
 |**2024-11-12**|**LapGSR: Laplacian Reconstructive Network for Guided Thermal Super-Resolution**|Aditya Kasliwal et.al.|[2411.07750](http://arxiv.org/abs/2411.07750)|null|
 |**2024-11-12**|**Two-Layer Attention Optimization for Bimanual Coordination**|Justin Ting et.al.|[2411.07470](http://arxiv.org/abs/2411.07470)|null|
-|**2024-11-11**|**ConvMixFormer- A Resource-efficient Convolution Mixer for Transformer-based Dynamic Hand Gesture Recognition**|Mallika Garg et.al.|[2411.07118](http://arxiv.org/abs/2411.07118)|**[link](https://github.com/mallikagarg/convmixformer)**|
+|**2024-11-17**|**ConvMixFormer- A Resource-efficient Convolution Mixer for Transformer-based Dynamic Hand Gesture Recognition**|Mallika Garg et.al.|[2411.07118](http://arxiv.org/abs/2411.07118)|**[link](https://github.com/mallikagarg/convmixformer)**|
 |**2024-11-10**|**SuperResolution Radar Gesture Recognitio**|Netanel Blumenfeld et.al.|[2411.06410](http://arxiv.org/abs/2411.06410)|null|
 |**2024-11-06**|**Object Recognition in Human Computer Interaction:- A Comparative Analysis**|Kaushik Ranade et.al.|[2411.04263](http://arxiv.org/abs/2411.04263)|null|
 |**2024-11-05**|**One-Stage-TFS: Thai One-Stage Fingerspelling Dataset for Fingerspelling Recognition Frameworks**|Siriwiwat Lata et.al.|[2411.02768](http://arxiv.org/abs/2411.02768)|null|
@@ -133,7 +140,7 @@
 |**2024-11-13**|**LG-Gaze: Learning Geometry-aware Continuous Prompts for Language-Guided Gaze Estimation**|Pengwei Yin et.al.|[2411.08606](http://arxiv.org/abs/2411.08606)|null|
 |**2024-11-08**|**GazeSearch: Radiology Findings Search Benchmark**|Trong Thang Pham et.al.|[2411.05780](http://arxiv.org/abs/2411.05780)|null|
 |**2024-11-07**|**A Comprehensive Review of Multimodal XR Applications, Risks, and Ethical Challenges in the Metaverse**|Panagiotis Kourtesis et.al.|[2411.04508](http://arxiv.org/abs/2411.04508)|null|
-|**2024-11-07**|**GazeGen: Gaze-Driven User Interaction for Visual Content Generation**|He-Yen Hsieh et.al.|[2411.04335](http://arxiv.org/abs/2411.04335)|null|
+|**2024-11-18**|**GazeGen: Gaze-Driven User Interaction for Visual Content Generation**|He-Yen Hsieh et.al.|[2411.04335](http://arxiv.org/abs/2411.04335)|null|
 |**2024-11-06**|**Evaluating Eye Tracking Signal Quality with Real-time Gaze Interaction Simulation**|Mehedi Hasan Raju et.al.|[2411.03708](http://arxiv.org/abs/2411.03708)|null|
 |**2024-11-04**|**Active Gaze Behavior Boosts Self-Supervised Object Learning**|Zhengyang Yu et.al.|[2411.01969](http://arxiv.org/abs/2411.01969)|null|
 |**2024-10-30**|**AI Support Meets AR Visualization for Alice and Bob: Personalized Learning Based on Individual ChatGPT Feedback in an AR Quantum Cryptography Experiment for Physics Lab Courses**|Atakan Coban et.al.|[2411.00849](http://arxiv.org/abs/2411.00849)|null|
@@ -170,6 +177,16 @@
 
 ## VLM/LLM
 
+|**2024-11-18**|**Generative World Explorer**|Taiming Lu et.al.|[2411.11844](http://arxiv.org/abs/2411.11844)|null|
+|**2024-11-18**|**Bi-Mamba: Towards Accurate 1-Bit State Space Models**|Shengkun Tang et.al.|[2411.11843](http://arxiv.org/abs/2411.11843)|null|
+|**2024-11-18**|**Tackling prediction tasks in relational databases with LLMs**|Marek Wydmuch et.al.|[2411.11829](http://arxiv.org/abs/2411.11829)|null|
+|**2024-11-18**|**Exploring adversarial robustness of JPEG AI: methodology, comparison and new methods**|Egor Kovalev et.al.|[2411.11795](http://arxiv.org/abs/2411.11795)|null|
+|**2024-11-18**|**LLM-IE: A Python Package for Generative Information Extraction with Large Language Models**|Enshuo Hsu et.al.|[2411.11779](http://arxiv.org/abs/2411.11779)|null|
+|**2024-11-18**|**sMoRe: Enhancing Object Manipulation and Organization in Mixed Reality Spaces with LLMs and Generative AI**|Yunhao Xing et.al.|[2411.11752](http://arxiv.org/abs/2411.11752)|null|
+|**2024-11-18**|**BitMoD: Bit-serial Mixture-of-Datatype LLM Acceleration**|Yuzong Chen et.al.|[2411.11745](http://arxiv.org/abs/2411.11745)|null|
+|**2024-11-18**|**Moral Persuasion in Large Language Models: Evaluating Susceptibility and Ethical Alignment**|Allison Huang et.al.|[2411.11731](http://arxiv.org/abs/2411.11731)|null|
+|**2024-11-18**|**Semantic-Geometric-Physical-Driven Robot Manipulation Skill Transfer via Skill Library and Tactile Representation**|Mingchao Qi et.al.|[2411.11714](http://arxiv.org/abs/2411.11714)|**[link](https://github.com/mingchaoqi/skill_transfer)**|
+|**2024-11-18**|**FedCoLLM: A Parameter-Efficient Federated Co-tuning Framework for Large and Small Language Models**|Tao Fan et.al.|[2411.11707](http://arxiv.org/abs/2411.11707)|null|
 |**2024-11-15**|**VeriGraph: Scene Graphs for Execution Verifiable Robot Planning**|Daniel Ekpo et.al.|[2411.10446](http://arxiv.org/abs/2411.10446)|null|
 |**2024-11-15**|**Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization**|Weiyun Wang et.al.|[2411.10442](http://arxiv.org/abs/2411.10442)|null|
 |**2024-11-15**|**LLaVA-o1: Let Vision Language Models Reason Step-by-Step**|Guowei Xu et.al.|[2411.10440](http://arxiv.org/abs/2411.10440)|null|
@@ -523,6 +540,16 @@
 
 ## Diffusion
 
+|**2024-11-18**|**Equivariant spatio-hemispherical networks for diffusion MRI deconvolution**|Axel Elaldi et.al.|[2411.11819](http://arxiv.org/abs/2411.11819)|**[link](https://github.com/axelelaldi/fast-equivariant-deconv)**|
+|**2024-11-18**|**Fabrication of Hierarchical Sapphire Nanostructures using Ultrafast Laser Induced Morphology Change**|Joshua Cheung et.al.|[2411.11817](http://arxiv.org/abs/2411.11817)|null|
+|**2024-11-18**|**Open Catalyst Experiments 2024 (OCx24): Bridging Experiments and Computational Models**|Jehad Abed et.al.|[2411.11783](http://arxiv.org/abs/2411.11783)|null|
+|**2024-11-18**|**Milstein-type schemes for McKean-Vlasov SDEs driven by Brownian motion and Poisson random measure (with super-linear coefficients)**|Sani Biswas et.al.|[2411.11759](http://arxiv.org/abs/2411.11759)|null|
+|**2024-11-18**|**sMoRe: Enhancing Object Manipulation and Organization in Mixed Reality Spaces with LLMs and Generative AI**|Yunhao Xing et.al.|[2411.11752](http://arxiv.org/abs/2411.11752)|null|
+|**2024-11-18**|**Correlated emission lasing in a single quantum dot embedded inside a bimodal photonic crystal cavity**|Lavakumar Addepalli et.al.|[2411.11744](http://arxiv.org/abs/2411.11744)|null|
+|**2024-11-18**|**Aligning Few-Step Diffusion Models with Dense Reward Difference Learning**|Ziyi Zhang et.al.|[2411.11727](http://arxiv.org/abs/2411.11727)|**[link](https://github.com/ziyizhang27/sdpo)**|
+|**2024-11-18**|**Robust Reinforcement Learning under Diffusion Models for Data with Jumps**|Chenyang Jiang et.al.|[2411.11697](http://arxiv.org/abs/2411.11697)|null|
+|**2024-11-18**|**Active droplets controlled by enzymatic reactions**|Jacques Fries et.al.|[2411.11696](http://arxiv.org/abs/2411.11696)|null|
+|**2024-11-18**|**Hamiltonian Monte Carlo vs. event-chain Monte Carlo: an appraisal of sampling strategies beyond the diffusive regime**|Werner Krauth et.al.|[2411.11690](http://arxiv.org/abs/2411.11690)|null|
 |**2024-11-15**|**M-VAR: Decoupled Scale-wise Autoregressive Modeling for High-Quality Image Generation**|Sucheng Ren et.al.|[2411.10433](http://arxiv.org/abs/2411.10433)|null|
 |**2024-11-15**|**Mitigating Parameter Degeneracy using Joint Conditional Diffusion Model for WECC Composite Load Model in Power Systems**|Feiqin Zhu et.al.|[2411.10431](http://arxiv.org/abs/2411.10431)|null|
 |**2024-11-15**|**Lower bounds on the top Lyapunov exponent for linear PDEs driven by the 2D stochastic Navier-Stokes equations**|Martin Hairer et.al.|[2411.10419](http://arxiv.org/abs/2411.10419)|null|
@@ -878,6 +905,15 @@
 
 ## Neural Rendering
 
+|**2024-11-18**|**RoboGSim: A Real2Sim2Real Robotic Gaussian Splatting Simulator**|Xinhai Li et.al.|[2411.11839](http://arxiv.org/abs/2411.11839)|null|
+|**2024-11-18**|**Towards Degradation-Robust Reconstruction in Generalizable NeRF**|Chan Ho Park et.al.|[2411.11691](http://arxiv.org/abs/2411.11691)|null|
+|**2024-11-18**|**LeC $^2$ O-NeRF: Learning Continuous and Compact Large-Scale Occupancy for Urban Scenes**|Zhenxing Mi et.al.|[2411.11374](http://arxiv.org/abs/2411.11374)|null|
+|**2024-11-18**|**GPS-Gaussian+: Generalizable Pixel-wise 3D Gaussian Splatting for Real-Time Human-Scene Rendering from Sparse Views**|Boyao Zhou et.al.|[2411.11363](http://arxiv.org/abs/2411.11363)|null|
+|**2024-11-17**|**VeGaS: Video Gaussian Splatting**|Weronika Smolak-Dyżewska et.al.|[2411.11024](http://arxiv.org/abs/2411.11024)|**[link](https://github.com/gmum/vegas)**|
+|**2024-11-17**|**Direct and Explicit 3D Generation from a Single Image**|Haoyu Wu et.al.|[2411.10947](http://arxiv.org/abs/2411.10947)|null|
+|**2024-11-16**|**DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environment**|Mangyu Kong et.al.|[2411.10722](http://arxiv.org/abs/2411.10722)|null|
+|**2024-11-15**|**The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods**|Yifu Tao et.al.|[2411.10546](http://arxiv.org/abs/2411.10546)|null|
+|**2024-11-15**|**USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting**|Kang Chen et.al.|[2411.10504](http://arxiv.org/abs/2411.10504)|**[link](https://github.com/chenkang455/usp-gaussian)**|
 |**2024-11-15**|**Efficient Density Control for 3D Gaussian Splatting**|Xiaobin Deng et.al.|[2411.10133](http://arxiv.org/abs/2411.10133)|null|
 |**2024-11-15**|**GSEditPro: 3D Gaussian Splatting Editing with Attention-based Progressive Localization**|Yanhao Sun et.al.|[2411.10033](http://arxiv.org/abs/2411.10033)|null|
 |**2024-11-15**|**Toward Robust and Accurate Adversarial Camouflage Generation against Vehicle Detectors**|Jiawei Zhou et.al.|[2411.10029](http://arxiv.org/abs/2411.10029)|null|
@@ -2400,8 +2436,10 @@
 
 ## RSR
 
+|**2024-11-18**|**Towards Mitigating Sim2Real Gaps: A Formal Quantitative Approach**|P Sangeerth et.al.|[2411.11310](http://arxiv.org/abs/2411.11310)|null|
+|**2024-11-17**|**Exciting Contact Modes in Differentiable Simulations for Robot Learning**|Hrishikesh Sathyanarayan et.al.|[2411.10935](http://arxiv.org/abs/2411.10935)|null|
 |**2024-11-15**|**Towards Sample-Efficiency and Generalization of Transfer and Inverse Reinforcement Learning: A Comprehensive Literature Review**|Hossein Hassani et.al.|[2411.10268](http://arxiv.org/abs/2411.10268)|null|
-|**2024-11-15**|**Evaluating Text-to-Image Diffusion Models for Texturing Synthetic Data**|Thomas Lips et.al.|[2411.10164](http://arxiv.org/abs/2411.10164)|null|
+|**2024-11-15**|**Evaluating Text-to-Image Diffusion Models for Texturing Synthetic Data**|Thomas Lips et.al.|[2411.10164](http://arxiv.org/abs/2411.10164)|**[link](https://github.com/tlpss/diffusing-synthetic-data)**|
 |**2024-11-13**|**Drone Detection using Deep Neural Networks Trained on Pure Synthetic Data**|Mariusz Wisniewski et.al.|[2411.09077](http://arxiv.org/abs/2411.09077)|**[link](https://github.com/mazqtpopx/cranfield-synthetic-drone-detection)**|
 |**2024-11-13**|**Integrative Wrapping System for a Dual-Arm Humanoid Robot**|Yukina Iwata et.al.|[2411.08389](http://arxiv.org/abs/2411.08389)|null|
 |**2024-11-11**|**Instance Performance Difference: A Metric to Measure the Sim-To-Real Gap in Camera Simulation**|Bo-Hsun Chen et.al.|[2411.07375](http://arxiv.org/abs/2411.07375)|null|
