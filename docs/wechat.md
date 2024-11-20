@@ -14,13 +14,15 @@
 
 ## Depth Estimation
 
+|**2024-11-15**|**SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction**|Yutao Tang et.al.|[2411.12592](http://arxiv.org/abs/2411.12592)|null|
+|**2024-11-19**|**Motif Channel Opened in a White-Box: Stereo Matching via Motif Correlation Graph**|Ziyang Chen et.al.|[2411.12426](http://arxiv.org/abs/2411.12426)|**[link](https://github.com/zyangchen/mocha-stereo)**|
 |**2024-11-18**|**Towards Degradation-Robust Reconstruction in Generalizable NeRF**|Chan Ho Park et.al.|[2411.11691](http://arxiv.org/abs/2411.11691)|null|
 |**2024-11-18**|**MGNiceNet: Unified Monocular Geometric Scene Understanding**|Markus Schön et.al.|[2411.11466](http://arxiv.org/abs/2411.11466)|null|
 |**2024-11-18**|**The ADUULM-360 Dataset -- A Multi-Modal Dataset for Depth Estimation in Adverse Weather**|Markus Schön et.al.|[2411.11455](http://arxiv.org/abs/2411.11455)|null|
 |**2024-11-18**|**GPS-Gaussian+: Generalizable Pixel-wise 3D Gaussian Splatting for Real-Time Human-Scene Rendering from Sparse Views**|Boyao Zhou et.al.|[2411.11363](http://arxiv.org/abs/2411.11363)|null|
 |**2024-11-18**|**Scalable Autoregressive Monocular Depth Estimation**|Jinhong Wang et.al.|[2411.11361](http://arxiv.org/abs/2411.11361)|null|
 |**2024-11-16**|**MetricGold: Leveraging Text-To-Image Latent Diffusion Models for Metric Depth Estimation**|Ansh Shah et.al.|[2411.10886](http://arxiv.org/abs/2411.10886)|null|
-|**2024-11-16**|**EVT: Efficient View Transformation for Multi-Modal 3D Object Detection**|Yongjin Lee et.al.|[2411.10715](http://arxiv.org/abs/2411.10715)|null|
+|**2024-11-19**|**EVT: Efficient View Transformation for Multi-Modal 3D Object Detection**|Yongjin Lee et.al.|[2411.10715](http://arxiv.org/abs/2411.10715)|null|
 |**2024-11-15**|**Efficient Depth Estimation for Unstable Stereo Camera Systems on AR Glasses**|Yongfan Liu et.al.|[2411.10013](http://arxiv.org/abs/2411.10013)|null|
 |**2024-11-14**|**Architect: Generating Vivid and Interactive 3D Scenes with Hierarchical 2D Inpainting**|Yian Wang et.al.|[2411.09823](http://arxiv.org/abs/2411.09823)|null|
 |**2024-11-14**|**Adversarial Attacks Using Differentiable Rendering: A Survey**|Matthew Hull et.al.|[2411.09749](http://arxiv.org/abs/2411.09749)|null|
@@ -177,6 +179,16 @@
 
 ## VLM/LLM
 
+|**2024-11-19**|**ACING: Actor-Critic for Instruction Learning in Black-Box Large Language Models**|Salma Kharrat et.al.|[2411.12736](http://arxiv.org/abs/2411.12736)|null|
+|**2024-11-19**|**Information Theory of Meaningful Communication**|Doron Sivan et.al.|[2411.12728](http://arxiv.org/abs/2411.12728)|null|
+|**2024-11-19**|**CATCH: Complementary Adaptive Token-level Contrastive Decoding to Mitigate Hallucinations in LVLMs**|Zhehan Kan et.al.|[2411.12713](http://arxiv.org/abs/2411.12713)|null|
+|**2024-11-19**|**Enhancing Multi-Class Disease Classification: Neoplasms, Cardiovascular, Nervous System, and Digestive Disorders Using Advanced LLMs**|Ahmed Akib Jawad Karim et.al.|[2411.12712](http://arxiv.org/abs/2411.12712)|null|
+|**2024-11-19**|**Strengthening Fake News Detection: Leveraging SVM and Sophisticated Text Vectorization Techniques. Defying BERT?**|Ahmed Akib Jawad Karim et.al.|[2411.12703](http://arxiv.org/abs/2411.12703)|null|
+|**2024-11-19**|**When Backdoors Speak: Understanding LLM Backdoor Attacks Through Model-Generated Explanations**|Huaizhi Ge et.al.|[2411.12701](http://arxiv.org/abs/2411.12701)|null|
+|**2024-11-19**|**SparseInfer: Training-free Prediction of Activation Sparsity for Fast LLM Inference**|Jiho Shin et.al.|[2411.12692](http://arxiv.org/abs/2411.12692)|null|
+|**2024-11-19**|**Enhanced Sign Language Translation between American Sign Language (ASL) and Indian Sign Language (ISL) Using LLMs**|Malay Kumar et.al.|[2411.12685](http://arxiv.org/abs/2411.12685)|null|
+|**2024-11-19**|**Neurosymbolic Graph Enrichment for Grounded World Models**|Stefano De Giorgis et.al.|[2411.12671](http://arxiv.org/abs/2411.12671)|null|
+|**2024-11-19**|**AdaCM $^2$ : On Understanding Extremely Long-Term Video with Adaptive Cross-Modality Memory Reduction**|Yuanbin Man et.al.|[2411.12593](http://arxiv.org/abs/2411.12593)|null|
 |**2024-11-18**|**Generative World Explorer**|Taiming Lu et.al.|[2411.11844](http://arxiv.org/abs/2411.11844)|null|
 |**2024-11-18**|**Bi-Mamba: Towards Accurate 1-Bit State Space Models**|Shengkun Tang et.al.|[2411.11843](http://arxiv.org/abs/2411.11843)|null|
 |**2024-11-18**|**Tackling prediction tasks in relational databases with LLMs**|Marek Wydmuch et.al.|[2411.11829](http://arxiv.org/abs/2411.11829)|null|
@@ -540,6 +552,16 @@
 
 ## Diffusion
 
+|**2024-11-19**|**Quantum-assisted hλ-adaptive finite element method**|R. H. Drebotiy et.al.|[2411.12687](http://arxiv.org/abs/2411.12687)|null|
+|**2024-11-19**|**PoM: Efficient Image and Video Generation with the Polynomial Mixer**|David Picard et.al.|[2411.12663](http://arxiv.org/abs/2411.12663)|**[link](https://github.com/davidpicard/homm)**|
+|**2024-11-19**|**Implementation and performance of a fiber-coupled CMOS camera in an ultrafast reflective high-energy electron diffraction experiment**|Jonas D. Fortmann et.al.|[2411.12660](http://arxiv.org/abs/2411.12660)|null|
+|**2024-11-19**|**Scaling invariance for the diffusion coefficient in a dissipative standard mapping**|Edson D. Leonel et.al.|[2411.12648](http://arxiv.org/abs/2411.12648)|null|
+|**2024-11-19**|**Improving Controllability and Editability for Pretrained Text-to-Music Generation Models**|Yixiao Zhang et.al.|[2411.12641](http://arxiv.org/abs/2411.12641)|null|
+|**2024-11-19**|**ChemSICal: Evaluating a Stochastic Chemical Reaction Network for Molecular Multiple Access**|Alexander Wietfeld et.al.|[2411.12637](http://arxiv.org/abs/2411.12637)|null|
+|**2024-11-19**|**Instant Policy: In-Context Imitation Learning via Graph Diffusion**|Vitalis Vosylius et.al.|[2411.12633](http://arxiv.org/abs/2411.12633)|null|
+|**2024-11-19**|**Exploring the Manifold of Neural Networks Using Diffusion Geometry**|Elliott Abel et.al.|[2411.12626](http://arxiv.org/abs/2411.12626)|null|
+|**2024-11-19**|**CHANG-ES XXXV: Cosmic Ray Transport and Magnetic Field Structure of NGC 3556 at 3 GHz**|Jianghui Xu et.al.|[2411.12564](http://arxiv.org/abs/2411.12564)|null|
+|**2024-11-19**|**When Theory Meets Experiment: What Does it Take to Accurately Predict $^1$ H NMR Dipolar Relaxation Rates in Neat Liquid Water from Theory?**|Dietmar Paschek et.al.|[2411.12545](http://arxiv.org/abs/2411.12545)|null|
 |**2024-11-18**|**Equivariant spatio-hemispherical networks for diffusion MRI deconvolution**|Axel Elaldi et.al.|[2411.11819](http://arxiv.org/abs/2411.11819)|**[link](https://github.com/axelelaldi/fast-equivariant-deconv)**|
 |**2024-11-18**|**Fabrication of Hierarchical Sapphire Nanostructures using Ultrafast Laser Induced Morphology Change**|Joshua Cheung et.al.|[2411.11817](http://arxiv.org/abs/2411.11817)|null|
 |**2024-11-18**|**Open Catalyst Experiments 2024 (OCx24): Bridging Experiments and Computational Models**|Jehad Abed et.al.|[2411.11783](http://arxiv.org/abs/2411.11783)|null|
@@ -905,6 +927,15 @@
 
 ## Neural Rendering
 
+|**2024-11-19**|**PR-ENDO: Physically Based Relightable Gaussian Splatting for Endoscopy**|Joanna Kaleta et.al.|[2411.12510](http://arxiv.org/abs/2411.12510)|null|
+|**2024-11-19**|**SCIGS: 3D Gaussians Splatting from a Snapshot Compressive Image**|Zixu Wang et.al.|[2411.12471](http://arxiv.org/abs/2411.12471)|null|
+|**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452](http://arxiv.org/abs/2411.12452)|null|
+|**2024-11-19**|**Beyond Gaussians: Fast and High-Fidelity 3D Splatting with Linear Kernels**|Haodong Chen et.al.|[2411.12440](http://arxiv.org/abs/2411.12440)|null|
+|**2024-11-19**|**MTFusion: Reconstructing Any 3D Object from Single Image Using Multi-word Textual Inversion**|Yu Liu et.al.|[2411.12197](http://arxiv.org/abs/2411.12197)|null|
+|**2024-11-19**|**LiV-GS: LiDAR-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments**|Renxiang Xiao et.al.|[2411.12185](http://arxiv.org/abs/2411.12185)|null|
+|**2024-11-19**|**Sketch-guided Cage-based 3D Gaussian Splatting Deformation**|Tianhao Xie et.al.|[2411.12168](http://arxiv.org/abs/2411.12168)|null|
+|**2024-11-18**|**FruitNinja: 3D Object Interior Texture Generation with Gaussian Splatting**|Fangyu Wu et.al.|[2411.12089](http://arxiv.org/abs/2411.12089)|null|
+|**2024-11-18**|**Analyzing and Improving the Skin Tone Consistency and Bias in Implicit 3D Relightable Face Generators**|Libing Zeng et.al.|[2411.12002](http://arxiv.org/abs/2411.12002)|null|
 |**2024-11-18**|**RoboGSim: A Real2Sim2Real Robotic Gaussian Splatting Simulator**|Xinhai Li et.al.|[2411.11839](http://arxiv.org/abs/2411.11839)|null|
 |**2024-11-18**|**Towards Degradation-Robust Reconstruction in Generalizable NeRF**|Chan Ho Park et.al.|[2411.11691](http://arxiv.org/abs/2411.11691)|null|
 |**2024-11-18**|**LeC $^2$ O-NeRF: Learning Continuous and Compact Large-Scale Occupancy for Urban Scenes**|Zhenxing Mi et.al.|[2411.11374](http://arxiv.org/abs/2411.11374)|null|
