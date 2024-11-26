@@ -14,6 +14,9 @@
 
 ## Depth Estimation
 
+|**2024-11-25**|**Generative Omnimatte: Learning to Decompose Video into Layers**|Yao-Chih Lee et.al.|[2411.16683](http://arxiv.org/abs/2411.16683)|null|
+|**2024-11-25**|**One Diffusion to Generate Them All**|Duong H. Le et.al.|[2411.16318](http://arxiv.org/abs/2411.16318)|**[link](https://github.com/lehduong/onediffusion)**|
+|**2024-11-24**|**Gaussian Scenes: Pose-Free Sparse-View Scene Reconstruction using Depth-Enhanced Diffusion Priors**|Soumava Paul et.al.|[2411.15966](http://arxiv.org/abs/2411.15966)|null|
 |**2024-11-21**|**StereoCrafter-Zero: Zero-Shot Stereo Video Generation with Noisy Restart**|Jian Shi et.al.|[2411.14295](http://arxiv.org/abs/2411.14295)|null|
 |**2024-11-21**|**Stereo Anything: Unifying Stereo Matching with Large-Scale Mixed Data**|Xianda Guo et.al.|[2411.14053](http://arxiv.org/abs/2411.14053)|**[link](https://github.com/xiandaguo/openstereo)**|
 |**2024-11-20**|**DATAP-SfM: Dynamic-Aware Tracking Any Point for Robust Structure from Motion in the Wild**|Weicai Ye et.al.|[2411.13291](http://arxiv.org/abs/2411.13291)|null|
@@ -107,8 +110,10 @@
 
 ## Gesture Recognition
 
+|**2024-11-23**|**Machine Learning-based sEMG Signal Classification for Hand Gesture Recognition**|Parshuram N. Aarotale et.al.|[2411.15655](http://arxiv.org/abs/2411.15655)|null|
+|**2024-11-23**|**Optimizing Gesture Recognition for Seamless UI Interaction Using Convolutional Neural Networks**|Qi Sun et.al.|[2411.15598](http://arxiv.org/abs/2411.15598)|null|
 |**2024-11-18**|**Enhancing Bidirectional Sign Language Communication: Integrating YOLOv8 and NLP for Real-Time Gesture Recognition & Translation**|Hasnat Jamil Bhuiyan et.al.|[2411.13597](http://arxiv.org/abs/2411.13597)|null|
-|**2024-11-19**|**AzSLD: Azerbaijani Sign Language Dataset for Fingerspelling, Word, and Sentence Translation with Baseline Software**|Nigar Alishzade et.al.|[2411.12865](http://arxiv.org/abs/2411.12865)|null|
+|**2024-11-23**|**AzSLD: Azerbaijani Sign Language Dataset for Fingerspelling, Word, and Sentence Translation with Baseline Software**|Nigar Alishzade et.al.|[2411.12865](http://arxiv.org/abs/2411.12865)|null|
 |**2024-11-17**|**Exploiting the Uncoordinated Privacy Protections of Eye Tracking and VR Motion Data for Unauthorized User Identification**|Samantha Aziz et.al.|[2411.12766](http://arxiv.org/abs/2411.12766)|null|
 |**2024-11-14**|**Towards Scalable Handwriting Communication via EEG Decoding and Latent Embedding Integration**|Jun-Young Kim et.al.|[2411.09170](http://arxiv.org/abs/2411.09170)|null|
 |**2024-11-13**|**Generative AI for Data Augmentation in Wireless Networks: Analysis, Applications, and Case Study**|Jinbo Wen et.al.|[2411.08341](http://arxiv.org/abs/2411.08341)|null|
@@ -191,6 +196,16 @@
 
 ## VLM/LLM
 
+|**2024-11-25**|**Do Large Language Models Perform Latent Multi-Hop Reasoning without Exploiting Shortcuts?**|Sohee Yang et.al.|[2411.16679](http://arxiv.org/abs/2411.16679)|null|
+|**2024-11-25**|**DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation**|Zun Wang et.al.|[2411.16657](http://arxiv.org/abs/2411.16657)|null|
+|**2024-11-25**|**Self-Generated Critiques Boost Reward Modeling for Language Models**|Yue Yu et.al.|[2411.16646](http://arxiv.org/abs/2411.16646)|null|
+|**2024-11-25**|**Preventing Jailbreak Prompts as Malicious Tools for Cybercriminals: A Cyber Defense Perspective**|Jean Marie Tshimula et.al.|[2411.16642](http://arxiv.org/abs/2411.16642)|null|
+|**2024-11-25**|**Do Automatic Factuality Metrics Measure Factuality? A Critical Evaluation**|Sanjana Ramprasad et.al.|[2411.16638](http://arxiv.org/abs/2411.16638)|null|
+|**2024-11-25**|**Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models**|Ronghuan Wu et.al.|[2411.16602](http://arxiv.org/abs/2411.16602)|null|
+|**2024-11-25**|**From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge**|Dawei Li et.al.|[2411.16594](http://arxiv.org/abs/2411.16594)|**[link](https://github.com/llm-as-a-judge/awesome-llm-as-a-judge)**|
+|**2024-11-25**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[2411.16587](http://arxiv.org/abs/2411.16587)|null|
+|**2024-11-25**|**MarketGPT: Developing a Pre-trained transformer (GPT) for Modeling Financial Time Series**|Aaron Wheeler et.al.|[2411.16585](http://arxiv.org/abs/2411.16585)|null|
+|**2024-11-25**|**Enhancing LLM Reasoning via Critique Models with Test-Time and Training-Time Supervision**|Zhiheng Xi et.al.|[2411.16579](http://arxiv.org/abs/2411.16579)|null|
 |**2024-11-22**|**WildLMa: Long Horizon Loco-Manipulation in the Wild**|Ri-Zhao Qiu et.al.|[2411.15131](http://arxiv.org/abs/2411.15131)|null|
 |**2024-11-22**|**Measuring Bullshit in the Language Games played by ChatGPT**|Alessandro Trevisan et.al.|[2411.15129](http://arxiv.org/abs/2411.15129)|null|
 |**2024-11-22**|**AttriBoT: A Bag of Tricks for Efficiently Approximating Leave-One-Out Context Attribution**|Fengyuan Liu et.al.|[2411.15102](http://arxiv.org/abs/2411.15102)|**[link](https://github.com/r-three/AttriBoT)**|
@@ -594,6 +609,16 @@
 
 ## Diffusion
 
+|**2024-11-25**|**The impact of resistivity on the variability of black hole accretion flows**|Antonios Nathanail et.al.|[2411.16684](http://arxiv.org/abs/2411.16684)|null|
+|**2024-11-25**|**Generative Omnimatte: Learning to Decompose Video into Layers**|Yao-Chih Lee et.al.|[2411.16683](http://arxiv.org/abs/2411.16683)|null|
+|**2024-11-25**|**Diffusion Features for Zero-Shot 6DoF Object Pose Estimation**|Bernd Von Gimborn et.al.|[2411.16668](http://arxiv.org/abs/2411.16668)|null|
+|**2024-11-25**|**LegoPET: Hierarchical Feature Guided Conditional Diffusion for PET Image Reconstruction**|Yiran Sun et.al.|[2411.16629](http://arxiv.org/abs/2411.16629)|null|
+|**2024-11-25**|**Inference-Time Policy Steering through Human Interactions**|Yanwei Wang et.al.|[2411.16627](http://arxiv.org/abs/2411.16627)|null|
+|**2024-11-25**|**Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models**|Ronghuan Wu et.al.|[2411.16602](http://arxiv.org/abs/2411.16602)|null|
+|**2024-11-25**|**Unlocking The Potential of Adaptive Attacks on Diffusion-Based Purification**|Andre Kassis et.al.|[2411.16598](http://arxiv.org/abs/2411.16598)|null|
+|**2024-11-25**|**Sequential data assimilation for PDEs using shape-morphing solutions**|Zachary T. Hilliard et.al.|[2411.16593](http://arxiv.org/abs/2411.16593)|null|
+|**2024-11-25**|**Rethinking Diffusion for Text-Driven Human Motion Generation**|Zichong Meng et.al.|[2411.16575](http://arxiv.org/abs/2411.16575)|null|
+|**2024-11-25**|**Representation Collapsing Problems in Vector Quantization**|Wenhao Zhao et.al.|[2411.16550](http://arxiv.org/abs/2411.16550)|null|
 |**2024-11-22**|**DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving**|Bencheng Liao et.al.|[2411.15139](http://arxiv.org/abs/2411.15139)|**[link](https://github.com/hustvl/diffusiondrive)**|
 |**2024-11-22**|**Material Anything: Generating Materials for Any 3D Object via Diffusion**|Xin Huang et.al.|[2411.15138](http://arxiv.org/abs/2411.15138)|null|
 |**2024-11-22**|**VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement**|Daeun Lee et.al.|[2411.15115](http://arxiv.org/abs/2411.15115)|null|
@@ -999,6 +1024,16 @@
 
 ## Neural Rendering
 
+|**2024-11-25**|**SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis**|Hyojun Go et.al.|[2411.16443](http://arxiv.org/abs/2411.16443)|null|
+|**2024-11-25**|**Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction**|Ziyu Zhang et.al.|[2411.16392](http://arxiv.org/abs/2411.16392)|null|
+|**2024-11-25**|**Event-boosted Deformable 3D Gaussians for Fast Dynamic Scene Reconstruction**|Wenhao Xu et.al.|[2411.16180](http://arxiv.org/abs/2411.16180)|null|
+|**2024-11-25**|**U2NeRF: Unsupervised Underwater Image Restoration and Neural Radiance Fields**|Vinayak Gupta et.al.|[2411.16172](http://arxiv.org/abs/2411.16172)|null|
+|**2024-11-25**|**UnitedVLN: Generalizable Gaussian Splatting for Continuous Vision-Language Navigation**|Guangzhao Dai et.al.|[2411.16053](http://arxiv.org/abs/2411.16053)|null|
+|**2024-11-24**|**PG-SLAM: Photo-realistic and Geometry-aware RGB-D SLAM in Dynamic Environments**|Haoang Li et.al.|[2411.15800](http://arxiv.org/abs/2411.15800)|null|
+|**2024-11-24**|**ZeroGS: Training 3D Gaussian Splatting from Unposed Images**|Yu Chen et.al.|[2411.15779](http://arxiv.org/abs/2411.15779)|null|
+|**2024-11-24**|**DynamicAvatars: Accurate Dynamic Facial Avatars Reconstruction and Precise Editing with Diffusion Models**|Yangyang Qian et.al.|[2411.15732](http://arxiv.org/abs/2411.15732)|null|
+|**2024-11-24**|**GSurf: 3D Reconstruction via Signed Distance Fields with Direct Gaussian Supervision**|Xu Baixin et.al.|[2411.15723](http://arxiv.org/abs/2411.15723)|**[link](https://github.com/xubaixinxbx/gsurf)**|
+|**2024-11-23**|**EMD: Explicit Motion Modeling for High-Quality Street Gaussian Splatting**|Xiaobao Wei et.al.|[2411.15582](http://arxiv.org/abs/2411.15582)|null|
 |**2024-11-22**|**Neural 4D Evolution under Large Topological Changes from 2D Images**|AmirHossein Naghi Razlighi et.al.|[2411.15018](http://arxiv.org/abs/2411.15018)|null|
 |**2024-11-22**|**3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes**|Jan Held et.al.|[2411.14974](http://arxiv.org/abs/2411.14974)|**[link](https://github.com/convexsplatting/convex-splatting)**|
 |**2024-11-22**|**Dynamics-Aware Gaussian Splatting Streaming Towards Fast On-the-Fly Training for 4D Reconstruction**|Zhening Liu et.al.|[2411.14847](http://arxiv.org/abs/2411.14847)|null|
@@ -2554,6 +2589,7 @@
 
 ## RSR
 
+|**2024-11-25**|**From Dashcam Videos to Driving Simulations: Stress Testing Automated Vehicles against Rare Events**|Yan Miao et.al.|[2411.16027](http://arxiv.org/abs/2411.16027)|null|
 |**2024-11-20**|**Neural Internal Model Control: Learning a Robust Control Policy via Predictive Error Feedback**|Feng Gao et.al.|[2411.13079](http://arxiv.org/abs/2411.13079)|**[link](https://github.com/thu-uav/neuralimc)**|
 |**2024-11-18**|**Towards Mitigating Sim2Real Gaps: A Formal Quantitative Approach**|P Sangeerth et.al.|[2411.11310](http://arxiv.org/abs/2411.11310)|null|
 |**2024-11-17**|**Exciting Contact Modes in Differentiable Simulations for Robot Learning**|Hrishikesh Sathyanarayan et.al.|[2411.10935](http://arxiv.org/abs/2411.10935)|null|
