@@ -5,7 +5,7 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2024.11.27
+Updated on 2024.11.28
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2625,7 +2625,7 @@ Updated on 2024.11.27
 |**2024-11-25**|**From Dashcam Videos to Driving Simulations: Stress Testing Automated Vehicles against Rare Events**|Yan Miao et.al.|[2411.16027](http://arxiv.org/abs/2411.16027)|null|
 |**2024-11-20**|**Neural Internal Model Control: Learning a Robust Control Policy via Predictive Error Feedback**|Feng Gao et.al.|[2411.13079](http://arxiv.org/abs/2411.13079)|**[link](https://github.com/thu-uav/neuralimc)**|
 |**2024-11-18**|**Towards Mitigating Sim2Real Gaps: A Formal Quantitative Approach**|P Sangeerth et.al.|[2411.11310](http://arxiv.org/abs/2411.11310)|null|
-|**2024-11-17**|**Exciting Contact Modes in Differentiable Simulations for Robot Learning**|Hrishikesh Sathyanarayan et.al.|[2411.10935](http://arxiv.org/abs/2411.10935)|null|
+|**2024-11-26**|**Exciting Contact Modes in Differentiable Simulations for Robot Learning**|Hrishikesh Sathyanarayan et.al.|[2411.10935](http://arxiv.org/abs/2411.10935)|null|
 |**2024-11-15**|**Towards Sample-Efficiency and Generalization of Transfer and Inverse Reinforcement Learning: A Comprehensive Literature Review**|Hossein Hassani et.al.|[2411.10268](http://arxiv.org/abs/2411.10268)|null|
 |**2024-11-15**|**Evaluating Text-to-Image Diffusion Models for Texturing Synthetic Data**|Thomas Lips et.al.|[2411.10164](http://arxiv.org/abs/2411.10164)|**[link](https://github.com/tlpss/diffusing-synthetic-data)**|
 |**2024-11-13**|**Drone Detection using Deep Neural Networks Trained on Pure Synthetic Data**|Mariusz Wisniewski et.al.|[2411.09077](http://arxiv.org/abs/2411.09077)|**[link](https://github.com/mazqtpopx/cranfield-synthetic-drone-detection)**|
