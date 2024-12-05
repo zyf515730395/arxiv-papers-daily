@@ -5,7 +5,7 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2024.12.04
+Updated on 2024.12.05
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -186,7 +186,7 @@ Updated on 2024.12.04
 |**2024-11-20**|**Gaze2AOI: Open Source Deep-learning Based System for Automatic Area of Interest Annotation with Eye Tracking Data**|Karolina Trajkovska et.al.|[2411.13346](http://arxiv.org/abs/2411.13346)|null|
 |**2024-11-20**|**GazeGaussian: High-Fidelity Gaze Redirection with 3D Gaussian Splatting**|Xiaobao Wei et.al.|[2411.12981](http://arxiv.org/abs/2411.12981)|null|
 |**2024-11-18**|**Exploring Eye Tracking to Detect Cognitive Load in Complex Virtual Reality Training**|Mahsa Nasri et.al.|[2411.12771](http://arxiv.org/abs/2411.12771)|null|
-|**2024-11-17**|**Exploiting the Uncoordinated Privacy Protections of Eye Tracking and VR Motion Data for Unauthorized User Identification**|Samantha Aziz et.al.|[2411.12766](http://arxiv.org/abs/2411.12766)|null|
+|**2024-12-03**|**Exploiting the Uncoordinated Privacy Protections of Eye Tracking and VR Motion Data for Unauthorized User Identification**|Samantha Aziz et.al.|[2411.12766](http://arxiv.org/abs/2411.12766)|null|
 |**2024-11-13**|**LG-Gaze: Learning Geometry-aware Continuous Prompts for Language-Guided Gaze Estimation**|Pengwei Yin et.al.|[2411.08606](http://arxiv.org/abs/2411.08606)|null|
 |**2024-11-27**|**GazeSearch: Radiology Findings Search Benchmark**|Trong Thang Pham et.al.|[2411.05780](http://arxiv.org/abs/2411.05780)|null|
 |**2024-11-07**|**A Comprehensive Review of Multimodal XR Applications, Risks, and Ethical Challenges in the Metaverse**|Panagiotis Kourtesis et.al.|[2411.04508](http://arxiv.org/abs/2411.04508)|null|
