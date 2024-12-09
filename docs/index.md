@@ -5,7 +5,7 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2024.12.08
+Updated on 2024.12.09
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1189,7 +1189,7 @@ Updated on 2024.12.08
 |**2024-12-05**|**Monocular Dynamic Gaussian Splatting is Fast and Brittle but Smooth Motion Helps**|Yiqing Liang et.al.|[2412.04457](http://arxiv.org/abs/2412.04457)|null|
 |**2024-12-05**|**PBDyG: Position Based Dynamic Gaussians for Motion-Aware Clothed Human Avatars**|Shota Sasaki et.al.|[2412.04433](http://arxiv.org/abs/2412.04433)|null|
 |**2024-12-05**|**CrossSDF: 3D Reconstruction of Thin Structures From Cross-Sections**|Thomas Walker et.al.|[2412.04120](http://arxiv.org/abs/2412.04120)|null|
-|**2024-12-05**|**Multi-View Pose-Agnostic Change Localization with Zero Labels**|Chamuditha Jayanga Galappaththige et.al.|[2412.03911](http://arxiv.org/abs/2412.03911)|null|
+|**2024-12-05**|**Multi-View Pose-Agnostic Change Localization with Zero Labels**|Chamuditha Jayanga Galappaththige et.al.|[2412.03911](http://arxiv.org/abs/2412.03911)|**[link](https://github.com/Chumsy0725/PASLCD)**|
 |**2024-12-05**|**DGNS: Deformable Gaussian Splatting and Dynamic Neural Surface for Monocular Dynamic 3D Reconstruction**|Xuesong Li et.al.|[2412.03910](http://arxiv.org/abs/2412.03910)|null|
 |**2024-12-05**|**HybridGS: Decoupling Transients and Statics with 2D and 3D Gaussian Splatting**|Jingyu Lin et.al.|[2412.03844](http://arxiv.org/abs/2412.03844)|null|
 |**2024-12-04**|**Feed-Forward Bullet-Time Reconstruction of Dynamic Scenes from Monocular Videos**|Hanxue Liang et.al.|[2412.03526](http://arxiv.org/abs/2412.03526)|null|
@@ -2804,8 +2804,8 @@ Updated on 2024.12.08
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-05**|**Towards Generalizable Autonomous Penetration Testing via Domain Randomization and Meta-Reinforcement Learning**|Shicheng Zhou et.al.|[2412.04078](http://arxiv.org/abs/2412.04078)|null|
-|**2024-12-05**|**Learning Speed-Adaptive Walking Agent Using Imitation Learning with Physics-Informed Simulation**|Yi-Hung Chiu et.al.|[2412.03949](http://arxiv.org/abs/2412.03949)|null|
+|**2024-12-05**|**Towards Generalizable Autonomous Penetration Testing via Domain Randomization and Meta-Reinforcement Learning**|Shicheng Zhou et.al.|[2412.04078](http://arxiv.org/abs/2412.04078)|**[link](https://github.com/Joe-zsc/GAP)**|
+|**2024-12-05**|**Learning Speed-Adaptive Walking Agent Using Imitation Learning with Physics-Informed Simulation**|Yi-Hung Chiu et.al.|[2412.03949](http://arxiv.org/abs/2412.03949)|**[link](https://github.com/MetaMobilityLabCMU/speed-adaptive-agent)**|
 |**2024-12-03**|**Planning-Guided Diffusion Policy Learning for Generalizable Contact-Rich Bimanual Manipulation**|Xuanlin Li et.al.|[2412.02676](http://arxiv.org/abs/2412.02676)|null|
 |**2024-12-02**|**Robot Learning with Super-Linear Scaling**|Marcel Torne et.al.|[2412.01770](http://arxiv.org/abs/2412.01770)|null|
 |**2024-11-29**|**Real-to-Sim via End-to-End Differentiable Simulation and Rendering**|Yifan Zhu et.al.|[2412.00259](http://arxiv.org/abs/2412.00259)|null|
