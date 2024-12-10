@@ -16,6 +16,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Driv3R: Learning Dense 4D Reconstruction for Autonomous Driving**|Xin Fei et.al.|[2412.06777](http://arxiv.org/abs/2412.06777)|**[link](https://github.com/barrybarry-smith/driv3r)**|
+|**2024-12-09**|**MAtCha Gaussians: Atlas of Charts for High-Quality Geometry and Photorealism From Sparse Views**|Antoine Guédon et.al.|[2412.06767](http://arxiv.org/abs/2412.06767)|null|
+|**2024-12-09**|**On-Device Self-Supervised Learning of Low-Latency Monocular Depth from Only Events**|Jesse Hagenaars et.al.|[2412.06359](http://arxiv.org/abs/2412.06359)|null|
+|**2024-12-09**|**Omni-Scene: Omni-Gaussian Representation for Ego-Centric Sparse-View Scene Reconstruction**|Dongxu Wei et.al.|[2412.06273](http://arxiv.org/abs/2412.06273)|null|
+|**2024-12-09**|**Event fields: Capturing light fields at high speed, resolution, and dynamic range**|Ziyuan Qu et.al.|[2412.06191](http://arxiv.org/abs/2412.06191)|null|
+|**2024-12-08**|**GVDepth: Zero-Shot Monocular Depth Estimation for Ground Vehicles based on Probabilistic Cue Fusion**|Karlo Koledic et.al.|[2412.06080](http://arxiv.org/abs/2412.06080)|null|
+|**2024-12-08**|**Prism: Semi-Supervised Multi-View Stereo with Monocular Structure Priors**|Alex Rich et.al.|[2412.05771](http://arxiv.org/abs/2412.05771)|null|
+|**2024-12-07**|**TACO: Learning Multi-modal Action Models with Synthetic Chains-of-Thought-and-Action**|Zixian Ma et.al.|[2412.05479](http://arxiv.org/abs/2412.05479)|null|
 |**2024-12-06**|**SimC3D: A Simple Contrastive 3D Pretraining Framework Using RGB Images**|Jiahua Dong et.al.|[2412.05274](http://arxiv.org/abs/2412.05274)|null|
 |**2024-12-06**|**Penetrative rotating magnetoconvection subject to lateral variations in temperature gradients**|Tirtharaj Barman et.al.|[2412.05235](http://arxiv.org/abs/2412.05235)|null|
 |**2024-12-06**|**PanoDreamer: 3D Panorama Synthesis from a Single Image**|Avinash Paliwal et.al.|[2412.04827](http://arxiv.org/abs/2412.04827)|**[link](https://github.com/avinashpaliwal/PanoDreamer)**|
@@ -150,6 +158,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Augmented reality for upper limb rehabilitation: real-time kinematic feedback with HoloLens 2**|Beatrice Luciani et.al.|[2412.06596](http://arxiv.org/abs/2412.06596)|null|
+|**2024-12-09**|**Exploring the Impact of Synthetic Data on Human Gesture Recognition Tasks Using GANs**|George Kontogiannis et.al.|[2412.06389](http://arxiv.org/abs/2412.06389)|null|
 |**2024-12-06**|**KNN-MMD: Cross Domain Wi-Fi Sensing Based on Local Distribution Alignment**|Zijian Zhao et.al.|[2412.04783](http://arxiv.org/abs/2412.04783)|null|
 |**2024-12-04**|**Gesture Classification in Artworks Using Contextual Image Features**|Azhar Hussian et.al.|[2412.03456](http://arxiv.org/abs/2412.03456)|null|
 |**2024-12-02**|**Human-Machine Interfaces for Subsea Telerobotics: From Soda-straw to Natural Language Interactions**|Adnan Abdullah et.al.|[2412.01753](http://arxiv.org/abs/2412.01753)|null|
@@ -206,7 +216,7 @@
 |**2024-11-28**|**A Unified Platform for At-Home Post-Stroke Rehabilitation Enabled by Wearable Technologies and Artificial Intelligence**|Chenyu Tang et.al.|[2411.19000](http://arxiv.org/abs/2411.19000)|null|
 |**2024-11-27**|**Personalized Generative AI in VR for Enhanced Engagement: Eye-Tracking Insights into Cultural Heritage Learning through Neapolitan Pizza Making**|Ka Hei Carrie Lau et.al.|[2411.18438](http://arxiv.org/abs/2411.18438)|null|
 |**2024-11-27**|**Lightweight Gaze Estimation Model Via Fusion Global Information**|Zhang Cheng et.al.|[2411.18064](http://arxiv.org/abs/2411.18064)|null|
-|**2024-11-27**|**Multi-task Gaze Estimation Via Unidirectional Convolution**|Zhang Cheng et.al.|[2411.18061](http://arxiv.org/abs/2411.18061)|null|
+|**2024-12-09**|**Multi-task Gaze Estimation Via Unidirectional Convolution**|Zhang Cheng et.al.|[2411.18061](http://arxiv.org/abs/2411.18061)|null|
 |**2024-11-20**|**Gaze2AOI: Open Source Deep-learning Based System for Automatic Area of Interest Annotation with Eye Tracking Data**|Karolina Trajkovska et.al.|[2411.13346](http://arxiv.org/abs/2411.13346)|null|
 |**2024-11-20**|**GazeGaussian: High-Fidelity Gaze Redirection with 3D Gaussian Splatting**|Xiaobao Wei et.al.|[2411.12981](http://arxiv.org/abs/2411.12981)|null|
 |**2024-11-18**|**Exploring Eye Tracking to Detect Cognitive Load in Complex Virtual Reality Training**|Mahsa Nasri et.al.|[2411.12771](http://arxiv.org/abs/2411.12771)|null|
@@ -253,6 +263,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Delve into Visual Contrastive Decoding for Hallucination Mitigation of Large Vision-Language Models**|Yi-Lun Lee et.al.|[2412.06775](http://arxiv.org/abs/2412.06775)|**[link](https://github.com/yilunlee/vcd_analysis)**|
+|**2024-12-09**|**Visual Lexicon: Rich Image Features in Language Space**|XuDong Wang et.al.|[2412.06774](http://arxiv.org/abs/2412.06774)|null|
+|**2024-12-09**|**Training Large Language Models to Reason in a Continuous Latent Space**|Shibo Hao et.al.|[2412.06769](http://arxiv.org/abs/2412.06769)|null|
+|**2024-12-09**|**Ranking-aware adapter for text-driven image ordering with CLIP**|Wei-Hsiang Yu et.al.|[2412.06760](http://arxiv.org/abs/2412.06760)|**[link](https://github.com/uynaes/rankingawareclip)**|
+|**2024-12-09**|**Why Do Developers Engage with ChatGPT in Issue-Tracker? Investigating Usage and Reliance on ChatGPT-Generated Code**|Joy Krishan Das et.al.|[2412.06757](http://arxiv.org/abs/2412.06757)|null|
+|**2024-12-09**|**Refusal Tokens: A Simple Way to Calibrate Refusals in Large Language Models**|Neel Jain et.al.|[2412.06748](http://arxiv.org/abs/2412.06748)|null|
+|**2024-12-09**|**ONEBench to Test Them All: Sample-Level Benchmarking Over Open-Ended Capabilities**|Adhiraj Ghosh et.al.|[2412.06745](http://arxiv.org/abs/2412.06745)|null|
+|**2024-12-09**|**JAPAGEN: Efficient Few/Zero-shot Learning via Japanese Training Dataset Generation with LLM**|Takuro Fujii et.al.|[2412.06738](http://arxiv.org/abs/2412.06738)|null|
+|**2024-12-09**|**AutoDCWorkflow: LLM-based Data Cleaning Workflow Auto-Generation and Benchmark**|Lan Li et.al.|[2412.06724](http://arxiv.org/abs/2412.06724)|null|
+|**2024-12-09**|**OmniEvalKit: A Modular, Lightweight Toolbox for Evaluating Large Language Model and its Omni-Extensions**|Yi-Kai Zhang et.al.|[2412.06693](http://arxiv.org/abs/2412.06693)|null|
 |**2024-12-06**|**Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling**|Zhe Chen et.al.|[2412.05271](http://arxiv.org/abs/2412.05271)|null|
 |**2024-12-06**|**APOLLO: SGD-like Memory, AdamW-level Performance**|Hanqing Zhu et.al.|[2412.05270](http://arxiv.org/abs/2412.05270)|null|
 |**2024-12-06**|**Enhancing FKG.in: automating Indian food composition analysis**|Saransh Kumar Gupta et.al.|[2412.05248](http://arxiv.org/abs/2412.05248)|null|
@@ -738,6 +758,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**[MASK] is All You Need**|Vincent Tao Hu et.al.|[2412.06787](http://arxiv.org/abs/2412.06787)|null|
+|**2024-12-09**|**Retrieving Semantics from the Deep: an RAG Solution for Gesture Synthesis**|M. Hamza Mughal et.al.|[2412.06786](http://arxiv.org/abs/2412.06786)|null|
+|**2024-12-09**|**Tactile DreamFusion: Exploiting Tactile Sensing for 3D Generation**|Ruihan Gao et.al.|[2412.06785](http://arxiv.org/abs/2412.06785)|**[link](https://github.com/ruihangao/tactiledreamfusion)**|
+|**2024-12-09**|**CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction**|Zhefei Gong et.al.|[2412.06782](http://arxiv.org/abs/2412.06782)|null|
+|**2024-12-09**|**Around the World in 80 Timesteps: A Generative Approach to Global Visual Geolocation**|Nicolas Dufour et.al.|[2412.06781](http://arxiv.org/abs/2412.06781)|null|
+|**2024-12-09**|**Diverse Score Distillation**|Yanbo Xu et.al.|[2412.06780](http://arxiv.org/abs/2412.06780)|null|
+|**2024-12-09**|**Visual Lexicon: Rich Image Features in Language Space**|XuDong Wang et.al.|[2412.06774](http://arxiv.org/abs/2412.06774)|null|
+|**2024-12-09**|**Interface dynamics in a degenerate Cahn-Hilliard model for viscoelastic phase separation**|Katharina Hopf et.al.|[2412.06762](http://arxiv.org/abs/2412.06762)|null|
+|**2024-12-09**|**Speckle imaging with blind source separation and total variation deconvolution**|Randy Bartels et.al.|[2412.06755](http://arxiv.org/abs/2412.06755)|null|
+|**2024-12-09**|**InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention**|Howard Zhang et.al.|[2412.06753](http://arxiv.org/abs/2412.06753)|null|
 |**2024-12-06**|**Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories**|Susung Hong et.al.|[2412.05279](http://arxiv.org/abs/2412.05279)|null|
 |**2024-12-06**|**Birth and Death of a Rose**|Chen Geng et.al.|[2412.05278](http://arxiv.org/abs/2412.05278)|null|
 |**2024-12-06**|**MotionFlow: Attention-Driven Motion Transfer in Video Diffusion Models**|Tuna Han Salih Meral et.al.|[2412.05275](http://arxiv.org/abs/2412.05275)|null|
@@ -1225,6 +1255,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view Event Cameras**|Viktor Rudnev et.al.|[2412.06770](http://arxiv.org/abs/2412.06770)|null|
+|**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424](http://arxiv.org/abs/2412.06424)|null|
+|**2024-12-09**|**4D Gaussian Splatting with Scale-aware Residual Field and Adaptive Optimization for Real-time Rendering of Temporally Complex Dynamic Scenes**|Jinbo Yan et.al.|[2412.06299](http://arxiv.org/abs/2412.06299)|null|
+|**2024-12-09**|**Advancing Extended Reality with 3D Gaussian Splatting: Innovations and Prospects**|Shi Qiu et.al.|[2412.06257](http://arxiv.org/abs/2412.06257)|null|
+|**2024-12-09**|**Splatter-360: Generalizable 360 $^{\circ}$ Gaussian Splatting for Wide-baseline Panoramic Images**|Zheng Chen et.al.|[2412.06250](http://arxiv.org/abs/2412.06250)|**[link](https://github.com/thucz/splatter360)**|
+|**2024-12-09**|**Generative Densification: Learning to Densify Gaussians for High-Fidelity Generalizable 3D Reconstruction**|Seungtae Nam et.al.|[2412.06234](http://arxiv.org/abs/2412.06234)|null|
+|**2024-12-09**|**One-shot Human Motion Transfer via Occlusion-Robust Flow Prediction and Neural Texturing**|Yuzhu Ji et.al.|[2412.06174](http://arxiv.org/abs/2412.06174)|null|
+|**2024-12-08**|**Efficient Semantic Splatting for Remote Sensing Multi-view Segmentation**|Zipeng Qi et.al.|[2412.05969](http://arxiv.org/abs/2412.05969)|null|
+|**2024-12-08**|**GBR: Generative Bundle Refinement for High-fidelity Gaussian Splatting and Meshing**|Jianing Zhang et.al.|[2412.05908](http://arxiv.org/abs/2412.05908)|null|
+|**2024-12-07**|**Temporally Compressed 3D Gaussian Splatting for Dynamic Scenes**|Saqib Javed et.al.|[2412.05700](http://arxiv.org/abs/2412.05700)|null|
 |**2024-12-06**|**Perturb-and-Revise: Flexible 3D Editing with Generative Trajectories**|Susung Hong et.al.|[2412.05279](http://arxiv.org/abs/2412.05279)|null|
 |**2024-12-06**|**Extrapolated Urban View Synthesis Benchmark**|Xiangyu Han et.al.|[2412.05256](http://arxiv.org/abs/2412.05256)|**[link](https://github.com/ai4ce/EUVS-Benchmark)**|
 |**2024-12-06**|**MixedGaussianAvatar: Realistically and Geometrically Accurate Head Avatar via Mixed 2D-3D Gaussian Splatting**|Peng Chen et.al.|[2412.04955](http://arxiv.org/abs/2412.04955)|**[link](https://github.com/chenvoid/mga)**|
@@ -2860,7 +2900,7 @@
 |**2024-12-05**|**Learning Speed-Adaptive Walking Agent Using Imitation Learning with Physics-Informed Simulation**|Yi-Hung Chiu et.al.|[2412.03949](http://arxiv.org/abs/2412.03949)|**[link](https://github.com/MetaMobilityLabCMU/speed-adaptive-agent)**|
 |**2024-12-03**|**Planning-Guided Diffusion Policy Learning for Generalizable Contact-Rich Bimanual Manipulation**|Xuanlin Li et.al.|[2412.02676](http://arxiv.org/abs/2412.02676)|null|
 |**2024-12-06**|**Robot Learning with Super-Linear Scaling**|Marcel Torne et.al.|[2412.01770](http://arxiv.org/abs/2412.01770)|null|
-|**2024-11-29**|**Real-to-Sim via End-to-End Differentiable Simulation and Rendering**|Yifan Zhu et.al.|[2412.00259](http://arxiv.org/abs/2412.00259)|null|
+|**2024-12-08**|**One-Shot Real-to-Sim via End-to-End Differentiable Simulation and Rendering**|Yifan Zhu et.al.|[2412.00259](http://arxiv.org/abs/2412.00259)|null|
 |**2024-11-29**|**Improving generalization of robot locomotion policies via Sharpness-Aware Reinforcement Learning**|Severin Bochem et.al.|[2411.19732](http://arxiv.org/abs/2411.19732)|null|
 |**2024-11-27**|**AdaVLN: Towards Visual Language Navigation in Continuous Indoor Environments with Moving Humans**|Dillon Loh et.al.|[2411.18539](http://arxiv.org/abs/2411.18539)|**[link](https://github.com/dillonloh/adavln)**|
 |**2024-11-24**|**FunGrasp: Functional Grasping for Diverse Dexterous Hands**|Linyi Huang et.al.|[2411.16755](http://arxiv.org/abs/2411.16755)|null|
