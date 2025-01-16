@@ -5,11 +5,13 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2025.01.15
+Updated on 2025.01.16
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**A Critical Synthesis of Uncertainty Quantification and Foundation Models in Monocular Depth Estimation**|Steven Landgraf et.al.|[2501.08188](http://arxiv.org/abs/2501.08188)|null|
+|**2025-01-14**|**Revisiting Birds Eye View Perception Models with Frozen Foundation Models: DINOv2 and Metric3Dv2**|Seamie Hayes et.al.|[2501.08118](http://arxiv.org/abs/2501.08118)|null|
 |**2025-01-13**|**Matching Free Depth Recovery from Structured Light**|Zhuohang Yu et.al.|[2501.07113](http://arxiv.org/abs/2501.07113)|null|
 |**2025-01-09**|**Relative Pose Estimation through Affine Corrections of Monocular Depth Priors**|Yifan Yu et.al.|[2501.05446](http://arxiv.org/abs/2501.05446)|**[link](https://github.com/markyu98/madpose)**|
 |**2025-01-09**|**$DPF^*$ : improved Depth Potential Function for scale-invariant sulcal depth estimation**|Maxime Dieudonné et.al.|[2501.05436](http://arxiv.org/abs/2501.05436)|**[link](https://github.com/maximedieudonne/dpf-star)**|
@@ -198,6 +200,7 @@ Updated on 2025.01.15
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Cognitive Assessment and Training in Extended Reality: Multimodal Systems, Clinical Utility, and Current Challenges**|Palmira Victoria González-Erena et.al.|[2501.08237](http://arxiv.org/abs/2501.08237)|null|
 |**2025-01-08**|**Assessing the Acceptance of a Mid-Air Gesture Syntax for Smart Space Interaction: An Empirical Study**|Ana M. Bernardos et.al.|[2501.04464](http://arxiv.org/abs/2501.04464)|null|
 |**2025-01-07**|**Extraction Of Cumulative Blobs From Dynamic Gestures**|Rishabh Naulakha et.al.|[2501.04002](http://arxiv.org/abs/2501.04002)|null|
 |**2025-01-01**|**Multiscaled Multi-Head Attention-based Video Transformer Network for Hand Gesture Recognition**|Mallika Garg et.al.|[2501.00935](http://arxiv.org/abs/2501.00935)|null|
@@ -261,9 +264,11 @@ Updated on 2025.01.15
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Cognitive Assessment and Training in Extended Reality: Multimodal Systems, Clinical Utility, and Current Challenges**|Palmira Victoria González-Erena et.al.|[2501.08237](http://arxiv.org/abs/2501.08237)|null|
+|**2025-01-14**|**Assessment of Personalized Learning in Immersive and Intelligent Virtual Classroom on Student Engagement**|Ying Weng et.al.|[2501.07883](http://arxiv.org/abs/2501.07883)|null|
 |**2025-01-13**|**Learning quantum properties with informationally redundant external representations: An eye-tracking study**|Eva Rexigel et.al.|[2501.07389](http://arxiv.org/abs/2501.07389)|null|
 |**2025-01-13**|**A method for estimating roadway billboard salience**|Zuzana Berger Haladova et.al.|[2501.07342](http://arxiv.org/abs/2501.07342)|null|
-|**2025-01-13**|**GazeGrasp: DNN-Driven Robotic Grasping with Wearable Eye-Gaze Interface**|Issatay Tokmurziyev et.al.|[2501.07255](http://arxiv.org/abs/2501.07255)|null|
+|**2025-01-14**|**GazeGrasp: DNN-Driven Robotic Grasping with Wearable Eye-Gaze Interface**|Issatay Tokmurziyev et.al.|[2501.07255](http://arxiv.org/abs/2501.07255)|null|
 |**2025-01-12**|**Combining Automation and Expertise: A Semi-automated Approach to Correcting Eye Tracking Data in Reading Tasks**|Naser Al Madi et.al.|[2501.06977](http://arxiv.org/abs/2501.06977)|null|
 |**2025-01-05**|**Towards Decoding Developer Cognition in the Age of AI Assistants**|Ebtesam Al Haque et.al.|[2501.02684](http://arxiv.org/abs/2501.02684)|null|
 |**2025-01-05**|**Shaping Passenger Experience: An Eye-Tracking Study of Public Transportation Built Environment**|Yasaman Hakiminejad et.al.|[2501.02641](http://arxiv.org/abs/2501.02641)|null|
@@ -333,6 +338,16 @@ Updated on 2025.01.15
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**PokerBench: Training Large Language Models to become Professional Poker Players**|Richard Zhuang et.al.|[2501.08328](http://arxiv.org/abs/2501.08328)|**[link](https://github.com/pokerllm/pokerbench)**|
+|**2025-01-14**|**Omni-RGPT: Unifying Image and Video Region-level Understanding via Token Marks**|Miran Heo et.al.|[2501.08326](http://arxiv.org/abs/2501.08326)|null|
+|**2025-01-14**|**ADAM-1: AI and Bioinformatics for Alzheimer's Detection and Microbiome-Clinical Data Integrations**|Ziyuan Huang et.al.|[2501.08324](http://arxiv.org/abs/2501.08324)|null|
+|**2025-01-14**|**Exploring Robustness of Multilingual LLMs on Real-World Noisy Data**|Amirhossein Aliakbarzadeh et.al.|[2501.08322](http://arxiv.org/abs/2501.08322)|**[link](https://github.com/caisa-lab/llms-real-world-noise-robustness)**|
+|**2025-01-14**|**Enhancing Automated Interpretability with Output-Centric Feature Descriptions**|Yoav Gur-Arieh et.al.|[2501.08319](http://arxiv.org/abs/2501.08319)|**[link](https://github.com/yoavgur/feature-descriptions)**|
+|**2025-01-14**|**MiniMax-01: Scaling Foundation Models with Lightning Attention**|MiniMax et.al.|[2501.08313](http://arxiv.org/abs/2501.08313)|null|
+|**2025-01-14**|**HALoGEN: Fantastic LLM Hallucinations and Where to Find Them**|Abhilasha Ravichander et.al.|[2501.08292](http://arxiv.org/abs/2501.08292)|null|
+|**2025-01-14**|**AfriHate: A Multilingual Collection of Hate Speech and Abusive Language Datasets for African Languages**|Shamsuddeen Hassan Muhammad et.al.|[2501.08284](http://arxiv.org/abs/2501.08284)|null|
+|**2025-01-14**|**LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding**|Hongyu Li et.al.|[2501.08282](http://arxiv.org/abs/2501.08282)|**[link](https://github.com/appletea233/llava-st)**|
+|**2025-01-14**|**Exploring Robustness of LLMs to Sociodemographically-Conditioned Paraphrasing**|Pulkit Arora et.al.|[2501.08276](http://arxiv.org/abs/2501.08276)|null|
 |**2025-01-13**|**WebWalker: Benchmarking LLMs in Web Traversal**|Jialong Wu et.al.|[2501.07572](http://arxiv.org/abs/2501.07572)|**[link](https://github.com/alibaba-nlp/webwalker)**|
 |**2025-01-13**|**SST-EM: Advanced Metrics for Evaluating Semantic, Spatial and Temporal Aspects in Video Editing**|Varun Biyyala et.al.|[2501.07554](http://arxiv.org/abs/2501.07554)|**[link](https://github.com/custommetrics-sst/sst_customevaluationmetrics)**|
 |**2025-01-13**|**Imagine while Reasoning in Space: Multimodal Visualization-of-Thought**|Chengzu Li et.al.|[2501.07542](http://arxiv.org/abs/2501.07542)|null|
@@ -1036,6 +1051,16 @@ Updated on 2025.01.15
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**DAViD: Modeling Dynamic Affordance of 3D Objects using Pre-trained Video Diffusion Models**|Hyeonwoo Kim et.al.|[2501.08333](http://arxiv.org/abs/2501.08333)|null|
+|**2025-01-14**|**MangaNinja: Line Art Colorization with Precise Reference Following**|Zhiheng Liu et.al.|[2501.08332](http://arxiv.org/abs/2501.08332)|null|
+|**2025-01-14**|**Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise**|Ryan Burgert et.al.|[2501.08331](http://arxiv.org/abs/2501.08331)|**[link](https://github.com/vgenai-netflix-eyeline-research/go-with-the-flow)**|
+|**2025-01-14**|**Two-Peak Heat Capacity Accounts for $R\ln(2)$ Entropy and Ground State Access in the Dipole-Octupole Pyrochlore Ce$_2$Hf$_2$O$_7$**|E. M. Smith et.al.|[2501.08327](http://arxiv.org/abs/2501.08327)|null|
+|**2025-01-14**|**GameFactory: Creating New Games with Generative Interactive Videos**|Jiwen Yu et.al.|[2501.08325](http://arxiv.org/abs/2501.08325)|null|
+|**2025-01-14**|**Diffusion Adversarial Post-Training for One-Step Video Generation**|Shanchuan Lin et.al.|[2501.08316](http://arxiv.org/abs/2501.08316)|null|
+|**2025-01-14**|**LayerAnimate: Layer-specific Control for Animation**|Yuxue Yang et.al.|[2501.08295](http://arxiv.org/abs/2501.08295)|null|
+|**2025-01-14**|**FDPP: Fine-tune Diffusion Policy with Human Preference**|Yuxin Chen et.al.|[2501.08259](http://arxiv.org/abs/2501.08259)|null|
+|**2025-01-14**|**A New Fick-Jacobs Derivation with Applications to Computational Branched Diffusion Networks**|Zachary M. Miksis et.al.|[2501.08247](http://arxiv.org/abs/2501.08247)|null|
+|**2025-01-14**|**Text-Diffusion Red-Teaming of Large Language Models: Unveiling Harmful Behaviors with Proximity Constraints**|Jonathan Nöther et.al.|[2501.08246](http://arxiv.org/abs/2501.08246)|null|
 |**2025-01-13**|**Training-Free Motion-Guided Video Generation with Enhanced Temporal Consistency Using Motion Consistency Loss**|Xinyu Zhang et.al.|[2501.07563](http://arxiv.org/abs/2501.07563)|null|
 |**2025-01-13**|**Confident Pseudo-labeled Diffusion Augmentation for Canine Cardiomegaly Detection**|Shiman Zhang et.al.|[2501.07533](http://arxiv.org/abs/2501.07533)|**[link](https://github.com/shira7z/cda)**|
 |**2025-01-13**|**IP-FaceDiff: Identity-Preserving Facial Video Editing with Diffusion**|Tharun Anand et.al.|[2501.07530](http://arxiv.org/abs/2501.07530)|null|
@@ -1741,11 +1766,14 @@ Updated on 2025.01.15
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
+|**2025-01-14**|**Object-Centric 2D Gaussian Splatting: Background Removal and Occlusion-Aware Pruning for Compact Object Models**|Marcel Rogge et.al.|[2501.08174](http://arxiv.org/abs/2501.08174)|null|
+|**2025-01-13**|**Evaluating Human Perception of Novel View Synthesis: Subjective Quality Assessment of Gaussian Splatting and NeRF in Dynamic Scenes**|Yuhang Zhang et.al.|[2501.08072](http://arxiv.org/abs/2501.08072)|null|
 |**2025-01-13**|**UnCommon Objects in 3D**|Xingchen Liu et.al.|[2501.07574](http://arxiv.org/abs/2501.07574)|**[link](https://github.com/facebookresearch/uco3d)**|
-|**2025-01-13**|**E2ESlack: An End-to-End Graph-Based Framework for Pre-Routing Slack Prediction**|Saurabh Bodhe et.al.|[2501.07564](http://arxiv.org/abs/2501.07564)|null|
+|**2025-01-14**|**E2ESlack: An End-to-End Graph-Based Framework for Pre-Routing Slack Prediction**|Saurabh Bodhe et.al.|[2501.07564](http://arxiv.org/abs/2501.07564)|null|
 |**2025-01-13**|**3DGS-to-PC: Convert a 3D Gaussian Splatting Scene into a Dense Point Cloud or Mesh**|Lewis A G Stuart et.al.|[2501.07478](http://arxiv.org/abs/2501.07478)|**[link](https://github.com/lewis-stuart-11/3dgs-to-pc)**|
 |**2025-01-13**|**RMAvatar: Photorealistic Human Avatar Reconstruction from Monocular Video Based on Rectified Mesh-embedded Gaussians**|Sen Peng et.al.|[2501.07104](http://arxiv.org/abs/2501.07104)|null|
-|**2025-01-13**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
+|**2025-01-14**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
 |**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927](http://arxiv.org/abs/2501.06927)|null|
 |**2025-01-12**|**Synthetic Prior for Few-Shot Drivable Head Avatar Inversion**|Wojciech Zielonka et.al.|[2501.06903](http://arxiv.org/abs/2501.06903)|null|
 |**2025-01-12**|**ActiveGAMER: Active GAussian Mapping through Efficient Rendering**|Liyan Chen et.al.|[2501.06897](http://arxiv.org/abs/2501.06897)|null|
@@ -3520,7 +3548,8 @@ Updated on 2025.01.15
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-12**|**Vid2Sim: Realistic and Interactive Simulation from Video for Urban Navigation**|Ziyang Xie et.al.|[2501.06693](http://arxiv.org/abs/2501.06693)|null|
+|**2025-01-14**|**HydroelasticTouch: Simulation of Tactile Sensors with Hydroelastic Contact Surfaces**|David P. Leins et.al.|[2501.08077](http://arxiv.org/abs/2501.08077)|null|
+|**2025-01-14**|**Vid2Sim: Realistic and Interactive Simulation from Video for Urban Navigation**|Ziyang Xie et.al.|[2501.06693](http://arxiv.org/abs/2501.06693)|null|
 |**2025-01-09**|**From Simple to Complex Skills: The Case of In-Hand Object Reorientation**|Haozhi Qi et.al.|[2501.05439](http://arxiv.org/abs/2501.05439)|null|
 |**2025-01-06**|**Sim-to-Real Transfer for Mobile Robots with Reinforcement Learning: from NVIDIA Isaac Sim to Gazebo and Real ROS 2 Robots**|Sahar Salimpour et.al.|[2501.02902](http://arxiv.org/abs/2501.02902)|**[link](https://github.com/sahars93/rl-navigation)**|
 |**2025-01-03**|**EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation**|Siyuan Huang et.al.|[2501.01895](http://arxiv.org/abs/2501.01895)|null|
