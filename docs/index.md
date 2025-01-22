@@ -10,10 +10,15 @@ Updated on 2025.01.22
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-17**|**Zero-Shot Monocular Scene Flow Estimation in the Wild**|Yiqing Liang et.al.|[2501.10357](http://arxiv.org/abs/2501.10357)|null|
+|**2025-01-21**|**Video Depth Anything: Consistent Depth Estimation for Super-Long Videos**|Sili Chen et.al.|[2501.12375](http://arxiv.org/abs/2501.12375)|null|
+|**2025-01-21**|**Fast Underwater Scene Reconstruction using Multi-View Stereo and Physical Imaging**|Shuyi Hu et.al.|[2501.11884](http://arxiv.org/abs/2501.11884)|null|
+|**2025-01-21**|**Survey on Monocular Metric Depth Estimation**|Jiuling Zhang et.al.|[2501.11841](http://arxiv.org/abs/2501.11841)|null|
+|**2025-01-19**|**RDG-GS: Relative Depth Guidance with Gaussian Splatting for Real-time Sparse-View 3D Rendering**|Chenlu Zhan et.al.|[2501.11102](http://arxiv.org/abs/2501.11102)|null|
+|**2025-01-15**|**BloomScene: Lightweight Structured 3D Gaussian Splatting for Crossmodal Scene Generation**|Xiaolu Hou et.al.|[2501.10462](http://arxiv.org/abs/2501.10462)|null|
+|**2025-01-20**|**Zero-Shot Monocular Scene Flow Estimation in the Wild**|Yiqing Liang et.al.|[2501.10357](http://arxiv.org/abs/2501.10357)|null|
 |**2025-01-17**|**One-D-Piece: Image Tokenizer Meets Quality-Controllable Compression**|Keita Miwa et.al.|[2501.10064](http://arxiv.org/abs/2501.10064)|null|
 |**2025-01-17**|**Multi-Modal Attention Networks for Enhanced Segmentation and Depth Estimation of Subsurface Defects in Pulse Thermography**|Mohammed Salah et.al.|[2501.09994](http://arxiv.org/abs/2501.09994)|**[link](https://github.com/mohammedsalah98/pt_fusion)**|
-|**2025-01-17**|**FoundationStereo: Zero-Shot Stereo Matching**|Bowen Wen et.al.|[2501.09898](http://arxiv.org/abs/2501.09898)|null|
+|**2025-01-21**|**FoundationStereo: Zero-Shot Stereo Matching**|Bowen Wen et.al.|[2501.09898](http://arxiv.org/abs/2501.09898)|null|
 |**2025-01-16**|**DEFOM-Stereo: Depth Foundation Model Based Stereo Matching**|Hualie Jiang et.al.|[2501.09466](http://arxiv.org/abs/2501.09466)|**[link](https://github.com/insta360-research-team/defom-stereo)**|
 |**2025-01-15**|**StereoGen: High-quality Stereo Image Generation from a Single Image**|Xianqi Wang et.al.|[2501.08654](http://arxiv.org/abs/2501.08654)|null|
 |**2025-01-15**|**MonSter: Marry Monodepth to Stereo Unleashes Power**|Junda Cheng et.al.|[2501.08643](http://arxiv.org/abs/2501.08643)|**[link](https://github.com/junda24/monster)**|
@@ -207,6 +212,8 @@ Updated on 2025.01.22
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**DSTSA-GCN: Advancing Skeleton-Based Gesture Recognition with Semantic-Aware Spatio-Temporal Topology Modeling**|Hu Cui et.al.|[2501.12086](http://arxiv.org/abs/2501.12086)|null|
+|**2025-01-21**|**Survey on Hand Gesture Recognition from Visual Input**|Manousos Linardakis et.al.|[2501.11992](http://arxiv.org/abs/2501.11992)|null|
 |**2025-01-14**|**Cognitive Assessment and Training in Extended Reality: Multimodal Systems, Clinical Utility, and Current Challenges**|Palmira Victoria González-Erena et.al.|[2501.08237](http://arxiv.org/abs/2501.08237)|null|
 |**2025-01-08**|**Assessing the Acceptance of a Mid-Air Gesture Syntax for Smart Space Interaction: An Empirical Study**|Ana M. Bernardos et.al.|[2501.04464](http://arxiv.org/abs/2501.04464)|null|
 |**2025-01-07**|**Extraction Of Cumulative Blobs From Dynamic Gestures**|Rishabh Naulakha et.al.|[2501.04002](http://arxiv.org/abs/2501.04002)|null|
@@ -271,6 +278,7 @@ Updated on 2025.01.22
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-20**|**Spatial Bar: Exploring Window Switching Techniques for Large Virtual Displays**|Leonardo Pavanatto et.al.|[2501.11754](http://arxiv.org/abs/2501.11754)|null|
 |**2025-01-14**|**Cognitive Assessment and Training in Extended Reality: Multimodal Systems, Clinical Utility, and Current Challenges**|Palmira Victoria González-Erena et.al.|[2501.08237](http://arxiv.org/abs/2501.08237)|null|
 |**2025-01-14**|**Assessment of Personalized Learning in Immersive and Intelligent Virtual Classroom on Student Engagement**|Ying Weng et.al.|[2501.07883](http://arxiv.org/abs/2501.07883)|null|
 |**2025-01-13**|**Learning quantum properties with informationally redundant external representations: An eye-tracking study**|Eva Rexigel et.al.|[2501.07389](http://arxiv.org/abs/2501.07389)|null|
@@ -345,6 +353,16 @@ Updated on 2025.01.22
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling**|Yi Wang et.al.|[2501.12386](http://arxiv.org/abs/2501.12386)|**[link](https://github.com/opengvlab/internvideo)**|
+|**2025-01-21**|**Expertise elevates AI usage: experimental evidence comparing laypeople and professional artists**|Thomas F. Eisenmann et.al.|[2501.12374](http://arxiv.org/abs/2501.12374)|**[link](https://github.com/andreskarjus/genaiexperiment)**|
+|**2025-01-21**|**Is Long Context All You Need? Leveraging LLM's Extended Context for NL2SQL**|Yeounoh Chung et.al.|[2501.12372](http://arxiv.org/abs/2501.12372)|null|
+|**2025-01-21**|**InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model**|Yuhang Zang et.al.|[2501.12368](http://arxiv.org/abs/2501.12368)|**[link](https://github.com/internlm/internlm-xcomposer)**|
+|**2025-01-21**|**Vision-Language Models for Automated Chest X-ray Interpretation: Leveraging ViT and GPT-2**|Md. Rakibul Islam et.al.|[2501.12356](http://arxiv.org/abs/2501.12356)|null|
+|**2025-01-21**|**Treefix: Enabling Execution with a Tree of Prefixes**|Beatriz Souza et.al.|[2501.12339](http://arxiv.org/abs/2501.12339)|null|
+|**2025-01-21**|**Automatic Labelling with Open-source LLMs using Dynamic Label Schema Integration**|Thomas Walshe et.al.|[2501.12332](http://arxiv.org/abs/2501.12332)|null|
+|**2025-01-21**|**VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model**|Xianwei Zhuang et.al.|[2501.12327](http://arxiv.org/abs/2501.12327)|**[link](https://github.com/VARGPT-family/VARGPT)**|
+|**2025-01-21**|**LLM-Assisted Knowledge Graph Completion for Curriculum and Domain Modelling in Personalized Higher Education Recommendations**|Hasan Abu-Rasheed et.al.|[2501.12300](http://arxiv.org/abs/2501.12300)|null|
+|**2025-01-21**|**MoGERNN: An Inductive Traffic Predictor for Unobserved Locations in Dynamic Sensing Networks**|Qishen Zhou et.al.|[2501.12281](http://arxiv.org/abs/2501.12281)|**[link](https://github.com/youxiaotu/MoGERNN)**|
 |**2025-01-17**|**FaceXBench: Evaluating Multimodal LLMs on Face Understanding**|Kartik Narayan et.al.|[2501.10360](http://arxiv.org/abs/2501.10360)|**[link](https://github.com/kartik-3004/facexbench)**|
 |**2025-01-17**|**Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems**|Weibo Gao et.al.|[2501.10332](http://arxiv.org/abs/2501.10332)|null|
 |**2025-01-17**|**Large language models for automated scholarly paper review: A survey**|Zhenzhen Zhuang et.al.|[2501.10326](http://arxiv.org/abs/2501.10326)|null|
@@ -1088,6 +1106,16 @@ Updated on 2025.01.22
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**Towards Affordance-Aware Articulation Synthesis for Rigged Objects**|Yu-Chu Yu et.al.|[2501.12393](http://arxiv.org/abs/2501.12393)|null|
+|**2025-01-21**|**GPS as a Control Signal for Image Generation**|Chao Feng et.al.|[2501.12390](http://arxiv.org/abs/2501.12390)|null|
+|**2025-01-21**|**Audio Texture Manipulation by Exemplar-Based Analogy**|Kan Jen Cheng et.al.|[2501.12385](http://arxiv.org/abs/2501.12385)|null|
+|**2025-01-21**|**DiffDoctor: Diagnosing Image Diffusion Models Before Treating**|Yiyang Wang et.al.|[2501.12382](http://arxiv.org/abs/2501.12382)|null|
+|**2025-01-21**|**Diffusion-aware Censored Gaussian Processes for Demand Modelling**|Filipe Rodrigues et.al.|[2501.12354](http://arxiv.org/abs/2501.12354)|**[link](https://github.com/fmpr/diffusion-aware-censored-gp)**|
+|**2025-01-21**|**Decoherence of Schrödinger cat states in light of wave/particle duality**|Th. K. Mavrogordatos et.al.|[2501.12328](http://arxiv.org/abs/2501.12328)|null|
+|**2025-01-21**|**The Rouse ring chain with attractive harmonic potential of spherical symmetry**|Nail Fatkullin et.al.|[2501.12324](http://arxiv.org/abs/2501.12324)|null|
+|**2025-01-21**|**Regressor-Guided Image Editing Regulates Emotional Response to Reduce Online Engagement**|Christoph Gebhardt et.al.|[2501.12289](http://arxiv.org/abs/2501.12289)|null|
+|**2025-01-21**|**Dynamic Metal-Support Interaction Dictates Cu Nanoparticle Sintering on Al $_2$O$_3$ Surfaces**|Jiayan Xu et.al.|[2501.12283](http://arxiv.org/abs/2501.12283)|null|
+|**2025-01-21**|**VipDiff: Towards Coherent and Diverse Video Inpainting via Training-free Denoising Diffusion Models**|Chaohao Xie et.al.|[2501.12267](http://arxiv.org/abs/2501.12267)|null|
 |**2025-01-17**|**Convergent Sixth-order Compact Finite Difference Method for Variable-Coefficient Elliptic PDEs in Curved Domains**|Bin Han et.al.|[2501.10358](http://arxiv.org/abs/2501.10358)|null|
 |**2025-01-17**|**Principled model selection for stochastic dynamics**|Andonis Gerardos et.al.|[2501.10339](http://arxiv.org/abs/2501.10339)|null|
 |**2025-01-17**|**DiffStereo: High-Frequency Aware Diffusion Model for Stereo Image Restoration**|Huiyun Cao et.al.|[2501.10325](http://arxiv.org/abs/2501.10325)|null|
@@ -1833,7 +1861,15 @@ Updated on 2025.01.22
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-17**|**GSTAR: Gaussian Surface Tracking and Reconstruction**|Chengwei Zheng et.al.|[2501.10283](http://arxiv.org/abs/2501.10283)|null|
+|**2025-01-21**|**DARB-Splatting: Generalizing Splatting with Decaying Anisotropic Radial Basis Functions**|Vishagar Arunan et.al.|[2501.12369](http://arxiv.org/abs/2501.12369)|null|
+|**2025-01-21**|**HAC++: Towards 100X Compression of 3D Gaussian Splatting**|Yihang Chen et.al.|[2501.12255](http://arxiv.org/abs/2501.12255)|**[link](https://github.com/yihangchen-ee/hac-plus)**|
+|**2025-01-21**|**DNRSelect: Active Best View Selection for Deferred Neural Rendering**|Dongli Wu et.al.|[2501.12150](http://arxiv.org/abs/2501.12150)|null|
+|**2025-01-21**|**GaussianVideo: Efficient Video Representation Through 2D Gaussian Splatting**|Longan Wang et.al.|[2501.12060](http://arxiv.org/abs/2501.12060)|null|
+|**2025-01-21**|**Fast Underwater Scene Reconstruction using Multi-View Stereo and Physical Imaging**|Shuyi Hu et.al.|[2501.11884](http://arxiv.org/abs/2501.11884)|null|
+|**2025-01-20**|**See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization**|Zongqi He et.al.|[2501.11508](http://arxiv.org/abs/2501.11508)|null|
+|**2025-01-19**|**RDG-GS: Relative Depth Guidance with Gaussian Splatting for Real-time Sparse-View 3D Rendering**|Chenlu Zhan et.al.|[2501.11102](http://arxiv.org/abs/2501.11102)|null|
+|**2025-01-18**|**Decoupling Appearance Variations with 3D Consistent Features in Gaussian Splatting**|Jiaqi Lin et.al.|[2501.10788](http://arxiv.org/abs/2501.10788)|null|
+|**2025-01-20**|**GSTAR: Gaussian Surface Tracking and Reconstruction**|Chengwei Zheng et.al.|[2501.10283](http://arxiv.org/abs/2501.10283)|null|
 |**2025-01-17**|**Surface-SOS: Self-Supervised Object Segmentation via Neural Surface Representation**|Xiaoyun Zheng et.al.|[2501.09947](http://arxiv.org/abs/2501.09947)|**[link](https://github.com/zhengxyun/surface-sos)**|
 |**2025-01-16**|**Normal-NeRF: Ambiguity-Robust Normal Estimation for Highly Reflective Scenes**|Ji Shi et.al.|[2501.09460](http://arxiv.org/abs/2501.09460)|**[link](https://github.com/sjj118/normal-nerf)**|
 |**2025-01-16**|**Creating Virtual Environments with 3D Gaussian Splatting: A Comparative Study**|Shi Qiu et.al.|[2501.09302](http://arxiv.org/abs/2501.09302)|null|
@@ -3624,9 +3660,12 @@ Updated on 2025.01.22
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**RALAD: Bridging the Real-to-Sim Domain Gap in Autonomous Driving with Retrieval-Augmented Learning**|Jiacheng Zuo et.al.|[2501.12296](http://arxiv.org/abs/2501.12296)|**[link](https://github.com/jiachengzuo/ralad)**|
+|**2025-01-21**|**Learning to Hop for a Single-Legged Robot with Parallel Mechanism**|Hongbo Zhang et.al.|[2501.11945](http://arxiv.org/abs/2501.11945)|null|
+|**2025-01-19**|**CART-MPC: Coordinating Assistive Devices for Robot-Assisted Transferring with Multi-Agent Model Predictive Control**|Ruolin Ye et.al.|[2501.11149](http://arxiv.org/abs/2501.11149)|null|
 |**2025-01-17**|**Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics**|Chenhao Li et.al.|[2501.10100](http://arxiv.org/abs/2501.10100)|null|
 |**2025-01-17**|**SLIM: Sim-to-Real Legged Instructive Manipulation via Long-Horizon Visuomotor Learning**|Haichao Zhang et.al.|[2501.09905](http://arxiv.org/abs/2501.09905)|null|
-|**2025-01-17**|**FoundationStereo: Zero-Shot Stereo Matching**|Bowen Wen et.al.|[2501.09898](http://arxiv.org/abs/2501.09898)|null|
+|**2025-01-21**|**FoundationStereo: Zero-Shot Stereo Matching**|Bowen Wen et.al.|[2501.09898](http://arxiv.org/abs/2501.09898)|null|
 |**2025-01-14**|**HydroelasticTouch: Simulation of Tactile Sensors with Hydroelastic Contact Surfaces**|David P. Leins et.al.|[2501.08077](http://arxiv.org/abs/2501.08077)|null|
 |**2025-01-14**|**Vid2Sim: Realistic and Interactive Simulation from Video for Urban Navigation**|Ziyang Xie et.al.|[2501.06693](http://arxiv.org/abs/2501.06693)|null|
 |**2025-01-09**|**From Simple to Complex Skills: The Case of In-Hand Object Reorientation**|Haozhi Qi et.al.|[2501.05439](http://arxiv.org/abs/2501.05439)|null|
