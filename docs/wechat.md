@@ -14,6 +14,8 @@
 
 ## Depth Estimation
 
+|**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
+|**2025-01-23**|**PromptMono: Cross Prompting Attention for Self-Supervised Monocular Depth Estimation in Challenging Environments**|Changhao Wang et.al.|[2501.13796](http://arxiv.org/abs/2501.13796)|null|
 |**2025-01-22**|**Enhancing Monocular Depth Estimation with Multi-Source Auxiliary Tasks**|Alessio Quercia et.al.|[2501.12824](http://arxiv.org/abs/2501.12824)|null|
 |**2025-01-22**|**Video Depth Anything: Consistent Depth Estimation for Super-Long Videos**|Sili Chen et.al.|[2501.12375](http://arxiv.org/abs/2501.12375)|null|
 |**2025-01-21**|**Fast Underwater Scene Reconstruction using Multi-View Stereo and Physical Imaging**|Shuyi Hu et.al.|[2501.11884](http://arxiv.org/abs/2501.11884)|null|
@@ -217,6 +219,7 @@
 
 ## Gesture Recognition
 
+|**2025-01-23**|**EgoHand: Ego-centric Hand Pose Estimation and Gesture Recognition with Head-mounted Millimeter-wave Radar and IMUs**|Yizhe Lv et.al.|[2501.13805](http://arxiv.org/abs/2501.13805)|**[link](https://github.com/whisperyi/mmvr)**|
 |**2025-01-21**|**DSTSA-GCN: Advancing Skeleton-Based Gesture Recognition with Semantic-Aware Spatio-Temporal Topology Modeling**|Hu Cui et.al.|[2501.12086](http://arxiv.org/abs/2501.12086)|null|
 |**2025-01-21**|**Survey on Hand Gesture Recognition from Visual Input**|Manousos Linardakis et.al.|[2501.11992](http://arxiv.org/abs/2501.11992)|null|
 |**2025-01-14**|**Cognitive Assessment and Training in Extended Reality: Multimodal Systems, Clinical Utility, and Current Challenges**|Palmira Victoria González-Erena et.al.|[2501.08237](http://arxiv.org/abs/2501.08237)|null|
@@ -283,6 +286,7 @@
 
 ## Eye Tracking
 
+|**2025-01-23**|**Eye Gaze as a Signal for Conveying User Attention in Contextual AI Systems**|Ethan Wilson et.al.|[2501.13878](http://arxiv.org/abs/2501.13878)|null|
 |**2025-01-20**|**Spatial Bar: Exploring Window Switching Techniques for Large Virtual Displays**|Leonardo Pavanatto et.al.|[2501.11754](http://arxiv.org/abs/2501.11754)|null|
 |**2025-01-14**|**Cognitive Assessment and Training in Extended Reality: Multimodal Systems, Clinical Utility, and Current Challenges**|Palmira Victoria González-Erena et.al.|[2501.08237](http://arxiv.org/abs/2501.08237)|null|
 |**2025-01-14**|**Assessment of Personalized Learning in Immersive and Intelligent Virtual Classroom on Student Engagement**|Ying Weng et.al.|[2501.07883](http://arxiv.org/abs/2501.07883)|null|
@@ -358,6 +362,16 @@
 
 ## VLM/LLM
 
+|**2025-01-23**|**CRPO: Confidence-Reward Driven Preference Optimization for Machine Translation**|Guofeng Cui et.al.|[2501.13927](http://arxiv.org/abs/2501.13927)|null|
+|**2025-01-23**|**The Breeze 2 Herd of Models: Traditional Chinese LLMs Based on Llama with Vision-Aware and Function-Calling Capabilities**|Chan-Jan Hsu et.al.|[2501.13921](http://arxiv.org/abs/2501.13921)|null|
+|**2025-01-23**|**Analysis of Indic Language Capabilities in LLMs**|Aatman Vaidya et.al.|[2501.13912](http://arxiv.org/abs/2501.13912)|null|
+|**2025-01-23**|**Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models**|Linh Tran et.al.|[2501.13904](http://arxiv.org/abs/2501.13904)|null|
+|**2025-01-23**|**Exploring Finetuned Audio-LLM on Heart Murmur Features**|Adrian Florea et.al.|[2501.13884](http://arxiv.org/abs/2501.13884)|null|
+|**2025-01-23**|**The machine learning platform for developers of large systems**|Alexey Naikov et.al.|[2501.13881](http://arxiv.org/abs/2501.13881)|null|
+|**2025-01-23**|**A RAG-Based Institutional Assistant**|Gustavo Kuratomi et.al.|[2501.13880](http://arxiv.org/abs/2501.13880)|null|
+|**2025-01-23**|**Dual-Modal Prototype Joint Learning for Compositional Zero-Shot Learning**|Shiyu Zhang et.al.|[2501.13859](http://arxiv.org/abs/2501.13859)|null|
+|**2025-01-23**|**Large Vision-Language Models for Knowledge-Grounded Data Annotation of Memes**|Shiling Deng et.al.|[2501.13851](http://arxiv.org/abs/2501.13851)|**[link](https://github.com/seefreem/meme_text_retrieval_p1)**|
+|**2025-01-23**|**On the Reasoning Capacity of AI Models and How to Quantify It**|Santosh Kumar Radha et.al.|[2501.13833](http://arxiv.org/abs/2501.13833)|null|
 |**2025-01-22**|**VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding**|Boqiang Zhang et.al.|[2501.13106](http://arxiv.org/abs/2501.13106)|**[link](https://github.com/damo-nlp-sg/videollama3)**|
 |**2025-01-22**|**Refining Input Guardrails: Enhancing LLM-as-a-Judge Efficiency Through Chain-of-Thought Fine-Tuning and Alignment**|Melissa Kazemi Rad et.al.|[2501.13080](http://arxiv.org/abs/2501.13080)|null|
 |**2025-01-22**|**Does Table Source Matter? Benchmarking and Improving Multimodal Scientific Table Understanding and Reasoning**|Bohao Yang et.al.|[2501.13042](http://arxiv.org/abs/2501.13042)|**[link](https://github.com/bernard-yang/mmsci_table)**|
@@ -1121,6 +1135,16 @@
 
 ## Diffusion
 
+|**2025-01-23**|**Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step**|Ziyu Guo et.al.|[2501.13926](http://arxiv.org/abs/2501.13926)|**[link](https://github.com/ziyuguo99/image-generation-cot)**|
+|**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
+|**2025-01-23**|**Improving Video Generation with Human Feedback**|Jie Liu et.al.|[2501.13918](http://arxiv.org/abs/2501.13918)|null|
+|**2025-01-23**|**Binary Diffusion Probabilistic Model**|Vitaliy Kinakh et.al.|[2501.13915](http://arxiv.org/abs/2501.13915)|null|
+|**2025-01-23**|**Generating Realistic Forehead-Creases for User Verification via Conditioned Piecewise Polynomial Curves**|Abhishek Tandon et.al.|[2501.13889](http://arxiv.org/abs/2501.13889)|**[link](https://github.com/abhishektandon/bspline-fc)**|
+|**2025-01-23**|**Approach to nonequilibrium: from anomalous to Brownian diffusion via non-Gaussianity**|I. G. Marchenko et.al.|[2501.13875](http://arxiv.org/abs/2501.13875)|null|
+|**2025-01-23**|**Everyone-Can-Sing: Zero-Shot Singing Voice Synthesis and Conversion with Speech Reference**|Shuqi Dai et.al.|[2501.13870](http://arxiv.org/abs/2501.13870)|null|
+|**2025-01-23**|**Moments of generalized fractional polynomial processes**|Johannes Assefa et.al.|[2501.13854](http://arxiv.org/abs/2501.13854)|null|
+|**2025-01-23**|**Cold dark gas in Cygnus X: The first large-scale mapping of low-frequency carbon recombination lines**|Kimberly L. Emig et.al.|[2501.13838](http://arxiv.org/abs/2501.13838)|null|
+|**2025-01-23**|**Reaction kinetics of membrane receptors: a spatial modeling approach**|Anil Cengiz et.al.|[2501.13837](http://arxiv.org/abs/2501.13837)|null|
 |**2025-01-22**|**Accelerate High-Quality Diffusion Models with Inner Loop Feedback**|Matthew Gwilliam et.al.|[2501.13107](http://arxiv.org/abs/2501.13107)|null|
 |**2025-01-22**|**Robust Representation Consistency Model via Contrastive Denoising**|Jiachen Lei et.al.|[2501.13094](http://arxiv.org/abs/2501.13094)|**[link](https://github.com/jiachenlei/rrcm)**|
 |**2025-01-22**|**Orchid: Image Latent Diffusion for Joint Appearance and Geometry Generation**|Akshay Krishnan et.al.|[2501.13087](http://arxiv.org/abs/2501.13087)|null|
@@ -1886,6 +1910,12 @@
 
 ## Neural Rendering
 
+|**2025-01-23**|**GoDe: Gaussians on Demand for Progressive Level of Detail and Scalable Compression**|Francesco Di Sario et.al.|[2501.13558](http://arxiv.org/abs/2501.13558)|null|
+|**2025-01-23**|**MultiDreamer3D: Multi-concept 3D Customization with Concept-Aware Diffusion Guidance**|Wooseok Song et.al.|[2501.13449](http://arxiv.org/abs/2501.13449)|null|
+|**2025-01-23**|**GeomGS: LiDAR-Guided Geometry-Aware Gaussian Splatting for Robot Localization**|Jaewon Lee et.al.|[2501.13417](http://arxiv.org/abs/2501.13417)|null|
+|**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402](http://arxiv.org/abs/2501.13402)|null|
+|**2025-01-23**|**Deblur-Avatar: Animatable Avatars from Motion-Blurred Monocular Videos**|Xianrui Luo et.al.|[2501.13335](http://arxiv.org/abs/2501.13335)|null|
+|**2025-01-22**|**Joint Task Offloading and User Scheduling in 5G MEC under Jamming Attacks**|Mohammadreza Amini et.al.|[2501.13227](http://arxiv.org/abs/2501.13227)|null|
 |**2025-01-22**|**Neural Radiance Fields for the Real World: A Survey**|Wenhui Xiao et.al.|[2501.13104](http://arxiv.org/abs/2501.13104)|null|
 |**2025-01-22**|**Sketch and Patch: Efficient 3D Gaussian Representation for Man-Made Scenes**|Yuang Shi et.al.|[2501.13045](http://arxiv.org/abs/2501.13045)|null|
 |**2025-01-22**|**Structure-preserving parametric finite element methods for anisotropic surface diffusion flow with minimal deformation formulation**|Yihang Guo et.al.|[2501.12638](http://arxiv.org/abs/2501.12638)|null|
