@@ -5,7 +5,7 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2025.01.25
+Updated on 2025.01.26
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -289,7 +289,7 @@ Updated on 2025.01.25
 |**2025-01-13**|**Learning quantum properties with informationally redundant external representations: An eye-tracking study**|Eva Rexigel et.al.|[2501.07389](http://arxiv.org/abs/2501.07389)|null|
 |**2025-01-13**|**A method for estimating roadway billboard salience**|Zuzana Berger Haladova et.al.|[2501.07342](http://arxiv.org/abs/2501.07342)|null|
 |**2025-01-14**|**GazeGrasp: DNN-Driven Robotic Grasping with Wearable Eye-Gaze Interface**|Issatay Tokmurziyev et.al.|[2501.07255](http://arxiv.org/abs/2501.07255)|null|
-|**2025-01-12**|**Combining Automation and Expertise: A Semi-automated Approach to Correcting Eye Tracking Data in Reading Tasks**|Naser Al Madi et.al.|[2501.06977](http://arxiv.org/abs/2501.06977)|null|
+|**2025-01-12**|**Combining Automation and Expertise: A Semi-automated Approach to Correcting Eye Tracking Data in Reading Tasks**|Naser Al Madi et.al.|[2501.06977](http://arxiv.org/abs/2501.06977)|**[link](https://github.com/nalmadi/fix8)**|
 |**2025-01-05**|**Towards Decoding Developer Cognition in the Age of AI Assistants**|Ebtesam Al Haque et.al.|[2501.02684](http://arxiv.org/abs/2501.02684)|null|
 |**2025-01-05**|**Shaping Passenger Experience: An Eye-Tracking Study of Public Transportation Built Environment**|Yasaman Hakiminejad et.al.|[2501.02641](http://arxiv.org/abs/2501.02641)|null|
 |**2025-01-02**|**Real-time Cross-modal Cybersickness Prediction in Virtual Reality**|Yitong Zhu et.al.|[2501.01212](http://arxiv.org/abs/2501.01212)|null|
