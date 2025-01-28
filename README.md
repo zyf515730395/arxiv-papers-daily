@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-25**|**Snapshot Compressed Imaging Based Single-Measurement Computer Vision for Videos**|Fengpu Pan et.al.|[2501.15122](http://arxiv.org/abs/2501.15122)|null|
 |**2025-01-24**|**Rethinking Encoder-Decoder Flow Through Shared Structures**|Frederik Laboyrie et.al.|[2501.14535](http://arxiv.org/abs/2501.14535)|null|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
 |**2025-01-23**|**PromptMono: Cross Prompting Attention for Self-Supervised Monocular Depth Estimation in Challenging Environments**|Changhao Wang et.al.|[2501.13796](http://arxiv.org/abs/2501.13796)|null|
@@ -224,6 +225,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**A Low-Cost, High-Precision Human-Machine Interaction Solution Based on Multi-Coil Wireless Charging Pads**|Bojun Zhang et.al.|[2501.15885](http://arxiv.org/abs/2501.15885)|null|
 |**2025-01-24**|**Human Activity Recognition with a 6.5 GHz Reconfigurable Intelligent Surface for Wi-Fi 6E**|Nuno Paulino et.al.|[2501.14423](http://arxiv.org/abs/2501.14423)|null|
 |**2025-01-23**|**EgoHand: Ego-centric Hand Pose Estimation and Gesture Recognition with Head-mounted Millimeter-wave Radar and IMUs**|Yizhe Lv et.al.|[2501.13805](http://arxiv.org/abs/2501.13805)|**[link](https://github.com/whisperyi/mmvr)**|
 |**2025-01-21**|**DSTSA-GCN: Advancing Skeleton-Based Gesture Recognition with Semantic-Aware Spatio-Temporal Topology Modeling**|Hu Cui et.al.|[2501.12086](http://arxiv.org/abs/2501.12086)|null|
@@ -294,6 +296,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-26**|**FlatTrack: Eye-tracking with ultra-thin lensless cameras**|Purvam Jain et.al.|[2501.15450](http://arxiv.org/abs/2501.15450)|null|
+|**2025-01-24**|**Improving reliability of uncertainty-aware gaze estimation with probability calibration**|Qiaojie Zheng et.al.|[2501.14894](http://arxiv.org/abs/2501.14894)|null|
 |**2025-01-24**|**Characterizing Visual Intents for People with Low Vision through Eye Tracking**|Ru Wang et.al.|[2501.14327](http://arxiv.org/abs/2501.14327)|null|
 |**2025-01-23**|**Eye Gaze as a Signal for Conveying User Attention in Contextual AI Systems**|Ethan Wilson et.al.|[2501.13878](http://arxiv.org/abs/2501.13878)|null|
 |**2025-01-20**|**Spatial Bar: Exploring Window Switching Techniques for Large Virtual Displays**|Leonardo Pavanatto et.al.|[2501.11754](http://arxiv.org/abs/2501.11754)|null|
@@ -373,6 +377,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Evaluating The Performance of Using Large Language Models to Automate Summarization of CT Simulation Orders in Radiation Oncology**|Meiyun Cao et.al.|[2501.16309](http://arxiv.org/abs/2501.16309)|null|
+|**2025-01-27**|**RAPID: Retrieval-Augmented Parallel Inference Drafting for Text-Based Video Event Retrieval**|Long Nguyen et.al.|[2501.16303](http://arxiv.org/abs/2501.16303)|null|
+|**2025-01-27**|**Matryoshka Re-Ranker: A Flexible Re-Ranking Architecture With Configurable Depth and Width**|Zheng Liu et.al.|[2501.16302](http://arxiv.org/abs/2501.16302)|null|
+|**2025-01-27**|**Large Models in Dialogue for Active Perception and Anomaly Detection**|Tzoulio Chamiti et.al.|[2501.16300](http://arxiv.org/abs/2501.16300)|null|
+|**2025-01-27**|**FALCON: Resolving Visual Redundancy and Fragmentation in High-resolution Multimodal Large Language Models via Visual Registers**|Renshan Zhang et.al.|[2501.16297](http://arxiv.org/abs/2501.16297)|null|
+|**2025-01-27**|**Brain-Adapter: Enhancing Neurological Disorder Analysis with Adapter-Tuning Multimodal Large Language Models**|Jing Zhang et.al.|[2501.16282](http://arxiv.org/abs/2501.16282)|null|
+|**2025-01-27**|**Do LLMs Have Visualization Literacy? An Evaluation on Modified Visualizations to Test Generalization in Data Interpretation**|Jiayi Hong et.al.|[2501.16277](http://arxiv.org/abs/2501.16277)|null|
+|**2025-01-27**|**URAG: Implementing a Unified Hybrid RAG for Precise Answers in University Admission Chatbots -- A Case Study at HCMUT**|Long Nguyen et.al.|[2501.16276](http://arxiv.org/abs/2501.16276)|null|
+|**2025-01-27**|**Return of the Encoder: Maximizing Parameter Efficiency for SLMs**|Mohamed Elfeki et.al.|[2501.16273](http://arxiv.org/abs/2501.16273)|null|
+|**2025-01-27**|**A foundation model for human-AI collaboration in medical literature mining**|Zifeng Wang et.al.|[2501.16255](http://arxiv.org/abs/2501.16255)|null|
 |**2025-01-24**|**HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2501.14729](http://arxiv.org/abs/2501.14729)|**[link](https://github.com/lmd0311/hermes)**|
 |**2025-01-24**|**CodeMonkeys: Scaling Test-Time Compute for Software Engineering**|Ryan Ehrlich et.al.|[2501.14723](http://arxiv.org/abs/2501.14723)|null|
 |**2025-01-24**|**Do LLMs Provide Consistent Answers to Health-Related Questions across Languages?**|Ipek Baris Schlicht et.al.|[2501.14719](http://arxiv.org/abs/2501.14719)|null|
@@ -1158,6 +1172,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**RelightVid: Temporal-Consistent Diffusion Model for Video Relighting**|Ye Fang et.al.|[2501.16330](http://arxiv.org/abs/2501.16330)|null|
+|**2025-01-27**|**Movement- and Traffic-based User Identification in Commercial Virtual Reality Applications: Threats and Opportunities**|Sara Baldoni et.al.|[2501.16326](http://arxiv.org/abs/2501.16326)|null|
+|**2025-01-27**|**Mixture-of-Mamba: Enhancing Multi-Modal State-Space Models with Modality-Aware Sparsity**|Weixin Liang et.al.|[2501.16295](http://arxiv.org/abs/2501.16295)|**[link](https://github.com/weixin-liang/mixture-of-mamba)**|
+|**2025-01-27**|**Diffusion of Water Molecules on the Surface of Silica Nanoparticles -- Insights from Nuclear Magnetic Resonance Relaxometry**|Aleksandra Stankiewicz et.al.|[2501.16286](http://arxiv.org/abs/2501.16286)|null|
+|**2025-01-27**|**Congested Crossing Pedestrian Traffic Flow : Dispersion vs. Transport in Crowded Areas**|Mariam Al Khatib et.al.|[2501.16275](http://arxiv.org/abs/2501.16275)|null|
+|**2025-01-27**|**UDBE: Unsupervised Diffusion-based Brightness Enhancement in Underwater Images**|Tatiana Taís Schein et.al.|[2501.16211](http://arxiv.org/abs/2501.16211)|**[link](https://github.com/gusanagy/udbe)**|
+|**2025-01-27**|**Multi-front dynamics in spatially inhomogeneous Allen-Cahn equations**|Robbin Bastiaansen et.al.|[2501.16195](http://arxiv.org/abs/2501.16195)|null|
+|**2025-01-27**|**Looking into the faintEst WIth MUSE (LEWIS): Exploring the nature of ultra-diffuse galaxies in the Hydra I cluster III. Untangling UDG 32 from the stripped filaments of NGC 3314A with multi-wavelength data**|J. Hartke et.al.|[2501.16192](http://arxiv.org/abs/2501.16192)|null|
+|**2025-01-27**|**Looking into the faintEst WIth MUSE (LEWIS): Exploring the nature of ultra-diffuse galaxies in the Hydra-I cluster II. Stellar kinematics and dynamical masses**|Chiara Buttitta et.al.|[2501.16190](http://arxiv.org/abs/2501.16190)|null|
+|**2025-01-27**|**Revisiting the phonon theory of liquid heat capacity: low-frequency shear modes and intramolecular vibrations**|Yu Liu et.al.|[2501.16187](http://arxiv.org/abs/2501.16187)|null|
 |**2025-01-24**|**Relightable Full-Body Gaussian Codec Avatars**|Shaofei Wang et.al.|[2501.14726](http://arxiv.org/abs/2501.14726)|null|
 |**2025-01-24**|**Diffusion based Text-to-Music Generationwith Global and Local Text based Conditioning**|Jisi Zhang et.al.|[2501.14680](http://arxiv.org/abs/2501.14680)|null|
 |**2025-01-24**|**On the multidimensional elephant random walk with stops**|Bernard Bercu et.al.|[2501.14594](http://arxiv.org/abs/2501.14594)|null|
@@ -1945,6 +1969,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**LinPrim: Linear Primitives for Differentiable Volumetric Rendering**|Nicolas von Lützow et.al.|[2501.16312](http://arxiv.org/abs/2501.16312)|null|
+|**2025-01-26**|**GaussianToken: An Effective Image Tokenizer with 2D Gaussian Splatting**|Jiajun Dong et.al.|[2501.15619](http://arxiv.org/abs/2501.15619)|**[link](https://github.com/chrisdong-thu/gaussiantoken)**|
+|**2025-01-25**|**Towards Better Robustness: Progressively Joint Pose-3DGS Learning for Arbitrarily Long Videos**|Zhen-Hui Dong et.al.|[2501.15096](http://arxiv.org/abs/2501.15096)|null|
+|**2025-01-25**|**HuGDiffusion: Generalizable Single-Image Human Rendering via 3D Gaussian Diffusion**|Yingzhi Tang et.al.|[2501.15008](http://arxiv.org/abs/2501.15008)|null|
 |**2025-01-24**|**SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation**|Yujian Liu et.al.|[2501.14646](http://arxiv.org/abs/2501.14646)|null|
 |**2025-01-24**|**Trick-GS: A Balanced Bag of Tricks for Efficient Gaussian Splatting**|Anil Armagan et.al.|[2501.14534](http://arxiv.org/abs/2501.14534)|null|
 |**2025-01-24**|**Scalable Benchmarking and Robust Learning for Noise-Free Ego-Motion and 3D Reconstruction from Noisy Video**|Xiaohao Xu et.al.|[2501.14319](http://arxiv.org/abs/2501.14319)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
@@ -3768,7 +3796,7 @@
 |**2025-01-21**|**Learning to Hop for a Single-Legged Robot with Parallel Mechanism**|Hongbo Zhang et.al.|[2501.11945](http://arxiv.org/abs/2501.11945)|null|
 |**2025-01-19**|**CART-MPC: Coordinating Assistive Devices for Robot-Assisted Transferring with Multi-Agent Model Predictive Control**|Ruolin Ye et.al.|[2501.11149](http://arxiv.org/abs/2501.11149)|null|
 |**2025-01-17**|**Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics**|Chenhao Li et.al.|[2501.10100](http://arxiv.org/abs/2501.10100)|null|
-|**2025-01-22**|**SLIM: Sim-to-Real Legged Instructive Manipulation via Long-Horizon Visuomotor Learning**|Haichao Zhang et.al.|[2501.09905](http://arxiv.org/abs/2501.09905)|null|
+|**2025-01-25**|**SLIM: Sim-to-Real Legged Instructive Manipulation via Long-Horizon Visuomotor Learning**|Haichao Zhang et.al.|[2501.09905](http://arxiv.org/abs/2501.09905)|null|
 |**2025-01-21**|**FoundationStereo: Zero-Shot Stereo Matching**|Bowen Wen et.al.|[2501.09898](http://arxiv.org/abs/2501.09898)|null|
 |**2025-01-14**|**HydroelasticTouch: Simulation of Tactile Sensors with Hydroelastic Contact Surfaces**|David P. Leins et.al.|[2501.08077](http://arxiv.org/abs/2501.08077)|null|
 |**2025-01-14**|**Vid2Sim: Realistic and Interactive Simulation from Video for Urban Navigation**|Ziyang Xie et.al.|[2501.06693](http://arxiv.org/abs/2501.06693)|null|
