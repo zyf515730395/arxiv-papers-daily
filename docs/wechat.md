@@ -3842,7 +3842,7 @@
 
 ## RSR
 
-|**2025-01-29**|**Physics-Grounded Differentiable Simulation for Soft Growing Robots**|Lucas Chen et.al.|[2501.17963](http://arxiv.org/abs/2501.17963)|null|
+|**2025-01-29**|**Physics-Grounded Differentiable Simulation for Soft Growing Robots**|Lucas Chen et.al.|[2501.17963](http://arxiv.org/abs/2501.17963)|**[link](https://github.com/commalab/diffvinesimpy)**|
 |**2025-01-28**|**RLPP: A Residual Method for Zero-Shot Real-World Autonomous Racing on Scaled Platforms**|Edoardo Ghignone et.al.|[2501.17311](http://arxiv.org/abs/2501.17311)|**[link](https://github.com/forzaeth/rlpp)**|
 |**2025-01-24**|**Learning more with the same effort: how randomization improves the robustness of a robotic deep reinforcement learning agent**|Lucía Güitta-López et.al.|[2501.14443](http://arxiv.org/abs/2501.14443)|null|
 |**2025-01-21**|**SafePowerGraph-HIL: Real-Time HIL Validation of Heterogeneous GNNs for Bridging Sim-to-Real Gap in Power Grids**|Aoxiang Ma et.al.|[2501.12427](http://arxiv.org/abs/2501.12427)|null|
