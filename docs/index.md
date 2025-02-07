@@ -10,6 +10,7 @@ Updated on 2025.02.07
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-05**|**MetaFE-DE: Learning Meta Feature Embedding for Depth Estimation from Monocular Endoscopic Images**|Dawei Lu et.al.|[2502.03493](http://arxiv.org/abs/2502.03493)|null|
 |**2025-02-04**|**DOC-Depth: A novel approach for dense depth ground truth generation**|Simon de Moreau et.al.|[2502.02144](http://arxiv.org/abs/2502.02144)|null|
 |**2025-02-01**|**Leveraging Stable Diffusion for Monocular Depth Estimation via Image Semantic Encoding**|Jingming Xia et.al.|[2502.01666](http://arxiv.org/abs/2502.01666)|null|
 |**2025-02-01**|**Exploring Representation-Aligned Latent Space for Better Generation**|Wanghan Xu et.al.|[2502.00359](http://arxiv.org/abs/2502.00359)|null|
@@ -292,6 +293,7 @@ Updated on 2025.02.07
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**3D Prior is All You Need: Cross-Task Few-shot 2D Gaze Estimation**|Yihua Cheng et.al.|[2502.04074](http://arxiv.org/abs/2502.04074)|null|
 |**2025-02-05**|**High-frequency near-eye ground truth for event-based eye tracking**|Andrea Simpsi et.al.|[2502.03057](http://arxiv.org/abs/2502.03057)|null|
 |**2025-02-04**|**UniGaze: Towards Universal Gaze Estimation via Large-scale Pre-Training**|Jiawei Qin et.al.|[2502.02307](http://arxiv.org/abs/2502.02307)|null|
 |**2025-02-03**|**Learning Human Perception Dynamics for Informative Robot Communication**|Shenghui Chen et.al.|[2502.01857](http://arxiv.org/abs/2502.01857)|null|
@@ -378,6 +380,16 @@ Updated on 2025.02.07
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment**|Zuyan Liu et.al.|[2502.04328](http://arxiv.org/abs/2502.04328)|null|
+|**2025-02-06**|**WorldSense: Evaluating Real-world Omnimodal Understanding for Multimodal LLMs**|Jack Hong et.al.|[2502.04326](http://arxiv.org/abs/2502.04326)|null|
+|**2025-02-06**|**Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple Interactions**|Yik Siu Chan et.al.|[2502.04322](http://arxiv.org/abs/2502.04322)|null|
+|**2025-02-06**|**ChamaleonLLM: Batch-Aware Dynamic Low-Rank Adaptation via Inference-Time Clusters**|Kamer Ali Yuksel et.al.|[2502.04315](http://arxiv.org/abs/2502.04315)|null|
+|**2025-02-06**|**Great Models Think Alike and this Undermines AI Oversight**|Shashwat Goel et.al.|[2502.04313](http://arxiv.org/abs/2502.04313)|**[link](https://github.com/model-similarity/lm-similarity/tree/main/applications)**|
+|**2025-02-06**|**ScoreFlow: Mastering LLM Agent Workflows via Score-based Preference Optimization**|Yinjie Wang et.al.|[2502.04306](http://arxiv.org/abs/2502.04306)|null|
+|**2025-02-06**|**Beyond Prompt Content: Enhancing LLM Performance via Content-Format Integrated Prompt Optimization**|Yuanye Liu et.al.|[2502.04295](http://arxiv.org/abs/2502.04295)|null|
+|**2025-02-06**|**PILAF: Optimal Human Preference Sampling for Reward Modeling**|Yunzhen Feng et.al.|[2502.04270](http://arxiv.org/abs/2502.04270)|null|
+|**2025-02-06**|**Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion**|Marco Mistretta et.al.|[2502.04263](http://arxiv.org/abs/2502.04263)|null|
+|**2025-02-06**|**Combining Language and App UI Analysis for the Automated Assessment of Bug Reproduction Steps**|Junayed Mahmud et.al.|[2502.04251](http://arxiv.org/abs/2502.04251)|null|
 |**2025-02-05**|**Do Large Language Model Benchmarks Test Reliability?**|Joshua Vendrow et.al.|[2502.03461](http://arxiv.org/abs/2502.03461)|null|
 |**2025-02-05**|**Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language Model Training**|Boyao Wang et.al.|[2502.03460](http://arxiv.org/abs/2502.03460)|null|
 |**2025-02-05**|**SKI Models: Skeleton Induced Vision-Language Embeddings for Understanding Activities of Daily Living**|Arkaprava Sinha et.al.|[2502.03459](http://arxiv.org/abs/2502.03459)|null|
@@ -1231,6 +1243,16 @@ Updated on 2025.02.07
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features**|Alec Helbling et.al.|[2502.04320](http://arxiv.org/abs/2502.04320)|null|
+|**2025-02-06**|**HOG-Diff: Higher-Order Guided Diffusion for Graph Generation**|Yiming Huang et.al.|[2502.04308](http://arxiv.org/abs/2502.04308)|null|
+|**2025-02-06**|**MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation**|Jinbo Xing et.al.|[2502.04299](http://arxiv.org/abs/2502.04299)|null|
+|**2025-02-06**|**Statistical guarantees for continuous-time policy evaluation: blessing of ellipticity and new tradeoffs**|Wenlong Mou et.al.|[2502.04297](http://arxiv.org/abs/2502.04297)|null|
+|**2025-02-06**|**Josephson coupling in Lanthanum-based cuprates superlattices**|Halima Giovanna Ahmad et.al.|[2502.04231](http://arxiv.org/abs/2502.04231)|null|
+|**2025-02-06**|**Recovering sparse DFT from missing signals via interior point method on GPU**|Wei Kuang et.al.|[2502.04217](http://arxiv.org/abs/2502.04217)|null|
+|**2025-02-06**|**Diffusion-based mass map reconstruction from weak lensing data**|Supranta S. Boruah et.al.|[2502.04158](http://arxiv.org/abs/2502.04158)|null|
+|**2025-02-06**|**Numerical moment stabilization of central difference approximations for linear stationary reaction-convection-diffusion equations with applications to stationary Hamilton-Jacobi equations**|T. Lewis et.al.|[2502.04142](http://arxiv.org/abs/2502.04142)|null|
+|**2025-02-06**|**Discontinuous transition in 2D Potts: I. Order-Disorder Interface convergence**|Moritz Dober et.al.|[2502.04129](http://arxiv.org/abs/2502.04129)|null|
+|**2025-02-06**|**Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based Speech Synthesis**|Zhen Ye et.al.|[2502.04128](http://arxiv.org/abs/2502.04128)|null|
 |**2025-02-05**|**Dress-1-to-3: Single Image to Simulation-Ready 3D Outfit with Diffusion Prior and Differentiable Physics**|Xuan Li et.al.|[2502.03449](http://arxiv.org/abs/2502.03449)|null|
 |**2025-02-05**|**Masked Autoencoders Are Effective Tokenizers for Diffusion Models**|Hao Chen et.al.|[2502.03444](http://arxiv.org/abs/2502.03444)|null|
 |**2025-02-05**|**Taking a Big Step: Large Learning Rates in Denoising Score Matching Prevent Memorization**|Yu-Han Wu et.al.|[2502.03435](http://arxiv.org/abs/2502.03435)|null|
@@ -3930,13 +3952,14 @@ Updated on 2025.02.07
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**DexterityGen: Foundation Controller for Unprecedented Dexterity**|Zhao-Heng Yin et.al.|[2502.04307](http://arxiv.org/abs/2502.04307)|null|
 |**2025-02-04**|**Rapidly Adapting Policies to the Real World via Simulation-Guided Fine-Tuning**|Patrick Yin et.al.|[2502.02705](http://arxiv.org/abs/2502.02705)|null|
 |**2025-02-04**|**VolleyBots: A Testbed for Multi-Drone Volleyball Game Combining Motion Control and Strategic Play**|Zelai Xu et.al.|[2502.01932](http://arxiv.org/abs/2502.01932)|null|
 |**2025-02-03**|**VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion**|Shaoting Zhu et.al.|[2502.01536](http://arxiv.org/abs/2502.01536)|null|
 |**2025-02-03**|**Embrace Collisions: Humanoid Shadowing for Deployable Contact-Agnostics Motions**|Ziwen Zhuang et.al.|[2502.01465](http://arxiv.org/abs/2502.01465)|null|
 |**2025-02-03**|**ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills**|Tairan He et.al.|[2502.01143](http://arxiv.org/abs/2502.01143)|null|
 |**2025-01-29**|**Physics-Grounded Differentiable Simulation for Soft Growing Robots**|Lucas Chen et.al.|[2501.17963](http://arxiv.org/abs/2501.17963)|**[link](https://github.com/commalab/diffvinesimpy)**|
-|**2025-01-28**|**RLPP: A Residual Method for Zero-Shot Real-World Autonomous Racing on Scaled Platforms**|Edoardo Ghignone et.al.|[2501.17311](http://arxiv.org/abs/2501.17311)|**[link](https://github.com/forzaeth/rlpp)**|
+|**2025-02-06**|**RLPP: A Residual Method for Zero-Shot Real-World Autonomous Racing on Scaled Platforms**|Edoardo Ghignone et.al.|[2501.17311](http://arxiv.org/abs/2501.17311)|**[link](https://github.com/forzaeth/rlpp)**|
 |**2025-01-24**|**Learning more with the same effort: how randomization improves the robustness of a robotic deep reinforcement learning agent**|Lucía Güitta-López et.al.|[2501.14443](http://arxiv.org/abs/2501.14443)|null|
 |**2025-01-21**|**SafePowerGraph-HIL: Real-Time HIL Validation of Heterogeneous GNNs for Bridging Sim-to-Real Gap in Power Grids**|Aoxiang Ma et.al.|[2501.12427](http://arxiv.org/abs/2501.12427)|null|
 |**2025-01-21**|**RALAD: Bridging the Real-to-Sim Domain Gap in Autonomous Driving with Retrieval-Augmented Learning**|Jiacheng Zuo et.al.|[2501.12296](http://arxiv.org/abs/2501.12296)|null|
