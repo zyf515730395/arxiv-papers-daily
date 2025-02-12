@@ -10,6 +10,9 @@ Updated on 2025.02.12
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**Visual-based spatial audio generation system for multi-speaker environments**|Xiaojing Liu et.al.|[2502.07538](http://arxiv.org/abs/2502.07538)|null|
+|**2025-02-11**|**Learning Inverse Laplacian Pyramid for Progressive Depth Completion**|Kun Wang et.al.|[2502.07289](http://arxiv.org/abs/2502.07289)|null|
+|**2025-02-10**|**From Image to Video: An Empirical Study of Diffusion Representations**|Pedro Vélez et.al.|[2502.07001](http://arxiv.org/abs/2502.07001)|null|
 |**2025-02-09**|**Revisiting Gradient-based Uncertainty for Monocular Depth Estimation**|Julia Hornauer et.al.|[2502.05964](http://arxiv.org/abs/2502.05964)|null|
 |**2025-02-09**|**SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion**|Qingsong Yan et.al.|[2502.05859](http://arxiv.org/abs/2502.05859)|null|
 |**2025-02-05**|**MetaFE-DE: Learning Meta Feature Embedding for Depth Estimation from Monocular Endoscopic Images**|Dawei Lu et.al.|[2502.03493](http://arxiv.org/abs/2502.03493)|null|
@@ -295,6 +298,8 @@ Updated on 2025.02.12
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**Towards spatial computing: recent advances in multimodal natural interaction for XR headsets**|Zhimin Wang et.al.|[2502.07598](http://arxiv.org/abs/2502.07598)|null|
+|**2025-02-11**|**SensPS: Sensing Personal Space Comfortable Distance between Human-Human Using Multimodal Sensors**|Ko Watanabe et.al.|[2502.07441](http://arxiv.org/abs/2502.07441)|null|
 |**2025-02-08**|**Evaluating Cross-Subject and Cross-Device Consistency in Visual Fixation Prediction**|Yuli Wu et.al.|[2502.05554](http://arxiv.org/abs/2502.05554)|null|
 |**2025-02-06**|**3D Prior is All You Need: Cross-Task Few-shot 2D Gaze Estimation**|Yihua Cheng et.al.|[2502.04074](http://arxiv.org/abs/2502.04074)|null|
 |**2025-02-05**|**High-frequency near-eye ground truth for event-based eye tracking**|Andrea Simpsi et.al.|[2502.03057](http://arxiv.org/abs/2502.03057)|null|
@@ -383,6 +388,16 @@ Updated on 2025.02.12
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**DarwinLM: Evolutionary Structured Pruning of Large Language Models**|Shengkun Tang et.al.|[2502.07780](http://arxiv.org/abs/2502.07780)|null|
+|**2025-02-11**|**Auditing Prompt Caching in Language Model APIs**|Chenchen Gu et.al.|[2502.07776](http://arxiv.org/abs/2502.07776)|null|
+|**2025-02-11**|**Automatic Robot Task Planning by Integrating Large Language Model with Genetic Programming**|Azizjon Kobilov et.al.|[2502.07772](http://arxiv.org/abs/2502.07772)|null|
+|**2025-02-11**|**Breaking Down Bias: On The Limits of Generalizable Pruning Strategies**|Sibo Ma et.al.|[2502.07771](http://arxiv.org/abs/2502.07771)|null|
+|**2025-02-11**|**Great Power Brings Great Responsibility: Personalizing Conversational AI for Diverse Problem-Solvers**|Italo Santos et.al.|[2502.07763](http://arxiv.org/abs/2502.07763)|null|
+|**2025-02-11**|**Scalable Fingerprinting of Large Language Models**|Anshul Nasery et.al.|[2502.07760](http://arxiv.org/abs/2502.07760)|null|
+|**2025-02-11**|**Towards Efficient Optimizer Design for LLM via Structured Fisher Approximation with a Low-Rank Extension**|Wenbo Gong et.al.|[2502.07752](http://arxiv.org/abs/2502.07752)|null|
+|**2025-02-11**|**WHODUNIT: Evaluation benchmark for culprit detection in mystery stories**|Kshitij Gupta et.al.|[2502.07747](http://arxiv.org/abs/2502.07747)|null|
+|**2025-02-11**|**The Economics of Large Language Models: Token Allocation, Fine-Tuning, and Optimal Pricing**|Dirk Bergemann et.al.|[2502.07736](http://arxiv.org/abs/2502.07736)|null|
+|**2025-02-11**|**Economics of Sourcing Human Data**|Sebastin Santy et.al.|[2502.07732](http://arxiv.org/abs/2502.07732)|null|
 |**2025-02-10**|**EVEv2: Improved Baselines for Encoder-Free Vision-Language Models**|Haiwen Diao et.al.|[2502.06788](http://arxiv.org/abs/2502.06788)|null|
 |**2025-02-10**|**Visual Agentic AI for Spatial Reasoning with a Dynamic API**|Damiano Marsili et.al.|[2502.06787](http://arxiv.org/abs/2502.06787)|null|
 |**2025-02-10**|**Towards Internet-Scale Training For Agents**|Brandon Trabucco et.al.|[2502.06776](http://arxiv.org/abs/2502.06776)|null|
@@ -1266,6 +1281,16 @@ Updated on 2025.02.12
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**Pippo: High-Resolution Multi-View Humans from a Single Image**|Yash Kant et.al.|[2502.07785](http://arxiv.org/abs/2502.07785)|null|
+|**2025-02-11**|**MatSwap: Light-aware material transfers in images**|Ivan Lopes et.al.|[2502.07784](http://arxiv.org/abs/2502.07784)|null|
+|**2025-02-11**|**CausalGeD: Blending Causality and Diffusion for Spatial Gene Expression Generation**|Rabeya Tus Sadia et.al.|[2502.07751](http://arxiv.org/abs/2502.07751)|null|
+|**2025-02-11**|**A BDDC Preconditioner for the Cardiac EMI Model in three Dimensions**|Fritz Goebel et.al.|[2502.07722](http://arxiv.org/abs/2502.07722)|null|
+|**2025-02-11**|**RenderBox: Expressive Performance Rendering with Text Control**|Huan Zhang et.al.|[2502.07711](http://arxiv.org/abs/2502.07711)|null|
+|**2025-02-11**|**A note on the $\mathcal{W}_2$-convergence rate of the empirical measure of an ergodic $\mathbb{R}^d$ -valued diffusion**|Jean-Francois Chassagneux et.al.|[2502.07704](http://arxiv.org/abs/2502.07704)|null|
+|**2025-02-11**|**Magic 1-For-1: Generating One Minute Video Clips within One Minute**|Hongwei Yi et.al.|[2502.07701](http://arxiv.org/abs/2502.07701)|null|
+|**2025-02-11**|**Matrix3D: Large Photogrammetry Model All-in-One**|Yuanxun Lu et.al.|[2502.07685](http://arxiv.org/abs/2502.07685)|null|
+|**2025-02-11**|**Consistency Training with Physical Constraints**|Che-Chia Chang et.al.|[2502.07636](http://arxiv.org/abs/2502.07636)|null|
+|**2025-02-11**|**Tractable Transformers for Flexible Conditional Generation**|Anji Liu et.al.|[2502.07616](http://arxiv.org/abs/2502.07616)|null|
 |**2025-02-10**|**Lumina-Video: Efficient and Flexible Video Generation with Multi-scale Next-DiT**|Dongyang Liu et.al.|[2502.06782](http://arxiv.org/abs/2502.06782)|null|
 |**2025-02-10**|**Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions**|Jaeyeon Kim et.al.|[2502.06768](http://arxiv.org/abs/2502.06768)|null|
 |**2025-02-10**|**History-Guided Video Diffusion**|Kiwhan Song et.al.|[2502.06764](http://arxiv.org/abs/2502.06764)|null|
@@ -2151,10 +2176,15 @@ Updated on 2025.02.12
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**MeshSplats: Mesh-Based Rendering with Gaussian Splatting Initialization**|Rafał Tobiasz et.al.|[2502.07754](http://arxiv.org/abs/2502.07754)|null|
+|**2025-02-11**|**Flow Distillation Sampling: Regularizing 3D Gaussians with Pre-trained Matching Priors**|Lin-Zhuo Chen et.al.|[2502.07615](http://arxiv.org/abs/2502.07615)|null|
+|**2025-02-11**|**Few-Shot Multi-Human Neural Rendering Using Geometry Constraints**|Qian li et.al.|[2502.07140](http://arxiv.org/abs/2502.07140)|null|
+|**2025-02-10**|**PrismAvatar: Real-time animated 3D neural head avatars on edge devices**|Prashant Raina et.al.|[2502.07030](http://arxiv.org/abs/2502.07030)|null|
+|**2025-02-10**|**Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC**|Siwei Meng et.al.|[2502.07007](http://arxiv.org/abs/2502.07007)|null|
 |**2025-02-10**|**TripoSG: High-Fidelity 3D Shape Synthesis using Large-Scale Rectified Flow Models**|Yangguang Li et.al.|[2502.06608](http://arxiv.org/abs/2502.06608)|null|
 |**2025-02-10**|**SIREN: Semantic, Initialization-Free Registration of Multi-Robot Gaussian Splatting Maps**|Ola Shorinwa et.al.|[2502.06519](http://arxiv.org/abs/2502.06519)|null|
 |**2025-02-10**|**Three-Dimensional MRI Reconstruction with Gaussian Representations: Tackling the Undersampling Problem**|Tengya Peng et.al.|[2502.06510](http://arxiv.org/abs/2502.06510)|null|
-|**2025-02-09**|**Digital Twin Buildings: 3D Modeling, GIS Integration, and Visual Descriptions Using Gaussian Splatting, ChatGPT/Deepseek, and Google Maps Platforms**|Kyle Gao et.al.|[2502.05769](http://arxiv.org/abs/2502.05769)|null|
+|**2025-02-11**|**Digital Twin Buildings: 3D Modeling, GIS Integration, and Visual Descriptions Using Gaussian Splatting, ChatGPT/Deepseek, and Google Maps Platform**|Kyle Gao et.al.|[2502.05769](http://arxiv.org/abs/2502.05769)|null|
 |**2025-02-09**|**PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map**|Yue Pan et.al.|[2502.05752](http://arxiv.org/abs/2502.05752)|null|
 |**2025-02-08**|**GWRF: A Generalizable Wireless Radiance Field for Wireless Signal Propagation Modeling**|Kang Yang et.al.|[2502.05708](http://arxiv.org/abs/2502.05708)|null|
 |**2025-02-08**|**Vision-in-the-loop Simulation for Deep Monocular Pose Estimation of UAV in Ocean Environment**|Maneesha Wickramasuriya et.al.|[2502.05409](http://arxiv.org/abs/2502.05409)|null|
@@ -4010,7 +4040,7 @@ Updated on 2025.02.12
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-06**|**DexterityGen: Foundation Controller for Unprecedented Dexterity**|Zhao-Heng Yin et.al.|[2502.04307](http://arxiv.org/abs/2502.04307)|null|
 |**2025-02-04**|**Rapidly Adapting Policies to the Real World via Simulation-Guided Fine-Tuning**|Patrick Yin et.al.|[2502.02705](http://arxiv.org/abs/2502.02705)|null|
-|**2025-02-04**|**VolleyBots: A Testbed for Multi-Drone Volleyball Game Combining Motion Control and Strategic Play**|Zelai Xu et.al.|[2502.01932](http://arxiv.org/abs/2502.01932)|null|
+|**2025-02-11**|**VolleyBots: A Testbed for Multi-Drone Volleyball Game Combining Motion Control and Strategic Play**|Zelai Xu et.al.|[2502.01932](http://arxiv.org/abs/2502.01932)|null|
 |**2025-02-03**|**VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion**|Shaoting Zhu et.al.|[2502.01536](http://arxiv.org/abs/2502.01536)|null|
 |**2025-02-03**|**Embrace Collisions: Humanoid Shadowing for Deployable Contact-Agnostics Motions**|Ziwen Zhuang et.al.|[2502.01465](http://arxiv.org/abs/2502.01465)|null|
 |**2025-02-08**|**ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills**|Tairan He et.al.|[2502.01143](http://arxiv.org/abs/2502.01143)|**[link](https://github.com/lecar-lab/asap)**|
