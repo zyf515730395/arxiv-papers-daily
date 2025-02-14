@@ -5,7 +5,7 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2025.02.13
+Updated on 2025.02.14
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2202,7 +2202,7 @@ Updated on 2025.02.13
 |**2025-02-12**|**Sat-DN: Implicit Surface Reconstruction from Multi-View Satellite Images with Depth and Normal Supervision**|Tianle Liu et.al.|[2502.08352](http://arxiv.org/abs/2502.08352)|null|
 |**2025-02-12**|**Interactive Holographic Visualization for 3D Facial Avatar**|Tri Tung Nguyen Nguyen et.al.|[2502.08085](http://arxiv.org/abs/2502.08085)|null|
 |**2025-02-11**|**TranSplat: Surface Embedding-guided 3D Gaussian Splatting for Transparent Object Manipulation**|Jeongyun Kim et.al.|[2502.07840](http://arxiv.org/abs/2502.07840)|null|
-|**2025-02-11**|**MeshSplats: Mesh-Based Rendering with Gaussian Splatting Initialization**|Rafał Tobiasz et.al.|[2502.07754](http://arxiv.org/abs/2502.07754)|null|
+|**2025-02-11**|**MeshSplats: Mesh-Based Rendering with Gaussian Splatting Initialization**|Rafał Tobiasz et.al.|[2502.07754](http://arxiv.org/abs/2502.07754)|**[link](https://github.com/gwilczynski95/meshsplats)**|
 |**2025-02-11**|**Flow Distillation Sampling: Regularizing 3D Gaussians with Pre-trained Matching Priors**|Lin-Zhuo Chen et.al.|[2502.07615](http://arxiv.org/abs/2502.07615)|null|
 |**2025-02-11**|**Few-Shot Multi-Human Neural Rendering Using Geometry Constraints**|Qian li et.al.|[2502.07140](http://arxiv.org/abs/2502.07140)|null|
 |**2025-02-10**|**PrismAvatar: Real-time animated 3D neural head avatars on edge devices**|Prashant Raina et.al.|[2502.07030](http://arxiv.org/abs/2502.07030)|null|
