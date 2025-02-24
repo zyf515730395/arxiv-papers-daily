@@ -10,6 +10,7 @@ Updated on 2025.02.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu et.al.|[2502.15633](http://arxiv.org/abs/2502.15633)|null|
 |**2025-02-20**|**CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting**|Qilin Zhang et.al.|[2502.14684](http://arxiv.org/abs/2502.14684)|**[link](https://github.com/zqlin0521/cdgs-release)**|
 |**2025-02-20**|**Monocular Depth Estimation and Segmentation for Transparent Object with Iterative Semantic and Geometric Fusion**|Jiangyuan Liu et.al.|[2502.14616](http://arxiv.org/abs/2502.14616)|**[link](https://github.com/l-j-yuan/modest)**|
 |**2025-02-20**|**Self-supervised Monocular Depth Estimation Robust to Reflective Surface Leveraged by Triplet Mining**|Wonhyeok Choi et.al.|[2502.14573](http://arxiv.org/abs/2502.14573)|null|
@@ -242,6 +243,7 @@ Updated on 2025.02.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-20**|**Online hand gesture recognition using Continual Graph Transformers**|Rim Slama et.al.|[2502.14939](http://arxiv.org/abs/2502.14939)|null|
 |**2025-02-17**|**Duo Streamers: A Streaming Gesture Recognition Framework**|Boxuan Zhu et.al.|[2502.12297](http://arxiv.org/abs/2502.12297)|null|
 |**2025-02-12**|**Measuring Anxiety Levels with Head Motion Patterns in Severe Depression Population**|Fouad Boualeb et.al.|[2502.08813](http://arxiv.org/abs/2502.08813)|null|
 |**2025-02-12**|**DGSense: A Domain Generalization Framework for Wireless Sensing**|Rui Zhou et.al.|[2502.08155](http://arxiv.org/abs/2502.08155)|null|
@@ -315,6 +317,7 @@ Updated on 2025.02.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**M2LADS Demo: A System for Generating Multimodal Learning Analytics Dashboards**|Alvaro Becerra et.al.|[2502.15363](http://arxiv.org/abs/2502.15363)|null|
 |**2025-02-18**|**myEye2Wheeler: A Two-Wheeler Indian Driver Real-World Eye-Tracking Dataset**|Bhaiya Vaibhaw Kumar et.al.|[2502.12723](http://arxiv.org/abs/2502.12723)|null|
 |**2025-02-17**|**HI-GVF: Shared Control based on Human-Influenced Guiding Vector Fields for Human-multi-robot Cooperation**|Pengming Zhu et.al.|[2502.11370](http://arxiv.org/abs/2502.11370)|null|
 |**2025-02-16**|**Surprisal Takes It All: Eye Tracking Based Cognitive Evaluation of Text Readability Measures**|Keren Gruteke Klein et.al.|[2502.11150](http://arxiv.org/abs/2502.11150)|null|
@@ -410,6 +413,16 @@ Updated on 2025.02.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**ELIP: Enhanced Visual-Language Foundation Models for Image Retrieval**|Guanqi Zhan et.al.|[2502.15682](http://arxiv.org/abs/2502.15682)|null|
+|**2025-02-21**|**Privacy Ripple Effects from Adding or Removing Personal Information in Language Model Training**|Jaydeep Borkar et.al.|[2502.15680](http://arxiv.org/abs/2502.15680)|null|
+|**2025-02-21**|**Testing the limits of fine-tuning to improve reasoning in vision language models**|Luca M. Schulze Buschoff et.al.|[2502.15678](http://arxiv.org/abs/2502.15678)|null|
+|**2025-02-21**|**FLEKE: Federated Locate-then-Edit Knowledge Editing**|Zongkai Zhao et.al.|[2502.15677](http://arxiv.org/abs/2502.15677)|null|
+|**2025-02-21**|**AutoToM: Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind**|Zhining Zhang et.al.|[2502.15676](http://arxiv.org/abs/2502.15676)|null|
+|**2025-02-21**|**Almost AI, Almost Human: The Challenge of Detecting AI-Polished Writing**|Shoumik Saha et.al.|[2502.15666](http://arxiv.org/abs/2502.15666)|null|
+|**2025-02-21**|**Machine-generated text detection prevents language model collapse**|George Drayson et.al.|[2502.15654](http://arxiv.org/abs/2502.15654)|null|
+|**2025-02-21**|**Empowering LLMs with Logical Reasoning: A Comprehensive Survey**|Fengxiang Cheng et.al.|[2502.15652](http://arxiv.org/abs/2502.15652)|null|
+|**2025-02-21**|**Steering into New Embedding Spaces: Analyzing Cross-Lingual Alignment Induced by Model Interventions in Multilingual Language Models**|Anirudh Sundar et.al.|[2502.15639](http://arxiv.org/abs/2502.15639)|null|
+|**2025-02-21**|**The Relationship Between Reasoning and Performance in Large Language Models -- o3 (mini) Thinks Harder, Not Longer**|Marthe Ballon et.al.|[2502.15631](http://arxiv.org/abs/2502.15631)|null|
 |**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866](http://arxiv.org/abs/2502.14866)|**[link](https://github.com/mit-han-lab/omniserve)**|
 |**2025-02-20**|**Aligning LLMs to Ask Good Questions A Case Study in Clinical Reasoning**|Shuyue Stella Li et.al.|[2502.14860](http://arxiv.org/abs/2502.14860)|**[link](https://github.com/stellalisy/alfa)**|
 |**2025-02-20**|**FR-Spec: Accelerating Large-Vocabulary Language Models via Frequency-Ranked Speculative Sampling**|Weilin Zhao et.al.|[2502.14856](http://arxiv.org/abs/2502.14856)|null|
@@ -1373,6 +1386,16 @@ Updated on 2025.02.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**One-step Diffusion Models with $f$ -Divergence Distribution Matching**|Yilun Xu et.al.|[2502.15681](http://arxiv.org/abs/2502.15681)|null|
+|**2025-02-21**|**AutoTandemML: Active Learning Enhanced Tandem Neural Networks for Inverse Design Problems**|Luka Grbcic et.al.|[2502.15643](http://arxiv.org/abs/2502.15643)|null|
+|**2025-02-21**|**The SARAO MeerKAT Galactic Plane Survey extended source catalogue**|C. Bordiu et.al.|[2502.15640](http://arxiv.org/abs/2502.15640)|null|
+|**2025-02-21**|**Infinite-dimensional diffusions and depletion interaction for a model of colloids**|Myriam Fradon et.al.|[2502.15628](http://arxiv.org/abs/2502.15628)|null|
+|**2025-02-21**|**Pick-and-place Manipulation Across Grippers Without Retraining: A Learning-optimization Diffusion Policy Approach**|Xiangtong Yao et.al.|[2502.15613](http://arxiv.org/abs/2502.15613)|null|
+|**2025-02-21**|**Accurate and efficient machine learning interatomic potentials for finite temperature modeling of molecular crystals**|Flaviano Della Pia et.al.|[2502.15530](http://arxiv.org/abs/2502.15530)|null|
+|**2025-02-21**|**Confidence-Based Annotation Of Brain Tumours In Ultrasound**|Alistair Weld et.al.|[2502.15484](http://arxiv.org/abs/2502.15484)|null|
+|**2025-02-21**|**On Neural BRDFs: A Thorough Comparison of State-of-the-Art Approaches**|Florian Hofherr et.al.|[2502.15480](http://arxiv.org/abs/2502.15480)|null|
+|**2025-02-21**|**Sheaf theory: from deep geometry to deep learning**|Anton Ayzenberg et.al.|[2502.15476](http://arxiv.org/abs/2502.15476)|null|
+|**2025-02-21**|**Correlations of density and current fluctuations in single-file motion of hard spheres and in driven lattice gas with nearest-neighbor interaction**|Sören Schweers et.al.|[2502.15469](http://arxiv.org/abs/2502.15469)|null|
 |**2025-02-20**|**Dynamic Concepts Personalization from Single Videos**|Rameen Abdal et.al.|[2502.14844](http://arxiv.org/abs/2502.14844)|null|
 |**2025-02-20**|**Improving the Diffusability of Autoencoders**|Ivan Skorokhodov et.al.|[2502.14831](http://arxiv.org/abs/2502.14831)|null|
 |**2025-02-20**|**AVD2: Accident Video Diffusion for Accident Video Description**|Cheng Li et.al.|[2502.14801](http://arxiv.org/abs/2502.14801)|null|
@@ -2338,6 +2361,11 @@ Updated on 2025.02.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**|Ziqian Ni et.al.|[2502.15635](http://arxiv.org/abs/2502.15635)|null|
+|**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu et.al.|[2502.15633](http://arxiv.org/abs/2502.15633)|null|
+|**2025-02-21**|**DynamicGSG: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation**|Luzhou Ge et.al.|[2502.15309](http://arxiv.org/abs/2502.15309)|**[link](https://github.com/geluzhou/dynamic-gsg)**|
+|**2025-02-20**|**GS-Cache: A GS-Cache Inference Framework for Large-scale Gaussian Splatting Models**|Miao Tao et.al.|[2502.14938](http://arxiv.org/abs/2502.14938)|null|
+|**2025-02-20**|**Hier-SLAM++: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2502.14931](http://arxiv.org/abs/2502.14931)|null|
 |**2025-02-20**|**CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting**|Qilin Zhang et.al.|[2502.14684](http://arxiv.org/abs/2502.14684)|**[link](https://github.com/zqlin0521/cdgs-release)**|
 |**2025-02-20**|**OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving**|Yedong Shen et.al.|[2502.14235](http://arxiv.org/abs/2502.14235)|null|
 |**2025-02-20**|**NeRF-3DTalker: Neural Radiance Field with 3D Prior Aided Audio Disentanglement for Talking Head Synthesis**|Xiaoxing Liu et.al.|[2502.14178](http://arxiv.org/abs/2502.14178)|null|
@@ -4232,6 +4260,7 @@ Updated on 2025.02.24
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**A Simulation Pipeline to Facilitate Real-World Robotic Reinforcement Learning Applications**|Jefferson Silveira et.al.|[2502.15649](http://arxiv.org/abs/2502.15649)|null|
 |**2025-02-20**|**Watch Less, Feel More: Sim-to-Real RL for Generalizable Articulated Object Manipulation via Motion Adaptation and Impedance Control**|Tan-Dzung Do et.al.|[2502.14457](http://arxiv.org/abs/2502.14457)|null|
 |**2025-02-18**|**A Survey of Sim-to-Real Methods in RL: Progress, Prospects and Challenges with Foundation Models**|Longchao Da et.al.|[2502.13187](http://arxiv.org/abs/2502.13187)|null|
 |**2025-02-18**|**SATA: Safe and Adaptive Torque-Based Locomotion Policies Inspired by Animal Learning**|Peizhuo Li et.al.|[2502.12674](http://arxiv.org/abs/2502.12674)|null|
