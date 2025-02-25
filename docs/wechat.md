@@ -247,6 +247,7 @@
 
 ## Gesture Recognition
 
+|**2025-02-24**|**Enriching Physical-Virtual Interaction in AR Gaming by Tracking Identical Real Objects**|Liuchuan Yu et.al.|[2502.17399](http://arxiv.org/abs/2502.17399)|null|
 |**2025-02-20**|**Online hand gesture recognition using Continual Graph Transformers**|Rim Slama et.al.|[2502.14939](http://arxiv.org/abs/2502.14939)|null|
 |**2025-02-17**|**Duo Streamers: A Streaming Gesture Recognition Framework**|Boxuan Zhu et.al.|[2502.12297](http://arxiv.org/abs/2502.12297)|null|
 |**2025-02-12**|**Measuring Anxiety Levels with Head Motion Patterns in Severe Depression Population**|Fouad Boualeb et.al.|[2502.08813](http://arxiv.org/abs/2502.08813)|null|
@@ -321,6 +322,7 @@
 
 ## Eye Tracking
 
+|**2025-02-24**|**Watch Out E-scooter Coming Through: Multimodal Sensing of Mixed Traffic Use and Conflicts Through Riders Ego-centric Views**|Hiruni Nuwanthika Kegalle et.al.|[2502.16755](http://arxiv.org/abs/2502.16755)|null|
 |**2025-02-21**|**M2LADS Demo: A System for Generating Multimodal Learning Analytics Dashboards**|Alvaro Becerra et.al.|[2502.15363](http://arxiv.org/abs/2502.15363)|null|
 |**2025-02-18**|**myEye2Wheeler: A Two-Wheeler Indian Driver Real-World Eye-Tracking Dataset**|Bhaiya Vaibhaw Kumar et.al.|[2502.12723](http://arxiv.org/abs/2502.12723)|null|
 |**2025-02-17**|**HI-GVF: Shared Control based on Human-Influenced Guiding Vector Fields for Human-multi-robot Cooperation**|Pengming Zhu et.al.|[2502.11370](http://arxiv.org/abs/2502.11370)|null|
@@ -417,6 +419,16 @@
 
 ## VLM/LLM
 
+|**2025-02-24**|**Introducing Visual Perception Token into Multimodal Large Language Model**|Runpeng Yu et.al.|[2502.17425](http://arxiv.org/abs/2502.17425)|null|
+|**2025-02-24**|**Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs**|Jan Betley et.al.|[2502.17424](http://arxiv.org/abs/2502.17424)|null|
+|**2025-02-24**|**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**|Jiarui Zhang et.al.|[2502.17422](http://arxiv.org/abs/2502.17422)|null|
+|**2025-02-24**|**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/abs/2502.17421)|null|
+|**2025-02-24**|**The Geometry of Refusal in Large Language Models: Concept Cones and Representational Independence**|Tom Wollschläger et.al.|[2502.17420](http://arxiv.org/abs/2502.17420)|null|
+|**2025-02-24**|**From System 1 to System 2: A Survey of Reasoning Large Language Models**|Zhong-Zhi Li et.al.|[2502.17419](http://arxiv.org/abs/2502.17419)|null|
+|**2025-02-24**|**Reasoning with Latent Thoughts: On the Power of Looped Transformers**|Nikunj Saunshi et.al.|[2502.17416](http://arxiv.org/abs/2502.17416)|null|
+|**2025-02-24**|**COSMOS: A Hybrid Adaptive Optimizer for Memory-Efficient Training of LLMs**|Liming Liu et.al.|[2502.17410](http://arxiv.org/abs/2502.17410)|null|
+|**2025-02-24**|**Linguistic Generalizability of Test-Time Scaling in Mathematical Reasoning**|Guijin Son et.al.|[2502.17407](http://arxiv.org/abs/2502.17407)|null|
+|**2025-02-24**|**Large Language Models are Powerful EHR Encoders**|Stefan Hegselmann et.al.|[2502.17403](http://arxiv.org/abs/2502.17403)|null|
 |**2025-02-21**|**ELIP: Enhanced Visual-Language Foundation Models for Image Retrieval**|Guanqi Zhan et.al.|[2502.15682](http://arxiv.org/abs/2502.15682)|null|
 |**2025-02-21**|**Privacy Ripple Effects from Adding or Removing Personal Information in Language Model Training**|Jaydeep Borkar et.al.|[2502.15680](http://arxiv.org/abs/2502.15680)|null|
 |**2025-02-21**|**Testing the limits of fine-tuning to improve reasoning in vision language models**|Luca M. Schulze Buschoff et.al.|[2502.15678](http://arxiv.org/abs/2502.15678)|null|
@@ -1390,6 +1402,16 @@
 
 ## Diffusion
 
+|**2025-02-24**|**GCC: Generative Color Constancy via Diffusing a Color Checker**|Chen-Wei Chang et.al.|[2502.17435](http://arxiv.org/abs/2502.17435)|null|
+|**2025-02-24**|**S4S: Solving for a Diffusion Model Solver**|Eric Frankel et.al.|[2502.17423](http://arxiv.org/abs/2502.17423)|null|
+|**2025-02-24**|**X-Dancer: Expressive Music to Human Dance Video Generation**|Zeyuan Chen et.al.|[2502.17414](http://arxiv.org/abs/2502.17414)|null|
+|**2025-02-24**|**Singular diffusion limit of a tagged particle in zero range processes with Sinai-type random environment**|Marcel Hudiani et.al.|[2502.17365](http://arxiv.org/abs/2502.17365)|null|
+|**2025-02-24**|**HybridLinker: Topology-Guided Posterior Sampling for Enhanced Diversity and Validity in 3D Molecular Linker Generation**|Minyeong Hwang et.al.|[2502.17349](http://arxiv.org/abs/2502.17349)|null|
+|**2025-02-24**|**AnyTop: Character Animation Diffusion with Any Topology**|Inbar Gat et.al.|[2502.17327](http://arxiv.org/abs/2502.17327)|null|
+|**2025-02-24**|**Photoluminescence efficiency of MBE-grown MoSe $_2$ monolayers featuring sharp excitonic lines and diverse grain structures**|Mateusz Raczyński et.al.|[2502.17314](http://arxiv.org/abs/2502.17314)|null|
+|**2025-02-24**|**A Virgo Environmental Survey Tracing Ionised Gas Emission (VESTIGE) XVII. Statistical properties of individual HII regions in unperturbed systems**|A. Boselli et.al.|[2502.17299](http://arxiv.org/abs/2502.17299)|null|
+|**2025-02-24**|**Integrating protein sequence embeddings with structure via graph-based deep learning for the prediction of single-residue properties**|Kevin Michalewicz et.al.|[2502.17294](http://arxiv.org/abs/2502.17294)|null|
+|**2025-02-24**|**Exponential mixing by random cellular flows**|Víctor Navarro-Fernández et.al.|[2502.17273](http://arxiv.org/abs/2502.17273)|null|
 |**2025-02-21**|**One-step Diffusion Models with $f$ -Divergence Distribution Matching**|Yilun Xu et.al.|[2502.15681](http://arxiv.org/abs/2502.15681)|null|
 |**2025-02-21**|**AutoTandemML: Active Learning Enhanced Tandem Neural Networks for Inverse Design Problems**|Luka Grbcic et.al.|[2502.15643](http://arxiv.org/abs/2502.15643)|null|
 |**2025-02-21**|**The SARAO MeerKAT Galactic Plane Survey extended source catalogue**|C. Bordiu et.al.|[2502.15640](http://arxiv.org/abs/2502.15640)|null|
@@ -2365,6 +2387,16 @@
 
 ## Neural Rendering
 
+|**2025-02-24**|**Graph-Guided Scene Reconstruction from Images with 3D Gaussian Splatting**|Chong Cheng et.al.|[2502.17377](http://arxiv.org/abs/2502.17377)|null|
+|**2025-02-24**|**GaussianFlowOcc: Sparse and Weakly Supervised Occupancy Estimation using Gaussian Splatting and Temporal Flow**|Simon Boeder et.al.|[2502.17288](http://arxiv.org/abs/2502.17288)|null|
+|**2025-02-24**|**VR-Pipe: Streamlining Hardware Graphics Pipeline for Volume Rendering**|Junseo Lee et.al.|[2502.17078](http://arxiv.org/abs/2502.17078)|null|
+|**2025-02-24**|**Semantic Neural Radiance Fields for Multi-Date Satellite Data**|Valentin Wagner et.al.|[2502.16992](http://arxiv.org/abs/2502.16992)|null|
+|**2025-02-23**|**GS-TransUNet: Integrated 2D Gaussian Splatting and Transformer UNet for Accurate Skin Lesion Analysis**|Anand Kumar et.al.|[2502.16748](http://arxiv.org/abs/2502.16748)|null|
+|**2025-02-23**|**ViSNeRF: Efficient Multidimensional Neural Radiance Field Representation for Visualization Synthesis of Dynamic Volumetric Scenes**|Siyuan Yao et.al.|[2502.16731](http://arxiv.org/abs/2502.16731)|null|
+|**2025-02-23**|**Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration**|Kim Jun-Seong et.al.|[2502.16652](http://arxiv.org/abs/2502.16652)|null|
+|**2025-02-23**|**Dragen3D: Multiview Geometry Consistent 3D Gaussian Generation with Drag-Based Control**|Jinbo Yan et.al.|[2502.16475](http://arxiv.org/abs/2502.16475)|null|
+|**2025-02-22**|**AquaNeRF: Neural Radiance Fields in Underwater Media with Distractor Removal**|Luca Gough et.al.|[2502.16351](http://arxiv.org/abs/2502.16351)|null|
+|**2025-02-22**|**DualNeRF: Text-Driven 3D Scene Editing via Dual-Field Representation**|Yuxuan Xiong et.al.|[2502.16302](http://arxiv.org/abs/2502.16302)|null|
 |**2025-02-21**|**Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**|Ziqian Ni et.al.|[2502.15635](http://arxiv.org/abs/2502.15635)|null|
 |**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu et.al.|[2502.15633](http://arxiv.org/abs/2502.15633)|null|
 |**2025-02-21**|**DynamicGSG: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation**|Luzhou Ge et.al.|[2502.15309](http://arxiv.org/abs/2502.15309)|**[link](https://github.com/geluzhou/dynamic-gsg)**|
@@ -4264,6 +4296,8 @@
 
 ## RSR
 
+|**2025-02-24**|**V-HOP: Visuo-Haptic 6D Object Pose Tracking**|Hongyu Li et.al.|[2502.17434](http://arxiv.org/abs/2502.17434)|null|
+|**2025-02-24**|**A Reinforcement Learning Approach to Non-prehensile Manipulation through Sliding**|Hamidreza Raei et.al.|[2502.17221](http://arxiv.org/abs/2502.17221)|null|
 |**2025-02-21**|**A Simulation Pipeline to Facilitate Real-World Robotic Reinforcement Learning Applications**|Jefferson Silveira et.al.|[2502.15649](http://arxiv.org/abs/2502.15649)|null|
 |**2025-02-20**|**Watch Less, Feel More: Sim-to-Real RL for Generalizable Articulated Object Manipulation via Motion Adaptation and Impedance Control**|Tan-Dzung Do et.al.|[2502.14457](http://arxiv.org/abs/2502.14457)|null|
 |**2025-02-18**|**A Survey of Sim-to-Real Methods in RL: Progress, Prospects and Challenges with Foundation Models**|Longchao Da et.al.|[2502.13187](http://arxiv.org/abs/2502.13187)|null|
