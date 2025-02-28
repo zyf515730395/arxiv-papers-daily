@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**UniDepthV2: Universal Monocular Metric Depth Estimation Made Simpler**|Luigi Piccinelli et.al.|[2502.20110](http://arxiv.org/abs/2502.20110)|**[link](https://github.com/lpiccinelli-eth/unidepth)**|
+|**2025-02-26**|**Stellar Models Also Limit Exoplanet Atmosphere Studies in Emission**|Thomas J. Fauchez et.al.|[2502.19585](http://arxiv.org/abs/2502.19585)|null|
 |**2025-02-26**|**Distill Any Depth: Distillation Creates a Stronger Monocular Depth Estimator**|Xiankang He et.al.|[2502.19204](http://arxiv.org/abs/2502.19204)|**[link](https://github.com/Westlake-AGI-Lab/Distill-Any-Depth)**|
 |**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932](http://arxiv.org/abs/2502.18932)|null|
 |**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu et.al.|[2502.15633](http://arxiv.org/abs/2502.15633)|null|
@@ -332,6 +334,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Evaluating the long-term viability of eye-tracking for continuous authentication in virtual reality**|Sai Ganesh Grandhi et.al.|[2502.20359](http://arxiv.org/abs/2502.20359)|null|
+|**2025-02-27**|**SecureGaze: Defending Gaze Estimation Against Backdoor Attacks**|Lingyu Du et.al.|[2502.20306](http://arxiv.org/abs/2502.20306)|null|
+|**2025-02-27**|**Enhancing 3D Gaze Estimation in the Wild using Weak Supervision with Gaze Following Labels**|Pierre Vuillecard et.al.|[2502.20249](http://arxiv.org/abs/2502.20249)|null|
+|**2025-02-27**|**CLIP-driven Dual Feature Enhancing Network for Gaze Estimation**|Lin Zhang et.al.|[2502.20128](http://arxiv.org/abs/2502.20128)|null|
 |**2025-02-26**|**Naked Eye Three-dimensional Display System Based on Time-multiplexed Technology**|Ziyang Liu et.al.|[2502.19099](http://arxiv.org/abs/2502.19099)|null|
 |**2025-02-25**|**Personalized Federated Learning for Egocentric Video Gaze Estimation with Comprehensive Parameter Frezzing**|Yuhu Feng et.al.|[2502.18123](http://arxiv.org/abs/2502.18123)|null|
 |**2025-02-24**|**Watch Out E-scooter Coming Through: Multimodal Sensing of Mixed Traffic Use and Conflicts Through Riders Ego-centric Views**|Hiruni Nuwanthika Kegalle et.al.|[2502.16755](http://arxiv.org/abs/2502.16755)|**[link](https://github.com/hiruninuwanthika/electric-scooter-riders-multi-modal-data-analysis)**|
@@ -433,6 +439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts**|Zhongyang Li et.al.|[2502.20395](http://arxiv.org/abs/2502.20395)|null|
+|**2025-02-27**|**Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis**|Jeffrey Yang Fan Chiang et.al.|[2502.20383](http://arxiv.org/abs/2502.20383)|null|
+|**2025-02-27**|**Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers**|Shalev Lifshitz et.al.|[2502.20379](http://arxiv.org/abs/2502.20379)|null|
+|**2025-02-27**|**PhantomWiki: On-Demand Datasets for Reasoning and Retrieval Evaluation**|Albert Gong et.al.|[2502.20377](http://arxiv.org/abs/2502.20377)|null|
+|**2025-02-27**|**Bridging Legal Knowledge and AI: Retrieval-Augmented Generation with Vector Stores, Knowledge Graphs, and Hierarchical Non-negative Matrix Factorization**|Ryan C. Barron et.al.|[2502.20364](http://arxiv.org/abs/2502.20364)|null|
+|**2025-02-27**|**Bridging the Creativity Understanding Gap: Small-Scale Human Alignment Enables Expert-Level Humor Ranking in LLMs**|Kuan Lok Zhou et.al.|[2502.20356](http://arxiv.org/abs/2502.20356)|null|
+|**2025-02-27**|**KEDRec-LM: A Knowledge-distilled Explainable Drug Recommendation Large Language Model**|Kai Zhang et.al.|[2502.20350](http://arxiv.org/abs/2502.20350)|null|
+|**2025-02-27**|**Sparse Auto-Encoder Interprets Linguistic Features in Large Language Models**|Yi Jing et.al.|[2502.20344](http://arxiv.org/abs/2502.20344)|null|
+|**2025-02-27**|**Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners**|Daniele Paliotta et.al.|[2502.20339](http://arxiv.org/abs/2502.20339)|null|
+|**2025-02-27**|**Expertise Is What We Want**|Alan Ashworth et.al.|[2502.20335](http://arxiv.org/abs/2502.20335)|null|
 |**2025-02-26**|**Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models**|Lucy Xiaoyang Shi et.al.|[2502.19417](http://arxiv.org/abs/2502.19417)|null|
 |**2025-02-26**|**Norm Growth and Stability Challenges in Localized Sequential Knowledge Editing**|Akshat Gupta et.al.|[2502.19416](http://arxiv.org/abs/2502.19416)|null|
 |**2025-02-26**|**Project Alexandria: Towards Freeing Scientific Knowledge from Copyright Burdens via LLMs**|Christoph Schuhmann et.al.|[2502.19413](http://arxiv.org/abs/2502.19413)|null|
@@ -1438,6 +1454,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization**|Lujie Yang et.al.|[2502.20382](http://arxiv.org/abs/2502.20382)|null|
+|**2025-02-27**|**Tight Inversion: Image-Conditioned Inversion for Real Image Editing**|Edo Kadosh et.al.|[2502.20376](http://arxiv.org/abs/2502.20376)|null|
+|**2025-02-27**|**Constrained Generative Modeling with Manually Bridged Diffusion Models**|Saeid Naderiparizi et.al.|[2502.20371](http://arxiv.org/abs/2502.20371)|null|
+|**2025-02-27**|**Ready-to-React: Online Reaction Policy for Two-Character Interaction Generation**|Zhi Cen et.al.|[2502.20370](http://arxiv.org/abs/2502.20370)|null|
+|**2025-02-27**|**ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model**|Xuangeng Chu et.al.|[2502.20323](http://arxiv.org/abs/2502.20323)|null|
+|**2025-02-27**|**FlexVAR: Flexible Visual Autoregressive Modeling without Residual Prediction**|Siyu Jiao et.al.|[2502.20313](http://arxiv.org/abs/2502.20313)|null|
+|**2025-02-27**|**Mobius: Text to Seamless Looping Video Generation via Latent Shift**|Xiuli Bi et.al.|[2502.20307](http://arxiv.org/abs/2502.20307)|null|
+|**2025-02-27**|**Explainable, Multi-modal Wound Infection Classification from Images Augmented with Generated Captions**|Palawat Busaranuvong et.al.|[2502.20277](http://arxiv.org/abs/2502.20277)|null|
+|**2025-02-27**|**Attention Distillation: A Unified Approach to Visual Characteristics Transfer**|Yang Zhou et.al.|[2502.20235](http://arxiv.org/abs/2502.20235)|**[link](https://github.com/xugao97/AttentionDistillation)**|
+|**2025-02-27**|**DGFM: Full Body Dance Generation Driven by Music Foundation Models**|Xinran Liu et.al.|[2502.20176](http://arxiv.org/abs/2502.20176)|null|
 |**2025-02-26**|**Measurements of extreme first passage times in photon transport**|Aileen N. Carroll-Godfrey et.al.|[2502.19359](http://arxiv.org/abs/2502.19359)|null|
 |**2025-02-26**|**Time-Reversal Mirror inside a granular suspension: a way of measuring the ultrasound diffusion coefficient**|Y. Abraham et.al.|[2502.19304](http://arxiv.org/abs/2502.19304)|null|
 |**2025-02-26**|**General diffusions on the star graph as time-changed Walsh Brownian motion**|Alexis Anagnostakis et.al.|[2502.19299](http://arxiv.org/abs/2502.19299)|null|
@@ -2445,6 +2471,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**ATLAS Navigator: Active Task-driven LAnguage-embedded Gaussian Splatting**|Dexter Ong et.al.|[2502.20386](http://arxiv.org/abs/2502.20386)|null|
+|**2025-02-27**|**Efficient Gaussian Splatting for Monocular Dynamic Scene Rendering via Sparse Time-Variant Attribute Modeling**|Hanyang Kong et.al.|[2502.20378](http://arxiv.org/abs/2502.20378)|null|
+|**2025-02-27**|**Identity-preserving Distillation Sampling by Fixed-Point Iterator**|SeonHwa Kim et.al.|[2502.19930](http://arxiv.org/abs/2502.19930)|null|
+|**2025-02-27**|**NeRFCom: Feature Transform Coding Meets Neural Radiance Field for Free-View 3D Scene Semantic Transmission**|Weijie Yue et.al.|[2502.19873](http://arxiv.org/abs/2502.19873)|null|
+|**2025-02-27**|**No Parameters, No Problem: 3D Gaussian Splatting without Camera Intrinsics and Extrinsics**|Dongbo Shi et.al.|[2502.19800](http://arxiv.org/abs/2502.19800)|null|
+|**2025-02-27**|**Open-Vocabulary Semantic Part Segmentation of 3D Human**|Keito Suzuki et.al.|[2502.19782](http://arxiv.org/abs/2502.19782)|null|
+|**2025-02-26**|**Building Interactable Replicas of Complex Articulated Objects via Gaussian Splatting**|Yu Liu et.al.|[2502.19459](http://arxiv.org/abs/2502.19459)|null|
+|**2025-02-26**|**Compression in 3D Gaussian Splatting: A Survey of Methods, Trends, and Future Directions**|Muhammad Salman Ali et.al.|[2502.19457](http://arxiv.org/abs/2502.19457)|null|
 |**2025-02-26**|**Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**|Adam Celarek et.al.|[2502.19318](http://arxiv.org/abs/2502.19318)|null|
 |**2025-02-26**|**The NeRF Signature: Codebook-Aided Watermarking for Neural Radiance Fields**|Ziyuan Luo et.al.|[2502.19125](http://arxiv.org/abs/2502.19125)|null|
 |**2025-02-25**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041](http://arxiv.org/abs/2502.18041)|null|
@@ -4361,6 +4395,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids**|Toru Lin et.al.|[2502.20396](http://arxiv.org/abs/2502.20396)|null|
+|**2025-02-27**|**Robust Gymnasium: A Unified Modular Benchmark for Robust Reinforcement Learning**|Shangding Gu et.al.|[2502.19652](http://arxiv.org/abs/2502.19652)|null|
 |**2025-02-26**|**RL-OGM-Parking: Lidar OGM-Based Hybrid Reinforcement Learning Planner for Autonomous Parking**|Zhitao Wang et.al.|[2502.18846](http://arxiv.org/abs/2502.18846)|null|
 |**2025-02-25**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041](http://arxiv.org/abs/2502.18041)|null|
 |**2025-02-25**|**FetchBot: Object Fetching in Cluttered Shelves via Zero-Shot Sim2Real**|Weiheng Liu et.al.|[2502.17894](http://arxiv.org/abs/2502.17894)|null|
