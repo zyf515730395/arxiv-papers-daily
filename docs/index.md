@@ -5,7 +5,7 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2025.02.27
+Updated on 2025.02.28
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -324,7 +324,7 @@ Updated on 2025.02.27
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-26**|**Naked Eye Three-dimensional Display System Based on Time-multiplexed Technology**|Ziyang Liu et.al.|[2502.19099](http://arxiv.org/abs/2502.19099)|null|
 |**2025-02-25**|**Personalized Federated Learning for Egocentric Video Gaze Estimation with Comprehensive Parameter Frezzing**|Yuhu Feng et.al.|[2502.18123](http://arxiv.org/abs/2502.18123)|null|
-|**2025-02-24**|**Watch Out E-scooter Coming Through: Multimodal Sensing of Mixed Traffic Use and Conflicts Through Riders Ego-centric Views**|Hiruni Nuwanthika Kegalle et.al.|[2502.16755](http://arxiv.org/abs/2502.16755)|null|
+|**2025-02-24**|**Watch Out E-scooter Coming Through: Multimodal Sensing of Mixed Traffic Use and Conflicts Through Riders Ego-centric Views**|Hiruni Nuwanthika Kegalle et.al.|[2502.16755](http://arxiv.org/abs/2502.16755)|**[link](https://github.com/hiruninuwanthika/electric-scooter-riders-multi-modal-data-analysis)**|
 |**2025-02-21**|**M2LADS Demo: A System for Generating Multimodal Learning Analytics Dashboards**|Alvaro Becerra et.al.|[2502.15363](http://arxiv.org/abs/2502.15363)|null|
 |**2025-02-18**|**myEye2Wheeler: A Two-Wheeler Indian Driver Real-World Eye-Tracking Dataset**|Bhaiya Vaibhaw Kumar et.al.|[2502.12723](http://arxiv.org/abs/2502.12723)|null|
 |**2025-02-17**|**HI-GVF: Shared Control based on Human-Influenced Guiding Vector Fields for Human-multi-robot Cooperation**|Pengming Zhu et.al.|[2502.11370](http://arxiv.org/abs/2502.11370)|null|
