@@ -5,7 +5,7 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2025.03.01
+Updated on 2025.03.02
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -249,7 +249,7 @@ Updated on 2025.03.01
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-25**|**Edge Training and Inference with Analog ReRAM Technology for Hand Gesture Recognition**|Victoria Clerico et.al.|[2502.18152](http://arxiv.org/abs/2502.18152)|null|
 |**2025-02-09**|**MoEMba: A Mamba-based Mixture of Experts for High-Density EMG-based Hand Gesture Recognition**|Mehran Shabanpour et.al.|[2502.17457](http://arxiv.org/abs/2502.17457)|null|
-|**2025-02-24**|**Enriching Physical-Virtual Interaction in AR Gaming by Tracking Identical Real Objects**|Liuchuan Yu et.al.|[2502.17399](http://arxiv.org/abs/2502.17399)|null|
+|**2025-02-24**|**Enriching Physical-Virtual Interaction in AR Gaming by Tracking Identical Real Objects**|Liuchuan Yu et.al.|[2502.17399](http://arxiv.org/abs/2502.17399)|**[link](https://github.com/gmudcxr/EnrichingARInteraction)**|
 |**2025-02-20**|**Online hand gesture recognition using Continual Graph Transformers**|Rim Slama et.al.|[2502.14939](http://arxiv.org/abs/2502.14939)|null|
 |**2025-02-25**|**Duo Streamers: A Streaming Gesture Recognition Framework**|Boxuan Zhu et.al.|[2502.12297](http://arxiv.org/abs/2502.12297)|**[link](https://github.com/JulienInWired/Duo-Streamers)**|
 |**2025-02-12**|**Measuring Anxiety Levels with Head Motion Patterns in Severe Depression Population**|Fouad Boualeb et.al.|[2502.08813](http://arxiv.org/abs/2502.08813)|null|
