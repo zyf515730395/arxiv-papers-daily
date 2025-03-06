@@ -16,6 +16,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**BANet: Bilateral Aggregation Network for Mobile Stereo Matching**|Gangwei Xu et.al.|[2503.03259](http://arxiv.org/abs/2503.03259)|null|
+|**2025-03-05**|**Multi-View Depth Consistent Image Generation Using Generative AI Models: Application on Architectural Design of University Buildings**|Xusheng Du et.al.|[2503.03068](http://arxiv.org/abs/2503.03068)|null|
 |**2025-03-04**|**RGBSQGrasp: Inferring Local Superquadric Primitives from Single RGB Image for Graspability-Aware Bin Picking**|Yifeng Xu et.al.|[2503.02387](http://arxiv.org/abs/2503.02387)|null|
 |**2025-03-03**|**MUSt3R: Multi-view Network for Stereo 3D Reconstruction**|Yohann Cabon et.al.|[2503.01661](http://arxiv.org/abs/2503.01661)|null|
 |**2025-03-02**|**Bridging Spectral-wise and Multi-spectral Depth Estimation via Geometry-guided Contrastive Learning**|Ukcheol Shin et.al.|[2503.00793](http://arxiv.org/abs/2503.00793)|null|
@@ -260,6 +262,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Social Gesture Recognition in spHRI: Leveraging Fabric-Based Tactile Sensing on Humanoid Robots**|Dakarai Crowder et.al.|[2503.03234](http://arxiv.org/abs/2503.03234)|null|
+|**2025-03-04**|**Objestures: Bimanual Interactions with Everyday Objects and Mid-Air Gestures in Mixed Reality**|Zhuoyue Lyu et.al.|[2503.02973](http://arxiv.org/abs/2503.02973)|null|
 |**2025-03-04**|**FABG : End-to-end Imitation Learning for Embodied Affective Human-Robot Interaction**|Yanghai Zhang et.al.|[2503.01363](http://arxiv.org/abs/2503.01363)|null|
 |**2025-03-02**|**One-Shot Gesture Recognition for Underwater Diver-To-Robot Communication**|Rishikesh Joshi et.al.|[2503.00676](http://arxiv.org/abs/2503.00676)|null|
 |**2025-02-25**|**Edge Training and Inference with Analog ReRAM Technology for Hand Gesture Recognition**|Victoria Clerico et.al.|[2502.18152](http://arxiv.org/abs/2502.18152)|null|
@@ -341,6 +345,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Towards an Emotion-Aware Metaverse: A Human-Centric Shipboard Fire Drill Simulator**|Musaab H. Hamed-Ahmed et.al.|[2503.03570](http://arxiv.org/abs/2503.03570)|null|
 |**2025-03-03**|**LLMs as Educational Analysts: Transforming Multimodal Data Traces into Actionable Reading Assessment Reports**|Eduardo Davalos et.al.|[2503.02099](http://arxiv.org/abs/2503.02099)|null|
 |**2025-03-02**|**A Comparison of Object Detection and Phrase Grounding Models in Chest X-ray Abnormality Localization using Eye-tracking Data**|Elham Ghelichkhan et.al.|[2503.01037](http://arxiv.org/abs/2503.01037)|null|
 |**2025-02-28**|**egoPPG: Heart Rate Estimation from Eye-Tracking Cameras in Egocentric Systems to Benefit Downstream Vision Tasks**|Björn Braun et.al.|[2502.20879](http://arxiv.org/abs/2502.20879)|null|
@@ -449,6 +454,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems**|Richard Ren et.al.|[2503.03750](http://arxiv.org/abs/2503.03750)|null|
+|**2025-03-05**|**Process-based Self-Rewarding Language Models**|Shimao Zhang et.al.|[2503.03746](http://arxiv.org/abs/2503.03746)|null|
+|**2025-03-05**|**CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning**|Yuqi Zhou et.al.|[2503.03743](http://arxiv.org/abs/2503.03743)|null|
+|**2025-03-05**|**OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction**|Huang Huang et.al.|[2503.03734](http://arxiv.org/abs/2503.03734)|null|
+|**2025-03-05**|**Towards Understanding Distilled Reasoning Models: A Representational Approach**|David D. Baek et.al.|[2503.03730](http://arxiv.org/abs/2503.03730)|null|
+|**2025-03-05**|**Improving LLM Safety Alignment with Dual-Objective Optimization**|Xuandong Zhao et.al.|[2503.03710](http://arxiv.org/abs/2503.03710)|null|
+|**2025-03-05**|**Effective LLM Knowledge Learning via Model Generalization**|Mingkang Zhu et.al.|[2503.03705](http://arxiv.org/abs/2503.03705)|null|
+|**2025-03-05**|**A Practical Memory Injection Attack against LLM Agents**|Shen Dong et.al.|[2503.03704](http://arxiv.org/abs/2503.03704)|null|
+|**2025-03-05**|**Developing and Utilizing a Large-Scale Cantonese Dataset for Multi-Tasking in Large Language Models**|Jiyue Jiang et.al.|[2503.03702](http://arxiv.org/abs/2503.03702)|null|
+|**2025-03-05**|**Addressing Overprescribing Challenges: Fine-Tuning Large Language Models for Medication Recommendation Tasks**|Zihao Zhao et.al.|[2503.03687](http://arxiv.org/abs/2503.03687)|null|
 |**2025-03-04**|**Wikipedia in the Era of LLMs: Evolution and Risks**|Siming Huang et.al.|[2503.02879](http://arxiv.org/abs/2503.02879)|null|
 |**2025-03-04**|**Language Models can Self-Improve at State-Value Estimation for Better Search**|Ethan Mendes et.al.|[2503.02878](http://arxiv.org/abs/2503.02878)|null|
 |**2025-03-04**|**The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models**|Ke Ji et.al.|[2503.02875](http://arxiv.org/abs/2503.02875)|null|
@@ -1484,6 +1499,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Can Hyperbolic Diffusion Help Explain Sharp Edges in the Gaps in Saturn's Rings?**|Peter Todd Williams et.al.|[2503.03732](http://arxiv.org/abs/2503.03732)|null|
+|**2025-03-05**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708](http://arxiv.org/abs/2503.03708)|null|
+|**2025-03-05**|**Capturing methane in a barn environment: the CH4 Livestock Emission (CH4rLiE) project**|Francesco Alessandro Angiulli et.al.|[2503.03692](http://arxiv.org/abs/2503.03692)|null|
+|**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689](http://arxiv.org/abs/2503.03689)|null|
+|**2025-03-05**|**Lithographically-controlled liquid metal diffusion in graphene: Fabrication and magneto-transport signatures of superconductivity**|S. Wundrack et.al.|[2503.03665](http://arxiv.org/abs/2503.03665)|null|
+|**2025-03-05**|**A Generative Approach to High Fidelity 3D Reconstruction from Text Data**|Venkat Kumar R et.al.|[2503.03664](http://arxiv.org/abs/2503.03664)|null|
+|**2025-03-05**|**New routes for PN destruction and formation in the ISM via neutral-neutral gas-phase reactions and an extended database for reactions involving phosphorus**|Mateus X. Silva et.al.|[2503.03635](http://arxiv.org/abs/2503.03635)|null|
+|**2025-03-05**|**Theory of Cation Solvation in the Helmholtz Layer of Li-ion Battery Electrolytes**|Zachary A. H. Goodwin et.al.|[2503.03616](http://arxiv.org/abs/2503.03616)|null|
+|**2025-03-05**|**Towards Understanding Text Hallucination of Diffusion Models via Local Generation Bias**|Rui Lu et.al.|[2503.03595](http://arxiv.org/abs/2503.03595)|null|
+|**2025-03-05**|**A Generative System for Robot-to-Human Handovers: from Intent Inference to Spatial Configuration Imagery**|Hanxin Zhang et.al.|[2503.03579](http://arxiv.org/abs/2503.03579)|null|
 |**2025-03-04**|**Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation**|Han Xue et.al.|[2503.02881](http://arxiv.org/abs/2503.02881)|null|
 |**2025-03-04**|**Critical Dynamics in Short-Range Quadratic Hamiltonians**|Miroslav Hopjan et.al.|[2503.02828](http://arxiv.org/abs/2503.02828)|null|
 |**2025-03-04**|**Feynman-Kac Correctors in Diffusion: Annealing, Guidance, and Product of Experts**|Marta Skreta et.al.|[2503.02819](http://arxiv.org/abs/2503.02819)|null|
@@ -2521,6 +2546,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**A self-supervised cyclic neural-analytic approach for novel view synthesis and 3D reconstruction**|Dragos Costea et.al.|[2503.03543](http://arxiv.org/abs/2503.03543)|null|
+|**2025-03-05**|**NTR-Gaussian: Nighttime Dynamic Thermal Reconstruction with 4D Gaussian Splatting Based on Thermodynamics**|Kun Yang et.al.|[2503.03115](http://arxiv.org/abs/2503.03115)|null|
 |**2025-03-04**|**Tracking-Aware Deformation Field Estimation for Non-rigid 3D Reconstruction in Robotic Surgeries**|Zeqing Wang et.al.|[2503.02558](http://arxiv.org/abs/2503.02558)|null|
 |**2025-03-04**|**2DGS-Avatar: Animatable High-fidelity Clothed Avatar via 2D Gaussian Splatting**|Qipeng Yan et.al.|[2503.02452](http://arxiv.org/abs/2503.02452)|null|
 |**2025-03-04**|**Empowering Sparse-Input Neural Radiance Fields with Dual-Level Semantic Guidance from Dense Novel Views**|Yingji Zhong et.al.|[2503.02230](http://arxiv.org/abs/2503.02230)|null|
