@@ -14,6 +14,11 @@
 
 ## Depth Estimation
 
+|**2025-03-06**|**A Novel Solution for Drone Photogrammetry with Low-overlap Aerial Images using Monocular Depth Estimation**|Jiageng Zhong et.al.|[2503.04513](http://arxiv.org/abs/2503.04513)|null|
+|**2025-03-06**|**EvidMTL: Evidential Multi-Task Learning for Uncertainty-Aware Semantic Surface Mapping from Monocular RGB Images**|Rohit Menon et.al.|[2503.04441](http://arxiv.org/abs/2503.04441)|null|
+|**2025-03-06**|**MIDAS: Modeling Ground-Truth Distributions with Dark Knowledge for Domain Generalized Stereo Matching**|Peng Xu et.al.|[2503.04376](http://arxiv.org/abs/2503.04376)|null|
+|**2025-03-06**|**H3O: Hyper-Efficient 3D Occupancy Prediction with Heterogeneous Supervision**|Yunxiao Shi et.al.|[2503.04059](http://arxiv.org/abs/2503.04059)|null|
+|**2025-03-05**|**Task-Agnostic Attacks Against Vision Foundation Models**|Brian Pulfer et.al.|[2503.03842](http://arxiv.org/abs/2503.03842)|null|
 |**2025-03-05**|**BANet: Bilateral Aggregation Network for Mobile Stereo Matching**|Gangwei Xu et.al.|[2503.03259](http://arxiv.org/abs/2503.03259)|null|
 |**2025-03-05**|**Multi-View Depth Consistent Image Generation Using Generative AI Models: Application on Architectural Design of University Buildings**|Xusheng Du et.al.|[2503.03068](http://arxiv.org/abs/2503.03068)|null|
 |**2025-03-04**|**RGBSQGrasp: Inferring Local Superquadric Primitives from Single RGB Image for Graspability-Aware Bin Picking**|Yifeng Xu et.al.|[2503.02387](http://arxiv.org/abs/2503.02387)|null|
@@ -258,6 +263,7 @@
 
 ## Gesture Recognition
 
+|**2025-03-06**|**Maestro: A 302 GFLOPS/W and 19.8GFLOPS RISC-V Vector-Tensor Architecture for Wearable Ultrasound Edge Computing**|Mattia Sinigaglia et.al.|[2503.04581](http://arxiv.org/abs/2503.04581)|null|
 |**2025-03-05**|**Social Gesture Recognition in spHRI: Leveraging Fabric-Based Tactile Sensing on Humanoid Robots**|Dakarai Crowder et.al.|[2503.03234](http://arxiv.org/abs/2503.03234)|null|
 |**2025-03-04**|**Objestures: Bimanual Interactions with Everyday Objects and Mid-Air Gestures in Mixed Reality**|Zhuoyue Lyu et.al.|[2503.02973](http://arxiv.org/abs/2503.02973)|null|
 |**2025-03-04**|**FABG : End-to-end Imitation Learning for Embodied Affective Human-Robot Interaction**|Yanghai Zhang et.al.|[2503.01363](http://arxiv.org/abs/2503.01363)|null|
@@ -339,6 +345,7 @@
 
 ## Eye Tracking
 
+|**2025-03-06**|**Iris Style Transfer: Enhancing Iris Recognition with Style Features and Privacy Preservation through Neural Style Transfer**|Mengdi Wang et.al.|[2503.04707](http://arxiv.org/abs/2503.04707)|null|
 |**2025-03-05**|**Towards an Emotion-Aware Metaverse: A Human-Centric Shipboard Fire Drill Simulator**|Musaab H. Hamed-Ahmed et.al.|[2503.03570](http://arxiv.org/abs/2503.03570)|null|
 |**2025-03-03**|**LLMs as Educational Analysts: Transforming Multimodal Data Traces into Actionable Reading Assessment Reports**|Eduardo Davalos et.al.|[2503.02099](http://arxiv.org/abs/2503.02099)|null|
 |**2025-03-02**|**A Comparison of Object Detection and Phrase Grounding Models in Chest X-ray Abnormality Localization using Eye-tracking Data**|Elham Ghelichkhan et.al.|[2503.01037](http://arxiv.org/abs/2503.01037)|null|
@@ -446,6 +453,16 @@
 
 ## VLM/LLM
 
+|**2025-03-06**|**L $^2$ M: Mutual Information Scaling Law for Long-Context Language Modeling**|Zhuo Chen et.al.|[2503.04725](http://arxiv.org/abs/2503.04725)|null|
+|**2025-03-06**|**LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM**|Sambal Shikhar et.al.|[2503.04724](http://arxiv.org/abs/2503.04724)|null|
+|**2025-03-06**|**Shifting Long-Context LLMs Research from Input to Output**|Yuhao Wu et.al.|[2503.04723](http://arxiv.org/abs/2503.04723)|null|
+|**2025-03-06**|**Enough Coin Flips Can Make LLMs Act Bayesian**|Ritwik Gupta et.al.|[2503.04722](http://arxiv.org/abs/2503.04722)|null|
+|**2025-03-06**|**Predictable Scale: Part I -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining**|Houyi Li et.al.|[2503.04715](http://arxiv.org/abs/2503.04715)|null|
+|**2025-03-06**|**Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size**|Alireza Behtash et.al.|[2503.04704](http://arxiv.org/abs/2503.04704)|null|
+|**2025-03-06**|**UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets**|Wenyu Wang et.al.|[2503.04693](http://arxiv.org/abs/2503.04693)|null|
+|**2025-03-06**|**Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases**|Pengcheng Qiu et.al.|[2503.04691](http://arxiv.org/abs/2503.04691)|null|
+|**2025-03-06**|**DIMSUM: Discourse in Mathematical Reasoning as a Supervision Module**|Krish Sharma et.al.|[2503.04685](http://arxiv.org/abs/2503.04685)|null|
+|**2025-03-06**|**LLM-guided Plan and Retrieval: A Strategic Alignment for Interpretable User Satisfaction Estimation in Dialogue**|Sangyeop Kim et.al.|[2503.04675](http://arxiv.org/abs/2503.04675)|null|
 |**2025-03-05**|**The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems**|Richard Ren et.al.|[2503.03750](http://arxiv.org/abs/2503.03750)|null|
 |**2025-03-05**|**Process-based Self-Rewarding Language Models**|Shimao Zhang et.al.|[2503.03746](http://arxiv.org/abs/2503.03746)|null|
 |**2025-03-05**|**CHOP: Mobile Operating Assistant with Constrained High-frequency Optimized Subtask Planning**|Yuqi Zhou et.al.|[2503.03743](http://arxiv.org/abs/2503.03743)|null|
@@ -1489,6 +1506,16 @@
 
 ## Diffusion
 
+|**2025-03-06**|**FluidNexus: 3D Fluid Reconstruction and Prediction from a Single Video**|Yue Gao et.al.|[2503.04720](http://arxiv.org/abs/2503.04720)|null|
+|**2025-03-06**|**Coarse graining and reduced order models for plume ejection dynamics**|Ike Griss Salas et.al.|[2503.04690](http://arxiv.org/abs/2503.04690)|null|
+|**2025-03-06**|**Compositional World Knowledge leads to High Utility Synthetic data**|Sachit Gaudi et.al.|[2503.04687](http://arxiv.org/abs/2503.04687)|null|
+|**2025-03-06**|**Capacitive response of biological membranes**|Jafar Farhadi et.al.|[2503.04677](http://arxiv.org/abs/2503.04677)|null|
+|**2025-03-06**|**Charge dependent directed flow splitting from baryon inhomogeneity and electromagnetic field**|Tribhuban Parida et.al.|[2503.04660](http://arxiv.org/abs/2503.04660)|null|
+|**2025-03-06**|**Annihilation-limited Long-range Exciton Transport in High-mobility Conjugated Copolymer Films**|Yuping Shi et.al.|[2503.04627](http://arxiv.org/abs/2503.04627)|null|
+|**2025-03-06**|**Numerical investigation of the Brownian $q=2$ Potts Model**|Letian Chen et.al.|[2503.04609](http://arxiv.org/abs/2503.04609)|null|
+|**2025-03-06**|**The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation**|Aoxiong Yin et.al.|[2503.04606](http://arxiv.org/abs/2503.04606)|null|
+|**2025-03-06**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499](http://arxiv.org/abs/2503.04499)|null|
+|**2025-03-06**|**Generalized Interpolating Discrete Diffusion**|Dimitri von Rütte et.al.|[2503.04482](http://arxiv.org/abs/2503.04482)|null|
 |**2025-03-05**|**Can Hyperbolic Diffusion Help Explain Sharp Edges in the Gaps in Saturn's Rings?**|Peter Todd Williams et.al.|[2503.03732](http://arxiv.org/abs/2503.03732)|null|
 |**2025-03-05**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708](http://arxiv.org/abs/2503.03708)|null|
 |**2025-03-05**|**Capturing methane in a barn environment: the CH4 Livestock Emission (CH4rLiE) project**|Francesco Alessandro Angiulli et.al.|[2503.03692](http://arxiv.org/abs/2503.03692)|null|
@@ -2534,6 +2561,14 @@
 
 ## Neural Rendering
 
+|**2025-03-06**|**GaussianVideo: Efficient Video Representation and Compression by Gaussian Splatting**|Inseo Lee et.al.|[2503.04333](http://arxiv.org/abs/2503.04333)|null|
+|**2025-03-06**|**S2Gaussian: Sparse-View Super-Resolution 3D Gaussian Splatting**|Yecong Wan et.al.|[2503.04314](http://arxiv.org/abs/2503.04314)|null|
+|**2025-03-06**|**Instrument-Splatting: Controllable Photorealistic Reconstruction of Surgical Instruments Using Gaussian Splatting**|Shuojue Yang et.al.|[2503.04082](http://arxiv.org/abs/2503.04082)|null|
+|**2025-03-06**|**Surgical Gaussian Surfels: Highly Accurate Real-time Surgical Scene Rendering**|Idris O. Sunmola et.al.|[2503.04079](http://arxiv.org/abs/2503.04079)|null|
+|**2025-03-06**|**Beyond Existance: Fulfill 3D Reconstructed Scenes with Pseudo Details**|Yifei Gao et.al.|[2503.04037](http://arxiv.org/abs/2503.04037)|null|
+|**2025-03-06**|**GaussianGraph: 3D Gaussian-based Scene Graph Generation for Open-world Scene Understanding**|Xihan Wang et.al.|[2503.04034](http://arxiv.org/abs/2503.04034)|null|
+|**2025-03-06**|**GRaD-Nav: Efficiently Learning Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics**|Qianzhong Chen et.al.|[2503.03984](http://arxiv.org/abs/2503.03984)|null|
+|**2025-03-05**|**LensDFF: Language-enhanced Sparse Feature Distillation for Efficient Few-Shot Dexterous Manipulation**|Qian Feng et.al.|[2503.03890](http://arxiv.org/abs/2503.03890)|null|
 |**2025-03-05**|**A self-supervised cyclic neural-analytic approach for novel view synthesis and 3D reconstruction**|Dragos Costea et.al.|[2503.03543](http://arxiv.org/abs/2503.03543)|null|
 |**2025-03-05**|**NTR-Gaussian: Nighttime Dynamic Thermal Reconstruction with 4D Gaussian Splatting Based on Thermodynamics**|Kun Yang et.al.|[2503.03115](http://arxiv.org/abs/2503.03115)|null|
 |**2025-03-04**|**Tracking-Aware Deformation Field Estimation for Non-rigid 3D Reconstruction in Robotic Surgeries**|Zeqing Wang et.al.|[2503.02558](http://arxiv.org/abs/2503.02558)|null|
@@ -4470,9 +4505,12 @@
 
 ## RSR
 
+|**2025-03-06**|**Whole-Body Model-Predictive Control of Legged Robots with MuJoCo**|John Z. Zhang et.al.|[2503.04613](http://arxiv.org/abs/2503.04613)|null|
+|**2025-03-06**|**PALo: Learning Posture-Aware Locomotion for Quadruped Robots**|Xiangyu Miao et.al.|[2503.04462](http://arxiv.org/abs/2503.04462)|null|
+|**2025-03-06**|**GRaD-Nav: Efficiently Learning Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics**|Qianzhong Chen et.al.|[2503.03984](http://arxiv.org/abs/2503.03984)|null|
 |**2025-03-04**|**Zero-Shot Sim-to-Real Visual Quadrotor Control with Hard Constraints**|Yan Miao et.al.|[2503.02198](http://arxiv.org/abs/2503.02198)|null|
 |**2025-03-03**|**Few-shot Sim2Real Based on High Fidelity Rendering with Force Feedback Teleoperation**|Yanwen Zou et.al.|[2503.01301](http://arxiv.org/abs/2503.01301)|null|
-|**2025-03-03**|**TACO: General Acrobatic Flight Control via Target-and-Command-Oriented Reinforcement Learning**|Zikang Yin et.al.|[2503.01125](http://arxiv.org/abs/2503.01125)|null|
+|**2025-03-06**|**TACO: General Acrobatic Flight Control via Target-and-Command-Oriented Reinforcement Learning**|Zikang Yin et.al.|[2503.01125](http://arxiv.org/abs/2503.01125)|null|
 |**2025-03-03**|**OceanSim: A GPU-Accelerated Underwater Robot Perception Simulation Framework**|Jingyu Song et.al.|[2503.01074](http://arxiv.org/abs/2503.01074)|null|
 |**2025-03-02**|**An Efficient and Uncertainty-aware Reinforcement Learning Framework for Quality Assurance in Extrusion Additive Manufacturing**|Xiaohan Li et.al.|[2503.00971](http://arxiv.org/abs/2503.00971)|null|
 |**2025-03-01**|**Flying on Point Clouds with Reinforcement Learning**|Guangtong Xu et.al.|[2503.00496](http://arxiv.org/abs/2503.00496)|null|
