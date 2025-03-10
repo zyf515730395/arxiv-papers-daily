@@ -5,7 +5,7 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2025.03.09
+Updated on 2025.03.10
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -260,7 +260,7 @@ Updated on 2025.03.09
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-06**|**Maestro: A 302 GFLOPS/W and 19.8GFLOPS RISC-V Vector-Tensor Architecture for Wearable Ultrasound Edge Computing**|Mattia Sinigaglia et.al.|[2503.04581](http://arxiv.org/abs/2503.04581)|null|
-|**2025-03-05**|**Social Gesture Recognition in spHRI: Leveraging Fabric-Based Tactile Sensing on Humanoid Robots**|Dakarai Crowder et.al.|[2503.03234](http://arxiv.org/abs/2503.03234)|null|
+|**2025-03-06**|**Social Gesture Recognition in spHRI: Leveraging Fabric-Based Tactile Sensing on Humanoid Robots**|Dakarai Crowder et.al.|[2503.03234](http://arxiv.org/abs/2503.03234)|null|
 |**2025-03-04**|**Objestures: Bimanual Interactions with Everyday Objects and Mid-Air Gestures in Mixed Reality**|Zhuoyue Lyu et.al.|[2503.02973](http://arxiv.org/abs/2503.02973)|null|
 |**2025-03-04**|**FABG : End-to-end Imitation Learning for Embodied Affective Human-Robot Interaction**|Yanghai Zhang et.al.|[2503.01363](http://arxiv.org/abs/2503.01363)|null|
 |**2025-03-02**|**One-Shot Gesture Recognition for Underwater Diver-To-Robot Communication**|Rishikesh Joshi et.al.|[2503.00676](http://arxiv.org/abs/2503.00676)|null|
@@ -451,13 +451,13 @@ Updated on 2025.03.09
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-06**|**L $^2$ M: Mutual Information Scaling Law for Long-Context Language Modeling**|Zhuo Chen et.al.|[2503.04725](http://arxiv.org/abs/2503.04725)|null|
 |**2025-03-06**|**LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM**|Sambal Shikhar et.al.|[2503.04724](http://arxiv.org/abs/2503.04724)|null|
-|**2025-03-06**|**Shifting Long-Context LLMs Research from Input to Output**|Yuhao Wu et.al.|[2503.04723](http://arxiv.org/abs/2503.04723)|null|
+|**2025-03-07**|**Shifting Long-Context LLMs Research from Input to Output**|Yuhao Wu et.al.|[2503.04723](http://arxiv.org/abs/2503.04723)|null|
 |**2025-03-06**|**Enough Coin Flips Can Make LLMs Act Bayesian**|Ritwik Gupta et.al.|[2503.04722](http://arxiv.org/abs/2503.04722)|null|
 |**2025-03-06**|**Predictable Scale: Part I -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining**|Houyi Li et.al.|[2503.04715](http://arxiv.org/abs/2503.04715)|null|
-|**2025-03-06**|**Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size**|Alireza Behtash et.al.|[2503.04704](http://arxiv.org/abs/2503.04704)|null|
+|**2025-03-07**|**Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size**|Alireza Behtash et.al.|[2503.04704](http://arxiv.org/abs/2503.04704)|null|
 |**2025-03-06**|**UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets**|Wenyu Wang et.al.|[2503.04693](http://arxiv.org/abs/2503.04693)|null|
 |**2025-03-06**|**Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases**|Pengcheng Qiu et.al.|[2503.04691](http://arxiv.org/abs/2503.04691)|null|
-|**2025-03-06**|**DIMSUM: Discourse in Mathematical Reasoning as a Supervision Module**|Krish Sharma et.al.|[2503.04685](http://arxiv.org/abs/2503.04685)|null|
+|**2025-03-07**|**DIMSUM: Discourse in Mathematical Reasoning as a Supervision Module**|Krish Sharma et.al.|[2503.04685](http://arxiv.org/abs/2503.04685)|null|
 |**2025-03-06**|**LLM-guided Plan and Retrieval: A Strategic Alignment for Interpretable User Satisfaction Estimation in Dialogue**|Sangyeop Kim et.al.|[2503.04675](http://arxiv.org/abs/2503.04675)|null|
 |**2025-03-05**|**The MASK Benchmark: Disentangling Honesty From Accuracy in AI Systems**|Richard Ren et.al.|[2503.03750](http://arxiv.org/abs/2503.03750)|null|
 |**2025-03-05**|**Process-based Self-Rewarding Language Models**|Shimao Zhang et.al.|[2503.03746](http://arxiv.org/abs/2503.03746)|null|
@@ -1510,7 +1510,7 @@ Updated on 2025.03.09
 |**2025-03-06**|**Annihilation-limited Long-range Exciton Transport in High-mobility Conjugated Copolymer Films**|Yuping Shi et.al.|[2503.04627](http://arxiv.org/abs/2503.04627)|null|
 |**2025-03-06**|**Numerical investigation of the Brownian $q=2$ Potts Model**|Letian Chen et.al.|[2503.04609](http://arxiv.org/abs/2503.04609)|null|
 |**2025-03-06**|**The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation**|Aoxiong Yin et.al.|[2503.04606](http://arxiv.org/abs/2503.04606)|null|
-|**2025-03-06**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499](http://arxiv.org/abs/2503.04499)|null|
+|**2025-03-07**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499](http://arxiv.org/abs/2503.04499)|null|
 |**2025-03-06**|**Generalized Interpolating Discrete Diffusion**|Dimitri von Rütte et.al.|[2503.04482](http://arxiv.org/abs/2503.04482)|null|
 |**2025-03-05**|**Can Hyperbolic Diffusion Help Explain Sharp Edges in the Gaps in Saturn's Rings?**|Peter Todd Williams et.al.|[2503.03732](http://arxiv.org/abs/2503.03732)|null|
 |**2025-03-05**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708](http://arxiv.org/abs/2503.03708)|null|
@@ -4506,7 +4506,7 @@ Updated on 2025.03.09
 |**2025-03-06**|**GRaD-Nav: Efficiently Learning Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics**|Qianzhong Chen et.al.|[2503.03984](http://arxiv.org/abs/2503.03984)|null|
 |**2025-03-04**|**Zero-Shot Sim-to-Real Visual Quadrotor Control with Hard Constraints**|Yan Miao et.al.|[2503.02198](http://arxiv.org/abs/2503.02198)|null|
 |**2025-03-03**|**Few-shot Sim2Real Based on High Fidelity Rendering with Force Feedback Teleoperation**|Yanwen Zou et.al.|[2503.01301](http://arxiv.org/abs/2503.01301)|null|
-|**2025-03-06**|**TACO: General Acrobatic Flight Control via Target-and-Command-Oriented Reinforcement Learning**|Zikang Yin et.al.|[2503.01125](http://arxiv.org/abs/2503.01125)|null|
+|**2025-03-07**|**TACO: General Acrobatic Flight Control via Target-and-Command-Oriented Reinforcement Learning**|Zikang Yin et.al.|[2503.01125](http://arxiv.org/abs/2503.01125)|null|
 |**2025-03-03**|**OceanSim: A GPU-Accelerated Underwater Robot Perception Simulation Framework**|Jingyu Song et.al.|[2503.01074](http://arxiv.org/abs/2503.01074)|null|
 |**2025-03-02**|**An Efficient and Uncertainty-aware Reinforcement Learning Framework for Quality Assurance in Extrusion Additive Manufacturing**|Xiaohan Li et.al.|[2503.00971](http://arxiv.org/abs/2503.00971)|null|
 |**2025-03-01**|**Flying on Point Clouds with Reinforcement Learning**|Guangtong Xu et.al.|[2503.00496](http://arxiv.org/abs/2503.00496)|null|
