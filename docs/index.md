@@ -10,6 +10,9 @@ Updated on 2025.03.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**VGGT: Visual Geometry Grounded Transformer**|Jianyuan Wang et.al.|[2503.11651](http://arxiv.org/abs/2503.11651)|null|
+|**2025-03-14**|**Seeing and Seeing Through the Glass: Real and Synthetic Data for Multi-Layer Depth Estimation**|Hongyu Wen et.al.|[2503.11633](http://arxiv.org/abs/2503.11633)|null|
+|**2025-03-14**|**Simulating Dual-Pixel Images From Ray Tracing For Depth Estimation**|Fengchen He et.al.|[2503.11213](http://arxiv.org/abs/2503.11213)|null|
 |**2025-03-13**|**Flow-NeRF: Joint Learning of Geometry, Poses, and Dense Flow within Unified Neural Representations**|Xunzhi Zheng et.al.|[2503.10464](http://arxiv.org/abs/2503.10464)|null|
 |**2025-03-13**|**WonderVerse: Extendable 3D Scene Generation with Video Generative Models**|Hao Feng et.al.|[2503.09160](http://arxiv.org/abs/2503.09160)|null|
 |**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676](http://arxiv.org/abs/2503.08676)|null|
@@ -273,6 +276,8 @@ Updated on 2025.03.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Bring Your Rear Cameras for Egocentric 3D Human Pose Estimation**|Hiroyasu Akada et.al.|[2503.11652](http://arxiv.org/abs/2503.11652)|null|
+|**2025-03-14**|**Enhancing Hand Palm Motion Gesture Recognition by Eliminating Reference Frame Bias via Frame-Invariant Similarity Measures**|Arno Verduyn et.al.|[2503.11352](http://arxiv.org/abs/2503.11352)|null|
 |**2025-03-12**|**A Hybrid Neural Network with Smart Skip Connections for High-Precision, Low-Latency EMG-Based Hand Gesture Recognition**|Hafsa Wazir et.al.|[2503.09041](http://arxiv.org/abs/2503.09041)|null|
 |**2025-03-11**|**A Survey on Wi-Fi Sensing Generalizability: Taxonomy, Techniques, Datasets, and Future Research Prospects**|Fei Wang et.al.|[2503.08008](http://arxiv.org/abs/2503.08008)|null|
 |**2025-03-10**|**Helios 2.0: A Robust, Ultra-Low Power Gesture Recognition System Optimised for Event-Sensor based Wearables**|Prarthana Bhattacharyya et.al.|[2503.07825](http://arxiv.org/abs/2503.07825)|null|
@@ -359,6 +364,8 @@ Updated on 2025.03.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**GAIPAT -Dataset on Human Gaze and Actions for Intent Prediction in Assembly Tasks**|Maxence Grand et.al.|[2503.11186](http://arxiv.org/abs/2503.11186)|null|
+|**2025-03-13**|**OASST-ETC Dataset: Alignment Signals from Eye-tracking Analysis of LLM Responses**|Angela Lopez-Cardona et.al.|[2503.10927](http://arxiv.org/abs/2503.10927)|null|
 |**2025-03-13**|**Eye on the Target: Eye Tracking Meets Rodent Tracking**|Emil Mededovic et.al.|[2503.10305](http://arxiv.org/abs/2503.10305)|null|
 |**2025-03-11**|**The Detection of Saccadic Eye Movements and Per-Eye Comparisons using Virtual Reality Eye Tracking Devices**|Teran Bukenberger et.al.|[2503.08926](http://arxiv.org/abs/2503.08926)|null|
 |**2025-03-11**|**Desirable Unfamiliarity: Insights from Eye Movements on Engagement and Readability of Dictation Interfaces**|Zhaohui Liang et.al.|[2503.08539](http://arxiv.org/abs/2503.08539)|null|
@@ -471,6 +478,16 @@ Updated on 2025.03.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Tit-for-Tat: Safeguarding Large Vision-Language Models Against Jailbreak Attacks via Adversarial Defense**|Shuyang Hao et.al.|[2503.11619](http://arxiv.org/abs/2503.11619)|null|
+|**2025-03-14**|**ASMA-Tune: Unlocking LLMs' Assembly Code Comprehension via Structural-Semantic Instruction Tuning**|Xinyi Wang et.al.|[2503.11617](http://arxiv.org/abs/2503.11617)|null|
+|**2025-03-14**|**Neutralizing Bias in LLM Reasoning using Entailment Graphs**|Liang Cheng et.al.|[2503.11614](http://arxiv.org/abs/2503.11614)|null|
+|**2025-03-14**|**Rethinking Few-Shot Adaptation of Vision-Language Models in Two Stages**|Matteo Farina et.al.|[2503.11609](http://arxiv.org/abs/2503.11609)|null|
+|**2025-03-14**|**Broaden your SCOPE! Efficient Multi-turn Conversation Planning for LLMs using Semantic Space**|Zhiliang Chen et.al.|[2503.11586](http://arxiv.org/abs/2503.11586)|null|
+|**2025-03-14**|**SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion**|Ahmed Nassar et.al.|[2503.11576](http://arxiv.org/abs/2503.11576)|null|
+|**2025-03-14**|**Synthesizing Access Control Policies using Large Language Models**|Adarsh Vatsa et.al.|[2503.11573](http://arxiv.org/abs/2503.11573)|null|
+|**2025-03-14**|**Implicit Bias-Like Patterns in Reasoning Models**|Messi H. J. Lee et.al.|[2503.11572](http://arxiv.org/abs/2503.11572)|null|
+|**2025-03-14**|**VERIFY: A Benchmark of Visual Explanation and Reasoning for Investigating Multimodal Reasoning Fidelity**|Jing Bi et.al.|[2503.11557](http://arxiv.org/abs/2503.11557)|null|
+|**2025-03-14**|**Similarity-Aware Token Pruning: Your VLM but Faster**|Ahmadreza Jeddi et.al.|[2503.11549](http://arxiv.org/abs/2503.11549)|null|
 |**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639](http://arxiv.org/abs/2503.10639)|**[link](https://github.com/rongyaofang/got)**|
 |**2025-03-13**|**A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1**|Zhaoyi Li et.al.|[2503.10635](http://arxiv.org/abs/2503.10635)|**[link](https://github.com/vila-lab/m-attack)**|
 |**2025-03-13**|**HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model**|Jiaming Liu et.al.|[2503.10631](http://arxiv.org/abs/2503.10631)|null|
@@ -1584,6 +1601,16 @@ Updated on 2025.03.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**From Denoising Score Matching to Langevin Sampling: A Fine-Grained Error Analysis in the Gaussian Setting**|Samuel Hurault et.al.|[2503.11615](http://arxiv.org/abs/2503.11615)|null|
+|**2025-03-14**|**Excitability and oscillations of active droplets**|Ivar S. Haugerud et.al.|[2503.11604](http://arxiv.org/abs/2503.11604)|null|
+|**2025-03-14**|**Advancing 3D Gaussian Splatting Editing with Complementary and Consensus Information**|Xuanqi Zhang et.al.|[2503.11601](http://arxiv.org/abs/2503.11601)|null|
+|**2025-03-14**|**Pathology Image Compression with Pre-trained Autoencoders**|Srikar Yellapragada et.al.|[2503.11591](http://arxiv.org/abs/2503.11591)|null|
+|**2025-03-14**|**Dynamics of a coupled nonlocal PDE-ODE system with spatial memory: well-posedness, stability, and bifurcation analysis**|Yurij Salmaniw et.al.|[2503.11550](http://arxiv.org/abs/2503.11550)|null|
+|**2025-03-14**|**Bottom-up Iterative Anomalous Diffusion Detector (BI-ADD)**|Junwoo Park et.al.|[2503.11529](http://arxiv.org/abs/2503.11529)|null|
+|**2025-03-14**|**Cygnus X-3 as semi-hidden PeVatron**|M. Kachelriess et.al.|[2503.11448](http://arxiv.org/abs/2503.11448)|null|
+|**2025-03-14**|**Spontaneous flexoelectricity in cubic lead-halide perovskite MAPbBr $_3$**|Dmytro Rak et.al.|[2503.11434](http://arxiv.org/abs/2503.11434)|null|
+|**2025-03-14**|**TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation**|Hongxiang Zhao et.al.|[2503.11423](http://arxiv.org/abs/2503.11423)|null|
+|**2025-03-14**|**MTV-Inpaint: Multi-Task Long Video Inpainting**|Shiyuan Yang et.al.|[2503.11412](http://arxiv.org/abs/2503.11412)|null|
 |**2025-03-13**|**GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing**|Rongyao Fang et.al.|[2503.10639](http://arxiv.org/abs/2503.10639)|**[link](https://github.com/rongyaofang/got)**|
 |**2025-03-13**|**Studying Classifier(-Free) Guidance From a Classifier-Centric Perspective**|Xiaoming Zhao et.al.|[2503.10638](http://arxiv.org/abs/2503.10638)|null|
 |**2025-03-14**|**Distilling Diversity and Control in Diffusion Models**|Rohit Gandikota et.al.|[2503.10637](http://arxiv.org/abs/2503.10637)|null|
@@ -2693,6 +2720,11 @@ Updated on 2025.03.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Advancing 3D Gaussian Splatting Editing with Complementary and Consensus Information**|Xuanqi Zhang et.al.|[2503.11601](http://arxiv.org/abs/2503.11601)|null|
+|**2025-03-14**|**EgoSplat: Open-Vocabulary Egocentric Scene Understanding with Language Embedded 3D Gaussian Splatting**|Di Li et.al.|[2503.11345](http://arxiv.org/abs/2503.11345)|null|
+|**2025-03-14**|**NF-SLAM: Effective, Normalizing Flow-supported Neural Field representations for object-level visual SLAM in automotive applications**|Li Cui et.al.|[2503.11199](http://arxiv.org/abs/2503.11199)|null|
+|**2025-03-14**|**Uncertainty-Aware Normal-Guided Gaussian Splatting for Surface Reconstruction from Sparse Image Sequences**|Zhen Tan et.al.|[2503.11172](http://arxiv.org/abs/2503.11172)|null|
+|**2025-03-13**|**RI3D: Few-Shot Gaussian Splatting With Repair and Inpainting Diffusion Priors**|Avinash Paliwal et.al.|[2503.10860](http://arxiv.org/abs/2503.10860)|null|
 |**2025-03-13**|**LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds**|Lingteng Qiu et.al.|[2503.10625](http://arxiv.org/abs/2503.10625)|null|
 |**2025-03-13**|**MuDG: Taming Multi-modal Diffusion with Gaussian Splatting for Urban Scene Reconstruction**|Yingshuang Zou et.al.|[2503.10604](http://arxiv.org/abs/2503.10604)|null|
 |**2025-03-13**|**GroomLight: Hybrid Inverse Rendering for Relightable Human Hair Appearance Modeling**|Yang Zheng et.al.|[2503.10597](http://arxiv.org/abs/2503.10597)|null|
@@ -4685,6 +4717,9 @@ Updated on 2025.03.17
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Low-cost Real-world Implementation of the Swing-up Pendulum for Deep Reinforcement Learning Experiments**|Peter Böhm et.al.|[2503.11065](http://arxiv.org/abs/2503.11065)|null|
+|**2025-03-14**|**Robotic Sim-to-Real Transfer for Long-Horizon Pick-and-Place Tasks in the Robotic Sim2Real Competition**|Ming Yang et.al.|[2503.11012](http://arxiv.org/abs/2503.11012)|null|
+|**2025-03-14**|**From Abstraction to Reality: DARPA's Vision for Robust Sim-to-Real Autonomy**|Erfaun Noorani et.al.|[2503.11007](http://arxiv.org/abs/2503.11007)|null|
 |**2025-03-13**|**An Real-Sim-Real (RSR) Loop Framework for Generalizable Robotic Policy Transfer with Differentiable Simulation**|Lu Shi et.al.|[2503.10118](http://arxiv.org/abs/2503.10118)|null|
 |**2025-03-12**|**Unified Locomotion Transformer with Simultaneous Sim-to-Real Transfer for Quadrupeds**|Dikai Liu et.al.|[2503.08997](http://arxiv.org/abs/2503.08997)|null|
 |**2025-03-11**|**Cooperative Bearing-Only Target Pursuit via Multiagent Reinforcement Learning: Design and Experiment**|Jianan Li et.al.|[2503.08740](http://arxiv.org/abs/2503.08740)|null|
