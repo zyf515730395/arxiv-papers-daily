@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**TULIP: Towards Unified Language-Image Pretraining**|Zineng Tang et.al.|[2503.15485](http://arxiv.org/abs/2503.15485)|null|
+|**2025-03-19**|**EgoDTM: Towards 3D-Aware Egocentric Video-Language Pretraining**|Boshen Xu et.al.|[2503.15470](http://arxiv.org/abs/2503.15470)|null|
+|**2025-03-19**|**USAM-Net: A U-Net-based Network for Improved Stereo Correspondence and Scene Depth Estimation using Features from a Pre-trained Image Segmentation network**|Joseph Emmanuel DL Dayo et.al.|[2503.14950](http://arxiv.org/abs/2503.14950)|null|
 |**2025-03-18**|**Multi-view Reconstruction via SfM-guided Monocular Depth Estimation**|Haoyu Guo et.al.|[2503.14483](http://arxiv.org/abs/2503.14483)|null|
 |**2025-03-18**|**DUNE: Distilling a Universal Encoder from Heterogeneous 2D and 3D Teachers**|Mert Bulent Sariyildiz et.al.|[2503.14405](http://arxiv.org/abs/2503.14405)|null|
 |**2025-03-18**|**3D Densification for Multi-Map Monocular VSLAM in Endoscopy**|X. Anadón et.al.|[2503.14346](http://arxiv.org/abs/2503.14346)|null|
@@ -296,7 +299,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-10**|**Event-Driven Implementation of a Physical Reservoir Computing Framework for superficial EMG-based Gesture Recognition**|Yuqi Ding et.al.|[2503.13492](http://arxiv.org/abs/2503.13492)|null|
-|**2025-03-16**|**EgoEvGesture: Gesture Recognition Based on Egocentric Event Camera**|Luming Wang et.al.|[2503.12419](http://arxiv.org/abs/2503.12419)|null|
+|**2025-03-16**|**EgoEvGesture: Gesture Recognition Based on Egocentric Event Camera**|Luming Wang et.al.|[2503.12419](http://arxiv.org/abs/2503.12419)|**[link](https://github.com/3190105222/egoev_gesture)**|
 |**2025-03-14**|**Bring Your Rear Cameras for Egocentric 3D Human Pose Estimation**|Hiroyasu Akada et.al.|[2503.11652](http://arxiv.org/abs/2503.11652)|null|
 |**2025-03-14**|**Enhancing Hand Palm Motion Gesture Recognition by Eliminating Reference Frame Bias via Frame-Invariant Similarity Measures**|Arno Verduyn et.al.|[2503.11352](http://arxiv.org/abs/2503.11352)|null|
 |**2025-03-12**|**A Hybrid Neural Network with Smart Skip Connections for High-Precision, Low-Latency EMG-Based Hand Gesture Recognition**|Hafsa Wazir et.al.|[2503.09041](http://arxiv.org/abs/2503.09041)|null|
@@ -387,9 +390,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**Enhancing Code LLM Training with Programmer Attention**|Yifan Zhang et.al.|[2503.14936](http://arxiv.org/abs/2503.14936)|null|
 |**2025-03-18**|**Consumer-grade EEG-based Eye Tracking**|Tiago Vasconcelos Afonso et.al.|[2503.14322](http://arxiv.org/abs/2503.14322)|null|
 |**2025-03-14**|**GAIPAT -Dataset on Human Gaze and Actions for Intent Prediction in Assembly Tasks**|Maxence Grand et.al.|[2503.11186](http://arxiv.org/abs/2503.11186)|null|
-|**2025-03-13**|**OASST-ETC Dataset: Alignment Signals from Eye-tracking Analysis of LLM Responses**|Angela Lopez-Cardona et.al.|[2503.10927](http://arxiv.org/abs/2503.10927)|null|
+|**2025-03-13**|**OASST-ETC Dataset: Alignment Signals from Eye-tracking Analysis of LLM Responses**|Angela Lopez-Cardona et.al.|[2503.10927](http://arxiv.org/abs/2503.10927)|**[link](https://github.com/Telefonica-Scientific-Research/oasstetc)**|
 |**2025-03-13**|**Eye on the Target: Eye Tracking Meets Rodent Tracking**|Emil Mededovic et.al.|[2503.10305](http://arxiv.org/abs/2503.10305)|null|
 |**2025-03-11**|**The Detection of Saccadic Eye Movements and Per-Eye Comparisons using Virtual Reality Eye Tracking Devices**|Teran Bukenberger et.al.|[2503.08926](http://arxiv.org/abs/2503.08926)|null|
 |**2025-03-11**|**Desirable Unfamiliarity: Insights from Eye Movements on Engagement and Readability of Dictation Interfaces**|Zhaohui Liang et.al.|[2503.08539](http://arxiv.org/abs/2503.08539)|null|
@@ -504,6 +508,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**TULIP: Towards Unified Language-Image Pretraining**|Zineng Tang et.al.|[2503.15485](http://arxiv.org/abs/2503.15485)|null|
+|**2025-03-19**|**SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks**|Yifei Zhou et.al.|[2503.15478](http://arxiv.org/abs/2503.15478)|null|
+|**2025-03-19**|**Cube: A Roblox View of 3D Intelligence**|Foundation AI Team et.al.|[2503.15475](http://arxiv.org/abs/2503.15475)|null|
+|**2025-03-19**|**From 1,000,000 Users to Every User: Scaling Up Personalized Preference for User-level Alignment**|Jia-Nan Li et.al.|[2503.15463](http://arxiv.org/abs/2503.15463)|null|
+|**2025-03-19**|**Evaluating Bias in Retrieval-Augmented Medical Question-Answering Systems**|Yuelyu Ji et.al.|[2503.15454](http://arxiv.org/abs/2503.15454)|null|
+|**2025-03-19**|**SkyLadder: Better and Faster Pretraining via Context Window Scheduling**|Tongyao Zhu et.al.|[2503.15450](http://arxiv.org/abs/2503.15450)|null|
+|**2025-03-19**|**Visual Position Prompt for MLLM based Visual Grounding**|Wei Tang et.al.|[2503.15426](http://arxiv.org/abs/2503.15426)|null|
+|**2025-03-19**|**Probing the topology of the space of tokens with structured prompts**|Michael Robinson et.al.|[2503.15421](http://arxiv.org/abs/2503.15421)|null|
+|**2025-03-19**|**Visual Persona: Foundation Model for Full-Body Human Customization**|Jisu Nam et.al.|[2503.15406](http://arxiv.org/abs/2503.15406)|null|
+|**2025-03-19**|**Real-world validation of a multimodal LLM-powered pipeline for High-Accuracy Clinical Trial Patient Matching leveraging EHR data**|Anatole Callies et.al.|[2503.15374](http://arxiv.org/abs/2503.15374)|null|
 |**2025-03-18**|**MusicInfuser: Making Video Diffusion Listen and Dance**|Susung Hong et.al.|[2503.14505](http://arxiv.org/abs/2503.14505)|null|
 |**2025-03-18**|**Aligning Multimodal LLM with Human Preference: A Survey**|Tao Yu et.al.|[2503.14504](http://arxiv.org/abs/2503.14504)|null|
 |**2025-03-18**|**Temporal Consistency for LLM Reasoning Process Error Identification**|Jiacheng Guo et.al.|[2503.14495](http://arxiv.org/abs/2503.14495)|null|
@@ -1649,6 +1663,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**Active wetting transitions induced by rotational noise at solid interfaces**|Suchismita Das et.al.|[2503.15476](http://arxiv.org/abs/2503.15476)|null|
+|**2025-03-19**|**FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers**|Ruichen Chen et.al.|[2503.15465](http://arxiv.org/abs/2503.15465)|null|
+|**2025-03-19**|**Di $\mathtt{[M]}$ O: Distilling Masked Diffusion Models into One-step Generator**|Yuanzhi Zhu et.al.|[2503.15457](http://arxiv.org/abs/2503.15457)|null|
+|**2025-03-19**|**MotionStreamer: Streaming Motion Generation via Diffusion-based Autoregressive Model in Causal Latent Space**|Lixing Xiao et.al.|[2503.15451](http://arxiv.org/abs/2503.15451)|null|
+|**2025-03-19**|**Particle Pairing Caused Subdiffusion of Heavy Particles in the Imbalanced Hubbard Model**|Mirko Daumann et.al.|[2503.15409](http://arxiv.org/abs/2503.15409)|null|
+|**2025-03-19**|**Visual Persona: Foundation Model for Full-Body Human Customization**|Jisu Nam et.al.|[2503.15406](http://arxiv.org/abs/2503.15406)|null|
+|**2025-03-19**|**CCDP: Composition of Conditional Diffusion Policies with Guided Sampling**|Amirreza Razmjoo et.al.|[2503.15386](http://arxiv.org/abs/2503.15386)|null|
+|**2025-03-19**|**Material Decomposition in Photon-Counting Computed Tomography with Diffusion Models: Comparative Study and Hybridization with Variational Regularizers**|Corentin Vazia et.al.|[2503.15383](http://arxiv.org/abs/2503.15383)|null|
+|**2025-03-19**|**Fickian yet non-Gaussian diffusion in an annealed heterogeneous environment**|Seongyu Park et.al.|[2503.15366](http://arxiv.org/abs/2503.15366)|null|
+|**2025-03-19**|**Halide Perovskites as Spin-1 Dirac Materials**|Dmitry Marchenko et.al.|[2503.15343](http://arxiv.org/abs/2503.15343)|null|
 |**2025-03-18**|**MusicInfuser: Making Video Diffusion Listen and Dance**|Susung Hong et.al.|[2503.14505](http://arxiv.org/abs/2503.14505)|null|
 |**2025-03-18**|**The Power of Context: How Multimodality Improves Image Super-Resolution**|Kangfu Mei et.al.|[2503.14503](http://arxiv.org/abs/2503.14503)|null|
 |**2025-03-18**|**Stable Virtual Camera: Generative View Synthesis with Diffusion Models**|Jensen et.al.|[2503.14489](http://arxiv.org/abs/2503.14489)|null|
@@ -2790,6 +2814,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**GO-N3RDet: Geometry Optimized NeRF-enhanced 3D Object Detector**|Zechuan Li et.al.|[2503.15211](http://arxiv.org/abs/2503.15211)|null|
+|**2025-03-19**|**MultiBARF: Integrating Imagery of Different Wavelength Regions by Using Neural Radiance Fields**|Kana Kurata et.al.|[2503.15070](http://arxiv.org/abs/2503.15070)|null|
+|**2025-03-19**|**3D Engine-ready Photorealistic Avatars via Dynamic Textures**|Yifan Wang et.al.|[2503.14943](http://arxiv.org/abs/2503.14943)|null|
+|**2025-03-19**|**ClimateGS: Real-Time Climate Simulation with 3D Gaussian Style Transfer**|Yuezhen Xie et.al.|[2503.14845](http://arxiv.org/abs/2503.14845)|null|
+|**2025-03-18**|**HandSplat: Embedding-Driven Gaussian Splatting for High-Fidelity Hand Rendering**|Yilan Dong et.al.|[2503.14736](http://arxiv.org/abs/2503.14736)|null|
+|**2025-03-18**|**SplatVoxel: History-Aware Novel View Streaming without Temporal Training**|Yiming Wang et.al.|[2503.14698](http://arxiv.org/abs/2503.14698)|null|
+|**2025-03-18**|**These Magic Moments: Differentiable Uncertainty Quantification of Radiance Field Models**|Parker Ewen et.al.|[2503.14665](http://arxiv.org/abs/2503.14665)|null|
 |**2025-03-18**|**Optimized 3D Gaussian Splatting using Coarse-to-Fine Image Frequency Modulation**|Umar Farooq et.al.|[2503.14475](http://arxiv.org/abs/2503.14475)|null|
 |**2025-03-18**|**Improving Adaptive Density Control for 3D Gaussian Splatting**|Glenn Grubert et.al.|[2503.14274](http://arxiv.org/abs/2503.14274)|null|
 |**2025-03-18**|**Segmentation-Guided Neural Radiance Fields for Novel Street View Synthesis**|Yizhou Li et.al.|[2503.14219](http://arxiv.org/abs/2503.14219)|null|
@@ -4807,12 +4838,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-15**|**ReBot: Scaling Robot Learning with Real-to-Sim-to-Real Robotic Video Synthesis**|Yu Fang et.al.|[2503.14526](http://arxiv.org/abs/2503.14526)|null|
 |**2025-03-18**|**CTSAC: Curriculum-Based Transformer Soft Actor-Critic for Goal-Oriented Robot Exploration**|Chunyu Yang et.al.|[2503.14254](http://arxiv.org/abs/2503.14254)|null|
 |**2025-03-18**|**HA-VLN: A Benchmark for Human-Aware Navigation in Discrete-Continuous Environments with Dynamic Multi-Human Interactions, Real-World Validation, and an Open Leaderboard**|Yifei Dong et.al.|[2503.14229](http://arxiv.org/abs/2503.14229)|null|
 |**2025-03-17**|**Robot Policy Transfer with Online Demonstrations: An Active Reinforcement Learning Approach**|Muhan Hou et.al.|[2503.12993](http://arxiv.org/abs/2503.12993)|null|
 |**2025-03-16**|**Bio-Inspired Plastic Neural Networks for Zero-Shot Out-of-Distribution Generalization in Complex Animal-Inspired Robots**|Binggwong Leung et.al.|[2503.12406](http://arxiv.org/abs/2503.12406)|null|
 |**2025-03-14**|**Low-cost Real-world Implementation of the Swing-up Pendulum for Deep Reinforcement Learning Experiments**|Peter Böhm et.al.|[2503.11065](http://arxiv.org/abs/2503.11065)|null|
-|**2025-03-14**|**Robotic Sim-to-Real Transfer for Long-Horizon Pick-and-Place Tasks in the Robotic Sim2Real Competition**|Ming Yang et.al.|[2503.11012](http://arxiv.org/abs/2503.11012)|null|
+|**2025-03-14**|**Robotic Sim-to-Real Transfer for Long-Horizon Pick-and-Place Tasks in the Robotic Sim2Real Competition**|Ming Yang et.al.|[2503.11012](http://arxiv.org/abs/2503.11012)|**[link](https://github.com/AIR-DISCOVER/ICRA2024-Sim2Real-RM)**|
 |**2025-03-14**|**From Abstraction to Reality: DARPA's Vision for Robust Sim-to-Real Autonomy**|Erfaun Noorani et.al.|[2503.11007](http://arxiv.org/abs/2503.11007)|null|
 |**2025-03-18**|**An Real-Sim-Real (RSR) Loop Framework for Generalizable Robotic Policy Transfer with Differentiable Simulation**|Lu Shi et.al.|[2503.10118](http://arxiv.org/abs/2503.10118)|**[link](https://github.com/sunnyshi0310/RSR-MJX)**|
 |**2025-03-12**|**Unified Locomotion Transformer with Simultaneous Sim-to-Real Transfer for Quadrupeds**|Dikai Liu et.al.|[2503.08997](http://arxiv.org/abs/2503.08997)|null|
