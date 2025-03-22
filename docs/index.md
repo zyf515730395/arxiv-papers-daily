@@ -385,7 +385,7 @@ Updated on 2025.03.22
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-20**|**Modeling Face Emotion Perception from Naturalistic Face Viewing: Insights from Fixational Events and Gaze Strategies**|Meisam J. Seikavandi et.al.|[2503.15926](http://arxiv.org/abs/2503.15926)|null|
 |**2025-03-19**|**Enhancing Code LLM Training with Programmer Attention**|Yifan Zhang et.al.|[2503.14936](http://arxiv.org/abs/2503.14936)|null|
-|**2025-03-18**|**Consumer-grade EEG-based Eye Tracking**|Tiago Vasconcelos Afonso et.al.|[2503.14322](http://arxiv.org/abs/2503.14322)|null|
+|**2025-03-18**|**Consumer-grade EEG-based Eye Tracking**|Tiago Vasconcelos Afonso et.al.|[2503.14322](http://arxiv.org/abs/2503.14322)|**[link](https://github.com/FlorianHeinrichs/eeg_eye_tracking)**|
 |**2025-03-14**|**GAIPAT -Dataset on Human Gaze and Actions for Intent Prediction in Assembly Tasks**|Maxence Grand et.al.|[2503.11186](http://arxiv.org/abs/2503.11186)|null|
 |**2025-03-13**|**OASST-ETC Dataset: Alignment Signals from Eye-tracking Analysis of LLM Responses**|Angela Lopez-Cardona et.al.|[2503.10927](http://arxiv.org/abs/2503.10927)|**[link](https://github.com/Telefonica-Scientific-Research/oasstetc)**|
 |**2025-03-13**|**Eye on the Target: Eye Tracking Meets Rodent Tracking**|Emil Mededovic et.al.|[2503.10305](http://arxiv.org/abs/2503.10305)|null|
@@ -1663,7 +1663,7 @@ Updated on 2025.03.22
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-20**|**Tokenize Image as a Set**|Zigang Geng et.al.|[2503.16425](http://arxiv.org/abs/2503.16425)|null|
+|**2025-03-20**|**Tokenize Image as a Set**|Zigang Geng et.al.|[2503.16425](http://arxiv.org/abs/2503.16425)|**[link](https://github.com/Gengzigang/TokenSet)**|
 |**2025-03-20**|**InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity**|Liming Jiang et.al.|[2503.16418](http://arxiv.org/abs/2503.16418)|null|
 |**2025-03-20**|**DreamTexture: Shape from Virtual Texture with Analysis by Augmentation**|Ananta R. Bhattarai et.al.|[2503.16412](http://arxiv.org/abs/2503.16412)|null|
 |**2025-03-20**|**VerbDiff: Text-Only Diffusion Models with Enhanced Interaction Awareness**|SeungJu Cha et.al.|[2503.16406](http://arxiv.org/abs/2503.16406)|null|
@@ -4861,7 +4861,7 @@ Updated on 2025.03.22
 |**2025-03-17**|**Robot Policy Transfer with Online Demonstrations: An Active Reinforcement Learning Approach**|Muhan Hou et.al.|[2503.12993](http://arxiv.org/abs/2503.12993)|null|
 |**2025-03-16**|**Bio-Inspired Plastic Neural Networks for Zero-Shot Out-of-Distribution Generalization in Complex Animal-Inspired Robots**|Binggwong Leung et.al.|[2503.12406](http://arxiv.org/abs/2503.12406)|null|
 |**2025-03-14**|**Low-cost Real-world Implementation of the Swing-up Pendulum for Deep Reinforcement Learning Experiments**|Peter Böhm et.al.|[2503.11065](http://arxiv.org/abs/2503.11065)|null|
-|**2025-03-14**|**Robotic Sim-to-Real Transfer for Long-Horizon Pick-and-Place Tasks in the Robotic Sim2Real Competition**|Ming Yang et.al.|[2503.11012](http://arxiv.org/abs/2503.11012)|**[link](https://github.com/AIR-DISCOVER/ICRA2024-Sim2Real-RM)**|
+|**2025-03-14**|**Robotic Sim-to-Real Transfer for Long-Horizon Pick-and-Place Tasks in the Robotic Sim2Real Competition**|Ming Yang et.al.|[2503.11012](http://arxiv.org/abs/2503.11012)|**[link](https://github.com/Bob-Eric/rmus2024_solution_ZeroBug)**|
 |**2025-03-14**|**From Abstraction to Reality: DARPA's Vision for Robust Sim-to-Real Autonomy**|Erfaun Noorani et.al.|[2503.11007](http://arxiv.org/abs/2503.11007)|null|
 |**2025-03-18**|**An Real-Sim-Real (RSR) Loop Framework for Generalizable Robotic Policy Transfer with Differentiable Simulation**|Lu Shi et.al.|[2503.10118](http://arxiv.org/abs/2503.10118)|**[link](https://github.com/sunnyshi0310/RSR-MJX)**|
 |**2025-03-12**|**Unified Locomotion Transformer with Simultaneous Sim-to-Real Transfer for Quadrupeds**|Dikai Liu et.al.|[2503.08997](http://arxiv.org/abs/2503.08997)|null|
