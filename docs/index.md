@@ -10,6 +10,11 @@ Updated on 2025.04.01
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**ExScene: Free-View 3D Scene Reconstruction with Gaussian Splatting from a Single Image**|Tianyi Gong et.al.|[2503.23881](http://arxiv.org/abs/2503.23881)|null|
+|**2025-03-31**|**Consistency-aware Self-Training for Iterative-based Stereo Matching**|Jingyi Zhou et.al.|[2503.23747](http://arxiv.org/abs/2503.23747)|null|
+|**2025-03-31**|**Detail-aware multi-view stereo network for depth estimation**|Haitao Tian et.al.|[2503.23684](http://arxiv.org/abs/2503.23684)|null|
+|**2025-03-30**|**Blurry-Edges: Photon-Limited Depth Estimation from Defocused Boundaries**|Wei Xu et.al.|[2503.23606](http://arxiv.org/abs/2503.23606)|null|
+|**2025-03-30**|**Boosting Omnidirectional Stereo Matching with a Pre-trained Depth Foundation Model**|Jannik Endres et.al.|[2503.23502](http://arxiv.org/abs/2503.23502)|**[link](https://github.com/vita-epfl/DFI-OmniStereo)**|
 |**2025-03-28**|**SemAlign3D: Semantic Correspondence between RGB-Images through Aligning 3D Object-Class Representations**|Krispin Wandel et.al.|[2503.22462](http://arxiv.org/abs/2503.22462)|null|
 |**2025-03-28**|**EndoLRMGS: Complete Endoscopic Scene Reconstruction combining Large Reconstruction Modelling and Gaussian Splatting**|Xu Wang et.al.|[2503.22437](http://arxiv.org/abs/2503.22437)|**[link](https://github.com/michaelwanggo/endolrmgs)**|
 |**2025-03-28**|**MVSAnywhere: Zero-Shot Multi-View Stereo**|Sergio Izquierdo et.al.|[2503.22430](http://arxiv.org/abs/2503.22430)|null|
@@ -406,6 +411,9 @@ Updated on 2025.04.01
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**A Comparative Study of Scanpath Models in Graph-Based Visualization**|Angela Lopez-Cardona et.al.|[2503.24160](http://arxiv.org/abs/2503.24160)|null|
+|**2025-03-31**|**Exploring Temporal Dynamics in Event-based Eye Tracker**|Hongwei Ren et.al.|[2503.23725](http://arxiv.org/abs/2503.23725)|**[link](https://github.com/rhwxmx/tdtracker)**|
+|**2025-03-30**|**Understanding Visual Saliency of Outlier Items in Product Search**|Fatemeh Sarvi et.al.|[2503.23596](http://arxiv.org/abs/2503.23596)|null|
 |**2025-03-27**|**Evaluating Eye Tracking and Electroencephalography as Indicator for Selective Exposure During Online News Reading**|Thomas Krämer et.al.|[2503.22018](http://arxiv.org/abs/2503.22018)|null|
 |**2025-03-27**|**GazeSwipe: Enhancing Mobile Touchscreen Reachability through Seamless Gaze and Finger-Swipe Integration**|Zhuojiang Cai et.al.|[2503.21094](http://arxiv.org/abs/2503.21094)|null|
 |**2025-03-26**|**Eyes Tell the Truth: GazeVal Highlights Shortcomings of Generative AI in Medical Imaging**|David Wong et.al.|[2503.20967](http://arxiv.org/abs/2503.20967)|null|
@@ -533,6 +541,16 @@ Updated on 2025.04.01
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation**|Shengqiong Wu et.al.|[2503.24379](http://arxiv.org/abs/2503.24379)|null|
+|**2025-03-31**|**Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models**|Rui Wang et.al.|[2503.24377](http://arxiv.org/abs/2503.24377)|**[link](https://github.com/devoallen/awesome-reasoning-economy-papers)**|
+|**2025-03-31**|**Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1**|Yi Chen et.al.|[2503.24376](http://arxiv.org/abs/2503.24376)|**[link](https://github.com/tencentarc/seed-bench-r1)**|
+|**2025-03-31**|**Effectively Controlling Reasoning Models through Thinking Intervention**|Tong Wu et.al.|[2503.24370](http://arxiv.org/abs/2503.24370)|null|
+|**2025-03-31**|**SQuat: Subspace-orthogonal KV Cache Quantization**|Hao Wang et.al.|[2503.24358](http://arxiv.org/abs/2503.24358)|null|
+|**2025-03-31**|**ORAL: Prompting Your Large-Scale LoRAs via Conditional Recurrent Diffusion**|Rana Muhammad Shahroz Khan et.al.|[2503.24354](http://arxiv.org/abs/2503.24354)|null|
+|**2025-03-31**|**BEATS: Bias Evaluation and Assessment Test Suite for Large Language Models**|Alok Abhishek et.al.|[2503.24310](http://arxiv.org/abs/2503.24310)|null|
+|**2025-03-31**|**A Systematic Evaluation of LLM Strategies for Mental Health Text Analysis: Fine-tuning vs. Prompt Engineering vs. RAG**|Arshia Kermani et.al.|[2503.24307](http://arxiv.org/abs/2503.24307)|null|
+|**2025-03-31**|**Is analogy enough to draw novel adjective-noun inferences?**|Hayley Ross et.al.|[2503.24293](http://arxiv.org/abs/2503.24293)|null|
+|**2025-03-31**|**Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning**|Jiacheng Lin et.al.|[2503.24289](http://arxiv.org/abs/2503.24289)|null|
 |**2025-03-28**|**Q-Insight: Understanding Image Quality via Visual Reinforcement Learning**|Weiqi Li et.al.|[2503.22679](http://arxiv.org/abs/2503.22679)|**[link](https://github.com/lwq20020127/q-insight)**|
 |**2025-03-28**|**Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions**|Mohammad Almansoori et.al.|[2503.22678](http://arxiv.org/abs/2503.22678)|null|
 |**2025-03-28**|**QuestBench: Can LLMs ask the right question to acquire information in reasoning tasks?**|Belinda Z. Li et.al.|[2503.22674](http://arxiv.org/abs/2503.22674)|null|
@@ -1756,6 +1774,16 @@ Updated on 2025.04.01
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**InstructRestore: Region-Customized Image Restoration with Human Instructions**|Shuaizheng Liu et.al.|[2503.24357](http://arxiv.org/abs/2503.24357)|**[link](https://github.com/shuaizhengliu/instructrestore)**|
+|**2025-03-31**|**ORAL: Prompting Your Large-Scale LoRAs via Conditional Recurrent Diffusion**|Rana Muhammad Shahroz Khan et.al.|[2503.24354](http://arxiv.org/abs/2503.24354)|null|
+|**2025-03-31**|**NoProp: Training Neural Networks without Back-propagation or Forward-propagation**|Qinyu Li et.al.|[2503.24322](http://arxiv.org/abs/2503.24322)|null|
+|**2025-03-31**|**Dynamical properties of particulate composites derived from ultradense stealthy hyperuniform sphere packings**|Carlo Vanoni et.al.|[2503.24297](http://arxiv.org/abs/2503.24297)|null|
+|**2025-03-31**|**Quark production in the bottom-up thermalization**|Sergio Barrera Cabodevila et.al.|[2503.24291](http://arxiv.org/abs/2503.24291)|null|
+|**2025-03-31**|**Enhancing Image Resolution of Solar Magnetograms: A Latent Diffusion Model Approach**|Francesco Pio Ramunno et.al.|[2503.24271](http://arxiv.org/abs/2503.24271)|null|
+|**2025-03-31**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270](http://arxiv.org/abs/2503.24270)|null|
+|**2025-03-31**|**DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting**|Seungjun Lee et.al.|[2503.24210](http://arxiv.org/abs/2503.24210)|null|
+|**2025-03-31**|**Controlled Latent Diffusion Models for 3D Porous Media Reconstruction**|Danilo Naiff et.al.|[2503.24083](http://arxiv.org/abs/2503.24083)|null|
+|**2025-03-31**|**Evaluating Variational Quantum Eigensolver and Quantum Dynamics Algorithms on the Advection-Diffusion Equation**|A. Barış Özgüler et.al.|[2503.24045](http://arxiv.org/abs/2503.24045)|null|
 |**2025-03-28**|**DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness**|Ruining Li et.al.|[2503.22677](http://arxiv.org/abs/2503.22677)|null|
 |**2025-03-28**|**Empirical Analysis of Sim-and-Real Cotraining Of Diffusion Policies For Planar Pushing from Pixels**|Adam Wei et.al.|[2503.22634](http://arxiv.org/abs/2503.22634)|null|
 |**2025-03-28**|**The BLOBs: Enigmatic Diffuse Ionized Gas Structures in a Cluster of Galaxies near Cosmic Noon**|C. Maier et.al.|[2503.22628](http://arxiv.org/abs/2503.22628)|null|
@@ -2975,6 +3003,16 @@ Updated on 2025.04.01
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**Free360: Layered Gaussian Splatting for Unbounded 360-Degree View Synthesis from Extremely Sparse and Unposed Views**|Chong Bao et.al.|[2503.24382](http://arxiv.org/abs/2503.24382)|null|
+|**2025-03-31**|**ERUPT: Efficient Rendering with Unposed Patch Transformer**|Maxim V. Shugaev et.al.|[2503.24374](http://arxiv.org/abs/2503.24374)|null|
+|**2025-03-31**|**StochasticSplats: Stochastic Rasterization for Sorting-Free 3D Gaussian Splatting**|Shakiba Kheradmand et.al.|[2503.24366](http://arxiv.org/abs/2503.24366)|null|
+|**2025-03-31**|**Visual Acoustic Fields**|Yuelei Li et.al.|[2503.24270](http://arxiv.org/abs/2503.24270)|null|
+|**2025-03-31**|**DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting**|Seungjun Lee et.al.|[2503.24210](http://arxiv.org/abs/2503.24210)|null|
+|**2025-03-31**|**Learning 3D-Gaussian Simulators from RGB Videos**|Mikel Zhobro et.al.|[2503.24009](http://arxiv.org/abs/2503.24009)|null|
+|**2025-03-31**|**A Reactive Framework for Whole-Body Motion Planning of Mobile Manipulators Combining Reinforcement Learning and SDF-Constrained Quadratic Programmi**|Chenyu Zhang et.al.|[2503.23975](http://arxiv.org/abs/2503.23975)|null|
+|**2025-03-31**|**ExScene: Free-View 3D Scene Reconstruction with Gaussian Splatting from a Single Image**|Tianyi Gong et.al.|[2503.23881](http://arxiv.org/abs/2503.23881)|null|
+|**2025-03-31**|**Learning Bijective Surface Parameterization for Inferring Signed Distance Functions from Sparse Point Clouds with Grid Deformation**|Takeshi Noda et.al.|[2503.23670](http://arxiv.org/abs/2503.23670)|null|
+|**2025-03-31**|**Uni-Render: A Unified Accelerator for Real-Time Rendering Across Diverse Neural Renderers**|Chaojian Li et.al.|[2503.23644](http://arxiv.org/abs/2503.23644)|null|
 |**2025-03-28**|**TranSplat: Lighting-Consistent Cross-Scene Object Transfer with 3D Gaussian Splatting**|Boyang et.al.|[2503.22676](http://arxiv.org/abs/2503.22676)|null|
 |**2025-03-28**|**Audio-Plane: Audio Factorization Plane Gaussian Splatting for Real-Time Talking Head Synthesis**|Shuai Shen et.al.|[2503.22605](http://arxiv.org/abs/2503.22605)|null|
 |**2025-03-28**|**EndoLRMGS: Complete Endoscopic Scene Reconstruction combining Large Reconstruction Modelling and Gaussian Splatting**|Xu Wang et.al.|[2503.22437](http://arxiv.org/abs/2503.22437)|**[link](https://github.com/michaelwanggo/endolrmgs)**|
@@ -5062,6 +5100,8 @@ Updated on 2025.04.01
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**Policy Gradient for LQR with Domain Randomization**|Tesshu Fujinami et.al.|[2503.24371](http://arxiv.org/abs/2503.24371)|null|
+|**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yifei Yang et.al.|[2503.23835](http://arxiv.org/abs/2503.23835)|null|
 |**2025-03-25**|**Bridging the Sim-to-real Gap: A Control Framework for Imitation Learning of Model Predictive Control**|Seungtaek Kim et.al.|[2503.19228](http://arxiv.org/abs/2503.19228)|null|
 |**2025-03-20**|**A Schwarz-Christoffel Mapping-based Framework for Sim-to-Real Transfer in Autonomous Robot Operations**|Shijie Gao et.al.|[2503.16634](http://arxiv.org/abs/2503.16634)|null|
 |**2025-03-20**|**Can Real-to-Sim Approaches Capture Dynamic Fabric Behavior for Robotic Fabric Manipulation?**|Yingdong Ru et.al.|[2503.16310](http://arxiv.org/abs/2503.16310)|null|
