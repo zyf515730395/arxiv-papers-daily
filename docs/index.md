@@ -10,6 +10,7 @@ Updated on 2025.04.09
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**POMATO: Marrying Pointmap Matching with Temporal Motion for Dynamic 3D Reconstruction**|Songyan Zhang et.al.|[2504.05692](http://arxiv.org/abs/2504.05692)|null|
 |**2025-04-07**|**Stereo-LiDAR Fusion by Semi-Global Matching With Discrete Disparity-Matching Cost and Semidensification**|Yasuhiro Yao et.al.|[2504.05148](http://arxiv.org/abs/2504.05148)|**[link](https://github.com/yshry/libSGM_lidar)**|
 |**2025-04-04**|**3D Scene Understanding Through Local Random Access Sequence Modeling**|Wanhee Lee et.al.|[2504.03875](http://arxiv.org/abs/2504.03875)|null|
 |**2025-04-04**|**RingMoE: Mixture-of-Modality-Experts Multi-Modal Foundation Models for Universal Remote Sensing Image Interpretation**|Hanbo Bi et.al.|[2504.03166](http://arxiv.org/abs/2504.03166)|null|
@@ -327,6 +328,9 @@ Updated on 2025.04.09
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**FaceCloak: Learning to Protect Face Templates**|Sudipta Banerjee et.al.|[2504.06131](http://arxiv.org/abs/2504.06131)|null|
+|**2025-04-08**|**Modular Soft Wearable Glove for Real-Time Gesture Recognition and Dynamic 3D Shape Reconstruction**|Huazhi Dong et.al.|[2504.05983](http://arxiv.org/abs/2504.05983)|null|
+|**2025-04-07**|**SelfMAD: Enhancing Generalization and Robustness in Morphing Attack Detection via Self-Supervised Learning**|Marija Ivanovska et.al.|[2504.05504](http://arxiv.org/abs/2504.05504)|null|
 |**2025-04-07**|**From Sparse Signal to Smooth Motion: Real-Time Motion Generation with Rolling Prediction Models**|German Barquero et.al.|[2504.05265](http://arxiv.org/abs/2504.05265)|null|
 |**2025-04-04**|**Electromyography-Based Gesture Recognition: Hierarchical Feature Extraction for Enhanced Spatial-Temporal Dynamics**|Jungpil Shin et.al.|[2504.03221](http://arxiv.org/abs/2504.03221)|null|
 |**2025-04-02**|**UAC: Uncertainty-Aware Calibration of Neural Networks for Gesture Detection**|Farida Al Haddad et.al.|[2504.02895](http://arxiv.org/abs/2504.02895)|null|
@@ -425,6 +429,8 @@ Updated on 2025.04.09
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**AEGIS: Human Attention-based Explainable Guidance for Intelligent Vehicle Systems**|Zhuoli Zhuang et.al.|[2504.05950](http://arxiv.org/abs/2504.05950)|null|
+|**2025-04-07**|**Few-shot Personalized Scanpath Prediction**|Ruoyu Xue et.al.|[2504.05499](http://arxiv.org/abs/2504.05499)|null|
 |**2025-04-02**|**EEG-EyeTrack: A Benchmark for Time Series and Functional Data Analysis with Open Challenges and Baselines**|Tiago Vasconcelos Afonso et.al.|[2504.03760](http://arxiv.org/abs/2504.03760)|null|
 |**2025-04-03**|**Development of Automated Data Quality Assessment and Evaluation Indices by Analytical Experience**|Yuka Haruki et.al.|[2504.02663](http://arxiv.org/abs/2504.02663)|null|
 |**2025-04-02**|**Gaze-Hand Steering for Travel and Multitasking in Virtual Environments**|Mona Zavichi et.al.|[2504.01906](http://arxiv.org/abs/2504.01906)|null|
@@ -559,6 +565,16 @@ Updated on 2025.04.09
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization**|Bojana Ranković et.al.|[2504.06265](http://arxiv.org/abs/2504.06265)|null|
+|**2025-04-08**|**OmniSVG: A Unified Scalable Vector Graphics Generation Model**|Yiying Yang et.al.|[2504.06263](http://arxiv.org/abs/2504.06263)|null|
+|**2025-04-08**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261](http://arxiv.org/abs/2504.06261)|null|
+|**2025-04-08**|**FEABench: Evaluating Language Models on Multiphysics Reasoning Ability**|Nayantara Mudur et.al.|[2504.06260](http://arxiv.org/abs/2504.06260)|null|
+|**2025-04-08**|**Transfer between Modalities with MetaQueries**|Xichen Pan et.al.|[2504.06256](http://arxiv.org/abs/2504.06256)|null|
+|**2025-04-08**|**LExT: Towards Evaluating Trustworthiness of Natural Language Explanations**|Krithi Shailya et.al.|[2504.06227](http://arxiv.org/abs/2504.06227)|null|
+|**2025-04-08**|**Encoder-Decoder Gemma: Improving the Quality-Efficiency Trade-Off via Adaptation**|Biao Zhang et.al.|[2504.06225](http://arxiv.org/abs/2504.06225)|null|
+|**2025-04-08**|**Can Performant LLMs Be Ethical? Quantifying the Impact of Web Crawling Opt-Outs**|Dongyang Fan et.al.|[2504.06219](http://arxiv.org/abs/2504.06219)|null|
+|**2025-04-08**|**From 128K to 4M: Efficient Training of Ultra-Long Context Large Language Models**|Chejian Xu et.al.|[2504.06214](http://arxiv.org/abs/2504.06214)|null|
+|**2025-04-08**|**TxGemma: Efficient and Agentic LLMs for Therapeutics**|Eric Wang et.al.|[2504.06196](http://arxiv.org/abs/2504.06196)|null|
 |**2025-04-07**|**URECA: Unique Region Caption Anything**|Sangbeom Lim et.al.|[2504.05305](http://arxiv.org/abs/2504.05305)|null|
 |**2025-04-07**|**InteractVLM: 3D Interaction Reasoning from 2D Foundational Models**|Sai Kumar Dwivedi et.al.|[2504.05303](http://arxiv.org/abs/2504.05303)|null|
 |**2025-04-07**|**SmolVLM: Redefining small and efficient multimodal models**|Andrés Marafioti et.al.|[2504.05299](http://arxiv.org/abs/2504.05299)|null|
@@ -1832,6 +1848,16 @@ Updated on 2025.04.09
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Transfer between Modalities with MetaQueries**|Xichen Pan et.al.|[2504.06256](http://arxiv.org/abs/2504.06256)|null|
+|**2025-04-08**|**Electronic Structure Guided Inverse Design Using Generative Models**|Shuyi Jia et.al.|[2504.06249](http://arxiv.org/abs/2504.06249)|null|
+|**2025-04-08**|**HiFlow: Training-free High-Resolution Image Generation with Flow-Aligned Guidance**|Jiazi Bu et.al.|[2504.06232](http://arxiv.org/abs/2504.06232)|null|
+|**2025-04-08**|**Antiferromagnetism and spin excitations in a two-dimensional non-Hermitian Hatano-Nelson flux model**|Eduard Naichuk et.al.|[2504.06206](http://arxiv.org/abs/2504.06206)|null|
+|**2025-04-08**|**Flash Sculptor: Modular 3D Worlds from Objects**|Yujia Hu et.al.|[2504.06178](http://arxiv.org/abs/2504.06178)|null|
+|**2025-04-08**|**Hydroxide Mobility in Aqueous Systems: Ab Initio Accuracy with Millisecond Timescales**|Jonas Hänseroth et.al.|[2504.06177](http://arxiv.org/abs/2504.06177)|null|
+|**2025-04-08**|**Differential diffusion effects and super-adiabatic local temperature in lean hydrogen-air turbulent flames**|H. C. Lee et.al.|[2504.06168](http://arxiv.org/abs/2504.06168)|null|
+|**2025-04-08**|**An asymptotic preserving scheme for the M1model of non-local thermal transport for two-dimensional structured and unstructured meshes**|Jean-Luc Feugeas et.al.|[2504.06149](http://arxiv.org/abs/2504.06149)|null|
+|**2025-04-08**|**A Training-Free Style-aligned Image Generation with Scale-wise Autoregressive Model**|Jihun Park et.al.|[2504.06144](http://arxiv.org/abs/2504.06144)|null|
+|**2025-04-08**|**Cosmic ray transport and acceleration with magnetic mirroring**|A. R. Bell et.al.|[2504.06140](http://arxiv.org/abs/2504.06140)|null|
 |**2025-04-07**|**CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models**|Kavana Venkatesh et.al.|[2504.05306](http://arxiv.org/abs/2504.05306)|null|
 |**2025-04-07**|**Gaussian Mixture Flow Matching Models**|Hansheng Chen et.al.|[2504.05304](http://arxiv.org/abs/2504.05304)|null|
 |**2025-04-07**|**Dimension-Free Convergence of Diffusion Models for Approximate Gaussian Mixtures**|Gen Li et.al.|[2504.05300](http://arxiv.org/abs/2504.05300)|null|
@@ -3101,6 +3127,12 @@ Updated on 2025.04.09
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Meta-Continual Learning of Neural Fields**|Seungyoon Woo et.al.|[2504.05806](http://arxiv.org/abs/2504.05806)|null|
+|**2025-04-08**|**SE4Lip: Speech-Lip Encoder for Talking Head Synthesis to Solve Phoneme-Viseme Alignment Ambiguity**|Yihuan Huang et.al.|[2504.05803](http://arxiv.org/abs/2504.05803)|null|
+|**2025-04-08**|**InvNeRF-Seg: Fine-Tuning a Pre-Trained NeRF for 3D Object Segmentation**|Jiangsan Zhao et.al.|[2504.05751](http://arxiv.org/abs/2504.05751)|null|
+|**2025-04-08**|**Micro-splatting: Maximizing Isotropic Constraints for Refined Optimization in 3D Gaussian Splatting**|Jee Won Lee et.al.|[2504.05740](http://arxiv.org/abs/2504.05740)|null|
+|**2025-04-07**|**View-Dependent Deformation Fields for 2D Editing of 3D Models**|Martin El Mqirmi et.al.|[2504.05544](http://arxiv.org/abs/2504.05544)|null|
+|**2025-04-07**|**L3GS: Layered 3D Gaussian Splats for Efficient 3D Scene Delivery**|Yi-Zhen Tsai et.al.|[2504.05517](http://arxiv.org/abs/2504.05517)|null|
 |**2025-04-07**|**Let it Snow! Animating Static Gaussian Scenes With Dynamic Weather Effects**|Gal Fiebelman et.al.|[2504.05296](http://arxiv.org/abs/2504.05296)|null|
 |**2025-04-07**|**PanoDreamer: Consistent Text to 360-Degree Scene Generation**|Zhexiao Xiong et.al.|[2504.05152](http://arxiv.org/abs/2504.05152)|null|
 |**2025-04-07**|**3D Gaussian Particle Approximation of VDB Datasets: A Study for Scientific Visualization**|Isha Sharma et.al.|[2504.04857](http://arxiv.org/abs/2504.04857)|null|
@@ -5229,6 +5261,8 @@ Updated on 2025.04.09
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Underwater Robotic Simulators Review for Autonomous System Development**|Sara Aldhaheri et.al.|[2504.06245](http://arxiv.org/abs/2504.06245)|null|
+|**2025-04-04**|**Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics**|Tianliang Yao et.al.|[2504.05330](http://arxiv.org/abs/2504.05330)|null|
 |**2025-04-05**|**A Self-Supervised Learning Approach with Differentiable Optimization for UAV Trajectory Planning**|Yufei Jiang et.al.|[2504.04289](http://arxiv.org/abs/2504.04289)|null|
 |**2025-04-05**|**ORCA: An Open-Source, Reliable, Cost-Effective, Anthropomorphic Robotic Hand for Uninterrupted Dexterous Task Learning**|Clemens C. Christoph et.al.|[2504.04259](http://arxiv.org/abs/2504.04259)|null|
 |**2025-04-05**|**A General Peg-in-Hole Assembly Policy Based on Domain Randomized Reinforcement Learning**|Xinyu Liu et.al.|[2504.04148](http://arxiv.org/abs/2504.04148)|null|
