@@ -10,6 +10,7 @@ Updated on 2025.04.10
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**FlashDepth: Real-time Streaming Video Depth Estimation at 2K Resolution**|Gene Chou et.al.|[2504.07093](http://arxiv.org/abs/2504.07093)|null|
 |**2025-04-08**|**POMATO: Marrying Pointmap Matching with Temporal Motion for Dynamic 3D Reconstruction**|Songyan Zhang et.al.|[2504.05692](http://arxiv.org/abs/2504.05692)|null|
 |**2025-04-07**|**Stereo-LiDAR Fusion by Semi-Global Matching With Discrete Disparity-Matching Cost and Semidensification**|Yasuhiro Yao et.al.|[2504.05148](http://arxiv.org/abs/2504.05148)|**[link](https://github.com/yshry/libSGM_lidar)**|
 |**2025-04-04**|**3D Scene Understanding Through Local Random Access Sequence Modeling**|Wanhee Lee et.al.|[2504.03875](http://arxiv.org/abs/2504.03875)|null|
@@ -328,6 +329,7 @@ Updated on 2025.04.10
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Efficient Deployment of Spiking Neural Networks on SpiNNaker2 for DVS Gesture Recognition Using Neuromorphic Intermediate Representation**|Sirine Arfa et.al.|[2504.06748](http://arxiv.org/abs/2504.06748)|null|
 |**2025-04-08**|**FaceCloak: Learning to Protect Face Templates**|Sudipta Banerjee et.al.|[2504.06131](http://arxiv.org/abs/2504.06131)|null|
 |**2025-04-08**|**Modular Soft Wearable Glove for Real-Time Gesture Recognition and Dynamic 3D Shape Reconstruction**|Huazhi Dong et.al.|[2504.05983](http://arxiv.org/abs/2504.05983)|null|
 |**2025-04-07**|**SelfMAD: Enhancing Generalization and Robustness in Morphing Attack Detection via Self-Supervised Learning**|Marija Ivanovska et.al.|[2504.05504](http://arxiv.org/abs/2504.05504)|null|
@@ -429,6 +431,9 @@ Updated on 2025.04.10
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Integrating Cognitive Processing Signals into Language Models: A Review of Advances, Applications and Future Directions**|Angela Lopez-Cardona et.al.|[2504.06843](http://arxiv.org/abs/2504.06843)|null|
+|**2025-04-08**|**Towards Intelligent VR Training: A Physiological Adaptation Framework for Cognitive Load and Stress Detection**|Mahsa Nasri et.al.|[2504.06461](http://arxiv.org/abs/2504.06461)|null|
+|**2025-04-08**|**Classifying Subjective Time Perception in a Multi-robot Control Scenario Using Eye-tracking Information**|Till Aust et.al.|[2504.06442](http://arxiv.org/abs/2504.06442)|null|
 |**2025-04-08**|**AEGIS: Human Attention-based Explainable Guidance for Intelligent Vehicle Systems**|Zhuoli Zhuang et.al.|[2504.05950](http://arxiv.org/abs/2504.05950)|null|
 |**2025-04-07**|**Few-shot Personalized Scanpath Prediction**|Ruoyu Xue et.al.|[2504.05499](http://arxiv.org/abs/2504.05499)|null|
 |**2025-04-02**|**EEG-EyeTrack: A Benchmark for Time Series and Functional Data Analysis with Open Challenges and Baselines**|Tiago Vasconcelos Afonso et.al.|[2504.03760](http://arxiv.org/abs/2504.03760)|null|
@@ -565,6 +570,16 @@ Updated on 2025.04.10
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning**|Nikhil Shivakumar Nayak et.al.|[2504.07097](http://arxiv.org/abs/2504.07097)|null|
+|**2025-04-09**|**OmniCaptioner: One Captioner to Rule Them All**|Yiting Lu et.al.|[2504.07089](http://arxiv.org/abs/2504.07089)|null|
+|**2025-04-09**|**KG-LLM-Bench: A Scalable Benchmark for Evaluating LLM Reasoning on Textualized Knowledge Graphs**|Elan Markowitz et.al.|[2504.07087](http://arxiv.org/abs/2504.07087)|null|
+|**2025-04-09**|**DeduCE: Deductive Consistency as a Framework to Evaluate LLM Reasoning**|Atharva Pandey et.al.|[2504.07080](http://arxiv.org/abs/2504.07080)|null|
+|**2025-04-09**|**Kaleidoscope: In-language Exams for Massively Multilingual Vision Evaluation**|Israfel Salazar et.al.|[2504.07072](http://arxiv.org/abs/2504.07072)|null|
+|**2025-04-09**|**A Survey on Personalized and Pluralistic Preference Alignment in Large Language Models**|Zhouhang Xie et.al.|[2504.07070](http://arxiv.org/abs/2504.07070)|null|
+|**2025-04-09**|**HalluciNot: Hallucination Detection Through Context and Common Knowledge Verification**|Bibek Paudel et.al.|[2504.07069](http://arxiv.org/abs/2504.07069)|null|
+|**2025-04-09**|**TASTE: Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling**|Liang-Hsuan Tseng et.al.|[2504.07053](http://arxiv.org/abs/2504.07053)|null|
+|**2025-04-09**|**To Backtrack or Not to Backtrack: When Sequential Search Limits Model Reasoning**|Tian Qin et.al.|[2504.07052](http://arxiv.org/abs/2504.07052)|null|
+|**2025-04-09**|**Distilling Textual Priors from LLM to Efficient Image Fusion**|Ran Zhang et.al.|[2504.07029](http://arxiv.org/abs/2504.07029)|null|
 |**2025-04-08**|**GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization**|Bojana Ranković et.al.|[2504.06265](http://arxiv.org/abs/2504.06265)|null|
 |**2025-04-08**|**OmniSVG: A Unified Scalable Vector Graphics Generation Model**|Yiying Yang et.al.|[2504.06263](http://arxiv.org/abs/2504.06263)|null|
 |**2025-04-09**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261](http://arxiv.org/abs/2504.06261)|null|
@@ -1848,6 +1863,16 @@ Updated on 2025.04.10
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**The Lyman-alpha and Continuum Origins Survey II: the uneventful journey of escaping Ly $α$ and ionizing radiation through the neutral ISM and CGM of galaxies**|A. Saldana-Lopez et.al.|[2504.07074](http://arxiv.org/abs/2504.07074)|null|
+|**2025-04-09**|**Glossy Object Reconstruction with Cost-effective Polarized Acquisition**|Bojian Wu et.al.|[2504.07025](http://arxiv.org/abs/2504.07025)|null|
+|**2025-04-09**|**Latent Diffusion U-Net Representations Contain Positional Embeddings and Anomalies**|Jonas Loos et.al.|[2504.07008](http://arxiv.org/abs/2504.07008)|**[link](https://github.com/JonasLoos/sd-representation-anomalies)**|
+|**2025-04-09**|**A Krylov projection algorithm for large symmetric matrices with dense spectra**|Vladimir Druskin Jörn Zimmerling et.al.|[2504.06998](http://arxiv.org/abs/2504.06998)|null|
+|**2025-04-09**|**Cerebral blood flow monitoring using a deep learning implementation of the two-layer DCS analytical model with a 512 512 SPAD array**|Mingliang Pan et.al.|[2504.06997](http://arxiv.org/abs/2504.06997)|null|
+|**2025-04-09**|**Enhancing TiFe Alloy Activation for Hydrogen Storage Through Al, Cr, Co, and Cu Substitutions as a Step Towards Future Recycling**|Francesca Garelli et.al.|[2504.06990](http://arxiv.org/abs/2504.06990)|null|
+|**2025-04-09**|**Exact Current Fluctuations in a Tight-Binding Chain with Dephasing Noise**|Taiki Ishiyama et.al.|[2504.06989](http://arxiv.org/abs/2504.06989)|null|
+|**2025-04-09**|**PathSegDiff: Pathology Segmentation using Diffusion model representations**|Sachin Kumar Danisetty et.al.|[2504.06950](http://arxiv.org/abs/2504.06950)|null|
+|**2025-04-09**|**Density Approximation of Affine Jump Diffusions via Closed-Form Moment Matching**|Yan-Feng Wu et.al.|[2504.06942](http://arxiv.org/abs/2504.06942)|null|
+|**2025-04-09**|**MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**|Jiawei Mao et.al.|[2504.06897](http://arxiv.org/abs/2504.06897)|null|
 |**2025-04-08**|**Transfer between Modalities with MetaQueries**|Xichen Pan et.al.|[2504.06256](http://arxiv.org/abs/2504.06256)|null|
 |**2025-04-08**|**Electronic Structure Guided Inverse Design Using Generative Models**|Shuyi Jia et.al.|[2504.06249](http://arxiv.org/abs/2504.06249)|null|
 |**2025-04-08**|**HiFlow: Training-free High-Resolution Image Generation with Flow-Aligned Guidance**|Jiazi Bu et.al.|[2504.06232](http://arxiv.org/abs/2504.06232)|null|
@@ -3127,6 +3152,13 @@ Updated on 2025.04.10
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**|Daiwei Zhang et.al.|[2504.06978](http://arxiv.org/abs/2504.06978)|null|
+|**2025-04-09**|**S-EO: A Large-Scale Dataset for Geometry-Aware Shadow Detection in Remote Sensing Applications**|Masquil Elías et.al.|[2504.06920](http://arxiv.org/abs/2504.06920)|null|
+|**2025-04-09**|**IAAO: Interactive Affordance Learning for Articulated Objects in 3D Environments**|Can Zhang et.al.|[2504.06827](http://arxiv.org/abs/2504.06827)|null|
+|**2025-04-09**|**SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering**|Hanxiao Sun et.al.|[2504.06815](http://arxiv.org/abs/2504.06815)|null|
+|**2025-04-09**|**GSta: Efficient Training Scheme with Siestaed Gaussians for Monocular 3D Scene Reconstruction**|Anil Armagan et.al.|[2504.06716](http://arxiv.org/abs/2504.06716)|null|
+|**2025-04-09**|**Collision avoidance from monocular vision trained with novel view synthesis**|Valentin Tordjman--Levavasseur et.al.|[2504.06651](http://arxiv.org/abs/2504.06651)|null|
+|**2025-04-09**|**Stochastic Ray Tracing of 3D Transparent Gaussians**|X. Sun et.al.|[2504.06598](http://arxiv.org/abs/2504.06598)|null|
 |**2025-04-08**|**Meta-Continual Learning of Neural Fields**|Seungyoon Woo et.al.|[2504.05806](http://arxiv.org/abs/2504.05806)|null|
 |**2025-04-08**|**SE4Lip: Speech-Lip Encoder for Talking Head Synthesis to Solve Phoneme-Viseme Alignment Ambiguity**|Yihuan Huang et.al.|[2504.05803](http://arxiv.org/abs/2504.05803)|null|
 |**2025-04-08**|**InvNeRF-Seg: Fine-Tuning a Pre-Trained NeRF for 3D Object Segmentation**|Jiangsan Zhao et.al.|[2504.05751](http://arxiv.org/abs/2504.05751)|null|
@@ -5261,6 +5293,7 @@ Updated on 2025.04.10
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Sim-to-Real of Humanoid Locomotion Policies via Joint Torque Space Perturbation Injection**|Woohyun Cha et.al.|[2504.06585](http://arxiv.org/abs/2504.06585)|null|
 |**2025-04-08**|**Underwater Robotic Simulators Review for Autonomous System Development**|Sara Aldhaheri et.al.|[2504.06245](http://arxiv.org/abs/2504.06245)|null|
 |**2025-04-04**|**Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics**|Tianliang Yao et.al.|[2504.05330](http://arxiv.org/abs/2504.05330)|null|
 |**2025-04-05**|**A Self-Supervised Learning Approach with Differentiable Optimization for UAV Trajectory Planning**|Yufei Jiang et.al.|[2504.04289](http://arxiv.org/abs/2504.04289)|null|
