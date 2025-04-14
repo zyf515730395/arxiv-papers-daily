@@ -5,7 +5,7 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2025.04.13
+Updated on 2025.04.14
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -331,7 +331,7 @@ Updated on 2025.04.13
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-10**|**Breaking the Barriers: Video Vision Transformers for Word-Level Sign Language Recognition**|Alexander Brettmann et.al.|[2504.07792](http://arxiv.org/abs/2504.07792)|null|
+|**2025-04-11**|**Breaking the Barriers: Video Vision Transformers for Word-Level Sign Language Recognition**|Alexander Brettmann et.al.|[2504.07792](http://arxiv.org/abs/2504.07792)|null|
 |**2025-04-10**|**ID-Booth: Identity-consistent Face Generation with Diffusion Models**|Darian Tomašević et.al.|[2504.07392](http://arxiv.org/abs/2504.07392)|**[link](https://github.com/dariant/id-booth)**|
 |**2025-04-09**|**Efficient Deployment of Spiking Neural Networks on SpiNNaker2 for DVS Gesture Recognition Using Neuromorphic Intermediate Representation**|Sirine Arfa et.al.|[2504.06748](http://arxiv.org/abs/2504.06748)|null|
 |**2025-04-08**|**FaceCloak: Learning to Protect Face Templates**|Sudipta Banerjee et.al.|[2504.06131](http://arxiv.org/abs/2504.06131)|null|
@@ -578,7 +578,7 @@ Updated on 2025.04.13
 |**2025-04-10**|**GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**|Lang Lin et.al.|[2504.07962](http://arxiv.org/abs/2504.07962)|null|
 |**2025-04-10**|**MM-IFEngine: Towards Multimodal Instruction Following**|Shengyuan Ding et.al.|[2504.07957](http://arxiv.org/abs/2504.07957)|**[link](https://github.com/syuan03/mm-ifengine)**|
 |**2025-04-10**|**VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning**|Yukun Qi et.al.|[2504.07956](http://arxiv.org/abs/2504.07956)|null|
-|**2025-04-10**|**Scaling Laws for Native Multimodal Models Scaling Laws for Native Multimodal Models**|Mustafa Shukor et.al.|[2504.07951](http://arxiv.org/abs/2504.07951)|null|
+|**2025-04-11**|**Scaling Laws for Native Multimodal Models**|Mustafa Shukor et.al.|[2504.07951](http://arxiv.org/abs/2504.07951)|null|
 |**2025-04-10**|**SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement**|Xiyao Wang et.al.|[2504.07934](http://arxiv.org/abs/2504.07934)|**[link](https://github.com/si0wang/thinklite-vl)**|
 |**2025-04-10**|**Porting an LLM based Application from ChatGPT to an On-Premise Environment**|Teemu Paloniemi et.al.|[2504.07907](http://arxiv.org/abs/2504.07907)|null|
 |**2025-04-10**|**Redefining Machine Translation on Social Network Services with Large Language Models**|Hongcheng Guo et.al.|[2504.07901](http://arxiv.org/abs/2504.07901)|null|
@@ -5331,7 +5331,7 @@ Updated on 2025.04.13
 |**2025-03-28**|**Scalable heliostat surface predictions from focal spots: Sim-to-Real transfer of inverse Deep Learning Raytracing**|Jan Lewen et.al.|[2504.03712](http://arxiv.org/abs/2504.03712)|null|
 |**2025-04-04**|**Real-is-Sim: Bridging the Sim-to-Real Gap with a Dynamic Digital Twin for Real-World Robot Policy Evaluation**|Jad Abou-Chakra et.al.|[2504.03597](http://arxiv.org/abs/2504.03597)|null|
 |**2025-04-03**|**DiSRT-In-Bed: Diffusion-Based Sim-to-Real Transfer Framework for In-Bed Human Mesh Recovery**|Jing Gao et.al.|[2504.03006](http://arxiv.org/abs/2504.03006)|null|
-|**2025-04-01**|**Learning Bipedal Locomotion on Gear-Driven Humanoid Robot Using Foot-Mounted IMUs**|Sotaro Katayama et.al.|[2504.00614](http://arxiv.org/abs/2504.00614)|null|
+|**2025-04-11**|**Learning Bipedal Locomotion on Gear-Driven Humanoid Robot Using Foot-Mounted IMUs**|Sotaro Katayama et.al.|[2504.00614](http://arxiv.org/abs/2504.00614)|null|
 |**2025-03-31**|**Policy Gradient for LQR with Domain Randomization**|Tesshu Fujinami et.al.|[2503.24371](http://arxiv.org/abs/2503.24371)|null|
 |**2025-03-31**|**Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning**|Yifei Yang et.al.|[2503.23835](http://arxiv.org/abs/2503.23835)|null|
 |**2025-03-25**|**Bridging the Sim-to-real Gap: A Control Framework for Imitation Learning of Model Predictive Control**|Seungtaek Kim et.al.|[2503.19228](http://arxiv.org/abs/2503.19228)|null|
