@@ -5,7 +5,7 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2025.04.14
+Updated on 2025.04.15
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -334,7 +334,7 @@ Updated on 2025.04.14
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-11**|**Hands-On: Segmenting Individual Signs from Continuous Sequences**|Low Jian He et.al.|[2504.08593](http://arxiv.org/abs/2504.08593)|null|
 |**2025-04-11**|**Breaking the Barriers: Video Vision Transformers for Word-Level Sign Language Recognition**|Alexander Brettmann et.al.|[2504.07792](http://arxiv.org/abs/2504.07792)|null|
-|**2025-04-10**|**ID-Booth: Identity-consistent Face Generation with Diffusion Models**|Darian Tomašević et.al.|[2504.07392](http://arxiv.org/abs/2504.07392)|**[link](https://github.com/dariant/id-booth)**|
+|**2025-04-13**|**ID-Booth: Identity-consistent Face Generation with Diffusion Models**|Darian Tomašević et.al.|[2504.07392](http://arxiv.org/abs/2504.07392)|**[link](https://github.com/dariant/id-booth)**|
 |**2025-04-09**|**Efficient Deployment of Spiking Neural Networks on SpiNNaker2 for DVS Gesture Recognition Using Neuromorphic Intermediate Representation**|Sirine Arfa et.al.|[2504.06748](http://arxiv.org/abs/2504.06748)|null|
 |**2025-04-08**|**FaceCloak: Learning to Protect Face Templates**|Sudipta Banerjee et.al.|[2504.06131](http://arxiv.org/abs/2504.06131)|null|
 |**2025-04-08**|**Modular Soft Wearable Glove for Real-Time Gesture Recognition and Dynamic 3D Shape Reconstruction**|Huazhi Dong et.al.|[2504.05983](http://arxiv.org/abs/2504.05983)|null|
@@ -3200,7 +3200,7 @@ Updated on 2025.04.14
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-11**|**FMLGS: Fast Multilevel Language Embedded Gaussians for Part-level Interactive Agents**|Xin Tan et.al.|[2504.08581](http://arxiv.org/abs/2504.08581)|null|
 |**2025-04-11**|**Cut-and-Splat: Leveraging Gaussian Splatting for Synthetic Data Generation**|Bram Vanherle et.al.|[2504.08473](http://arxiv.org/abs/2504.08473)|null|
-|**2025-04-11**|**PMNI: Pose-free Multi-view Normal Integration for Reflective and Textureless Surface Reconstruction**|Mingzhi Pei et.al.|[2504.08410](http://arxiv.org/abs/2504.08410)|null|
+|**2025-04-14**|**PMNI: Pose-free Multi-view Normal Integration for Reflective and Textureless Surface Reconstruction**|Mingzhi Pei et.al.|[2504.08410](http://arxiv.org/abs/2504.08410)|null|
 |**2025-04-11**|**In-2-4D: Inbetweening from Two Single-View Images to 4D Generation**|Sauradip Nag et.al.|[2504.08366](http://arxiv.org/abs/2504.08366)|null|
 |**2025-04-11**|**Generative AI for Film Creation: A Survey of Recent Advances**|Ruihan Zhang et.al.|[2504.08296](http://arxiv.org/abs/2504.08296)|null|
 |**2025-04-11**|**DrivAer Transformer: A high-precision and fast prediction method for vehicle aerodynamic drag coefficient based on the DrivAerNet++ dataset**|Jiaqi He et.al.|[2504.08217](http://arxiv.org/abs/2504.08217)|null|
