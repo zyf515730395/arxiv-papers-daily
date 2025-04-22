@@ -14,6 +14,9 @@
 
 ## Depth Estimation
 
+|**2025-04-21**|**VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**|Mingxia Zhan et.al.|[2504.15095](http://arxiv.org/abs/2504.15095)|null|
+|**2025-04-20**|**Seurat: From Moving Points to Depth**|Seokju Cho et.al.|[2504.14687](http://arxiv.org/abs/2504.14687)|null|
+|**2025-04-18**|**Occlusion-Ordered Semantic Instance Segmentation**|Soroosh Baselizadeh et.al.|[2504.14054](http://arxiv.org/abs/2504.14054)|null|
 |**2025-04-18**|**Enhancing Pothole Detection and Characterization: Integrated Segmentation and Depth Estimation in Road Anomaly Systems**|Uthman Baroudi et.al.|[2504.13648](http://arxiv.org/abs/2504.13648)|null|
 |**2025-04-17**|**Perception Encoder: The best visual embeddings are not at the output of the network**|Daniel Bolya et.al.|[2504.13181](http://arxiv.org/abs/2504.13181)|null|
 |**2025-04-17**|**TSGS: Improving Gaussian Splatting for Transparent Surface Reconstruction via Normal and De-lighting Priors**|Mingwei Li et.al.|[2504.12799](http://arxiv.org/abs/2504.12799)|null|
@@ -348,6 +351,7 @@
 
 ## Gesture Recognition
 
+|**2025-04-20**|**Time Frequency Analysis of EMG Signal for Gesture Recognition using Fine grained Features**|Parshuram N. Aarotale et.al.|[2504.14708](http://arxiv.org/abs/2504.14708)|null|
 |**2025-04-17**|**Wearable-Derived Behavioral and Physiological Biomarkers for Classifying Unipolar and Bipolar Depression Severity**|Yassine Ouzar et.al.|[2504.13331](http://arxiv.org/abs/2504.13331)|null|
 |**2025-04-15**|**Can Vision-Language Models Understand and Interpret Dynamic Gestures from Pedestrians? Pilot Datasets and Exploration Towards Instructive Nonverbal Commands for Cooperative Autonomous Vehicles**|Tonko E. W. Bossen et.al.|[2504.10873](http://arxiv.org/abs/2504.10873)|null|
 |**2025-04-14**|**Hands-On: Segmenting Individual Signs from Continuous Sequences**|Low Jian He et.al.|[2504.08593](http://arxiv.org/abs/2504.08593)|null|
@@ -455,6 +459,8 @@
 
 ## Eye Tracking
 
+|**2025-04-21**|**Shifts in Doctors' Eye Movements Between Real and AI-Generated Medical Images**|David C Wong et.al.|[2504.15007](http://arxiv.org/abs/2504.15007)|null|
+|**2025-04-21**|**Multimodal Non-Semantic Feature Fusion for Predicting Segment Access Frequency in Lecture Archives**|Ruozhu Sheng et.al.|[2504.14927](http://arxiv.org/abs/2504.14927)|null|
 |**2025-04-17**|**A Stochastic Nonlinear Dynamical System for Smoothing Noisy Eye Gaze Data**|Thoa Thieu et.al.|[2504.13278](http://arxiv.org/abs/2504.13278)|null|
 |**2025-04-17**|**On Error Classification from Physiological Signals within Airborne Environment**|Niall McGuire et.al.|[2504.12769](http://arxiv.org/abs/2504.12769)|null|
 |**2025-04-15**|**DMAGaze: Gaze Estimation Based on Feature Disentanglement and Multi-Scale Attention**|Haohan Chen et.al.|[2504.11160](http://arxiv.org/abs/2504.11160)|null|
@@ -603,6 +609,16 @@
 
 ## VLM/LLM
 
+|**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280](http://arxiv.org/abs/2504.15280)|null|
+|**2025-04-21**|**VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models**|Weiye Xu et.al.|[2504.15279](http://arxiv.org/abs/2504.15279)|null|
+|**2025-04-21**|**Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning**|Jie Cheng et.al.|[2504.15275](http://arxiv.org/abs/2504.15275)|**[link](https://github.com/cjreinforce/pure)**|
+|**2025-04-21**|**Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models**|Guo Chen et.al.|[2504.15271](http://arxiv.org/abs/2504.15271)|null|
+|**2025-04-21**|**Interpretable Locomotion Prediction in Construction Using a Memory-Driven LLM Agent With Chain-of-Thought Reasoning**|Ehsan Ahmadi et.al.|[2504.15263](http://arxiv.org/abs/2504.15263)|null|
+|**2025-04-21**|**CRUST-Bench: A Comprehensive Benchmark for C-to-safe-Rust Transpilation**|Anirudh Khatry et.al.|[2504.15254](http://arxiv.org/abs/2504.15254)|**[link](https://github.com/anirudhkhatry/crust-bench)**|
+|**2025-04-21**|**Evaluating Judges as Evaluators: The JETTS Benchmark of LLM-as-Judges as Test-Time Scaling Evaluators**|Yilun Zhou et.al.|[2504.15253](http://arxiv.org/abs/2504.15253)|**[link](https://github.com/salesforceairesearch/jetts-benchmark)**|
+|**2025-04-21**|**MR. Guard: Multilingual Reasoning Guardrail using Curriculum Learning**|Yahan Yang et.al.|[2504.15241](http://arxiv.org/abs/2504.15241)|null|
+|**2025-04-21**|**A Self-Improving Coding Agent**|Maxime Robeyns et.al.|[2504.15228](http://arxiv.org/abs/2504.15228)|null|
+|**2025-04-21**|**EvalAgent: Discovering Implicit Evaluation Criteria from the Web**|Manya Wadhwa et.al.|[2504.15219](http://arxiv.org/abs/2504.15219)|null|
 |**2025-04-18**|**Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?**|Yang Yue et.al.|[2504.13837](http://arxiv.org/abs/2504.13837)|null|
 |**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834](http://arxiv.org/abs/2504.13834)|null|
 |**2025-04-18**|**Generative AI Act II: Test Time Scaling Drives Cognition Engineering**|Shijie Xia et.al.|[2504.13828](http://arxiv.org/abs/2504.13828)|null|
@@ -1966,6 +1982,16 @@
 
 ## Diffusion
 
+|**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281](http://arxiv.org/abs/2504.15281)|null|
+|**2025-04-21**|**Diffusion Bridge Models for 3D Medical Image Translation**|Shaorong Zhang et.al.|[2504.15267](http://arxiv.org/abs/2504.15267)|null|
+|**2025-04-21**|**Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction**|Vaishnavh Nagarajan et.al.|[2504.15266](http://arxiv.org/abs/2504.15266)|**[link](https://github.com/chenwu98/algorithmic-creativity)**|
+|**2025-04-21**|**Bringing Diversity from Diffusion Models to Semantic-Guided Face Asset Generation**|Yunxuan Cai et.al.|[2504.15259](http://arxiv.org/abs/2504.15259)|null|
+|**2025-04-21**|**DRAGON: Distributional Rewards Optimize Diffusion Generative Models**|Yatong Bai et.al.|[2504.15217](http://arxiv.org/abs/2504.15217)|null|
+|**2025-04-21**|**Reaction-diffusion approximation of nonlocal interactions in high-dimensional Euclidean space**|Hiroshi Ishii et.al.|[2504.15180](http://arxiv.org/abs/2504.15180)|null|
+|**2025-04-21**|**FaceCraft4D: Animated 3D Facial Avatar Generation from a Single Image**|Fei Yin et.al.|[2504.15179](http://arxiv.org/abs/2504.15179)|null|
+|**2025-04-21**|**DSPO: Direct Semantic Preference Optimization for Real-World Image Super-Resolution**|Miaomiao Cai et.al.|[2504.15176](http://arxiv.org/abs/2504.15176)|null|
+|**2025-04-21**|**Acquire and then Adapt: Squeezing out Text-to-Image Model for Image Restoration**|Junyuan Deng et.al.|[2504.15159](http://arxiv.org/abs/2504.15159)|null|
+|**2025-04-21**|**Artificial compressibility method for the incompressible Navier-Stokes equations with variable density**|Cappanera Loic et.al.|[2504.15151](http://arxiv.org/abs/2504.15151)|null|
 |**2025-04-18**|**An eco-epidemiological model with prey-taxis and slow diffusion: Global existence, boundedness and novel dynamics**|Ranjit Kumar Upadhyay et.al.|[2504.13764](http://arxiv.org/abs/2504.13764)|null|
 |**2025-04-18**|**Decoding Vision Transformers: the Diffusion Steering Lens**|Ryota Takatsuki et.al.|[2504.13763](http://arxiv.org/abs/2504.13763)|null|
 |**2025-04-18**|**ESPLoRA: Enhanced Spatial Precision with Low-Rank Adaption in Text-to-Image Diffusion Models for High-Definition Synthesis**|Andrea Rigo et.al.|[2504.13745](http://arxiv.org/abs/2504.13745)|null|
@@ -3325,7 +3351,16 @@
 
 ## Neural Rendering
 
-|**2025-04-18**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
+|**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281](http://arxiv.org/abs/2504.15281)|null|
+|**2025-04-21**|**Immersive Teleoperation Framework for Locomanipulation Tasks**|Takuya Boehringer et.al.|[2504.15229](http://arxiv.org/abs/2504.15229)|null|
+|**2025-04-21**|**MoBGS: Motion Deblurring Dynamic 3D Gaussian Splatting for Blurry Monocular Video**|Minh-Quan Viet Bui et.al.|[2504.15122](http://arxiv.org/abs/2504.15122)|null|
+|**2025-04-20**|**IXGS-Intraoperative 3D Reconstruction from Sparse, Arbitrarily Posed Real X-rays**|Sascha Jecklin et.al.|[2504.14699](http://arxiv.org/abs/2504.14699)|null|
+|**2025-04-20**|**NVSMask3D: Hard Visual Prompting with Camera Pose Interpolation for 3D Open Vocabulary Instance Segmentation**|Junyuan Fang et.al.|[2504.14638](http://arxiv.org/abs/2504.14638)|null|
+|**2025-04-20**|**VGNC: Reducing the Overfitting of Sparse-view 3DGS via Validation-guided Gaussian Number Control**|Lifeng Lin et.al.|[2504.14548](http://arxiv.org/abs/2504.14548)|null|
+|**2025-04-20**|**Metamon-GS: Enhancing Representability with Variance-Guided Densification and Light Encoding**|Junyan Su et.al.|[2504.14460](http://arxiv.org/abs/2504.14460)|null|
+|**2025-04-19**|**SEGA: Drivable 3D Gaussian Head Avatar from a Single Image**|Chen Guo et.al.|[2504.14373](http://arxiv.org/abs/2504.14373)|null|
+|**2025-04-18**|**Scaling LLaNA: Advancing NeRF-Language Understanding Through Large-Scale Training**|Andrea Amaduzzi et.al.|[2504.13995](http://arxiv.org/abs/2504.13995)|null|
+|**2025-04-21**|**SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM**|Samuel Cerezo et.al.|[2504.13713](http://arxiv.org/abs/2504.13713)|**[link](https://github.com/samuel-cerezo/SLAM-Render)**|
 |**2025-04-18**|**Green Robotic Mixed Reality with Gaussian Splatting**|Chenxuan Liu et.al.|[2504.13697](http://arxiv.org/abs/2504.13697)|null|
 |**2025-04-18**|**EG-Gaussian: Epipolar Geometry and Graph Network Enhanced 3D Gaussian Splatting**|Beizhen Zhao et.al.|[2504.13540](http://arxiv.org/abs/2504.13540)|null|
 |**2025-04-17**|**Volume Encoding Gaussians: Transfer Function-Agnostic 3D Gaussians for Volume Rendering**|Landon Dyken et.al.|[2504.13339](http://arxiv.org/abs/2504.13339)|null|
@@ -5509,6 +5544,9 @@
 
 ## RSR
 
+|**2025-04-21**|**DRAWER: Digital Reconstruction and Articulation With Environment Realism**|Hongchi Xia et.al.|[2504.15278](http://arxiv.org/abs/2504.15278)|null|
+|**2025-04-21**|**A General Infrastructure and Workflow for Quadrotor Deep Reinforcement Learning and Reality Deployment**|Kangyao Huang et.al.|[2504.15129](http://arxiv.org/abs/2504.15129)|null|
+|**2025-04-19**|**Unreal Robotics Lab: A High-Fidelity Robotics Simulator with Advanced Physics and Rendering**|Jonathan Embley-Riches et.al.|[2504.14135](http://arxiv.org/abs/2504.14135)|null|
 |**2025-04-18**|**Robust Humanoid Walking on Compliant and Uneven Terrain with Deep Reinforcement Learning**|Rohan P. Singh et.al.|[2504.13619](http://arxiv.org/abs/2504.13619)|null|
 |**2025-04-17**|**Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**|Sizhe Yang et.al.|[2504.13175](http://arxiv.org/abs/2504.13175)|null|
 |**2025-04-17**|**Imperative MPC: An End-to-End Self-Supervised Learning with Differentiable MPC for UAV Attitude Control**|Haonan He et.al.|[2504.13088](http://arxiv.org/abs/2504.13088)|null|
