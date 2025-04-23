@@ -5,13 +5,13 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2025.04.22
+Updated on 2025.04.23
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-21**|**VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**|Mingxia Zhan et.al.|[2504.15095](http://arxiv.org/abs/2504.15095)|null|
-|**2025-04-20**|**Seurat: From Moving Points to Depth**|Seokju Cho et.al.|[2504.14687](http://arxiv.org/abs/2504.14687)|null|
+|**2025-04-22**|**VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**|Mingxia Zhan et.al.|[2504.15095](http://arxiv.org/abs/2504.15095)|null|
+|**2025-04-20**|**Seurat: From Moving Points to Depth**|Seokju Cho et.al.|[2504.14687](http://arxiv.org/abs/2504.14687)|**[link](https://github.com/cvlab-kaist/seurat)**|
 |**2025-04-18**|**Occlusion-Ordered Semantic Instance Segmentation**|Soroosh Baselizadeh et.al.|[2504.14054](http://arxiv.org/abs/2504.14054)|null|
 |**2025-04-18**|**Enhancing Pothole Detection and Characterization: Integrated Segmentation and Depth Estimation in Road Anomaly Systems**|Uthman Baroudi et.al.|[2504.13648](http://arxiv.org/abs/2504.13648)|null|
 |**2025-04-17**|**Perception Encoder: The best visual embeddings are not at the output of the network**|Daniel Bolya et.al.|[2504.13181](http://arxiv.org/abs/2504.13181)|null|
@@ -5540,7 +5540,7 @@ Updated on 2025.04.22
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-21**|**DRAWER: Digital Reconstruction and Articulation With Environment Realism**|Hongchi Xia et.al.|[2504.15278](http://arxiv.org/abs/2504.15278)|null|
+|**2025-04-22**|**DRAWER: Digital Reconstruction and Articulation With Environment Realism**|Hongchi Xia et.al.|[2504.15278](http://arxiv.org/abs/2504.15278)|null|
 |**2025-04-21**|**A General Infrastructure and Workflow for Quadrotor Deep Reinforcement Learning and Reality Deployment**|Kangyao Huang et.al.|[2504.15129](http://arxiv.org/abs/2504.15129)|null|
 |**2025-04-19**|**Unreal Robotics Lab: A High-Fidelity Robotics Simulator with Advanced Physics and Rendering**|Jonathan Embley-Riches et.al.|[2504.14135](http://arxiv.org/abs/2504.14135)|null|
 |**2025-04-18**|**Robust Humanoid Walking on Compliant and Uneven Terrain with Deep Reinforcement Learning**|Rohan P. Singh et.al.|[2504.13619](http://arxiv.org/abs/2504.13619)|null|
