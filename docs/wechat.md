@@ -1,4 +1,4 @@
-> Updated on 2025.04.24
+> Updated on 2025.04.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -351,7 +351,7 @@
 |**2024-09-23**|**GroCo: Ground Constraint for Metric Self-Supervised Monocular Depth**|Aurélien Cecille et.al.|[2409.14850](http://arxiv.org/abs/2409.14850)|**[link](https://github.com/Visual-Behavior/GroCo)**|
 |**2024-09-23**|**Robust and Flexible Omnidirectional Depth Estimation with Multiple 360° Cameras**|Ming Li et.al.|[2409.14766](http://arxiv.org/abs/2409.14766)|null|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 ## Gesture Recognition
 
@@ -460,11 +460,11 @@
 |**2024-09-10**|**Advancements in Gesture Recognition Techniques and Machine Learning for Enhanced Human-Robot Interaction: A Comprehensive Review**|Sajjad Hussain et.al.|[2409.06503](http://arxiv.org/abs/2409.06503)|null|
 |**2024-09-05**|**MVTN: A Multiscale Video Transformer Network for Hand Gesture Recognition**|Mallika Garg et.al.|[2409.03890](http://arxiv.org/abs/2409.03890)|**[link](https://github.com/mallikagarg/mvtn)**|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 ## Eye Tracking
 
-|**2025-04-21**|**Shifts in Doctors' Eye Movements Between Real and AI-Generated Medical Images**|David C Wong et.al.|[2504.15007](http://arxiv.org/abs/2504.15007)|null|
+|**2025-04-24**|**Shifts in Doctors' Eye Movements Between Real and AI-Generated Medical Images**|David C Wong et.al.|[2504.15007](http://arxiv.org/abs/2504.15007)|null|
 |**2025-04-21**|**Multimodal Non-Semantic Feature Fusion for Predicting Segment Access Frequency in Lecture Archives**|Ruozhu Sheng et.al.|[2504.14927](http://arxiv.org/abs/2504.14927)|null|
 |**2025-04-17**|**A Stochastic Nonlinear Dynamical System for Smoothing Noisy Eye Gaze Data**|Thoa Thieu et.al.|[2504.13278](http://arxiv.org/abs/2504.13278)|null|
 |**2025-04-17**|**On Error Classification from Physiological Signals within Airborne Environment**|Niall McGuire et.al.|[2504.12769](http://arxiv.org/abs/2504.12769)|null|
@@ -610,7 +610,7 @@
 |**2024-09-11**|**Bridging Quantitative and Qualitative Methods for Visualization Research: A Data/Semantics Perspective in Light of Advanced AI**|Daniel Weiskopf et.al.|[2409.07250](http://arxiv.org/abs/2409.07250)|null|
 |**2024-09-10**|**Mazed and Confused: A Dataset of Cybersickness, Working Memory, Mental Load, Physical Load, and Attention During a Real Walking Task in VR**|Jyotirmay Nag Setu et.al.|[2409.06898](http://arxiv.org/abs/2409.06898)|null|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 ## VLM/LLM
 
@@ -620,7 +620,7 @@
 |**2025-04-23**|**Do Large Language Models know who did what to whom?**|Joseph M. Denning et.al.|[2504.16884](http://arxiv.org/abs/2504.16884)|null|
 |**2025-04-23**|**Enhancing Critical Thinking with AI: A Tailored Warning System for RAG Models**|Xuyang Zhu et.al.|[2504.16883](http://arxiv.org/abs/2504.16883)|null|
 |**2025-04-23**|**Context-Enhanced Vulnerability Detection Based on Large Language Model**|Yixin Yang et.al.|[2504.16877](http://arxiv.org/abs/2504.16877)|null|
-|**2025-04-23**|**Exploring How LLMs Capture and Represent Domain-Specific Knowledge**|Mirian Hipolito Garcia et.al.|[2504.16871](http://arxiv.org/abs/2504.16871)|null|
+|**2025-04-24**|**Exploring How LLMs Capture and Represent Domain-Specific Knowledge**|Mirian Hipolito Garcia et.al.|[2504.16871](http://arxiv.org/abs/2504.16871)|null|
 |**2025-04-23**|**Planning with Diffusion Models for Target-Oriented Dialogue Systems**|Hanwen Du et.al.|[2504.16858](http://arxiv.org/abs/2504.16858)|null|
 |**2025-04-23**|**Emo Pillars: Knowledge Distillation to Support Fine-Grained Context-Aware and Context-Less Emotion Classification**|Alexander Shvets et.al.|[2504.16856](http://arxiv.org/abs/2504.16856)|null|
 |**2025-04-23**|**Monte Carlo Planning with Large Language Model for Text-Based Game Agents**|Zijing Shi et.al.|[2504.16855](http://arxiv.org/abs/2504.16855)|null|
@@ -2003,7 +2003,7 @@
 |**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278](http://arxiv.org/abs/2409.16278)|null|
 |**2024-09-24**|**CDChat: A Large Multimodal Model for Remote Sensing Change Description**|Mubashir Noman et.al.|[2409.16261](http://arxiv.org/abs/2409.16261)|**[link](https://github.com/techmn/cdchat)**|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 ## Diffusion
 
@@ -2015,7 +2015,7 @@
 |**2025-04-23**|**Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models**|Ilyass Taouil et.al.|[2504.16843](http://arxiv.org/abs/2504.16843)|null|
 |**2025-04-23**|**Distributed Unknown Input Observers for Discrete-Time Linear Time-Invariant Systems**|Franco Angelo Torchiaro et.al.|[2504.16815](http://arxiv.org/abs/2504.16815)|null|
 |**2025-04-23**|**Thermal Evolution and Mass Loss on Short-Period, Low-Mass Planets During FU Orionis Outbursts**|Juliette Becker et.al.|[2504.16772](http://arxiv.org/abs/2504.16772)|null|
-|**2025-04-23**|**Simple Graph Contrastive Learning via Fractional-order Neural Diffusion Networks**|Yanan Zhao et.al.|[2504.16748](http://arxiv.org/abs/2504.16748)|null|
+|**2025-04-24**|**Simple Graph Contrastive Learning via Fractional-order Neural Diffusion Networks**|Yanan Zhao et.al.|[2504.16748](http://arxiv.org/abs/2504.16748)|null|
 |**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[2504.16740](http://arxiv.org/abs/2504.16740)|null|
 |**2025-04-22**|**Survey of Video Diffusion Models: Foundations, Implementations, and Applications**|Yimu Wang et.al.|[2504.16081](http://arxiv.org/abs/2504.16081)|null|
 |**2025-04-22**|**From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning**|Le Zhuo et.al.|[2504.16080](http://arxiv.org/abs/2504.16080)|null|
@@ -3392,7 +3392,7 @@
 |**2024-09-25**|**Decomposition of Friction Coefficients to Analyze Hydration Effects on a C $_{60}$(OH)$_{\rm n}$**|Tomoya Iwashita et.al.|[2409.17028](http://arxiv.org/abs/2409.17028)|null|
 |**2024-09-25**|**Single Image, Any Face: Generalisable 3D Face Generation**|Wenqing Wang et.al.|[2409.16990](http://arxiv.org/abs/2409.16990)|null|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 ## Neural Rendering
 
@@ -5593,7 +5593,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
 ## RSR
 
@@ -5739,5 +5739,5 @@
 |**2024-11-02**|**GarmentLab: A Unified Simulation and Benchmark for Garment Manipulation**|Haoran Lu et.al.|[2411.01200](http://arxiv.org/abs/2411.01200)|**[link](https://github.com/GarmentLab/GarmentLab)**|
 |**2024-10-31**|**Learning Visual Parkour from Generated Images**|Alan Yu et.al.|[2411.00083](http://arxiv.org/abs/2411.00083)|null|
 
-<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
 
