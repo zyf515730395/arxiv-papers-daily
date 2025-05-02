@@ -5,7 +5,7 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2025.05.01
+Updated on 2025.05.02
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -485,7 +485,7 @@ Updated on 2025.05.01
 |**2025-04-28**|**Using Fixed and Mobile Eye Tracking to Understand How Visitors View Art in a Museum: A Study at the Bowes Museum, County Durham, UK**|Claire Warwick et.al.|[2504.19881](http://arxiv.org/abs/2504.19881)|null|
 |**2025-04-28**|**To MT or not to MT: An eye-tracking study on the reception by Dutch readers of different translation and creativity levels**|Kyo Gerrits et.al.|[2504.19850](http://arxiv.org/abs/2504.19850)|null|
 |**2025-04-28**|**HOIGaze: Gaze Estimation During Hand-Object Interactions in Extended Reality Exploiting Eye-Hand-Head Coordination**|Zhiming Hu et.al.|[2504.19828](http://arxiv.org/abs/2504.19828)|null|
-|**2025-04-26**|**Advancing Face-to-Face Emotion Communication: A Multimodal Dataset (AFFEC)**|Meisam J. Sekiavandi et.al.|[2504.18969](http://arxiv.org/abs/2504.18969)|null|
+|**2025-05-01**|**Advancing Face-to-Face Emotion Communication: A Multimodal Dataset (AFFEC)**|Meisam J. Sekiavandi et.al.|[2504.18969](http://arxiv.org/abs/2504.18969)|null|
 |**2025-04-25**|**Event-Based Eye Tracking. 2025 Event-based Vision Workshop**|Qinyu Chen et.al.|[2504.18249](http://arxiv.org/abs/2504.18249)|null|
 |**2025-04-24**|**Exploring Context-aware and LLM-driven Locomotion for Immersive Virtual Reality**|Süleyman Özdel et.al.|[2504.17331](http://arxiv.org/abs/2504.17331)|null|
 |**2025-04-24**|**Shifts in Doctors' Eye Movements Between Real and AI-Generated Medical Images**|David C Wong et.al.|[2504.15007](http://arxiv.org/abs/2504.15007)|null|
@@ -3526,7 +3526,7 @@ Updated on 2025.05.01
 |**2025-04-29**|**EfficientHuman: Efficient Training and Reconstruction of Moving Human using Articulated 2D Gaussian**|Hao Tian et.al.|[2504.20607](http://arxiv.org/abs/2504.20607)|null|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
 |**2025-04-29**|**Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting**|Hanxi Liu et.al.|[2504.20403](http://arxiv.org/abs/2504.20403)|null|
-|**2025-04-29**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
+|**2025-05-01**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
 |**2025-04-29**|**Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**|Jiang Wu et.al.|[2504.20378](http://arxiv.org/abs/2504.20378)|null|
 |**2025-04-28**|**LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields**|Zhengqin Li et.al.|[2504.20026](http://arxiv.org/abs/2504.20026)|null|
 |**2025-04-28**|**Mesh-Learner: Texturing Mesh with Spherical Harmonics**|Yunfei Wan et.al.|[2504.19938](http://arxiv.org/abs/2504.19938)|null|
