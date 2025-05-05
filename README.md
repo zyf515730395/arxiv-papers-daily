@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**LMDepth: Lightweight Mamba-based Monocular Depth Estimation for Real-World Deployment**|Jiahuan Long et.al.|[2505.00980](http://arxiv.org/abs/2505.00980)|null|
 |**2025-05-01**|**JointDiT: Enhancing RGB-Depth Joint Modeling with Diffusion Transformers**|Kwon Byung-Ki et.al.|[2505.00482](http://arxiv.org/abs/2505.00482)|null|
 |**2025-04-30**|**HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation**|Haiyang Zhou et.al.|[2504.21650](http://arxiv.org/abs/2504.21650)|null|
 |**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562](http://arxiv.org/abs/2504.21562)|null|
@@ -490,6 +491,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Group Gaze-Sharing with Projection Displays**|Maurice Koch et.al.|[2505.01413](http://arxiv.org/abs/2505.01413)|null|
 |**2025-04-29**|**Deep Learning Characterizes Depression and Suicidal Ideation from Eye Movements**|Kleanthis Avramidis et.al.|[2504.20944](http://arxiv.org/abs/2504.20944)|null|
 |**2025-04-29**|**RecGaze: The First Eye Tracking and User Interaction Dataset for Carousel Interfaces**|Santiago de Leon-Martinez et.al.|[2504.20792](http://arxiv.org/abs/2504.20792)|null|
 |**2025-04-29**|**Occlusion-aware Driver Monitoring System using the Driver Monitoring Dataset**|Paola Natalia Cañas et.al.|[2504.20677](http://arxiv.org/abs/2504.20677)|null|
@@ -651,6 +653,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Dynamic Robot Tool Use with Vision Language Models**|Noah Trupin et.al.|[2505.01399](http://arxiv.org/abs/2505.01399)|null|
+|**2025-05-02**|**TRAVELER: A Benchmark for Evaluating Temporal Reasoning across Vague, Implicit and Explicit References**|Svenja Kenneweg et.al.|[2505.01325](http://arxiv.org/abs/2505.01325)|null|
+|**2025-05-02**|**Helping Big Language Models Protect Themselves: An Enhanced Filtering and Summarization System**|Sheikh Samit Muhaimin et.al.|[2505.01315](http://arxiv.org/abs/2505.01315)|null|
+|**2025-05-02**|**Enhancing SPARQL Query Rewriting for Complex Ontology Alignments**|Anicet Lepetit Ondo et.al.|[2505.01309](http://arxiv.org/abs/2505.01309)|null|
+|**2025-05-02**|**Document Retrieval Augmented Fine-Tuning (DRAFT) for safety-critical software assessments**|Regan Bolton et.al.|[2505.01307](http://arxiv.org/abs/2505.01307)|null|
+|**2025-05-02**|**FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing**|Gaoxiang Cong et.al.|[2505.01263](http://arxiv.org/abs/2505.01263)|null|
+|**2025-05-02**|**Digital Pathway Curation (DPC): a comparative pipeline to assess the reproducibility, consensus and accuracy across Gemini, PubMed, and scientific reviewers in biomedical research**|Flavio Lichtenstein et.al.|[2505.01259](http://arxiv.org/abs/2505.01259)|null|
+|**2025-05-02**|**EvalxNLP: A Framework for Benchmarking Post-Hoc Explainability Methods on NLP Models**|Mahdi Dhaini et.al.|[2505.01238](http://arxiv.org/abs/2505.01238)|null|
+|**2025-05-02**|**CaReAQA: A Cardiac and Respiratory Audio Question Answering Model for Open-Ended Diagnostic Reasoning**|Tsai-Ning Wang et.al.|[2505.01199](http://arxiv.org/abs/2505.01199)|null|
+|**2025-05-02**|**LLM Security: Vulnerabilities, Attacks, Defenses, and Countermeasures**|Francisco Aguilera-Martínez et.al.|[2505.01177](http://arxiv.org/abs/2505.01177)|null|
 |**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703](http://arxiv.org/abs/2505.00703)|null|
 |**2025-05-01**|**Robotic Visual Instruction**|Yanbang Li et.al.|[2505.00693](http://arxiv.org/abs/2505.00693)|null|
 |**2025-05-01**|**Visual Test-time Scaling for GUI Agent Grounding**|Tiange Luo et.al.|[2505.00684](http://arxiv.org/abs/2505.00684)|null|
@@ -2106,6 +2118,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**GENMO: A GENeralist Model for Human MOtion**|Jiefeng Li et.al.|[2505.01425](http://arxiv.org/abs/2505.01425)|null|
+|**2025-05-02**|**VIDSTAMP: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models**|Mohammadreza Teymoorianfard et.al.|[2505.01406](http://arxiv.org/abs/2505.01406)|null|
+|**2025-05-02**|**Experiments in a novel quasi-1D diffusion flame with variable bulk flow**|Etienne Robert et.al.|[2505.01384](http://arxiv.org/abs/2505.01384)|null|
+|**2025-05-02**|**Provable Efficiency of Guidance in Diffusion Models for General Data Distribution**|Gen Li et.al.|[2505.01382](http://arxiv.org/abs/2505.01382)|null|
+|**2025-05-02**|**Modelling spontaneous ductile (viscous) strain localisation on Earth**|Andréa Tommasi et.al.|[2505.01360](http://arxiv.org/abs/2505.01360)|null|
+|**2025-05-02**|**Gradient estimates for an orthotropic nonlinear diffusion equation in the Heisenberg group**|Michele Circelli et.al.|[2505.01354](http://arxiv.org/abs/2505.01354)|null|
+|**2025-05-02**|**Diffusivity of the Lorentz mirror walk in high dimensions**|Dor Elboim et.al.|[2505.01341](http://arxiv.org/abs/2505.01341)|null|
+|**2025-05-02**|**FreeInsert: Disentangled Text-Guided Object Insertion in 3D Gaussian Scene without Spatial Priors**|Chenxi Li et.al.|[2505.01322](http://arxiv.org/abs/2505.01322)|null|
+|**2025-05-02**|**Model See Model Do: Speech-Driven Facial Animation with Style Control**|Yifang Pan et.al.|[2505.01319](http://arxiv.org/abs/2505.01319)|null|
+|**2025-05-02**|**Diffusion-based Adversarial Purification from the Perspective of the Frequency Domain**|Gaozheng Pei et.al.|[2505.01267](http://arxiv.org/abs/2505.01267)|null|
 |**2025-05-01**|**Controllable Weather Synthesis and Removal with Video Diffusion Models**|Chih-Hao Lin et.al.|[2505.00704](http://arxiv.org/abs/2505.00704)|null|
 |**2025-05-01**|**GuideSR: Rethinking Guidance for One-Step High-Fidelity Diffusion-Based Super-Resolution**|Aditya Arora et.al.|[2505.00687](http://arxiv.org/abs/2505.00687)|null|
 |**2025-05-01**|**The local coupling of noise technique and its application to lower error bounds for strong approximation of SDEs with irregular coefficients**|Simon Ellinger et.al.|[2505.00656](http://arxiv.org/abs/2505.00656)|null|
@@ -3557,6 +3579,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research**|Yan Miao et.al.|[2505.01383](http://arxiv.org/abs/2505.01383)|null|
+|**2025-05-02**|**Compensating Spatiotemporally Inconsistent Observations for Online Dynamic 3D Gaussian Splatting**|Youngsik Yun et.al.|[2505.01235](http://arxiv.org/abs/2505.01235)|null|
+|**2025-04-30**|**A Survey on 3D Reconstruction Techniques in Plant Phenotyping: From Classical Methods to Neural Radiance Fields (NeRF), 3D Gaussian Splatting (3DGS), and Beyond**|Jiajia Li et.al.|[2505.00737](http://arxiv.org/abs/2505.00737)|null|
 |**2025-05-01**|**Real-Time Animatable 2DGS-Avatars with Detail Enhancement from Monocular Videos**|Xia Yuan et.al.|[2505.00421](http://arxiv.org/abs/2505.00421)|null|
 |**2025-05-01**|**Cues3D: Unleashing the Power of Sole NeRF for Consistent and Unique Instances in Open-Vocabulary 3D Panoptic Segmentation**|Feng Xue et.al.|[2505.00378](http://arxiv.org/abs/2505.00378)|null|
 |**2025-04-30**|**HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation**|Haiyang Zhou et.al.|[2504.21650](http://arxiv.org/abs/2504.21650)|null|
@@ -5785,6 +5810,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research**|Yan Miao et.al.|[2505.01383](http://arxiv.org/abs/2505.01383)|null|
+|**2025-05-02**|**DexCtrl: Towards Sim-to-Real Dexterity with Adaptive Controller Learning**|Shuqi Zhao et.al.|[2505.00991](http://arxiv.org/abs/2505.00991)|null|
 |**2025-04-30**|**One Net to Rule Them All: Domain Randomization in Quadcopter Racing Across Different Platforms**|Robin Ferede et.al.|[2504.21586](http://arxiv.org/abs/2504.21586)|null|
 |**2025-04-29**|**PRISM: Projection-based Reward Integration for Scene-Aware Real-to-Sim-to-Real Transfer with Few Demonstrations**|Haowen Sun et.al.|[2504.20520](http://arxiv.org/abs/2504.20520)|null|
 |**2025-04-29**|**Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation**|Pascal Roth et.al.|[2504.19322](http://arxiv.org/abs/2504.19322)|**[link](https://github.com/leggedrobotics/fdm)**|
