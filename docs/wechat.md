@@ -50,7 +50,7 @@
 |**2025-04-13**|**FastRSR: Efficient and Accurate Road Surface Reconstruction from Bird's Eye View**|Yuting Zhao et.al.|[2504.09535](http://arxiv.org/abs/2504.09535)|null|
 |**2025-04-12**|**Text To 3D Object Generation For Scalable Room Assembly**|Sonia Laguna et.al.|[2504.09328](http://arxiv.org/abs/2504.09328)|null|
 |**2025-04-11**|**Cut-and-Splat: Leveraging Gaussian Splatting for Synthetic Data Generation**|Bram Vanherle et.al.|[2504.08473](http://arxiv.org/abs/2504.08473)|**[link](https://github.com/edm-research/cut-and-splat)**|
-|**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|null|
+|**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|**[link](https://github.com/jzr99/Geo4D)**|
 |**2025-04-10**|**ThermoStereoRT: Thermal Stereo Matching in Real Time via Knowledge Distillation and Attention-based Refinement**|Anning Hu et.al.|[2504.07418](http://arxiv.org/abs/2504.07418)|null|
 |**2025-04-09**|**FlashDepth: Real-time Streaming Video Depth Estimation at 2K Resolution**|Gene Chou et.al.|[2504.07093](http://arxiv.org/abs/2504.07093)|null|
 |**2025-04-08**|**POMATO: Marrying Pointmap Matching with Temporal Motion for Dynamic 3D Reconstruction**|Songyan Zhang et.al.|[2504.05692](http://arxiv.org/abs/2504.05692)|**[link](https://github.com/wyddmw/pomato)**|
@@ -115,7 +115,7 @@
 |**2025-03-10**|**SIRE: SE(3) Intrinsic Rigidity Embeddings**|Cameron Smith et.al.|[2503.07739](http://arxiv.org/abs/2503.07739)|null|
 |**2025-03-10**|**LBM: Latent Bridge Matching for Fast Image-to-Image Translation**|Clément Chadebec et.al.|[2503.07535](http://arxiv.org/abs/2503.07535)|**[link](https://github.com/gojasper/lbm)**|
 |**2025-03-12**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204](http://arxiv.org/abs/2503.07204)|null|
-|**2025-03-11**|**LightMotion: A Light and Tuning-free Method for Simulating Camera Motion in Video Generation**|Quanjian Song et.al.|[2503.06508](http://arxiv.org/abs/2503.06508)|null|
+|**2025-03-11**|**LightMotion: A Light and Tuning-free Method for Simulating Camera Motion in Video Generation**|Quanjian Song et.al.|[2503.06508](http://arxiv.org/abs/2503.06508)|**[link](https://github.com/QuanjianSong/LightMotion)**|
 |**2025-03-08**|**RGB-Phase Speckle: Cross-Scene Stereo 3D Reconstruction via Wrapped Pre-Normalization**|Kai Yang et.al.|[2503.06125](http://arxiv.org/abs/2503.06125)|null|
 |**2025-03-08**|**Towards Ambiguity-Free Spatial Foundation Model: Rethinking and Decoupling Depth Ambiguity**|Xiaohao Xu et.al.|[2503.06014](http://arxiv.org/abs/2503.06014)|**[link](https://github.com/xiaohao-xu/ambiguity-in-space)**|
 |**2025-03-07**|**TomatoScanner: phenotyping tomato fruit based on only RGB image**|Xiaobei Zhao et.al.|[2503.05568](http://arxiv.org/abs/2503.05568)|**[link](https://github.com/alextraveling/tomatoscanner)**|
@@ -292,7 +292,7 @@
 |**2024-11-18**|**Scalable Autoregressive Monocular Depth Estimation**|Jinhong Wang et.al.|[2411.11361](http://arxiv.org/abs/2411.11361)|null|
 |**2024-11-16**|**MetricGold: Leveraging Text-To-Image Latent Diffusion Models for Metric Depth Estimation**|Ansh Shah et.al.|[2411.10886](http://arxiv.org/abs/2411.10886)|**[link](https://github.com/AnshShah3009/MetricGold)**|
 |**2024-11-19**|**EVT: Efficient View Transformation for Multi-Modal 3D Object Detection**|Yongjin Lee et.al.|[2411.10715](http://arxiv.org/abs/2411.10715)|null|
-|**2024-11-15**|**Efficient Depth Estimation for Unstable Stereo Camera Systems on AR Glasses**|Yongfan Liu et.al.|[2411.10013](http://arxiv.org/abs/2411.10013)|null|
+|**2024-11-15**|**Efficient Depth Estimation for Unstable Stereo Camera Systems on AR Glasses**|Yongfan Liu et.al.|[2411.10013](http://arxiv.org/abs/2411.10013)|**[link](https://github.com/UCI-ISA-Lab/MultiHeadDepth-HomoDepth)**|
 |**2024-11-14**|**Architect: Generating Vivid and Interactive 3D Scenes with Hierarchical 2D Inpainting**|Yian Wang et.al.|[2411.09823](http://arxiv.org/abs/2411.09823)|null|
 |**2024-11-14**|**Adversarial Attacks Using Differentiable Rendering: A Survey**|Matthew Hull et.al.|[2411.09749](http://arxiv.org/abs/2411.09749)|null|
 |**2024-11-14**|**Mono2Stereo: Monocular Knowledge Transfer for Enhanced Stereo Matching**|Yuran Wang et.al.|[2411.09151](http://arxiv.org/abs/2411.09151)|null|
@@ -2246,7 +2246,7 @@
 |**2025-04-11**|**Rational constitutive law for the viscous stress tensor in incompressible two-phase flows: Derivation and tests against a 3D benchmark experiment**|Jacques Magnaudet et.al.|[2504.08648](http://arxiv.org/abs/2504.08648)|null|
 |**2025-04-11**|**Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization**|Jialu Li et.al.|[2504.08641](http://arxiv.org/abs/2504.08641)|null|
 |**2025-04-11**|**Latent Diffusion Autoencoders: Toward Efficient and Meaningful Unsupervised Representation Learning in Medical Imaging**|Gabriele Lozupone et.al.|[2504.08635](http://arxiv.org/abs/2504.08635)|**[link](https://github.com/GabrieleLozupone/LDAE)**|
-|**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|null|
+|**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|**[link](https://github.com/jzr99/Geo4D)**|
 |**2025-04-10**|**VisualCloze: A Universal Image Generation Framework via Visual In-Context Learning**|Zhong-Yu Li et.al.|[2504.07960](http://arxiv.org/abs/2504.07960)|null|
 |**2025-04-10**|**GenEAva: Generating Cartoon Avatars with Fine-Grained Facial Expressions from Realistic Diffusion-based Faces**|Hao Yu et.al.|[2504.07945](http://arxiv.org/abs/2504.07945)|null|
 |**2025-04-10**|**HoloPart: Generative 3D Part Amodal Segmentation**|Yunhan Yang et.al.|[2504.07943](http://arxiv.org/abs/2504.07943)|null|
@@ -3609,7 +3609,7 @@
 |**2025-04-15**|**Easy3D: A Simple Yet Effective Method for 3D Interactive Segmentation**|Andrea Simonelli et.al.|[2504.11024](http://arxiv.org/abs/2504.11024)|null|
 |**2025-04-15**|**3D Gabor Splatting: Reconstruction of High-frequency Surface Texture using Gabor Noise**|Haato Watanabe et.al.|[2504.11003](http://arxiv.org/abs/2504.11003)|null|
 |**2025-04-15**|**GaSLight: Gaussian Splats for Spatially-Varying Lighting in HDR**|Christophe Bolduc et.al.|[2504.10809](http://arxiv.org/abs/2504.10809)|null|
-|**2025-04-14**|**DNF-Avatar: Distilling Neural Fields for Real-time Animatable Avatar Relighting**|Zeren Jiang et.al.|[2504.10486](http://arxiv.org/abs/2504.10486)|null|
+|**2025-04-14**|**DNF-Avatar: Distilling Neural Fields for Real-time Animatable Avatar Relighting**|Zeren Jiang et.al.|[2504.10486](http://arxiv.org/abs/2504.10486)|**[link](https://github.com/jzr99/DNF-Avatar)**|
 |**2025-04-15**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331](http://arxiv.org/abs/2504.10331)|null|
 |**2025-04-14**|**ESCT3D: Efficient and Selectively Controllable Text-Driven 3D Content Generation with Gaussian Splatting**|Huiqi Wu et.al.|[2504.10316](http://arxiv.org/abs/2504.10316)|null|
 |**2025-04-14**|**Relative Illumination Fields: Learning Medium and Light Independent Underwater Scenes**|Mengkun She et.al.|[2504.10024](http://arxiv.org/abs/2504.10024)|null|
@@ -4196,7 +4196,7 @@
 |**2024-11-27**|**Make-It-Animatable: An Efficient Framework for Authoring Animation-Ready 3D Characters**|Zhiyang Guo et.al.|[2411.18197](http://arxiv.org/abs/2411.18197)|null|
 |**2024-11-27**|**SmileSplat: Generalizable Gaussian Splats for Unconstrained Sparse Images**|Yanyan Li et.al.|[2411.18072](http://arxiv.org/abs/2411.18072)|null|
 |**2024-11-27**|**GLS: Geometry-aware 3D Language Gaussian Splatting**|Jiaxiong Qiu et.al.|[2411.18066](http://arxiv.org/abs/2411.18066)|**[link](https://github.com/jiaxiongq/gls)**|
-|**2024-11-27**|**HI-SLAM2: Geometry-Aware Gaussian SLAM for Fast Monocular Scene Reconstruction**|Wei Zhang et.al.|[2411.17982](http://arxiv.org/abs/2411.17982)|null|
+|**2024-11-27**|**HI-SLAM2: Geometry-Aware Gaussian SLAM for Fast Monocular Scene Reconstruction**|Wei Zhang et.al.|[2411.17982](http://arxiv.org/abs/2411.17982)|**[link](https://github.com/Willyzw/HI-SLAM2)**|
 |**2024-11-26**|**DROID-Splat: Combining end-to-end SLAM with 3D Gaussian Splatting**|Christian Homeyer et.al.|[2411.17660](http://arxiv.org/abs/2411.17660)|**[link](https://github.com/chenhoy/droid-splat)**|
 |**2024-11-26**|**Distractor-free Generalizable 3D Gaussian Splatting**|Yanqi Bao et.al.|[2411.17605](http://arxiv.org/abs/2411.17605)|**[link](https://github.com/bbbbby-99/dggs)**|
 |**2024-11-26**|**MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields**|Yixiong Yang et.al.|[2411.17235](http://arxiv.org/abs/2411.17235)|**[link](https://github.com/liulisixin/mli-nerf)**|
