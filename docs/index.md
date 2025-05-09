@@ -5,12 +5,12 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2025.05.08
+Updated on 2025.05.09
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-07**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
+|**2025-05-08**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
 |**2025-05-06**|**Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach**|Srecharan Selvam et.al.|[2505.03702](http://arxiv.org/abs/2505.03702)|null|
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
 |**2025-05-06**|**VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704](http://arxiv.org/abs/2505.02704)|**[link](https://github.com/pakinwu/vgld)**|
@@ -655,7 +655,7 @@ Updated on 2025.05.08
 |**2025-05-07**|**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning**|Zhenghao Xing et.al.|[2505.04623](http://arxiv.org/abs/2505.04623)|null|
 |**2025-05-07**|**On Path to Multimodal Generalist: General-Level and General-Bench**|Hao Fei et.al.|[2505.04620](http://arxiv.org/abs/2505.04620)|null|
 |**2025-05-07**|**OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution**|Lianghong Guo et.al.|[2505.04606](http://arxiv.org/abs/2505.04606)|null|
-|**2025-05-07**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
+|**2025-05-08**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
 |**2025-05-07**|**ZeroSearch: Incentivize the Search Capability of LLMs without Searching**|Hao Sun et.al.|[2505.04588](http://arxiv.org/abs/2505.04588)|null|
 |**2025-05-07**|**SlideItRight: Using AI to Find Relevant Slides and Provide Feedback for Open-Ended Questions**|Chloe Qianhui Zhao et.al.|[2505.04584](http://arxiv.org/abs/2505.04584)|null|
 |**2025-05-07**|**Fight Fire with Fire: Defending Against Malicious RL Fine-Tuning via Reward Neutralization**|Wenjun Cao et.al.|[2505.04578](http://arxiv.org/abs/2505.04578)|null|
@@ -2147,7 +2147,7 @@ Updated on 2025.05.08
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-07**|**Score Distillation Sampling for Audio: Source Separation, Synthesis, and Beyond**|Jessie Richter-Powell et.al.|[2505.04621](http://arxiv.org/abs/2505.04621)|null|
 |**2025-05-07**|**Likelihood-Free Adaptive Bayesian Inference via Nonparametric Distribution Matching**|Wenhui Sophia Lu et.al.|[2505.04603](http://arxiv.org/abs/2505.04603)|null|
-|**2025-05-07**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
+|**2025-05-08**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
 |**2025-05-07**|**Text2CT: Towards 3D CT Volume Generation from Free-text Descriptions Using Diffusion Model**|Pengfei Guo et.al.|[2505.04522](http://arxiv.org/abs/2505.04522)|null|
 |**2025-05-07**|**Cosmic reflections I: the structural diversity of simulated and observed low-mass galaxy analogues**|G. Martin et.al.|[2505.04509](http://arxiv.org/abs/2505.04509)|null|
 |**2025-05-07**|**Accelerated escape dynamics in non-Markovian stochastic feedback**|Francesco Coghi et.al.|[2505.04489](http://arxiv.org/abs/2505.04489)|null|
