@@ -382,6 +382,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Comparison of Visual Trackers for Biomechanical Analysis of Running**|Luis F. Gomez et.al.|[2505.04713](http://arxiv.org/abs/2505.04713)|null|
 |**2025-05-07**|**FoodTrack: Estimating Handheld Food Portions with Egocentric Video**|Ervin Wang et.al.|[2505.04055](http://arxiv.org/abs/2505.04055)|null|
 |**2025-05-03**|**A Multimodal Framework for Explainable Evaluation of Soft Skills in Educational Environments**|Jared D. T. Guerrero-Sosa et.al.|[2505.01794](http://arxiv.org/abs/2505.01794)|null|
 |**2025-04-30**|**MovementVR: An open-source tool for the study of motor control and learning in virtual reality**|Cristina Rossi et.al.|[2504.21696](http://arxiv.org/abs/2504.21696)|null|
@@ -499,8 +500,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Contact Lens with Moiré patterns for High-Precision Eye Tracking**|I. M. Fradkin et.al.|[2505.05147](http://arxiv.org/abs/2505.05147)|null|
+|**2025-05-08**|**Uncertainty-Aware Scarf Plots**|Nelusa Pathmanathan et.al.|[2505.05038](http://arxiv.org/abs/2505.05038)|null|
 |**2025-05-07**|**manvr3d: A Platform for Human-in-the-loop Cell Tracking in Virtual Reality**|Samuel Pantze et.al.|[2505.03440](http://arxiv.org/abs/2505.03440)|null|
-|**2025-05-06**|**Characterising Topic Familiarity and Query Specificity Using Eye-Tracking Data**|Jiaman He et.al.|[2505.03136](http://arxiv.org/abs/2505.03136)|null|
+|**2025-05-06**|**Characterising Topic Familiarity and Query Specificity Using Eye-Tracking Data**|Jiaman He et.al.|[2505.03136](http://arxiv.org/abs/2505.03136)|**[link](https://github.com/peanuth/familiarity-queryspec)**|
 |**2025-05-04**|**Decoding Open-Ended Information Seeking Goals from Eye Movements in Reading**|Cfir Avraham Hadar et.al.|[2505.02872](http://arxiv.org/abs/2505.02872)|null|
 |**2025-05-02**|**Group Gaze-Sharing with Projection Displays**|Maurice Koch et.al.|[2505.01413](http://arxiv.org/abs/2505.01413)|null|
 |**2025-04-29**|**Deep Learning Characterizes Depression and Suicidal Ideation from Eye Movements**|Kleanthis Avramidis et.al.|[2504.20944](http://arxiv.org/abs/2504.20944)|null|
@@ -664,6 +667,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
+|**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469](http://arxiv.org/abs/2505.05469)|null|
+|**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467](http://arxiv.org/abs/2505.05467)|null|
+|**2025-05-08**|**ComPO: Preference Alignment via Comparison Oracles**|Peter Chen et.al.|[2505.05465](http://arxiv.org/abs/2505.05465)|null|
+|**2025-05-08**|**Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging**|Shiqi Chen et.al.|[2505.05464](http://arxiv.org/abs/2505.05464)|**[link](https://github.com/shiqichen17/vlm_merging)**|
+|**2025-05-08**|**UKElectionNarratives: A Dataset of Misleading Narratives Surrounding Recent UK General Elections**|Fatima Haouari et.al.|[2505.05459](http://arxiv.org/abs/2505.05459)|null|
+|**2025-05-08**|**SITE: towards Spatial Intelligence Thorough Evaluation**|Wenqi Wang et.al.|[2505.05456](http://arxiv.org/abs/2505.05456)|null|
+|**2025-05-08**|**Conversational Process Model Redesign**|Nataliia Klievtsova et.al.|[2505.05453](http://arxiv.org/abs/2505.05453)|null|
+|**2025-05-08**|**clem:todd: A Framework for the Systematic Benchmarking of LLM-Based Task-Oriented Dialogue System Realisations**|Chalamalasetti Kranti et.al.|[2505.05445](http://arxiv.org/abs/2505.05445)|null|
+|**2025-05-08**|**GesPrompt: Leveraging Co-Speech Gestures to Augment LLM-Based Interaction in Virtual Reality**|Xiyun Hu et.al.|[2505.05441](http://arxiv.org/abs/2505.05441)|null|
 |**2025-05-07**|**EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning**|Zhenghao Xing et.al.|[2505.04623](http://arxiv.org/abs/2505.04623)|null|
 |**2025-05-07**|**On Path to Multimodal Generalist: General-Level and General-Bench**|Hao Fei et.al.|[2505.04620](http://arxiv.org/abs/2505.04620)|null|
 |**2025-05-07**|**OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution**|Lianghong Guo et.al.|[2505.04606](http://arxiv.org/abs/2505.04606)|null|
@@ -2159,6 +2172,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475](http://arxiv.org/abs/2505.05475)|**[link](https://github.com/yc4ny/SVAD)**|
+|**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
+|**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
+|**2025-05-08**|**Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**|Chao Liao et.al.|[2505.05472](http://arxiv.org/abs/2505.05472)|null|
+|**2025-05-08**|**Radial Profiles of Radio Halos in Massive Galaxy Clusters: Diffuse Giants Over 2 Mpc**|K. Rajpurohit et.al.|[2505.05415](http://arxiv.org/abs/2505.05415)|null|
+|**2025-05-08**|**Ballistic-to-diffusive transition in engineered counter-propagating quantum Hall channels**|Aifei Zhang et.al.|[2505.05386](http://arxiv.org/abs/2505.05386)|null|
+|**2025-05-08**|**Diffuse Interface Models for Two-Phase Flows with Phase Transition: Modeling and Existence of Weak Solutions**|Helmut Abels et.al.|[2505.05383](http://arxiv.org/abs/2505.05383)|null|
+|**2025-05-08**|**Denoising Diffusion Probabilistic Models for Coastal Inundation Forecasting**|Kazi Ashik Islam et.al.|[2505.05381](http://arxiv.org/abs/2505.05381)|null|
+|**2025-05-08**|**GeomHair: Reconstruction of Hair Strands from Colorless 3D Scans**|Rachmadio Noval Lazuardi et.al.|[2505.05376](http://arxiv.org/abs/2505.05376)|null|
+|**2025-05-08**|**Finite element approximation for quantitative photoacoustic tomography in a diffusive regime**|Giovanni S. Alberti et.al.|[2505.05361](http://arxiv.org/abs/2505.05361)|null|
 |**2025-05-07**|**Score Distillation Sampling for Audio: Source Separation, Synthesis, and Beyond**|Jessie Richter-Powell et.al.|[2505.04621](http://arxiv.org/abs/2505.04621)|null|
 |**2025-05-07**|**Likelihood-Free Adaptive Bayesian Inference via Nonparametric Distribution Matching**|Wenhui Sophia Lu et.al.|[2505.04603](http://arxiv.org/abs/2505.04603)|null|
 |**2025-05-08**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
@@ -3650,6 +3673,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475](http://arxiv.org/abs/2505.05475)|**[link](https://github.com/yc4ny/SVAD)**|
+|**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
+|**2025-05-08**|**Time of the Flight of the Gaussians: Optimizing Depth Indirectly in Dynamic Radiance Fields**|Runfeng Li et.al.|[2505.05356](http://arxiv.org/abs/2505.05356)|null|
+|**2025-05-07**|**WIR3D: Visually-Informed and Geometry-Aware 3D Shape Abstraction**|Richard Liu et.al.|[2505.04813](http://arxiv.org/abs/2505.04813)|null|
+|**2025-05-07**|**SGCR: Spherical Gaussians for Efficient 3D Curve Reconstruction**|Xinran Yang et.al.|[2505.04668](http://arxiv.org/abs/2505.04668)|null|
+|**2025-05-07**|**GSsplat: Generalizable Semantic Gaussian Splatting for Novel-view Synthesis in 3D Scenes**|Feng Xiao et.al.|[2505.04659](http://arxiv.org/abs/2505.04659)|null|
 |**2025-05-07**|**Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting**|Feng Yang et.al.|[2505.04262](http://arxiv.org/abs/2505.04262)|null|
 |**2025-05-06**|**3D Gaussian Splatting Data Compression with Mixture of Priors**|Lei Liu et.al.|[2505.03310](http://arxiv.org/abs/2505.03310)|null|
 |**2025-05-05**|**Sparse Ellipsoidal Radial Basis Function Network for Point Cloud Surface Representation**|Bobo Lian et.al.|[2505.02350](http://arxiv.org/abs/2505.02350)|**[link](https://github.com/lianbobo/se-rbfnet)**|
