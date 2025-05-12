@@ -14,6 +14,7 @@
 
 ## Depth Estimation
 
+|**2025-05-09**|**Camera-Only Bird's Eye View Perception: A Neural Approach to LiDAR-Free Environmental Mapping for Autonomous Vehicles**|Anupkumar Bochare et.al.|[2505.06113](http://arxiv.org/abs/2505.06113)|null|
 |**2025-05-08**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
 |**2025-05-06**|**Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach**|Srecharan Selvam et.al.|[2505.03702](http://arxiv.org/abs/2505.03702)|null|
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
@@ -378,6 +379,7 @@
 
 ## Gesture Recognition
 
+|**2025-05-09**|**Context Informed Incremental Learning Improves Myoelectric Control Performance in Virtual Reality Object Manipulation Tasks**|Gabriel Gagné et.al.|[2505.06064](http://arxiv.org/abs/2505.06064)|null|
 |**2025-05-07**|**Comparison of Visual Trackers for Biomechanical Analysis of Running**|Luis F. Gomez et.al.|[2505.04713](http://arxiv.org/abs/2505.04713)|null|
 |**2025-05-07**|**FoodTrack: Estimating Handheld Food Portions with Egocentric Video**|Ervin Wang et.al.|[2505.04055](http://arxiv.org/abs/2505.04055)|null|
 |**2025-05-03**|**A Multimodal Framework for Explainable Evaluation of Soft Skills in Educational Environments**|Jared D. T. Guerrero-Sosa et.al.|[2505.01794](http://arxiv.org/abs/2505.01794)|null|
@@ -494,6 +496,7 @@
 
 ## Eye Tracking
 
+|**2025-05-09**|**Collecting Human Motion Data in Large and Occlusion-Prone Environments using Ultra-Wideband Localization**|Janik Kaden et.al.|[2505.05851](http://arxiv.org/abs/2505.05851)|null|
 |**2025-05-08**|**Contact Lens with Moiré patterns for High-Precision Eye Tracking**|I. M. Fradkin et.al.|[2505.05147](http://arxiv.org/abs/2505.05147)|null|
 |**2025-05-08**|**Uncertainty-Aware Scarf Plots**|Nelusa Pathmanathan et.al.|[2505.05038](http://arxiv.org/abs/2505.05038)|null|
 |**2025-05-07**|**manvr3d: A Platform for Human-in-the-loop Cell Tracking in Virtual Reality**|Samuel Pantze et.al.|[2505.03440](http://arxiv.org/abs/2505.03440)|null|
@@ -659,6 +662,16 @@
 
 ## VLM/LLM
 
+|**2025-05-09**|**From Millions of Tweets to Actionable Insights: Leveraging LLMs for User Profiling**|Vahid Rahimzadeh et.al.|[2505.06184](http://arxiv.org/abs/2505.06184)|null|
+|**2025-05-09**|**A Large Language Model-Enhanced Q-learning for Capacitated Vehicle Routing Problem with Time Windows**|Linjiang Cao et.al.|[2505.06178](http://arxiv.org/abs/2505.06178)|null|
+|**2025-05-09**|**MonetGPT: Solving Puzzles Enhances MLLMs' Image Retouching Skills**|Niladri Shekhar Dutt et.al.|[2505.06176](http://arxiv.org/abs/2505.06176)|null|
+|**2025-05-09**|**Turbo-ICL: In-Context Learning-Based Turbo Equalization**|Zihang Song et.al.|[2505.06175](http://arxiv.org/abs/2505.06175)|null|
+|**2025-05-09**|**MM-Skin: Enhancing Dermatology Vision-Language Model with an Image-Text Dataset Derived from Textbooks**|Wenqi Zeng et.al.|[2505.06152](http://arxiv.org/abs/2505.06152)|**[link](https://github.com/zwq803/mm-skin)**|
+|**2025-05-09**|**A Scaling Law for Token Efficiency in LLM Fine-Tuning Under Fixed Compute Budgets**|Ryan Lagasse et.al.|[2505.06150](http://arxiv.org/abs/2505.06150)|null|
+|**2025-05-09**|**Can Prompting LLMs Unlock Hate Speech Detection across Languages? A Zero-shot and Few-shot Study**|Faeze Ghorbanpour et.al.|[2505.06149](http://arxiv.org/abs/2505.06149)|null|
+|**2025-05-09**|**ELA-ZSON: Efficient Layout-Aware Zero-Shot Object Navigation Agent with Hierarchical Planning**|Jiawei Hou et.al.|[2505.06131](http://arxiv.org/abs/2505.06131)|null|
+|**2025-05-09**|**LLMs Get Lost In Multi-Turn Conversation**|Philippe Laban et.al.|[2505.06120](http://arxiv.org/abs/2505.06120)|**[link](https://github.com/microsoft/lost_in_conversation)**|
+|**2025-05-09**|**LLMs Outperform Experts on Challenging Biology Benchmarks**|Lennart Justen et.al.|[2505.06108](http://arxiv.org/abs/2505.06108)|null|
 |**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
 |**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469](http://arxiv.org/abs/2505.05469)|**[link](https://github.com/AvaLovelace1/LegoGPT)**|
 |**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467](http://arxiv.org/abs/2505.05467)|null|
@@ -2162,6 +2175,16 @@
 
 ## Diffusion
 
+|**2025-05-09**|**Long time behaviour of Mean Field Games with fractional diffusion**|Olav Ersland et.al.|[2505.06183](http://arxiv.org/abs/2505.06183)|null|
+|**2025-05-09**|**DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models**|Radu Alexandru Rosu et.al.|[2505.06166](http://arxiv.org/abs/2505.06166)|null|
+|**2025-05-09**|**A sample of ionised Fe line-emitting X-ray sources in the inner Galactic disc**|Samaresh Mondal et.al.|[2505.06164](http://arxiv.org/abs/2505.06164)|null|
+|**2025-05-09**|**Control of encounter kinetics by chemically active droplets**|Jacques Fries et.al.|[2505.06153](http://arxiv.org/abs/2505.06153)|null|
+|**2025-05-09**|**Photovoltaic Defect Image Generator with Boundary Alignment Smoothing Constraint for Domain Shift Mitigation**|Dongying Li et.al.|[2505.06117](http://arxiv.org/abs/2505.06117)|null|
+|**2025-05-09**|**Deep Diffusion Maps**|Sergio García-Heredia et.al.|[2505.06087](http://arxiv.org/abs/2505.06087)|**[link](https://github.com/sgh14/deep-diffusion-maps)**|
+|**2025-05-09**|**Neutron scattering studies of complex lattice dynamics in energy materials**|Qingyong Ren et.al.|[2505.06076](http://arxiv.org/abs/2505.06076)|null|
+|**2025-05-09**|**Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation**|Kunpeng Qiu et.al.|[2505.06068](http://arxiv.org/abs/2505.06068)|**[link](https://github.com/qiukunpeng/siamese-diffusion)**|
+|**2025-05-09**|**Omni-Temporal Theory and Simulation of Hydrodynamic Dispersion using Fourier Transformation**|Md Abdul Hamid et.al.|[2505.06063](http://arxiv.org/abs/2505.06063)|null|
+|**2025-05-09**|**Towards Better Cephalometric Landmark Detection with Diffusion Data Generation**|Dongqian Guo et.al.|[2505.06055](http://arxiv.org/abs/2505.06055)|null|
 |**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475](http://arxiv.org/abs/2505.05475)|**[link](https://github.com/yc4ny/SVAD)**|
 |**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
 |**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
@@ -3661,6 +3684,11 @@
 
 ## Neural Rendering
 
+|**2025-05-09**|**RefRef: A Synthetic Dataset and Benchmark for Reconstructing Refractive and Reflective Objects**|Yue Yin et.al.|[2505.05848](http://arxiv.org/abs/2505.05848)|null|
+|**2025-05-08**|**TeGA: Texture Space Gaussian Avatars for High-Resolution Dynamic Head Modeling**|Gengyan Li et.al.|[2505.05672](http://arxiv.org/abs/2505.05672)|null|
+|**2025-05-08**|**UltraGauss: Ultrafast Gaussian Reconstruction of 3D Ultrasound Volumes**|Mark C. Eid et.al.|[2505.05643](http://arxiv.org/abs/2505.05643)|null|
+|**2025-05-08**|**QuickSplat: Fast 3D Surface Reconstruction via Learned Gaussian Initialization**|Yueh-Cheng Liu et.al.|[2505.05591](http://arxiv.org/abs/2505.05591)|null|
+|**2025-05-08**|**Steepest Descent Density Control for Compact 3D Gaussian Splatting**|Peihao Wang et.al.|[2505.05587](http://arxiv.org/abs/2505.05587)|null|
 |**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475](http://arxiv.org/abs/2505.05475)|**[link](https://github.com/yc4ny/SVAD)**|
 |**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
 |**2025-05-08**|**Time of the Flight of the Gaussians: Optimizing Depth Indirectly in Dynamic Radiance Fields**|Runfeng Li et.al.|[2505.05356](http://arxiv.org/abs/2505.05356)|null|
@@ -5908,6 +5936,7 @@
 
 ## RSR
 
+|**2025-05-07**|**Web2Grasp: Learning Functional Grasps from Web Images of Hand-Object Interactions**|Hongyi Chen et.al.|[2505.05517](http://arxiv.org/abs/2505.05517)|null|
 |**2025-05-06**|**AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**|Jialong Li et.al.|[2505.03738](http://arxiv.org/abs/2505.03738)|null|
 |**2025-05-07**|**Visual Imitation Enables Contextual Humanoid Control**|Arthur Allshire et.al.|[2505.03729](http://arxiv.org/abs/2505.03729)|null|
 |**2025-05-06**|**GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data**|Shengliang Deng et.al.|[2505.03233](http://arxiv.org/abs/2505.03233)|null|
