@@ -5,13 +5,13 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2025.05.12
+Updated on 2025.05.13
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-09**|**Camera-Only Bird's Eye View Perception: A Neural Approach to LiDAR-Free Environmental Mapping for Autonomous Vehicles**|Anupkumar Bochare et.al.|[2505.06113](http://arxiv.org/abs/2505.06113)|null|
-|**2025-05-08**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
+|**2025-05-09**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
 |**2025-05-06**|**Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach**|Srecharan Selvam et.al.|[2505.03702](http://arxiv.org/abs/2505.03702)|null|
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
 |**2025-05-06**|**VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704](http://arxiv.org/abs/2505.02704)|**[link](https://github.com/pakinwu/vgld)**|
