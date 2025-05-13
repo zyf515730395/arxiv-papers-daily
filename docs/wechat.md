@@ -14,6 +14,9 @@
 
 ## Depth Estimation
 
+|**2025-05-12**|**Some insights into depth estimators for location and scatter in the multivariate setting**|Jorge G. Adrover et.al.|[2505.07383](http://arxiv.org/abs/2505.07383)|null|
+|**2025-05-11**|**Reinforcement Learning-Based Monocular Vision Approach for Autonomous UAV Landing**|Tarik Houichime et.al.|[2505.06963](http://arxiv.org/abs/2505.06963)|null|
+|**2025-05-10**|**ElectricSight: 3D Hazard Monitoring for Power Lines Using Low-Cost Sensors**|Xingchen Li et.al.|[2505.06573](http://arxiv.org/abs/2505.06573)|null|
 |**2025-05-09**|**Camera-Only Bird's Eye View Perception: A Neural Approach to LiDAR-Free Environmental Mapping for Autonomous Vehicles**|Anupkumar Bochare et.al.|[2505.06113](http://arxiv.org/abs/2505.06113)|null|
 |**2025-05-09**|**MonoCoP: Chain-of-Prediction for Monocular 3D Object Detection**|Zhihao Zhang et.al.|[2505.04594](http://arxiv.org/abs/2505.04594)|null|
 |**2025-05-06**|**Self-Supervised Learning for Robotic Leaf Manipulation: A Hybrid Geometric-Neural Approach**|Srecharan Selvam et.al.|[2505.03702](http://arxiv.org/abs/2505.03702)|null|
@@ -379,6 +382,8 @@
 
 ## Gesture Recognition
 
+|**2025-05-11**|**DeepSORT-Driven Visual Tracking Approach for Gesture Recognition in Interactive Systems**|Tong Zhang et.al.|[2505.07110](http://arxiv.org/abs/2505.07110)|null|
+|**2025-05-11**|**X-Sim: Cross-Embodiment Learning via Real-to-Sim-to-Real**|Prithwish Dan et.al.|[2505.07096](http://arxiv.org/abs/2505.07096)|null|
 |**2025-05-09**|**Context Informed Incremental Learning Improves Myoelectric Control Performance in Virtual Reality Object Manipulation Tasks**|Gabriel Gagné et.al.|[2505.06064](http://arxiv.org/abs/2505.06064)|null|
 |**2025-05-07**|**Comparison of Visual Trackers for Biomechanical Analysis of Running**|Luis F. Gomez et.al.|[2505.04713](http://arxiv.org/abs/2505.04713)|null|
 |**2025-05-07**|**FoodTrack: Estimating Handheld Food Portions with Egocentric Video**|Ervin Wang et.al.|[2505.04055](http://arxiv.org/abs/2505.04055)|null|
@@ -496,6 +501,9 @@
 
 ## Eye Tracking
 
+|**2025-05-12**|**Automated Visual Attention Detection using Mobile Eye Tracking in Behavioral Classroom Studies**|Efe Bozkir et.al.|[2505.07552](http://arxiv.org/abs/2505.07552)|null|
+|**2025-05-12**|**User Identification with LFI-Based Eye Movement Data Using Time and Frequency Domain Features**|Suleyman Ozdel et.al.|[2505.07326](http://arxiv.org/abs/2505.07326)|null|
+|**2025-05-12**|**Towards user-centered interactive medical image segmentation in VR with an assistive AI agent**|Pascal Spiegler et.al.|[2505.07214](http://arxiv.org/abs/2505.07214)|null|
 |**2025-05-09**|**Collecting Human Motion Data in Large and Occlusion-Prone Environments using Ultra-Wideband Localization**|Janik Kaden et.al.|[2505.05851](http://arxiv.org/abs/2505.05851)|null|
 |**2025-05-08**|**Contact Lens with Moiré patterns for High-Precision Eye Tracking**|I. M. Fradkin et.al.|[2505.05147](http://arxiv.org/abs/2505.05147)|null|
 |**2025-05-08**|**Uncertainty-Aware Scarf Plots**|Nelusa Pathmanathan et.al.|[2505.05038](http://arxiv.org/abs/2505.05038)|null|
@@ -662,6 +670,16 @@
 
 ## VLM/LLM
 
+|**2025-05-12**|**Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models**|Seungjae Lee et.al.|[2505.07815](http://arxiv.org/abs/2505.07815)|null|
+|**2025-05-12**|**Learning Dynamics in Continual Pre-Training for Large Language Models**|Xingjin Wang et.al.|[2505.07796](http://arxiv.org/abs/2505.07796)|null|
+|**2025-05-12**|**Overflow Prevention Enhances Long-Context Recurrent LLMs**|Assaf Ben-Kish et.al.|[2505.07793](http://arxiv.org/abs/2505.07793)|null|
+|**2025-05-12**|**Domain Regeneration: How well do LLMs match syntactic properties of text domains?**|Da Ju et.al.|[2505.07784](http://arxiv.org/abs/2505.07784)|null|
+|**2025-05-12**|**Relative Overfitting and Accept-Reject Framework**|Yanxin Liu et.al.|[2505.07783](http://arxiv.org/abs/2505.07783)|null|
+|**2025-05-12**|**MLE-Dojo: Interactive Environments for Empowering LLM Agents in Machine Learning Engineering**|Rushi Qiang et.al.|[2505.07782](http://arxiv.org/abs/2505.07782)|null|
+|**2025-05-12**|**Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving**|Xinji Mai et.al.|[2505.07773](http://arxiv.org/abs/2505.07773)|**[link](https://github.com/anonymize-author/agentrl)**|
+|**2025-05-12**|**Enhancing Code Generation via Bidirectional Comment-Level Mutual Grounding**|Yifeng Di et.al.|[2505.07768](http://arxiv.org/abs/2505.07768)|null|
+|**2025-05-12**|**Assessing the Chemical Intelligence of Large Language Models**|Nicholas T. Runcie et.al.|[2505.07735](http://arxiv.org/abs/2505.07735)|null|
+|**2025-05-12**|**Spoken Language Understanding on Unseen Tasks With In-Context Learning**|Neeraj Agrawal et.al.|[2505.07731](http://arxiv.org/abs/2505.07731)|null|
 |**2025-05-09**|**From Millions of Tweets to Actionable Insights: Leveraging LLMs for User Profiling**|Vahid Rahimzadeh et.al.|[2505.06184](http://arxiv.org/abs/2505.06184)|null|
 |**2025-05-09**|**A Large Language Model-Enhanced Q-learning for Capacitated Vehicle Routing Problem with Time Windows**|Linjiang Cao et.al.|[2505.06178](http://arxiv.org/abs/2505.06178)|null|
 |**2025-05-09**|**MonetGPT: Solving Puzzles Enhances MLLMs' Image Retouching Skills**|Niladri Shekhar Dutt et.al.|[2505.06176](http://arxiv.org/abs/2505.06176)|null|
@@ -2175,6 +2193,16 @@
 
 ## Diffusion
 
+|**2025-05-12**|**H $^{\mathbf{3}}$ DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning**|Yiyang Lu et.al.|[2505.07819](http://arxiv.org/abs/2505.07819)|null|
+|**2025-05-12**|**DanceGRPO: Unleashing GRPO on Visual Generation**|Zeyue Xue et.al.|[2505.07818](http://arxiv.org/abs/2505.07818)|null|
+|**2025-05-12**|**Pixel Motion as Universal Representation for Robot Control**|Kanchana Ranasinghe et.al.|[2505.07817](http://arxiv.org/abs/2505.07817)|null|
+|**2025-05-12**|**Continuous Visual Autoregressive Generation via Score Maximization**|Chenze Shao et.al.|[2505.07812](http://arxiv.org/abs/2505.07812)|**[link](https://github.com/shaochenze/ear)**|
+|**2025-05-12**|**Unraveling Mn intercalation and diffusion in NbSe $_2$ bilayers through DFTB simulations**|Bruno Ipaves et.al.|[2505.07781](http://arxiv.org/abs/2505.07781)|null|
+|**2025-05-12**|**Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets**|Weiyu Li et.al.|[2505.07747](http://arxiv.org/abs/2505.07747)|null|
+|**2025-05-12**|**Spatio-temporal spin transport from first principles**|Mayada Fadel et.al.|[2505.07745](http://arxiv.org/abs/2505.07745)|null|
+|**2025-05-12**|**LAMM-ViT: AI Face Detection via Layer-Aware Modulation of Region-Guided Attention**|Jiangling Zhang et.al.|[2505.07734](http://arxiv.org/abs/2505.07734)|null|
+|**2025-05-12**|**ShotAdapter: Text-to-Multi-Shot Video Generation with Diffusion Models**|Ozgur Kara et.al.|[2505.07652](http://arxiv.org/abs/2505.07652)|null|
+|**2025-05-12**|**Langevin Diffusion Approximation to Same Marginal Schrödinger Bridge**|Medha Agarwal et.al.|[2505.07647](http://arxiv.org/abs/2505.07647)|null|
 |**2025-05-09**|**Long time behaviour of Mean Field Games with fractional diffusion**|Olav Ersland et.al.|[2505.06183](http://arxiv.org/abs/2505.06183)|null|
 |**2025-05-09**|**DiffLocks: Generating 3D Hair from a Single Image using Diffusion Models**|Radu Alexandru Rosu et.al.|[2505.06166](http://arxiv.org/abs/2505.06166)|null|
 |**2025-05-09**|**A sample of ionised Fe line-emitting X-ray sources in the inner Galactic disc**|Samaresh Mondal et.al.|[2505.06164](http://arxiv.org/abs/2505.06164)|null|
@@ -3684,6 +3712,15 @@
 
 ## Neural Rendering
 
+|**2025-05-12**|**GIFStream: 4D Gaussian-based Immersive Video with Feature Stream**|Hao Li et.al.|[2505.07539](http://arxiv.org/abs/2505.07539)|null|
+|**2025-05-12**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
+|**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373](http://arxiv.org/abs/2505.07373)|null|
+|**2025-05-11**|**NeuGen: Amplifying the 'Neural' in Neural Radiance Fields for Domain Generalization**|Ahmed Qazi et.al.|[2505.06894](http://arxiv.org/abs/2505.06894)|null|
+|**2025-05-11**|**NewsNet-SDF: Stochastic Discount Factor Estimation with Pretrained Language Model News Embeddings via Adversarial Networks**|Shunyao Wang et.al.|[2505.06864](http://arxiv.org/abs/2505.06864)|null|
+|**2025-05-10**|**3D Characterization of Smoke Plume Dispersion Using Multi-View Drone Swarm**|Nikil Krishnakumar et.al.|[2505.06638](http://arxiv.org/abs/2505.06638)|null|
+|**2025-05-10**|**Gaussian Wave Splatting for Computer-Generated Holography**|Suyeon Choi et.al.|[2505.06582](http://arxiv.org/abs/2505.06582)|null|
+|**2025-05-10**|**Virtualized 3D Gaussians: Flexible Cluster-based Level-of-Detail System for Real-Time Rendering of Composed Scenes**|Xijie Yang et.al.|[2505.06523](http://arxiv.org/abs/2505.06523)|null|
+|**2025-05-10**|**FlexNeRFer: A Multi-Dataflow, Adaptive Sparsity-Aware Accelerator for On-Device NeRF Rendering**|Seock-Hwan Noh et.al.|[2505.06504](http://arxiv.org/abs/2505.06504)|null|
 |**2025-05-09**|**RefRef: A Synthetic Dataset and Benchmark for Reconstructing Refractive and Reflective Objects**|Yue Yin et.al.|[2505.05848](http://arxiv.org/abs/2505.05848)|null|
 |**2025-05-08**|**TeGA: Texture Space Gaussian Avatars for High-Resolution Dynamic Head Modeling**|Gengyan Li et.al.|[2505.05672](http://arxiv.org/abs/2505.05672)|null|
 |**2025-05-08**|**UltraGauss: Ultrafast Gaussian Reconstruction of 3D Ultrasound Volumes**|Mark C. Eid et.al.|[2505.05643](http://arxiv.org/abs/2505.05643)|null|
@@ -5936,6 +5973,9 @@
 
 ## RSR
 
+|**2025-05-12**|**HuB: Learning Extreme Humanoid Balance**|Tong Zhang et.al.|[2505.07294](http://arxiv.org/abs/2505.07294)|null|
+|**2025-05-11**|**X-Sim: Cross-Embodiment Learning via Real-to-Sim-to-Real**|Prithwish Dan et.al.|[2505.07096](http://arxiv.org/abs/2505.07096)|null|
+|**2025-05-10**|**JaxRobotarium: Training and Deploying Multi-Robot Policies in 10 Minutes**|Shalin Anand Jain et.al.|[2505.06771](http://arxiv.org/abs/2505.06771)|null|
 |**2025-05-07**|**Web2Grasp: Learning Functional Grasps from Web Images of Hand-Object Interactions**|Hongyi Chen et.al.|[2505.05517](http://arxiv.org/abs/2505.05517)|null|
 |**2025-05-06**|**AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control**|Jialong Li et.al.|[2505.03738](http://arxiv.org/abs/2505.03738)|null|
 |**2025-05-07**|**Visual Imitation Enables Contextual Humanoid Control**|Arthur Allshire et.al.|[2505.03729](http://arxiv.org/abs/2505.03729)|null|
