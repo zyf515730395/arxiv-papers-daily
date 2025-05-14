@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Boosting Zero-shot Stereo Matching using Large-scale Mixed Images Sources in the Real World**|Yuran Wang et.al.|[2505.08607](http://arxiv.org/abs/2505.08607)|null|
 |**2025-05-12**|**Some insights into depth estimators for location and scatter in the multivariate setting**|Jorge G. Adrover et.al.|[2505.07383](http://arxiv.org/abs/2505.07383)|null|
 |**2025-05-11**|**Reinforcement Learning-Based Monocular Vision Approach for Autonomous UAV Landing**|Tarik Houichime et.al.|[2505.06963](http://arxiv.org/abs/2505.06963)|null|
 |**2025-05-10**|**ElectricSight: 3D Hazard Monitoring for Power Lines Using Low-Cost Sensors**|Xingchen Li et.al.|[2505.06573](http://arxiv.org/abs/2505.06573)|null|
@@ -507,6 +508,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**DHECA-SuperGaze: Dual Head-Eye Cross-Attention and Super-Resolution for Unconstrained Gaze Estimation**|Franko Šikić et.al.|[2505.08426](http://arxiv.org/abs/2505.08426)|null|
 |**2025-05-12**|**Automated Visual Attention Detection using Mobile Eye Tracking in Behavioral Classroom Studies**|Efe Bozkir et.al.|[2505.07552](http://arxiv.org/abs/2505.07552)|null|
 |**2025-05-12**|**User Identification with LFI-Based Eye Movement Data Using Time and Frequency Domain Features**|Suleyman Ozdel et.al.|[2505.07326](http://arxiv.org/abs/2505.07326)|null|
 |**2025-05-12**|**Towards user-centered interactive medical image segmentation in VR with an assistive AI agent**|Pascal Spiegler et.al.|[2505.07214](http://arxiv.org/abs/2505.07214)|null|
@@ -678,6 +680,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**CodePDE: An Inference Framework for LLM-driven PDE Solver Generation**|Shanda Li et.al.|[2505.08783](http://arxiv.org/abs/2505.08783)|null|
+|**2025-05-13**|**HealthBench: Evaluating Large Language Models Towards Improved Human Health**|Rahul K. Arora et.al.|[2505.08775](http://arxiv.org/abs/2505.08775)|**[link](https://github.com/openai/simple-evals)**|
+|**2025-05-13**|**SPAT: Sensitivity-based Multihead-attention Pruning on Time Series Forecasting Models**|Suhan Guo et.al.|[2505.08768](http://arxiv.org/abs/2505.08768)|null|
+|**2025-05-13**|**Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology**|Yatai Ji et.al.|[2505.08765](http://arxiv.org/abs/2505.08765)|null|
+|**2025-05-13**|**AC-Reason: Towards Theory-Guided Actual Causality Reasoning with Large Language Models**|Yanxi Zhang et.al.|[2505.08750](http://arxiv.org/abs/2505.08750)|null|
+|**2025-05-13**|**DeepMath-Creative: A Benchmark for Evaluating Mathematical Creativity of Large Language Models**|Xiaoyang Chen et.al.|[2505.08744](http://arxiv.org/abs/2505.08744)|**[link](https://github.com/deepmathllm/deepmath)**|
+|**2025-05-13**|**Probability Consistency in Large Language Models: Theoretical Foundations Meet Empirical Discrepancies**|Xiaoliang Luo et.al.|[2505.08739](http://arxiv.org/abs/2505.08739)|null|
+|**2025-05-13**|**NurValues: Real-World Nursing Values Evaluation for Large Language Models in Clinical Context**|Ben Yao et.al.|[2505.08734](http://arxiv.org/abs/2505.08734)|null|
+|**2025-05-13**|**Securing RAG: A Risk Assessment and Mitigation Framework**|Lukas Ammann et.al.|[2505.08728](http://arxiv.org/abs/2505.08728)|null|
+|**2025-05-13**|**Memorization-Compression Cycles Improve Generalization**|Fangyuan Yu et.al.|[2505.08727](http://arxiv.org/abs/2505.08727)|null|
 |**2025-05-12**|**Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models**|Seungjae Lee et.al.|[2505.07815](http://arxiv.org/abs/2505.07815)|null|
 |**2025-05-12**|**Learning Dynamics in Continual Pre-Training for Large Language Models**|Xingjin Wang et.al.|[2505.07796](http://arxiv.org/abs/2505.07796)|null|
 |**2025-05-12**|**Overflow Prevention Enhances Long-Context Recurrent LLMs**|Assaf Ben-Kish et.al.|[2505.07793](http://arxiv.org/abs/2505.07793)|null|
@@ -2203,6 +2215,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**|Wenzhe Cai et.al.|[2505.08712](http://arxiv.org/abs/2505.08712)|null|
+|**2025-05-13**|**Controllable Image Colorization with Instance-aware Texts and Masks**|Yanru An et.al.|[2505.08705](http://arxiv.org/abs/2505.08705)|null|
+|**2025-05-13**|**Global exponential stability of stationary profiles in a thin film equation with second-order diffusion**|Christian Parsch et.al.|[2505.08641](http://arxiv.org/abs/2505.08641)|null|
+|**2025-05-13**|**Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**|Reihaneh Mirjalili et.al.|[2505.08627](http://arxiv.org/abs/2505.08627)|null|
+|**2025-05-13**|**Visually Guided Decoding: Gradient-Free Hard Prompt Inversion with Language Models**|Donghoon Kim et.al.|[2505.08622](http://arxiv.org/abs/2505.08622)|null|
+|**2025-05-13**|**Boosting Zero-shot Stereo Matching using Large-scale Mixed Images Sources in the Real World**|Yuran Wang et.al.|[2505.08607](http://arxiv.org/abs/2505.08607)|null|
+|**2025-05-13**|**Convergence and Wave Propagation for a System of Branching Rank-Based Interacting Brownian Particles**|Mete Demircigil et.al.|[2505.08563](http://arxiv.org/abs/2505.08563)|null|
+|**2025-05-13**|**Are We Paying Attention to Her? Investigating Gender Disambiguation and Attention in Machine Translation**|Chiara Manna et.al.|[2505.08546](http://arxiv.org/abs/2505.08546)|null|
+|**2025-05-13**|**Diffusion-assisted Model Predictive Control Optimization for Power System Real-Time Operation**|Linna Xu et.al.|[2505.08535](http://arxiv.org/abs/2505.08535)|null|
+|**2025-05-13**|**Building-Block Aware Generative Modeling for 3D Crystals of Metal Organic Frameworks**|Chenru Duan et.al.|[2505.08531](http://arxiv.org/abs/2505.08531)|null|
 |**2025-05-12**|**H $^{\mathbf{3}}$ DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning**|Yiyang Lu et.al.|[2505.07819](http://arxiv.org/abs/2505.07819)|null|
 |**2025-05-12**|**DanceGRPO: Unleashing GRPO on Visual Generation**|Zeyue Xue et.al.|[2505.07818](http://arxiv.org/abs/2505.07818)|null|
 |**2025-05-12**|**Pixel Motion as Universal Representation for Robot Control**|Kanchana Ranasinghe et.al.|[2505.07817](http://arxiv.org/abs/2505.07817)|null|
@@ -3724,6 +3746,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**|Wenzhe Cai et.al.|[2505.08712](http://arxiv.org/abs/2505.08712)|null|
+|**2025-05-13**|**DLO-Splatting: Tracking Deformable Linear Objects Using 3D Gaussian Splatting**|Holly Dinkel et.al.|[2505.08644](http://arxiv.org/abs/2505.08644)|null|
+|**2025-05-13**|**FOCI: Trajectory Optimization on Gaussian Splats**|Mario Gomez Andreu et.al.|[2505.08510](http://arxiv.org/abs/2505.08510)|null|
+|**2025-05-13**|**A Survey of 3D Reconstruction with Event Cameras: From Event-based Geometry to Neural 3D Rendering**|Chuanzhi Xu et.al.|[2505.08438](http://arxiv.org/abs/2505.08438)|null|
+|**2025-05-13**|**ADC-GS: Anchor-Driven Deformable and Compressed Gaussian Splatting for Dynamic Scene Reconstruction**|He Huang et.al.|[2505.08196](http://arxiv.org/abs/2505.08196)|**[link](https://github.com/h-huang774/adc-gs)**|
+|**2025-05-13**|**SpNeRF: Memory Efficient Sparse Volumetric Neural Rendering Accelerator for Edge Devices**|Yipu Zhang et.al.|[2505.08191](http://arxiv.org/abs/2505.08191)|null|
+|**2025-05-12**|**SLAG: Scalable Language-Augmented Gaussian Splatting**|Laszlo Szilagyi et.al.|[2505.08124](http://arxiv.org/abs/2505.08124)|null|
 |**2025-05-12**|**GIFStream: 4D Gaussian-based Immersive Video with Feature Stream**|Hao Li et.al.|[2505.07539](http://arxiv.org/abs/2505.07539)|null|
 |**2025-05-13**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
 |**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373](http://arxiv.org/abs/2505.07373)|null|
@@ -5987,6 +6016,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**|Wenzhe Cai et.al.|[2505.08712](http://arxiv.org/abs/2505.08712)|null|
+|**2025-05-13**|**Zero-Shot Sim-to-Real Reinforcement Learning for Fruit Harvesting**|Emlyn Williams et.al.|[2505.08458](http://arxiv.org/abs/2505.08458)|null|
+|**2025-05-13**|**HandCept: A Visual-Inertial Fusion Framework for Accurate Proprioception in Dexterous Hands**|Junda Huang et.al.|[2505.08213](http://arxiv.org/abs/2505.08213)|null|
 |**2025-05-12**|**HuB: Learning Extreme Humanoid Balance**|Tong Zhang et.al.|[2505.07294](http://arxiv.org/abs/2505.07294)|null|
 |**2025-05-11**|**X-Sim: Cross-Embodiment Learning via Real-to-Sim-to-Real**|Prithwish Dan et.al.|[2505.07096](http://arxiv.org/abs/2505.07096)|null|
 |**2025-05-10**|**JaxRobotarium: Training and Deploying Multi-Robot Policies in 10 Minutes**|Shalin Anand Jain et.al.|[2505.06771](http://arxiv.org/abs/2505.06771)|null|
