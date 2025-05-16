@@ -14,6 +14,8 @@
 
 ## Depth Estimation
 
+|**2025-05-15**|**Depth Anything with Any Prior**|Zehan Wang et.al.|[2505.10565](http://arxiv.org/abs/2505.10565)|null|
+|**2025-05-15**|**JointDistill: Adaptive Multi-Task Distillation for Joint Depth Estimation and Scene Segmentation**|Tiancong Cheng et.al.|[2505.10057](http://arxiv.org/abs/2505.10057)|null|
 |**2025-05-14**|**Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis**|Bingxin Ke et.al.|[2505.09358](http://arxiv.org/abs/2505.09358)|null|
 |**2025-05-13**|**Boosting Zero-shot Stereo Matching using Large-scale Mixed Images Sources in the Real World**|Yuran Wang et.al.|[2505.08607](http://arxiv.org/abs/2505.08607)|null|
 |**2025-05-12**|**Some insights into depth estimators for location and scatter in the multivariate setting**|Jorge G. Adrover et.al.|[2505.07383](http://arxiv.org/abs/2505.07383)|null|
@@ -673,6 +675,16 @@
 
 ## VLM/LLM
 
+|**2025-05-15**|**End-to-End Vision Tokenizer Tuning**|Wenxuan Wang et.al.|[2505.10562](http://arxiv.org/abs/2505.10562)|null|
+|**2025-05-15**|**Neural Thermodynamic Laws for Large Language Model Training**|Ziming Liu et.al.|[2505.10559](http://arxiv.org/abs/2505.10559)|null|
+|**2025-05-15**|**Does Feasibility Matter? Understanding the Impact of Feasibility on Synthetic Training Data**|Yiwen Liu et.al.|[2505.10551](http://arxiv.org/abs/2505.10551)|**[link](https://github.com/yiveen/syntheticdatafeasibility)**|
+|**2025-05-15**|**Towards a Deeper Understanding of Reasoning Capabilities in Large Language Models**|Annie Wong et.al.|[2505.10543](http://arxiv.org/abs/2505.10543)|null|
+|**2025-05-15**|**Exploring Implicit Visual Misunderstandings in Multimodal Large Language Models through Attention Analysis**|Pengfei Wang et.al.|[2505.10541](http://arxiv.org/abs/2505.10541)|**[link](https://github.com/welldonepf/stme)**|
+|**2025-05-15**|**S3C2 Summit 2024-09: Industry Secure Software Supply Chain Summit**|Imranur Rahman et.al.|[2505.10538](http://arxiv.org/abs/2505.10538)|null|
+|**2025-05-15**|**MASSV: Multimodal Adaptation and Self-Data Distillation for Speculative Decoding of Vision-Language Models**|Mugilan Ganesan et.al.|[2505.10526](http://arxiv.org/abs/2505.10526)|null|
+|**2025-05-15**|**RouteNator: A Router-Based Multi-Modal Architecture for Generating Synthetic Training Data for Function Calling LLMs**|Vibha Belavadi et.al.|[2505.10495](http://arxiv.org/abs/2505.10495)|null|
+|**2025-05-15**|**Can You Really Trust Code Copilots? Evaluating Large Language Models from a Code Security Perspective**|Yutao Mou et.al.|[2505.10494](http://arxiv.org/abs/2505.10494)|**[link](https://github.com/murraytom/cov-eval)**|
+|**2025-05-15**|**CL-RAG: Bridging the Gap in Retrieval-Augmented Generation with Curriculum Learning**|Shaohan Wang et.al.|[2505.10493](http://arxiv.org/abs/2505.10493)|null|
 |**2025-05-14**|**Customizing a Large Language Model for VHDL Design of High-Performance Microprocessors**|Nicolas Dupuis et.al.|[2505.09610](http://arxiv.org/abs/2505.09610)|null|
 |**2025-05-14**|**Adversarial Suffix Filtering: a Defense Pipeline for LLMs**|David Khachaturov et.al.|[2505.09602](http://arxiv.org/abs/2505.09602)|null|
 |**2025-05-14**|**How Hungry is AI? Benchmarking Energy, Water, and Carbon Footprint of LLM Inference**|Nidhal Jegham et.al.|[2505.09598](http://arxiv.org/abs/2505.09598)|null|
@@ -2216,6 +2228,16 @@
 
 ## Diffusion
 
+|**2025-05-15**|**3D-Fixup: Advancing Photo Editing with 3D Priors**|Yen-Chi Cheng et.al.|[2505.10566](http://arxiv.org/abs/2505.10566)|null|
+|**2025-05-15**|**Style Customization of Text-to-Vector Generation with Image Diffusion Priors**|Peiying Zhang et.al.|[2505.10558](http://arxiv.org/abs/2505.10558)|null|
+|**2025-05-15**|**Does Feasibility Matter? Understanding the Impact of Feasibility on Synthetic Training Data**|Yiwen Liu et.al.|[2505.10551](http://arxiv.org/abs/2505.10551)|**[link](https://github.com/yiveen/syntheticdatafeasibility)**|
+|**2025-05-15**|**Computational screening and experimental validation of promising Wadsley-Roth Niobates**|Zachary J. L. Bare et.al.|[2505.10549](http://arxiv.org/abs/2505.10549)|null|
+|**2025-05-15**|**Pharmacophore-Conditioned Diffusion Model for Ligand-Based De Novo Drug Design**|Amira Alakhdar et.al.|[2505.10545](http://arxiv.org/abs/2505.10545)|null|
+|**2025-05-15**|**Multi-contrast laser endoscopy for in vivo gastrointestinal imaging**|Taylor L. Bobrow et.al.|[2505.10492](http://arxiv.org/abs/2505.10492)|null|
+|**2025-05-15**|**Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps**|Ningyuan Yang et.al.|[2505.10482](http://arxiv.org/abs/2505.10482)|null|
+|**2025-05-15**|**Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models**|Zemin Huang et.al.|[2505.10446](http://arxiv.org/abs/2505.10446)|null|
+|**2025-05-15**|**Score-based diffusion nowcasting of GOES imagery**|Randy J. Chase et.al.|[2505.10432](http://arxiv.org/abs/2505.10432)|null|
+|**2025-05-15**|**Visual Fidelity Index for Generative Semantic Communications with Critical Information Embedding**|Jianhao Huang et.al.|[2505.10405](http://arxiv.org/abs/2505.10405)|null|
 |**2025-05-14**|**Robust Representation and Estimation of Barycenters and Modes of Probability Measures on Metric Spaces**|Washington Mio et.al.|[2505.09609](http://arxiv.org/abs/2505.09609)|null|
 |**2025-05-14**|**LightLab: Controlling Light Sources in Images with Diffusion Models**|Nadav Magar et.al.|[2505.09608](http://arxiv.org/abs/2505.09608)|null|
 |**2025-05-14**|**The Niche Connectivity Paradox: Multichrome Contagions Overcome Vaccine Hesitancy more effectively than Monochromacy**|Ho-Chun Herbert Chang et.al.|[2505.09605](http://arxiv.org/abs/2505.09605)|null|
@@ -3755,6 +3777,10 @@
 
 ## Neural Rendering
 
+|**2025-05-15**|**Consistent Quantity-Quality Control across Scenes for Deployment-Aware Gaussian Splatting**|Fengdi Zhang et.al.|[2505.10473](http://arxiv.org/abs/2505.10473)|null|
+|**2025-05-15**|**VRSplat: Fast and Robust Gaussian Splatting for Virtual Reality**|Xuechang Tu et.al.|[2505.10144](http://arxiv.org/abs/2505.10144)|**[link](https://github.com/cekavis/vrsplat)**|
+|**2025-05-15**|**Advances in Radiance Field for Dynamic Scene: From Neural Field to Gaussian Field**|Jinlong Fan et.al.|[2505.10049](http://arxiv.org/abs/2505.10049)|**[link](https://github.com/moonflo/dynamic-radiation-field-paper-list)**|
+|**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915](http://arxiv.org/abs/2505.09915)|null|
 |**2025-05-14**|**Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware**|Justin Yu et.al.|[2505.09601](http://arxiv.org/abs/2505.09601)|null|
 |**2025-05-14**|**Sparse Point Cloud Patches Rendering via Splitting 2D Gaussians**|Ma Changfeng et.al.|[2505.09413](http://arxiv.org/abs/2505.09413)|**[link](https://github.com/murcherful/gaupcrender)**|
 |**2025-05-14**|**FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**|Yue Wen et.al.|[2505.09406](http://arxiv.org/abs/2505.09406)|null|
@@ -6027,6 +6053,7 @@
 
 ## RSR
 
+|**2025-05-15**|**APEX: Action Priors Enable Efficient Exploration for Skill Imitation on Articulated Robots**|Shivam Sood et.al.|[2505.10022](http://arxiv.org/abs/2505.10022)|null|
 |**2025-05-13**|**Real-time Capable Learning-based Visual Tool Pose Correction via Differentiable Simulation**|Shuyuan Yang et.al.|[2505.08875](http://arxiv.org/abs/2505.08875)|null|
 |**2025-05-13**|**NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**|Wenzhe Cai et.al.|[2505.08712](http://arxiv.org/abs/2505.08712)|null|
 |**2025-05-13**|**Zero-Shot Sim-to-Real Reinforcement Learning for Fruit Harvesting**|Emlyn Williams et.al.|[2505.08458](http://arxiv.org/abs/2505.08458)|null|
