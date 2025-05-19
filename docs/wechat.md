@@ -14,6 +14,8 @@
 
 ## Depth Estimation
 
+|**2025-05-16**|**SurgPose: Generalisable Surgical Instrument Pose Estimation using Zero-Shot Learning and Stereo Vision**|Utsav Rai et.al.|[2505.11439](http://arxiv.org/abs/2505.11439)|null|
+|**2025-05-16**|**Attention on the Sphere**|Boris Bonev et.al.|[2505.11157](http://arxiv.org/abs/2505.11157)|null|
 |**2025-05-15**|**Depth Anything with Any Prior**|Zehan Wang et.al.|[2505.10565](http://arxiv.org/abs/2505.10565)|null|
 |**2025-05-15**|**JointDistill: Adaptive Multi-Task Distillation for Joint Depth Estimation and Scene Segmentation**|Tiancong Cheng et.al.|[2505.10057](http://arxiv.org/abs/2505.10057)|null|
 |**2025-05-14**|**Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis**|Bingxin Ke et.al.|[2505.09358](http://arxiv.org/abs/2505.09358)|**[link](https://github.com/prs-eth/marigold)**|
@@ -386,6 +388,7 @@
 
 ## Gesture Recognition
 
+|**2025-05-15**|**NeoLightning: A Modern Reimagination of Gesture-Based Sound Design**|Yonghyun Kim et.al.|[2505.10686](http://arxiv.org/abs/2505.10686)|null|
 |**2025-05-11**|**DeepSORT-Driven Visual Tracking Approach for Gesture Recognition in Interactive Systems**|Tong Zhang et.al.|[2505.07110](http://arxiv.org/abs/2505.07110)|null|
 |**2025-05-15**|**X-Sim: Cross-Embodiment Learning via Real-to-Sim-to-Real**|Prithwish Dan et.al.|[2505.07096](http://arxiv.org/abs/2505.07096)|null|
 |**2025-05-09**|**Context Informed Incremental Learning Improves Myoelectric Control Performance in Virtual Reality Object Manipulation Tasks**|Gabriel Gagné et.al.|[2505.06064](http://arxiv.org/abs/2505.06064)|**[link](https://github.com/biomedicalits/ciil-emg-vr)**|
@@ -505,6 +508,7 @@
 
 ## Eye Tracking
 
+|**2025-05-15**|**GA3CE: Unconstrained 3D Gaze Estimation with Gaze-Aware 3D Context Encoding**|Yuki Kawana et.al.|[2505.10671](http://arxiv.org/abs/2505.10671)|null|
 |**2025-05-13**|**DHECA-SuperGaze: Dual Head-Eye Cross-Attention and Super-Resolution for Unconstrained Gaze Estimation**|Franko Šikić et.al.|[2505.08426](http://arxiv.org/abs/2505.08426)|null|
 |**2025-05-12**|**Automated Visual Attention Detection using Mobile Eye Tracking in Behavioral Classroom Studies**|Efe Bozkir et.al.|[2505.07552](http://arxiv.org/abs/2505.07552)|null|
 |**2025-05-12**|**User Identification with LFI-Based Eye Movement Data Using Time and Frequency Domain Features**|Suleyman Ozdel et.al.|[2505.07326](http://arxiv.org/abs/2505.07326)|null|
@@ -675,6 +679,16 @@
 
 ## VLM/LLM
 
+|**2025-05-16**|**SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning**|Yige Xu et.al.|[2505.11484](http://arxiv.org/abs/2505.11484)|null|
+|**2025-05-16**|**msf-CNN: Patch-based Multi-Stage Fusion with Convolutional Neural Networks for TinyML**|Zhaolan Huang et.al.|[2505.11483](http://arxiv.org/abs/2505.11483)|null|
+|**2025-05-16**|**Improving Assembly Code Performance with Large Language Models via Reinforcement Learning**|Anjiang Wei et.al.|[2505.11480](http://arxiv.org/abs/2505.11480)|null|
+|**2025-05-16**|**HelpSteer3-Preference: Open Human-Annotated Preference Data across Diverse Tasks and Languages**|Zhilin Wang et.al.|[2505.11475](http://arxiv.org/abs/2505.11475)|null|
+|**2025-05-16**|**Disentangling Reasoning and Knowledge in Medical Large Language Models**|Rahul Thapa et.al.|[2505.11462](http://arxiv.org/abs/2505.11462)|null|
+|**2025-05-16**|**ProxyPrompt: Securing System Prompts against Prompt Extraction Attacks**|Zhixiong Zhuang et.al.|[2505.11459](http://arxiv.org/abs/2505.11459)|null|
+|**2025-05-16**|**LLMs unlock new paths to monetizing exploits**|Nicholas Carlini et.al.|[2505.11449](http://arxiv.org/abs/2505.11449)|null|
+|**2025-05-16**|**Is Compression Really Linear with Code Intelligence?**|Xianzhen Luo et.al.|[2505.11441](http://arxiv.org/abs/2505.11441)|null|
+|**2025-05-16**|**GODBench: A Benchmark for Multimodal Large Language Models in Video Comment Art**|Chenkai Zhang et.al.|[2505.11436](http://arxiv.org/abs/2505.11436)|null|
+|**2025-05-16**|**MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**|Chao Jin et.al.|[2505.11432](http://arxiv.org/abs/2505.11432)|null|
 |**2025-05-15**|**End-to-End Vision Tokenizer Tuning**|Wenxuan Wang et.al.|[2505.10562](http://arxiv.org/abs/2505.10562)|null|
 |**2025-05-15**|**Neural Thermodynamic Laws for Large Language Model Training**|Ziming Liu et.al.|[2505.10559](http://arxiv.org/abs/2505.10559)|null|
 |**2025-05-15**|**Does Feasibility Matter? Understanding the Impact of Feasibility on Synthetic Training Data**|Yiwen Liu et.al.|[2505.10551](http://arxiv.org/abs/2505.10551)|**[link](https://github.com/yiveen/syntheticdatafeasibility)**|
@@ -2228,6 +2242,16 @@
 
 ## Diffusion
 
+|**2025-05-16**|**QVGen: Pushing the Limit of Quantized Video Generative Models**|Yushi Huang et.al.|[2505.11497](http://arxiv.org/abs/2505.11497)|null|
+|**2025-05-16**|**Unsupervised Detection of Distribution Shift in Inverse Problems using Diffusion Models**|Shirin Shoushtari et.al.|[2505.11482](http://arxiv.org/abs/2505.11482)|null|
+|**2025-05-16**|**PSDiffusion: Harmonized Multi-Layer Image Generation via Layout and Appearance Alignment**|Dingbang Huang et.al.|[2505.11468](http://arxiv.org/abs/2505.11468)|null|
+|**2025-05-16**|**Exploiting Radiance Fields for Grasp Generation on Novel Synthetic Views**|Abhishek Kashyap et.al.|[2505.11467](http://arxiv.org/abs/2505.11467)|null|
+|**2025-05-16**|**A Generative Framework for Causal Estimation via Importance-Weighted Diffusion Distillation**|Xinran Song et.al.|[2505.11444](http://arxiv.org/abs/2505.11444)|null|
+|**2025-05-16**|**Combined Experimental and Computational Analysis of Lithium Diffusion in Isostructural Pair VNb9O25 and VTa9O25**|Manish Kumar et.al.|[2505.11443](http://arxiv.org/abs/2505.11443)|null|
+|**2025-05-16**|**Diff-Unfolding: A Model-Based Score Learning Framework for Inverse Problems**|Yuanhao Wang et.al.|[2505.11393](http://arxiv.org/abs/2505.11393)|null|
+|**2025-05-16**|**LipDiffuser: Lip-to-Speech Generation with Conditional Diffusion Models**|Danilo de Oliveira et.al.|[2505.11391](http://arxiv.org/abs/2505.11391)|null|
+|**2025-05-16**|**Long-Term Average Impulse Control with Mean Field Interactions**|K. L. Helmes et.al.|[2505.11345](http://arxiv.org/abs/2505.11345)|null|
+|**2025-05-16**|**MARRS: Masked Autoregressive Unit-based Reaction Synthesis**|Y. B. Wang et.al.|[2505.11334](http://arxiv.org/abs/2505.11334)|null|
 |**2025-05-15**|**3D-Fixup: Advancing Photo Editing with 3D Priors**|Yen-Chi Cheng et.al.|[2505.10566](http://arxiv.org/abs/2505.10566)|null|
 |**2025-05-15**|**Style Customization of Text-to-Vector Generation with Image Diffusion Priors**|Peiying Zhang et.al.|[2505.10558](http://arxiv.org/abs/2505.10558)|null|
 |**2025-05-15**|**Does Feasibility Matter? Understanding the Impact of Feasibility on Synthetic Training Data**|Yiwen Liu et.al.|[2505.10551](http://arxiv.org/abs/2505.10551)|**[link](https://github.com/yiveen/syntheticdatafeasibility)**|
@@ -3777,6 +3801,10 @@
 
 ## Neural Rendering
 
+|**2025-05-16**|**Exploiting Radiance Fields for Grasp Generation on Novel Synthetic Views**|Abhishek Kashyap et.al.|[2505.11467](http://arxiv.org/abs/2505.11467)|null|
+|**2025-05-16**|**MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory**|Zifan Wang et.al.|[2505.11386](http://arxiv.org/abs/2505.11386)|null|
+|**2025-05-16**|**GrowSplat: Constructing Temporal Digital Twins of Plants with Gaussian Splats**|Simeon Adebola et.al.|[2505.10923](http://arxiv.org/abs/2505.10923)|null|
+|**2025-05-16**|**EA-3DGS: Efficient and Adaptive 3D Gaussians with Highly Enhanced Quality for outdoor scenes**|Jianlin Guo et.al.|[2505.10787](http://arxiv.org/abs/2505.10787)|null|
 |**2025-05-15**|**Consistent Quantity-Quality Control across Scenes for Deployment-Aware Gaussian Splatting**|Fengdi Zhang et.al.|[2505.10473](http://arxiv.org/abs/2505.10473)|null|
 |**2025-05-15**|**VRSplat: Fast and Robust Gaussian Splatting for Virtual Reality**|Xuechang Tu et.al.|[2505.10144](http://arxiv.org/abs/2505.10144)|**[link](https://github.com/cekavis/vrsplat)**|
 |**2025-05-15**|**Advances in Radiance Field for Dynamic Scene: From Neural Field to Gaussian Field**|Jinlong Fan et.al.|[2505.10049](http://arxiv.org/abs/2505.10049)|**[link](https://github.com/moonflo/dynamic-radiation-field-paper-list)**|
@@ -6053,6 +6081,9 @@
 
 ## RSR
 
+|**2025-05-16**|**Learning Multimodal AI Algorithms for Amplifying Limited User Input into High-dimensional Control Space**|Ali Rabiee et.al.|[2505.11366](http://arxiv.org/abs/2505.11366)|null|
+|**2025-05-16**|**DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy**|Yuran Wang et.al.|[2505.11032](http://arxiv.org/abs/2505.11032)|null|
+|**2025-05-15**|**Infinigen-Sim: Procedural Generation of Articulated Simulation Assets**|Abhishek Joshi et.al.|[2505.10755](http://arxiv.org/abs/2505.10755)|null|
 |**2025-05-15**|**APEX: Action Priors Enable Efficient Exploration for Skill Imitation on Articulated Robots**|Shivam Sood et.al.|[2505.10022](http://arxiv.org/abs/2505.10022)|null|
 |**2025-05-13**|**Real-time Capable Learning-based Visual Tool Pose Correction via Differentiable Simulation**|Shuyuan Yang et.al.|[2505.08875](http://arxiv.org/abs/2505.08875)|null|
 |**2025-05-15**|**NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**|Wenzhe Cai et.al.|[2505.08712](http://arxiv.org/abs/2505.08712)|null|
