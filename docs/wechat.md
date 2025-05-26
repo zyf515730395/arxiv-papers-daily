@@ -14,6 +14,9 @@
 
 ## Depth Estimation
 
+|**2025-05-23**|**A Wavelet-based Stereo Matching Framework for Solving Frequency Convergence Inconsistency**|Xiaobao Wei et.al.|[2505.18024](http://arxiv.org/abs/2505.18024)|null|
+|**2025-05-23**|**Repurposing Marigold for Zero-Shot Metric Depth Estimation via Defocus Blur Cues**|Chinmay Talegaonkar et.al.|[2505.17358](http://arxiv.org/abs/2505.17358)|null|
+|**2025-05-22**|**A Framework for Multi-View Multiple Object Tracking using Single-View Multi-Object Trackers on Fish Data**|Chaim Chai Elchik et.al.|[2505.17201](http://arxiv.org/abs/2505.17201)|null|
 |**2025-05-22**|**MEgoHand: Multimodal Egocentric Hand-Object Interaction Motion Generation**|Bohan Zhou et.al.|[2505.16602](http://arxiv.org/abs/2505.16602)|null|
 |**2025-05-22**|**BadDepth: Backdoor Attacks Against Monocular Depth Estimation in the Physical World**|Ji Guo et.al.|[2505.16154](http://arxiv.org/abs/2505.16154)|null|
 |**2025-05-21**|**RadarRGBD A Multi-Sensor Fusion Dataset for Perception with RGB-D and mmWave Radar**|Tieshuai Song et.al.|[2505.15860](http://arxiv.org/abs/2505.15860)|null|
@@ -401,6 +404,10 @@
 
 ## Gesture Recognition
 
+|**2025-05-23**|**3D Face Reconstruction Error Decomposed: A Modular Benchmark for Fair and Fast Method Evaluation**|Evangelos Sariyanidi et.al.|[2505.18025](http://arxiv.org/abs/2505.18025)|null|
+|**2025-05-23**|**Multi-task Learning For Joint Action and Gesture Recognition**|Konstantinos Spathis et.al.|[2505.17867](http://arxiv.org/abs/2505.17867)|null|
+|**2025-05-22**|**UAV Control with Vision-based Hand Gesture Recognition over Edge-Computing**|Sousannah Abdalla et.al.|[2505.17303](http://arxiv.org/abs/2505.17303)|null|
+|**2025-05-16**|**Enhancing Mathematics Learning for Hard-of-Hearing Students Through Real-Time Palestinian Sign Language Recognition: A New Dataset**|Fidaa khandaqji et.al.|[2505.17055](http://arxiv.org/abs/2505.17055)|null|
 |**2025-05-21**|**Towards Zero-Shot Differential Morphing Attack Detection with Multimodal Large Language Models**|Ria Shekhawat et.al.|[2505.15332](http://arxiv.org/abs/2505.15332)|null|
 |**2025-05-21**|**DiffProb: Data Pruning for Face Recognition**|Eduarda Caldeira et.al.|[2505.15272](http://arxiv.org/abs/2505.15272)|**[link](https://github.com/EduardaCaldeira/DiffProb)**|
 |**2025-05-20**|**Transfer Learning from Visual Speech Recognition to Mouthing Recognition in German Sign Language**|Dinh Nam Pham et.al.|[2505.13784](http://arxiv.org/abs/2505.13784)|**[link](https://github.com/nphamdinh/transfer-learning-vsr-mouthing-sign-language)**|
@@ -524,6 +531,7 @@
 
 ## Eye Tracking
 
+|**2025-05-22**|**Ocular Authentication: Fusion of Gaze and Periocular Modalities**|Dillon Lohr et.al.|[2505.17343](http://arxiv.org/abs/2505.17343)|null|
 |**2025-05-22**|**MAGE: A Multi-task Architecture for Gaze Estimation with an Efficient Calibration Module**|Haoming Huang et.al.|[2505.16384](http://arxiv.org/abs/2505.16384)|null|
 |**2025-05-22**|**Spontaneous Speech Variables for Evaluating LLMs Cognitive Plausibility**|Sheng-Fu Wang et.al.|[2505.16277](http://arxiv.org/abs/2505.16277)|null|
 |**2025-05-21**|**Zero-Shot Gaze-based Volumetric Medical Image Segmentation**|Tatyana Shmykova et.al.|[2505.15256](http://arxiv.org/abs/2505.15256)|null|
@@ -699,6 +707,16 @@
 
 ## VLM/LLM
 
+|**2025-05-23**|**The Staircase of Ethics: Probing LLM Value Priorities through Multi-Step Induction to Complex Moral Dilemmas**|Ya Wu et.al.|[2505.18154](http://arxiv.org/abs/2505.18154)|null|
+|**2025-05-23**|**Fann or Flop: A Multigenre, Multiera Benchmark for Arabic Poetry Understanding in LLMs**|Wafa Alghallabi et.al.|[2505.18152](http://arxiv.org/abs/2505.18152)|null|
+|**2025-05-23**|**First Finish Search: Efficient Test-Time Scaling in Large Language Models**|Aradhye Agarwal et.al.|[2505.18149](http://arxiv.org/abs/2505.18149)|null|
+|**2025-05-23**|**Lost in the Haystack: Smaller Needles are More Difficult for LLMs to Find**|Owen Bianchi et.al.|[2505.18148](http://arxiv.org/abs/2505.18148)|null|
+|**2025-05-23**|**Gaming Tool Preferences in Agentic LLMs**|Kazem Faghih et.al.|[2505.18135](http://arxiv.org/abs/2505.18135)|null|
+|**2025-05-23**|**VideoGameBench: Can Vision-Language Models complete popular video games?**|Alex L. Zhang et.al.|[2505.18134](http://arxiv.org/abs/2505.18134)|null|
+|**2025-05-23**|**One RL to See Them All: Visual Triple Unified Reinforcement Learning**|Yan Ma et.al.|[2505.18129](http://arxiv.org/abs/2505.18129)|null|
+|**2025-05-23**|**Frankentext: Stitching random text fragments into long-form narratives**|Chau Minh Pham et.al.|[2505.18128](http://arxiv.org/abs/2505.18128)|null|
+|**2025-05-23**|**Reward Model Overoptimisation in Iterated RLHF**|Lorenz Wolf et.al.|[2505.18126](http://arxiv.org/abs/2505.18126)|null|
+|**2025-05-23**|**UNJOIN: Enhancing Multi-Table Text-to-SQL Generation via Schema Simplification**|Poojah Ganesan et.al.|[2505.18122](http://arxiv.org/abs/2505.18122)|null|
 |**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020](http://arxiv.org/abs/2505.17020)|**[link](https://github.com/shilinyan99/crosslmm)**|
 |**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019](http://arxiv.org/abs/2505.17019)|**[link](https://github.com/ming-zch/let-androids-dream-of-electric-sheep)**|
 |**2025-05-22**|**SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**|Kaixuan Fan et.al.|[2505.17018](http://arxiv.org/abs/2505.17018)|**[link](https://github.com/kxfan2002/sophiavl-r1)**|
@@ -2302,6 +2320,16 @@
 
 ## Diffusion
 
+|**2025-05-23**|**WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions**|Zizhang Li et.al.|[2505.18151](http://arxiv.org/abs/2505.18151)|null|
+|**2025-05-23**|**Stochastic agent-based Monte Carlo simulations for reaction-diffusion models, population dynamics, and epidemic spreading**|Mohamed Swailem et.al.|[2505.18145](http://arxiv.org/abs/2505.18145)|null|
+|**2025-05-23**|**TokBench: Evaluating Your Visual Tokenizer before Visual Generation**|Junfeng Wu et.al.|[2505.18142](http://arxiv.org/abs/2505.18142)|null|
+|**2025-05-23**|**Effect of Fluorine doping on the electrocatalytic properties of Nb2O5 for H2O2 electrogeneration**|Aline B. Trench et.al.|[2505.18140](http://arxiv.org/abs/2505.18140)|null|
+|**2025-05-23**|**Towards more transferable adversarial attack in black-box manner**|Chun Tong Lei et.al.|[2505.18097](http://arxiv.org/abs/2505.18097)|null|
+|**2025-05-23**|**What Do You Need for Diverse Trajectory Stitching in Diffusion Planning?**|Quentin Clark et.al.|[2505.18083](http://arxiv.org/abs/2505.18083)|null|
+|**2025-05-23**|**DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation**|Junhao Chen et.al.|[2505.18078](http://arxiv.org/abs/2505.18078)|null|
+|**2025-05-23**|**Low energy calibration in DUNE far detector prototypes**|Emile Lavaut et.al.|[2505.18073](http://arxiv.org/abs/2505.18073)|null|
+|**2025-05-23**|**RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2505.18047](http://arxiv.org/abs/2505.18047)|null|
+|**2025-05-23**|**Strictly Constrained Generative Modeling via Split Augmented Langevin Sampling**|Matthieu Blanke et.al.|[2505.18017](http://arxiv.org/abs/2505.18017)|null|
 |**2025-05-22**|**When Are Concepts Erased From Diffusion Models?**|Kevin Lu et.al.|[2505.17013](http://arxiv.org/abs/2505.17013)|null|
 |**2025-05-22**|**CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning**|Jiange Yang et.al.|[2505.17006](http://arxiv.org/abs/2505.17006)|null|
 |**2025-05-22**|**Guided Diffusion Sampling on Function Spaces with Applications to PDEs**|Jiachen Yao et.al.|[2505.17004](http://arxiv.org/abs/2505.17004)|**[link](https://github.com/neuraloperator/fundps)**|
@@ -3901,6 +3929,10 @@
 
 ## Neural Rendering
 
+|**2025-05-23**|**SplatCo: Structure-View Collaborative Gaussian Splatting for Detail-Preserving Rendering of Large-Scale Unbounded Scenes**|Haihong Xiao et.al.|[2505.17951](http://arxiv.org/abs/2505.17951)|null|
+|**2025-05-23**|**CGS-GAN: 3D Consistent Gaussian Splatting GANs for High Resolution Human Head Synthesis**|Florian Barthel et.al.|[2505.17590](http://arxiv.org/abs/2505.17590)|null|
+|**2025-05-23**|**From Flight to Insight: Semantic 3D Reconstruction for Aerial Inspection via Gaussian Splatting and Language-Guided Segmentation**|Mahmoud Chick Zaouali et.al.|[2505.17402](http://arxiv.org/abs/2505.17402)|null|
+|**2025-05-22**|**Render-FM: A Foundation Model for Real-time Photorealistic Volumetric Rendering**|Zhongpai Gao et.al.|[2505.17338](http://arxiv.org/abs/2505.17338)|null|
 |**2025-05-22**|**Seeing through Satellite Images at Street Views**|Ming Qian et.al.|[2505.17001](http://arxiv.org/abs/2505.17001)|null|
 |**2025-05-22**|**UAV See, UGV Do: Aerial Imagery and Virtual Teach Enabling Zero-Shot Ground Vehicle Repeat**|Desiree Fisker et.al.|[2505.16912](http://arxiv.org/abs/2505.16912)|null|
 |**2025-05-22**|**SHaDe: Compact and Consistent Dynamic 3D Reconstruction via Tri-Plane Deformation and Latent Diffusion**|Asrar Alruwayqi et.al.|[2505.16535](http://arxiv.org/abs/2505.16535)|null|
