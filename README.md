@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Occlusion Boundary and Depth: Mutual Enhancement via Multi-Task Learning**|Lintao Xu et.al.|[2505.21231](http://arxiv.org/abs/2505.21231)|null|
+|**2025-05-27**|**Robust Video-Based Pothole Detection and Area Estimation for Intelligent Vehicles with Depth Map and Kalman Smoothing**|Dehao Wang et.al.|[2505.21049](http://arxiv.org/abs/2505.21049)|null|
+|**2025-05-27**|**Spatial RoboGrasp: Generalized Robotic Grasping Control Policy**|Yiqi Huang et.al.|[2505.20814](http://arxiv.org/abs/2505.20814)|null|
 |**2025-05-26**|**SpikeStereoNet: A Brain-Inspired Framework for Stereo Depth Estimation from Spike Streams**|Zhuoheng Gao et.al.|[2505.19487](http://arxiv.org/abs/2505.19487)|null|
 |**2025-05-25**|**From Single Images to Motion Policies via Video-Generation Environment Representations**|Weiming Zhi et.al.|[2505.19306](http://arxiv.org/abs/2505.19306)|null|
 |**2025-05-23**|**A Wavelet-based Stereo Matching Framework for Solving Frequency Convergence Inconsistency**|Xiaobao Wei et.al.|[2505.18024](http://arxiv.org/abs/2505.18024)|null|
@@ -410,6 +413,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**TrustSkin: A Fairness Pipeline for Trustworthy Facial Affect Analysis Across Skin Tone**|Ana M. Cabanas et.al.|[2505.20637](http://arxiv.org/abs/2505.20637)|null|
 |**2025-05-26**|**Data-Free Class-Incremental Gesture Recognition with Prototype-Guided Pseudo Feature Replay**|Hongsong Wang et.al.|[2505.20049](http://arxiv.org/abs/2505.20049)|null|
 |**2025-05-23**|**3D Face Reconstruction Error Decomposed: A Modular Benchmark for Fair and Fast Method Evaluation**|Evangelos Sariyanidi et.al.|[2505.18025](http://arxiv.org/abs/2505.18025)|null|
 |**2025-05-23**|**Multi-task Learning For Joint Action and Gesture Recognition**|Konstantinos Spathis et.al.|[2505.17867](http://arxiv.org/abs/2505.17867)|null|
@@ -540,6 +544,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**How Do Experts Make Sense of Integrated Process Models?**|Tianwa Chen et.al.|[2505.20667](http://arxiv.org/abs/2505.20667)|null|
 |**2025-05-24**|**Mind Your Vision: Multimodal Estimation of Refractive Disorders Using Electrooculography and Eye Tracking**|Xin Wei et.al.|[2505.18538](http://arxiv.org/abs/2505.18538)|null|
 |**2025-05-26**|**Ocular Authentication: Fusion of Gaze and Periocular Modalities**|Dillon Lohr et.al.|[2505.17343](http://arxiv.org/abs/2505.17343)|null|
 |**2025-05-22**|**MAGE: A Multi-task Architecture for Gaze Estimation with an Efficient Calibration Module**|Haoming Huang et.al.|[2505.16384](http://arxiv.org/abs/2505.16384)|null|
@@ -719,6 +724,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**How does Alignment Enhance LLMs' Multilingual Capabilities? A Language Neurons Perspective**|Shimao Zhang et.al.|[2505.21505](http://arxiv.org/abs/2505.21505)|null|
+|**2025-05-27**|**Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making**|Yihan Wang et.al.|[2505.21503](http://arxiv.org/abs/2505.21503)|null|
+|**2025-05-27**|**ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models**|Dingming Li et.al.|[2505.21500](http://arxiv.org/abs/2505.21500)|null|
+|**2025-05-27**|**AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery**|Haowei Wang et.al.|[2505.21499](http://arxiv.org/abs/2505.21499)|null|
+|**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497](http://arxiv.org/abs/2505.21497)|null|
+|**2025-05-27**|**Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment**|Xiaojun Jia et.al.|[2505.21494](http://arxiv.org/abs/2505.21494)|null|
+|**2025-05-27**|**Reinforcing General Reasoning without Verifiers**|Xiangxin Zhou et.al.|[2505.21493](http://arxiv.org/abs/2505.21493)|null|
+|**2025-05-27**|**Hardware-Efficient Attention for Fast Decoding**|Ted Zadouri et.al.|[2505.21487](http://arxiv.org/abs/2505.21487)|null|
+|**2025-05-27**|**Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming**|Yang Yang et.al.|[2505.21486](http://arxiv.org/abs/2505.21486)|null|
+|**2025-05-27**|**Are Language Models Consequentialist or Deontological Moral Reasoners?**|Keenan Samway et.al.|[2505.21479](http://arxiv.org/abs/2505.21479)|null|
 |**2025-05-27**|**MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents**|Ziming Wei et.al.|[2505.20148](http://arxiv.org/abs/2505.20148)|null|
 |**2025-05-26**|**FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities**|Jin Wang et.al.|[2505.20147](http://arxiv.org/abs/2505.20147)|null|
 |**2025-05-26**|**StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs**|Jialin Yang et.al.|[2505.20139](http://arxiv.org/abs/2505.20139)|null|
@@ -2344,6 +2359,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Frame In-N-Out: Unbounded Controllable Image-to-Video Generation**|Boyang Wang et.al.|[2505.21491](http://arxiv.org/abs/2505.21491)|null|
+|**2025-05-27**|**Be Decisive: Noise-Induced Layouts for Multi-Subject Generation**|Omer Dahary et.al.|[2505.21488](http://arxiv.org/abs/2505.21488)|null|
+|**2025-05-27**|**Representations of the fractional d'Alembertian and initial conditions in fractional dynamics**|Gianluca Calcagni et.al.|[2505.21485](http://arxiv.org/abs/2505.21485)|null|
+|**2025-05-27**|**MV-CoLight: Efficient Object Compositing with Consistent Lighting and Shadow Generation**|Kerui Ren et.al.|[2505.21483](http://arxiv.org/abs/2505.21483)|null|
+|**2025-05-27**|**PropMolFlow: Property-guided Molecule Generation with Geometry-Complete Flow Matching**|Cheng Zeng et.al.|[2505.21469](http://arxiv.org/abs/2505.21469)|null|
+|**2025-05-27**|**Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion**|Zhanqiu Hu et.al.|[2505.21467](http://arxiv.org/abs/2505.21467)|null|
+|**2025-05-27**|**OmniSync: Towards Universal Lip Synchronization via Diffusion Transformers**|Ziqiao Peng et.al.|[2505.21448](http://arxiv.org/abs/2505.21448)|null|
+|**2025-05-27**|**Full stochastic dynamics of a tracer in a dense single-file system**|Alexis Poncet et.al.|[2505.21446](http://arxiv.org/abs/2505.21446)|null|
+|**2025-05-27**|**CoDA: Coordinated Diffusion Noise Optimization for Whole-Body Manipulation of Articulated Objects**|Huaijin Pi et.al.|[2505.21437](http://arxiv.org/abs/2505.21437)|null|
+|**2025-05-27**|**Scalar field stochastic dynamics in de Sitter spacetime from exact solutions of quantum deficient oscillators**|Yuta Nasuda et.al.|[2505.21429](http://arxiv.org/abs/2505.21429)|null|
 |**2025-05-26**|**On the chaos induced by the Galactic bar on the orbits of nearby halo stars**|Hanneke C. Woudenberg et.al.|[2505.20143](http://arxiv.org/abs/2505.20143)|null|
 |**2025-05-26**|**MolEditRL: Structure-Preserving Molecular Editing via Discrete Diffusion and Reinforcement Learning**|Yuanxin Zhuang et.al.|[2505.20131](http://arxiv.org/abs/2505.20131)|null|
 |**2025-05-26**|**Understanding Generalization in Diffusion Models via Probability Flow Distance**|Huijie Zhang et.al.|[2505.20123](http://arxiv.org/abs/2505.20123)|null|
@@ -3965,6 +3990,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Generalizable and Relightable Gaussian Splatting for Human Novel View Synthesis**|Yipengjing Sun et.al.|[2505.21502](http://arxiv.org/abs/2505.21502)|null|
+|**2025-05-27**|**Empowering Vector Graphics with Consistently Arbitrary Viewing and View-dependent Visibility**|Yidi Li et.al.|[2505.21377](http://arxiv.org/abs/2505.21377)|null|
+|**2025-05-27**|**Structure from Collision**|Takuhiro Kaneko et.al.|[2505.21335](http://arxiv.org/abs/2505.21335)|null|
+|**2025-05-27**|**efunc: An Efficient Function Representation without Neural Networks**|Biao Zhang et.al.|[2505.21319](http://arxiv.org/abs/2505.21319)|null|
+|**2025-05-27**|**3D-UIR: 3D Gaussian for Underwater 3D Scene Reconstruction via Physics-Based Appearance-Medium Decouplin**|Jieyu Yuan et.al.|[2505.21238](http://arxiv.org/abs/2505.21238)|null|
+|**2025-05-27**|**CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians**|Weihang Liu et.al.|[2505.21041](http://arxiv.org/abs/2505.21041)|null|
+|**2025-05-27**|**Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2505.20729](http://arxiv.org/abs/2505.20729)|null|
+|**2025-05-27**|**Wideband RF Radiance Field Modeling Using Frequency-embedded 3D Gaussian Splatting**|Zechen Li et.al.|[2505.20714](http://arxiv.org/abs/2505.20714)|null|
+|**2025-05-26**|**Total-Editing: Head Avatar with Editable Appearance, Motion, and Lighting**|Yizhou Zhao et.al.|[2505.20582](http://arxiv.org/abs/2505.20582)|null|
+|**2025-05-26**|**CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting**|Lei Tian et.al.|[2505.20469](http://arxiv.org/abs/2505.20469)|null|
 |**2025-05-26**|**OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**|Shintaro Ito et.al.|[2505.20126](http://arxiv.org/abs/2505.20126)|null|
 |**2025-05-26**|**Weather-Magician: Reconstruction and Rendering Framework for 4D Weather Synthesis In Real Time**|Chen Sang et.al.|[2505.19919](http://arxiv.org/abs/2505.19919)|null|
 |**2025-05-26**|**ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization**|Shintaro Ito et.al.|[2505.19883](http://arxiv.org/abs/2505.19883)|null|
@@ -6286,6 +6321,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**A domain adaptation neural network for digital twin-supported fault diagnosis**|Zhenling Chen et.al.|[2505.21046](http://arxiv.org/abs/2505.21046)|**[link](https://github.com/JialingRichard/Digital-Twin-Fault-Diagnosis)**|
 |**2025-05-25**|**Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments**|Zifan Wang et.al.|[2505.19214](http://arxiv.org/abs/2505.19214)|null|
 |**2025-05-25**|**WorldEval: World Model as Real-World Robot Policies Evaluator**|Yaxuan Li et.al.|[2505.19017](http://arxiv.org/abs/2505.19017)|null|
 |**2025-05-25**|**Designing Pin-pression Gripper and Learning its Dexterous Grasping with Online In-hand Adjustment**|Hewen Xiao et.al.|[2505.18994](http://arxiv.org/abs/2505.18994)|null|
