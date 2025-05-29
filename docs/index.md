@@ -5,7 +5,7 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2025.05.28
+Updated on 2025.05.29
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -406,7 +406,7 @@ Updated on 2025.05.28
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-27**|**TrustSkin: A Fairness Pipeline for Trustworthy Facial Affect Analysis Across Skin Tone**|Ana M. Cabanas et.al.|[2505.20637](http://arxiv.org/abs/2505.20637)|null|
-|**2025-05-26**|**Data-Free Class-Incremental Gesture Recognition with Prototype-Guided Pseudo Feature Replay**|Hongsong Wang et.al.|[2505.20049](http://arxiv.org/abs/2505.20049)|null|
+|**2025-05-26**|**Data-Free Class-Incremental Gesture Recognition with Prototype-Guided Pseudo Feature Replay**|Hongsong Wang et.al.|[2505.20049](http://arxiv.org/abs/2505.20049)|**[link](https://github.com/sunao-101/pgpfr-3)**|
 |**2025-05-23**|**3D Face Reconstruction Error Decomposed: A Modular Benchmark for Fair and Fast Method Evaluation**|Evangelos Sariyanidi et.al.|[2505.18025](http://arxiv.org/abs/2505.18025)|null|
 |**2025-05-23**|**Multi-task Learning For Joint Action and Gesture Recognition**|Konstantinos Spathis et.al.|[2505.17867](http://arxiv.org/abs/2505.17867)|null|
 |**2025-05-22**|**UAV Control with Vision-based Hand Gesture Recognition over Edge-Computing**|Sousannah Abdalla et.al.|[2505.17303](http://arxiv.org/abs/2505.17303)|null|
@@ -534,7 +534,7 @@ Updated on 2025.05.28
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-27**|**How Do Experts Make Sense of Integrated Process Models?**|Tianwa Chen et.al.|[2505.20667](http://arxiv.org/abs/2505.20667)|null|
+|**2025-05-28**|**How Do Experts Make Sense of Integrated Process Models?**|Tianwa Chen et.al.|[2505.20667](http://arxiv.org/abs/2505.20667)|null|
 |**2025-05-24**|**Mind Your Vision: Multimodal Estimation of Refractive Disorders Using Electrooculography and Eye Tracking**|Xin Wei et.al.|[2505.18538](http://arxiv.org/abs/2505.18538)|null|
 |**2025-05-26**|**Ocular Authentication: Fusion of Gaze and Periocular Modalities**|Dillon Lohr et.al.|[2505.17343](http://arxiv.org/abs/2505.17343)|null|
 |**2025-05-22**|**MAGE: A Multi-task Architecture for Gaze Estimation with an Efficient Calibration Module**|Haoming Huang et.al.|[2505.16384](http://arxiv.org/abs/2505.16384)|null|
@@ -3979,7 +3979,7 @@ Updated on 2025.05.28
 |**2025-05-27**|**Structure from Collision**|Takuhiro Kaneko et.al.|[2505.21335](http://arxiv.org/abs/2505.21335)|null|
 |**2025-05-27**|**efunc: An Efficient Function Representation without Neural Networks**|Biao Zhang et.al.|[2505.21319](http://arxiv.org/abs/2505.21319)|null|
 |**2025-05-27**|**3D-UIR: 3D Gaussian for Underwater 3D Scene Reconstruction via Physics-Based Appearance-Medium Decouplin**|Jieyu Yuan et.al.|[2505.21238](http://arxiv.org/abs/2505.21238)|null|
-|**2025-05-27**|**CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians**|Weihang Liu et.al.|[2505.21041](http://arxiv.org/abs/2505.21041)|null|
+|**2025-05-28**|**CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians**|Weihang Liu et.al.|[2505.21041](http://arxiv.org/abs/2505.21041)|null|
 |**2025-05-27**|**Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2505.20729](http://arxiv.org/abs/2505.20729)|null|
 |**2025-05-27**|**Wideband RF Radiance Field Modeling Using Frequency-embedded 3D Gaussian Splatting**|Zechen Li et.al.|[2505.20714](http://arxiv.org/abs/2505.20714)|null|
 |**2025-05-26**|**Total-Editing: Head Avatar with Editable Appearance, Motion, and Lighting**|Yizhou Zhao et.al.|[2505.20582](http://arxiv.org/abs/2505.20582)|null|
@@ -6306,10 +6306,10 @@ Updated on 2025.05.28
 |**2025-05-27**|**A domain adaptation neural network for digital twin-supported fault diagnosis**|Zhenling Chen et.al.|[2505.21046](http://arxiv.org/abs/2505.21046)|**[link](https://github.com/JialingRichard/Digital-Twin-Fault-Diagnosis)**|
 |**2025-05-25**|**Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments**|Zifan Wang et.al.|[2505.19214](http://arxiv.org/abs/2505.19214)|null|
 |**2025-05-25**|**WorldEval: World Model as Real-World Robot Policies Evaluator**|Yaxuan Li et.al.|[2505.19017](http://arxiv.org/abs/2505.19017)|null|
-|**2025-05-25**|**Designing Pin-pression Gripper and Learning its Dexterous Grasping with Online In-hand Adjustment**|Hewen Xiao et.al.|[2505.18994](http://arxiv.org/abs/2505.18994)|null|
+|**2025-05-25**|**Designing Pin-pression Gripper and Learning its Dexterous Grasping with Online In-hand Adjustment**|Hewen Xiao et.al.|[2505.18994](http://arxiv.org/abs/2505.18994)|**[link](https://github.com/siggraph-pin-pression-gripper/pin-pression-gripper-video)**|
 |**2025-05-24**|**SD-OVON: A Semantics-aware Dataset and Benchmark Generation Pipeline for Open-Vocabulary Object Navigation in Dynamic Scenes**|Dicong Qiu et.al.|[2505.18881](http://arxiv.org/abs/2505.18881)|null|
 |**2025-05-24**|**YOPO-Rally: A Sim-to-Real Single-Stage Planner for Off-Road Terrain**|Hongyu Cao et.al.|[2505.18714](http://arxiv.org/abs/2505.18714)|null|
-|**2025-05-24**|**S2R-Bench: A Sim-to-Real Evaluation Benchmark for Autonomous Driving**|Li Wang et.al.|[2505.18631](http://arxiv.org/abs/2505.18631)|null|
+|**2025-05-24**|**S2R-Bench: A Sim-to-Real Evaluation Benchmark for Autonomous Driving**|Li Wang et.al.|[2505.18631](http://arxiv.org/abs/2505.18631)|**[link](https://github.com/adept-thu/s2r-bench)**|
 |**2025-05-22**|**UAV See, UGV Do: Aerial Imagery and Virtual Teach Enabling Zero-Shot Ground Vehicle Repeat**|Desiree Fisker et.al.|[2505.16912](http://arxiv.org/abs/2505.16912)|null|
 |**2025-05-26**|**UAV-Flow Colosseo: A Real-World Benchmark for Flying-on-a-Word UAV Imitation Learning**|Xiangyu Wang et.al.|[2505.15725](http://arxiv.org/abs/2505.15725)|null|
 |**2025-05-20**|**NavBench: A Unified Robotics Benchmark for Reinforcement Learning-Based Autonomous Navigation**|Matteo El-Hariry et.al.|[2505.14526](http://arxiv.org/abs/2505.14526)|null|
