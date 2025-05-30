@@ -10,6 +10,9 @@ Updated on 2025.05.30
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Bridging Geometric and Semantic Foundation Models for Generalized Monocular Depth Estimation**|Sanggyun Ma et.al.|[2505.23400](http://arxiv.org/abs/2505.23400)|null|
+|**2025-05-29**|**GeoMan: Temporally Consistent Human Geometry Estimation using Image-to-Video Diffusion**|Gwanghyun Kim et.al.|[2505.23085](http://arxiv.org/abs/2505.23085)|null|
+|**2025-05-28**|**Depth to magnetic source estimation using TDX contour**|Hammed Oyekan et.al.|[2505.22780](http://arxiv.org/abs/2505.22780)|null|
 |**2025-05-27**|**Object Concepts Emerge from Motion**|Haoqian Liang et.al.|[2505.21635](http://arxiv.org/abs/2505.21635)|null|
 |**2025-05-23**|**EvidenceMoE: A Physics-Guided Mixture-of-Experts with Evidential Critics for Advancing Fluorescence Light Detection and Ranging in Scattering Media**|Ismail Erbas et.al.|[2505.21532](http://arxiv.org/abs/2505.21532)|null|
 |**2025-05-27**|**Occlusion Boundary and Depth: Mutual Enhancement via Multi-Task Learning**|Lintao Xu et.al.|[2505.21231](http://arxiv.org/abs/2505.21231)|null|
@@ -536,6 +539,9 @@ Updated on 2025.05.30
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Errors in Stereo Geometry Induce Distance Misperception**|Raffles Xingqi Zhu et.al.|[2505.23685](http://arxiv.org/abs/2505.23685)|null|
+|**2025-05-29**|**Eye-tracking-Driven Shared Control for Robotic Arms:Wizard of Oz Studies to Assess Design Choices**|Anke Fischer-Janzen et.al.|[2505.23147](http://arxiv.org/abs/2505.23147)|null|
+|**2025-05-28**|**MAC-Gaze: Motion-Aware Continual Calibration for Mobile Gaze Tracking**|Yaxiong Lei et.al.|[2505.22769](http://arxiv.org/abs/2505.22769)|null|
 |**2025-05-28**|**Eye-Tracking and Biometric Feedback in UX Research: Measuring User Engagement and Cognitive Load**|Aaditya Shankar Majumder et.al.|[2505.21982](http://arxiv.org/abs/2505.21982)|null|
 |**2025-05-13**|**Visualization enhances Problem Solving in Multi-Qubit Systems: An Eye-Tracking Study**|Jonas Bley et.al.|[2505.21508](http://arxiv.org/abs/2505.21508)|null|
 |**2025-05-28**|**How Do Experts Make Sense of Integrated Process Models?**|Tianwa Chen et.al.|[2505.20667](http://arxiv.org/abs/2505.20667)|null|
@@ -716,6 +722,16 @@ Updated on 2025.05.30
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought**|Yunze Man et.al.|[2505.23766](http://arxiv.org/abs/2505.23766)|null|
+|**2025-05-29**|**From Chat Logs to Collective Insights: Aggregative Question Answering**|Wentao Zhang et.al.|[2505.23765](http://arxiv.org/abs/2505.23765)|null|
+|**2025-05-29**|**MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence**|Sihan Yang et.al.|[2505.23764](http://arxiv.org/abs/2505.23764)|null|
+|**2025-05-29**|**ZeroGUI: Automating Online GUI Learning at Zero Human Cost**|Chenyu Yang et.al.|[2505.23762](http://arxiv.org/abs/2505.23762)|null|
+|**2025-05-29**|**Puzzled by Puzzles: When Vision-Language Models Can't Take a Hint**|Heekyung Lee et.al.|[2505.23759](http://arxiv.org/abs/2505.23759)|null|
+|**2025-05-29**|**Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**|Haohan Chi et.al.|[2505.23757](http://arxiv.org/abs/2505.23757)|null|
+|**2025-05-29**|**DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural Language and Reinforcement Learning**|Ziyin Zhang et.al.|[2505.23754](http://arxiv.org/abs/2505.23754)|null|
+|**2025-05-29**|**ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks**|Akashah Shabbir et.al.|[2505.23752](http://arxiv.org/abs/2505.23752)|null|
+|**2025-05-29**|**Distortion of AI Alignment: Does Preference Optimization Optimize for Preferences?**|Paul Gölz et.al.|[2505.23749](http://arxiv.org/abs/2505.23749)|null|
+|**2025-05-29**|**Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence**|Diankun Wu et.al.|[2505.23747](http://arxiv.org/abs/2505.23747)|null|
 |**2025-05-28**|**Zero-Shot Vision Encoder Grafting via LLM Surrogates**|Kaiyu Yue et.al.|[2505.22664](http://arxiv.org/abs/2505.22664)|**[link](https://github.com/facebookresearch/zero)**|
 |**2025-05-28**|**Training Free Stylized Abstraction**|Aimon Rahman et.al.|[2505.22663](http://arxiv.org/abs/2505.22663)|null|
 |**2025-05-28**|**AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models**|Feng Luo et.al.|[2505.22662](http://arxiv.org/abs/2505.22662)|null|
@@ -2359,6 +2375,16 @@ Updated on 2025.05.30
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers**|Yusuf Dalva et.al.|[2505.23758](http://arxiv.org/abs/2505.23758)|null|
+|**2025-05-29**|**DarkDiff: Advancing Low-Light Raw Enhancement by Retasking Diffusion Models for Camera ISP**|Amber Yijia Zheng et.al.|[2505.23743](http://arxiv.org/abs/2505.23743)|null|
+|**2025-05-29**|**MAGREF: Masked Guidance for Any-Reference Video Generation**|Yufan Deng et.al.|[2505.23742](http://arxiv.org/abs/2505.23742)|null|
+|**2025-05-29**|**LayerPeeler: Autoregressive Peeling for Layer-wise Image Vectorization**|Ronghuan Wu et.al.|[2505.23740](http://arxiv.org/abs/2505.23740)|null|
+|**2025-05-29**|**How Animals Dance (When You're Not Looking)**|Xiaojuan Wang et.al.|[2505.23738](http://arxiv.org/abs/2505.23738)|null|
+|**2025-05-29**|**DiffER: Categorical Diffusion for Chemical Retrosynthesis**|Sean Current et.al.|[2505.23721](http://arxiv.org/abs/2505.23721)|null|
+|**2025-05-29**|**Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better**|Danny Driess et.al.|[2505.23705](http://arxiv.org/abs/2505.23705)|null|
+|**2025-05-29**|**Diffusive noise controls early stages of genetic demixing**|Rashmiranjan Bhutia et.al.|[2505.23698](http://arxiv.org/abs/2505.23698)|null|
+|**2025-05-29**|**ImmunoDiff: A Diffusion Model for Immunotherapy Response Prediction in Lung Cancer**|Moinak Bhattacharya et.al.|[2505.23675](http://arxiv.org/abs/2505.23675)|null|
+|**2025-05-29**|**OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation**|Size Wu et.al.|[2505.23661](http://arxiv.org/abs/2505.23661)|null|
 |**2025-05-28**|**Path-Dependent SDEs: Solutions and Parameter Estimation**|Pardis Semnani et.al.|[2505.22646](http://arxiv.org/abs/2505.22646)|null|
 |**2025-05-28**|**SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation**|Dekai Zhu et.al.|[2505.22643](http://arxiv.org/abs/2505.22643)|null|
 |**2025-05-28**|**ObjectClear: Complete Object Removal via Object-Effect Attention**|Jixin Zhao et.al.|[2505.22636](http://arxiv.org/abs/2505.22636)|null|
@@ -3998,6 +4024,16 @@ Updated on 2025.05.30
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**|Weijie Wang et.al.|[2505.23734](http://arxiv.org/abs/2505.23734)|**[link](https://github.com/ziplab/ZPressor)**|
+|**2025-05-29**|**AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views**|Lihan Jiang et.al.|[2505.23716](http://arxiv.org/abs/2505.23716)|null|
+|**2025-05-29**|**Mobi- $π$ : Mobilizing Your Robot Learning Policy**|Jingyun Yang et.al.|[2505.23692](http://arxiv.org/abs/2505.23692)|null|
+|**2025-05-29**|**Radiant Triangle Soup with Soft Connectivity Forces for 3D Reconstruction and Novel View Synthesis**|Nathaniel Burgdorfer et.al.|[2505.23642](http://arxiv.org/abs/2505.23642)|null|
+|**2025-05-29**|**PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**|Mohamed Rayan Barhdadi et.al.|[2505.23481](http://arxiv.org/abs/2505.23481)|null|
+|**2025-05-29**|**UrbanCraft: Urban View Extrapolation via Hierarchical Sem-Geometric Priors**|Tianhang Wang et.al.|[2505.23434](http://arxiv.org/abs/2505.23434)|null|
+|**2025-05-29**|**Holistic Large-Scale Scene Reconstruction via Mixed Gaussian Splatting**|Chuandong Liu et.al.|[2505.23280](http://arxiv.org/abs/2505.23280)|null|
+|**2025-05-29**|**LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering**|Jonas Kulhanek et.al.|[2505.23158](http://arxiv.org/abs/2505.23158)|null|
+|**2025-05-29**|**Pose-free 3D Gaussian splatting via shape-ray estimation**|Youngju Na et.al.|[2505.22978](http://arxiv.org/abs/2505.22978)|null|
+|**2025-05-28**|**3DGS Compression with Sparsity-guided Hierarchical Transform Coding**|Hao Xu et.al.|[2505.22908](http://arxiv.org/abs/2505.22908)|null|
 |**2025-05-28**|**PS4PRO: Pixel-to-pixel Supervision for Photorealistic Rendering and Optimization**|Yezhi Shen et.al.|[2505.22616](http://arxiv.org/abs/2505.22616)|null|
 |**2025-05-29**|**Surf2CT: Cascaded 3D Flow Matching Models for Torso 3D CT Synthesis from Skin Surface**|Siyeop Yoon et.al.|[2505.22511](http://arxiv.org/abs/2505.22511)|null|
 |**2025-05-28**|**Can NeRFs See without Cameras?**|Chaitanya Amballa et.al.|[2505.22441](http://arxiv.org/abs/2505.22441)|null|
@@ -6335,6 +6371,8 @@ Updated on 2025.05.30
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**AMOR: Adaptive Character Control through Multi-Objective Reinforcement Learning**|Lucas N. Alegre et.al.|[2505.23708](http://arxiv.org/abs/2505.23708)|null|
+|**2025-05-29**|**RoboTransfer: Geometry-Consistent Video Diffusion for Robotic Visual Policy Transfer**|Liu Liu et.al.|[2505.23171](http://arxiv.org/abs/2505.23171)|null|
 |**2025-05-27**|**MIND-Stack: Modular, Interpretable, End-to-End Differentiability for Autonomous Navigation**|Felix Jahncke et.al.|[2505.21734](http://arxiv.org/abs/2505.21734)|null|
 |**2025-05-27**|**A domain adaptation neural network for digital twin-supported fault diagnosis**|Zhenling Chen et.al.|[2505.21046](http://arxiv.org/abs/2505.21046)|**[link](https://github.com/JialingRichard/Digital-Twin-Fault-Diagnosis)**|
 |**2025-05-25**|**Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments**|Zifan Wang et.al.|[2505.19214](http://arxiv.org/abs/2505.19214)|null|
