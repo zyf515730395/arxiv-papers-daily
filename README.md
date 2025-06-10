@@ -1,4 +1,4 @@
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,7 +16,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-05**|**Structure-Aware Radar-Camera Depth Estimation**|Fuyi Zhang et.al.|[2506.05008](http://arxiv.org/abs/2506.05008)|null|
+|**2025-06-06**|**NTIRE 2025 Challenge on HR Depth from Images of Specular and Transparent Surfaces**|Pierluigi Zama Ramirez et.al.|[2506.05815](http://arxiv.org/abs/2506.05815)|null|
+|**2025-06-06**|**Advancement and Field Evaluation of a Dual-arm Apple Harvesting Robot**|Keyi Zhu et.al.|[2506.05714](http://arxiv.org/abs/2506.05714)|null|
+|**2025-06-06**|**Token Transforming: A Unified and Training-Free Token Compression Framework for Vision Transformer Acceleration**|Fanhu Zeng et.al.|[2506.05709](http://arxiv.org/abs/2506.05709)|null|
+|**2025-06-06**|**Aerial Multi-View Stereo via Adaptive Depth Range Inference and Normal Cues**|Yimei Liu et.al.|[2506.05655](http://arxiv.org/abs/2506.05655)|null|
+|**2025-06-03**|**Attacking Attention of Foundation Models Disrupts Downstream Tasks**|Hondamunige Prasanna Silva et.al.|[2506.05394](http://arxiv.org/abs/2506.05394)|null|
+|**2025-06-09**|**Structure-Aware Radar-Camera Depth Estimation**|Fuyi Zhang et.al.|[2506.05008](http://arxiv.org/abs/2506.05008)|null|
 |**2025-06-05**|**Generating Synthetic Stereo Datasets using 3D Gaussian Splatting and Expert Knowledge Transfer**|Filip Slezak et.al.|[2506.04908](http://arxiv.org/abs/2506.04908)|null|
 |**2025-06-05**|**Toward Better SSIM Loss for Unsupervised Monocular Depth Estimation**|Yijun Cao et.al.|[2506.04758](http://arxiv.org/abs/2506.04758)|null|
 |**2025-06-04**|**JointSplat: Probabilistic Joint Flow-Depth Optimization for Sparse-View Gaussian Splatting**|Yang Xiao et.al.|[2506.03872](http://arxiv.org/abs/2506.03872)|null|
@@ -423,16 +428,17 @@
 |**2024-09-23**|**GroCo: Ground Constraint for Metric Self-Supervised Monocular Depth**|Aurélien Cecille et.al.|[2409.14850](http://arxiv.org/abs/2409.14850)|**[link](https://github.com/Visual-Behavior/GroCo)**|
 |**2024-09-23**|**Robust and Flexible Omnidirectional Depth Estimation with Multiple 360° Cameras**|Ming Li et.al.|[2409.14766](http://arxiv.org/abs/2409.14766)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## Gesture Recognition
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**Conversational Interfaces for Parametric Conceptual Architectural Design: Integrating Mixed Reality with LLM-driven Interaction**|Ruochen Ji et.al.|[2506.06066](http://arxiv.org/abs/2506.06066)|null|
 |**2025-06-02**|**Sheep Facial Pain Assessment Under Weighted Graph Neural Networks**|Alam Noor et.al.|[2506.01468](http://arxiv.org/abs/2506.01468)|null|
 |**2025-05-30**|**DiG-Net: Enhancing Quality of Life through Hyper-Range Dynamic Gesture Recognition in Assistive Robotics**|Eran Bamani Beeri et.al.|[2505.24786](http://arxiv.org/abs/2505.24786)|null|
-|**2025-05-30**|**Beyond FACS: Data-driven Facial Expression Dictionaries, with Application to Predicting Autism**|Evangelos Sariyanidi et.al.|[2505.24679](http://arxiv.org/abs/2505.24679)|null|
-|**2025-05-30**|**EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding**|Ege Özsoy et.al.|[2505.24287](http://arxiv.org/abs/2505.24287)|null|
+|**2025-05-30**|**Beyond FACS: Data-driven Facial Expression Dictionaries, with Application to Predicting Autism**|Evangelos Sariyanidi et.al.|[2505.24679](http://arxiv.org/abs/2505.24679)|**[link](https://github.com/sariyanidi/facialbasis)**|
+|**2025-05-30**|**EgoExOR: An Ego-Exo-Centric Operating Room Dataset for Surgical Activity Understanding**|Ege Özsoy et.al.|[2505.24287](http://arxiv.org/abs/2505.24287)|**[link](https://github.com/ardamamur/egoexor)**|
 |**2025-05-27**|**TrustSkin: A Fairness Pipeline for Trustworthy Facial Affect Analysis Across Skin Tone**|Ana M. Cabanas et.al.|[2505.20637](http://arxiv.org/abs/2505.20637)|null|
 |**2025-05-26**|**Data-Free Class-Incremental Gesture Recognition with Prototype-Guided Pseudo Feature Replay**|Hongsong Wang et.al.|[2505.20049](http://arxiv.org/abs/2505.20049)|**[link](https://github.com/sunao-101/pgpfr-3)**|
 |**2025-05-23**|**3D Face Reconstruction Error Decomposed: A Modular Benchmark for Fair and Fast Method Evaluation**|Evangelos Sariyanidi et.al.|[2505.18025](http://arxiv.org/abs/2505.18025)|**[link](https://github.com/sariyanidi/M3DFB)**|
@@ -558,12 +564,13 @@
 |**2024-09-10**|**Advancements in Gesture Recognition Techniques and Machine Learning for Enhanced Human-Robot Interaction: A Comprehensive Review**|Sajjad Hussain et.al.|[2409.06503](http://arxiv.org/abs/2409.06503)|null|
 |**2024-09-05**|**MVTN: A Multiscale Video Transformer Network for Hand Gesture Recognition**|Mallika Garg et.al.|[2409.03890](http://arxiv.org/abs/2409.03890)|**[link](https://github.com/mallikagarg/mvtn)**|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## Eye Tracking
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**GazeNLQ @ Ego4D Natural Language Queries Challenge 2025**|Wei-Cheng Lin et.al.|[2506.05782](http://arxiv.org/abs/2506.05782)|null|
 |**2025-06-03**|**OpenFace 3.0: A Lightweight Multitask System for Comprehensive Facial Behavior Analysis**|Jiewen Hu et.al.|[2506.02891](http://arxiv.org/abs/2506.02891)|null|
 |**2025-05-31**|**Fovea Stacking: Imaging with Dynamic Localized Aberration Correction**|Shi Mao et.al.|[2506.00716](http://arxiv.org/abs/2506.00716)|null|
 |**2025-05-24**|**Visualization and Comparison of AOI Transitions with Force-Directed Graph Layout**|Yuri Miyagi et.al.|[2506.00028](http://arxiv.org/abs/2506.00028)|null|
@@ -746,12 +753,22 @@
 |**2024-09-11**|**Bridging Quantitative and Qualitative Methods for Visualization Research: A Data/Semantics Perspective in Light of Advanced AI**|Daniel Weiskopf et.al.|[2409.07250](http://arxiv.org/abs/2409.07250)|null|
 |**2024-09-10**|**Mazed and Confused: A Dataset of Cybersickness, Working Memory, Mental Load, Physical Load, and Attention During a Real Walking Task in VR**|Jyotirmay Nag Setu et.al.|[2409.06898](http://arxiv.org/abs/2409.06898)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## VLM/LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**|Yuanzhe Hu et.al.|[2506.06280](http://arxiv.org/abs/2506.06280)|null|
+|**2025-06-06**|**CoMemo: LVLMs Need Image Context with Image Memory**|Shi Liu et.al.|[2506.06279](http://arxiv.org/abs/2506.06279)|null|
+|**2025-06-06**|**Distillation Robustifies Unlearning**|Bruce W. Lee et.al.|[2506.06278](http://arxiv.org/abs/2506.06278)|null|
+|**2025-06-06**|**ExAct: A Video-Language Benchmark for Expert Action Analysis**|Han Yi et.al.|[2506.06277](http://arxiv.org/abs/2506.06277)|null|
+|**2025-06-06**|**Movie Facts and Fibs (MF $^2$ ): A Benchmark for Long Movie Understanding**|Emmanouil Zaranis et.al.|[2506.06275](http://arxiv.org/abs/2506.06275)|null|
+|**2025-06-06**|**AdvSumm: Adversarial Training for Bias Mitigation in Text Summarization**|Mukur Gupta et.al.|[2506.06273](http://arxiv.org/abs/2506.06273)|null|
+|**2025-06-09**|**Cartridges: Lightweight and general-purpose long context representations via self-study**|Sabri Eyuboglu et.al.|[2506.06266](http://arxiv.org/abs/2506.06266)|null|
+|**2025-06-06**|**PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time**|Weizhi Zhang et.al.|[2506.06254](http://arxiv.org/abs/2506.06254)|null|
+|**2025-06-06**|**DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation**|Jingyu Xiao et.al.|[2506.06251](http://arxiv.org/abs/2506.06251)|null|
+|**2025-06-06**|**Visual Graph Arena: Evaluating Visual Conceptualization of Vision and Multimodal Large Language Models**|Zahra Babaiee et.al.|[2506.06242](http://arxiv.org/abs/2506.06242)|null|
 |**2025-06-05**|**Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets**|Lei Hsiung et.al.|[2506.05346](http://arxiv.org/abs/2506.05346)|null|
 |**2025-06-05**|**Inference-Time Hyper-Scaling with KV Cache Compression**|Adrian Łańcucki et.al.|[2506.05345](http://arxiv.org/abs/2506.05345)|null|
 |**2025-06-05**|**SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs**|Jiahui Wang et.al.|[2506.05344](http://arxiv.org/abs/2506.05344)|null|
@@ -2441,12 +2458,22 @@
 |**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278](http://arxiv.org/abs/2409.16278)|null|
 |**2024-09-24**|**CDChat: A Large Multimodal Model for Remote Sensing Change Description**|Mubashir Noman et.al.|[2409.16261](http://arxiv.org/abs/2409.16261)|**[link](https://github.com/techmn/cdchat)**|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**STARFlow: Scaling Latent Normalizing Flows for High-resolution Image Synthesis**|Jiatao Gu et.al.|[2506.06276](http://arxiv.org/abs/2506.06276)|null|
+|**2025-06-06**|**BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading**|Jonathan Schmidt et.al.|[2506.06271](http://arxiv.org/abs/2506.06271)|null|
+|**2025-06-06**|**GenIR: Generative Visual Feedback for Mental Image Retrieval**|Diji Yang et.al.|[2506.06220](http://arxiv.org/abs/2506.06220)|null|
+|**2025-06-06**|**3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model**|Hongyan Zhi et.al.|[2506.06199](http://arxiv.org/abs/2506.06199)|null|
+|**2025-06-06**|**Bridging Perception and Action: Spatially-Grounded Mid-Level Representations for Robot Generalization**|Jonathan Yang et.al.|[2506.06196](http://arxiv.org/abs/2506.06196)|null|
+|**2025-06-06**|**Antithetic Noise in Diffusion Models**|Jing Jia et.al.|[2506.06185](http://arxiv.org/abs/2506.06185)|null|
+|**2025-06-06**|**Robustness of complexity estimation in event-driven signals against accuracy of event detection method**|Marco Cafiso et.al.|[2506.06168](http://arxiv.org/abs/2506.06168)|null|
+|**2025-06-09**|**Faint absorption of the ground state hyperfine-splitting transitions of hydroxyl at 18 cm in the Galactic Disk**|M. R. Rugel et.al.|[2506.06149](http://arxiv.org/abs/2506.06149)|null|
+|**2025-06-06**|**Feedback Guidance of Diffusion Models**|Koulischer Felix et.al.|[2506.06085](http://arxiv.org/abs/2506.06085)|null|
+|**2025-06-06**|**Diffusion-Based Hierarchical Graph Neural Networks for Simulating Nonlinear Solid Mechanics**|Tobias Würth et.al.|[2506.06045](http://arxiv.org/abs/2506.06045)|null|
 |**2025-06-05**|**Contrastive Flow Matching**|George Stoica et.al.|[2506.05350](http://arxiv.org/abs/2506.05350)|null|
 |**2025-06-06**|**Exploring Diffusion Transformer Designs via Grafting**|Keshigeyan Chandrasegaran et.al.|[2506.05340](http://arxiv.org/abs/2506.05340)|null|
 |**2025-06-05**|**Heterogeneous response and non-Markovianity in the microrheology of semisolid viscoelastic materials**|T. N. Azevedo et.al.|[2506.05311](http://arxiv.org/abs/2506.05311)|null|
@@ -4132,12 +4159,20 @@
 |**2024-09-25**|**Decomposition of Friction Coefficients to Analyze Hydration Effects on a C $_{60}$(OH)$_{\rm n}$**|Tomoya Iwashita et.al.|[2409.17028](http://arxiv.org/abs/2409.17028)|null|
 |**2024-09-25**|**Single Image, Any Face: Generalisable 3D Face Generation**|Wenqing Wang et.al.|[2409.16990](http://arxiv.org/abs/2409.16990)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## Neural Rendering
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**SVD: Spatial Video Dataset**|M. H. Izadimehr et.al.|[2506.06037](http://arxiv.org/abs/2506.06037)|null|
+|**2025-06-06**|**Dy3DGS-SLAM: Monocular 3D Gaussian Splatting SLAM for Dynamic Environments**|Mingrui Li et.al.|[2506.05965](http://arxiv.org/abs/2506.05965)|null|
+|**2025-06-06**|**SurGSplat: Progressive Geometry-Constrained Gaussian Splatting for Surgical Scene Reconstruction**|Yuchao Zheng et.al.|[2506.05935](http://arxiv.org/abs/2506.05935)|null|
+|**2025-06-06**|**Lumina: Real-Time Mobile Neural Rendering by Exploiting Computational Redundancy**|Yu Feng et.al.|[2506.05682](http://arxiv.org/abs/2506.05682)|null|
+|**2025-06-05**|**VoxelSplat: Dynamic Gaussian Splatting as an Effective Loss for Occupancy and Flow Prediction**|Ziyue Zhu et.al.|[2506.05563](http://arxiv.org/abs/2506.05563)|null|
+|**2025-06-05**|**On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images**|Andreas Meuleman et.al.|[2506.05558](http://arxiv.org/abs/2506.05558)|null|
+|**2025-06-05**|**Layered Motion Fusion: Lifting Motion Segmentation to 3D in Egocentric Videos**|Vadim Tschernezki et.al.|[2506.05546](http://arxiv.org/abs/2506.05546)|null|
+|**2025-06-05**|**ODE-GS: Latent ODEs for Dynamic Scene Extrapolation with 3D Gaussian Splatting**|Daniel Wang et.al.|[2506.05480](http://arxiv.org/abs/2506.05480)|null|
 |**2025-06-06**|**Defurnishing with X-Ray Vision: Joint Removal of Furniture from Panoramas and Mesh**|Alan Dolhasz et.al.|[2506.05338](http://arxiv.org/abs/2506.05338)|null|
 |**2025-06-05**|**Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting**|Duochao Shi et.al.|[2506.05327](http://arxiv.org/abs/2506.05327)|null|
 |**2025-06-05**|**ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**|Daniel Rho et.al.|[2506.05317](http://arxiv.org/abs/2506.05317)|null|
@@ -6515,21 +6550,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## RSR
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**Improving Long-Range Navigation with Spatially-Enhanced Recurrent Memory via End-to-End Reinforcement Learning**|Fan Yang et.al.|[2506.05997](http://arxiv.org/abs/2506.05997)|null|
 |**2025-06-05**|**Whole-Body Constrained Learning for Legged Locomotion via Hierarchical Optimization**|Haoyu Wang et.al.|[2506.05115](http://arxiv.org/abs/2506.05115)|null|
 |**2025-06-05**|**A Unified Framework for Simulating Strongly-Coupled Fluid-Robot Multiphysics**|Jeong Hun Lee et.al.|[2506.05012](http://arxiv.org/abs/2506.05012)|null|
 |**2025-06-06**|**ArtVIP: Articulated Digital Assets of Visual Realism, Modular Interaction, and Physical Fidelity for Robot Learning**|Zhao Jin et.al.|[2506.04941](http://arxiv.org/abs/2506.04941)|null|
-|**2025-06-04**|**SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL**|Jiaheng Hu et.al.|[2506.04147](http://arxiv.org/abs/2506.04147)|null|
+|**2025-06-07**|**SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL**|Jiaheng Hu et.al.|[2506.04147](http://arxiv.org/abs/2506.04147)|null|
 |**2025-06-04**|**Splatting Physical Scenes: End-to-End Real-to-Sim from Imperfect Robot Data**|Ben Moran et.al.|[2506.04120](http://arxiv.org/abs/2506.04120)|null|
 |**2025-06-05**|**ADEPT: Adaptive Diffusion Environment for Policy Transfer Sim-to-Real**|Youwei Yu et.al.|[2506.01759](http://arxiv.org/abs/2506.01759)|null|
 |**2025-06-02**|**Provably Safe Reinforcement Learning from Analytic Gradients**|Tim Walter et.al.|[2506.01665](http://arxiv.org/abs/2506.01665)|null|
 |**2025-06-02**|**WoMAP: World Models For Embodied Open-Vocabulary Object Localization**|Tenny Yin et.al.|[2506.01600](http://arxiv.org/abs/2506.01600)|null|
-|**2025-06-02**|**SEMNAV: A Semantic Segmentation-Driven Approach to Visual Semantic Navigation**|Rafael Flor-Rodríguez et.al.|[2506.01418](http://arxiv.org/abs/2506.01418)|null|
+|**2025-06-02**|**SEMNAV: A Semantic Segmentation-Driven Approach to Visual Semantic Navigation**|Rafael Flor-Rodríguez et.al.|[2506.01418](http://arxiv.org/abs/2506.01418)|**[link](https://github.com/gramuah/semnav)**|
 |**2025-06-01**|**Robust and Safe Multi-Agent Reinforcement Learning Framework with Communication for Autonomous Vehicles**|Keshawn Smith et.al.|[2506.00982](http://arxiv.org/abs/2506.00982)|null|
 |**2025-05-30**|**Adapting Offline Reinforcement Learning with Online Delays**|Simon Sinong Zhan et.al.|[2506.00131](http://arxiv.org/abs/2506.00131)|null|
 |**2025-05-30**|**Reactive Aerobatic Flight via Reinforcement Learning**|Zhichao Han et.al.|[2505.24396](http://arxiv.org/abs/2505.24396)|null|
@@ -6722,5 +6758,5 @@
 |**2024-11-02**|**GarmentLab: A Unified Simulation and Benchmark for Garment Manipulation**|Haoran Lu et.al.|[2411.01200](http://arxiv.org/abs/2411.01200)|**[link](https://github.com/GarmentLab/GarmentLab)**|
 |**2024-10-31**|**Learning Visual Parkour from Generated Images**|Alan Yu et.al.|[2411.00083](http://arxiv.org/abs/2411.00083)|null|
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
