@@ -16,6 +16,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Hidden in plain sight: VLMs overlook their visual representations**|Stephanie Fu et.al.|[2506.08008](http://arxiv.org/abs/2506.08008)|null|
+|**2025-06-09**|**EgoM2P: Egocentric Multimodal Multitask Pretraining**|Gen Li et.al.|[2506.07886](http://arxiv.org/abs/2506.07886)|null|
+|**2025-06-09**|**Flow-Anything: Learning Real-World Optical Flow Estimation from Large-Scale Single-view Images**|Yingping Liang et.al.|[2506.07740](http://arxiv.org/abs/2506.07740)|null|
+|**2025-06-07**|**Dark Channel-Assisted Depth-from-Defocus from a Single Image**|Moushumi Medhi et.al.|[2506.06643](http://arxiv.org/abs/2506.06643)|null|
 |**2025-06-06**|**NTIRE 2025 Challenge on HR Depth from Images of Specular and Transparent Surfaces**|Pierluigi Zama Ramirez et.al.|[2506.05815](http://arxiv.org/abs/2506.05815)|null|
 |**2025-06-06**|**Advancement and Field Evaluation of a Dual-arm Apple Harvesting Robot**|Keyi Zhu et.al.|[2506.05714](http://arxiv.org/abs/2506.05714)|null|
 |**2025-06-06**|**Token Transforming: A Unified and Training-Free Token Compression Framework for Vision Transformer Acceleration**|Fanhu Zeng et.al.|[2506.05709](http://arxiv.org/abs/2506.05709)|null|
@@ -434,6 +438,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-08**|**AugmentGest: Can Random Data Cropping Augmentation Boost Gesture Recognition Performance?**|Nada Aboudeshish et.al.|[2506.07216](http://arxiv.org/abs/2506.07216)|null|
 |**2025-06-06**|**Conversational Interfaces for Parametric Conceptual Architectural Design: Integrating Mixed Reality with LLM-driven Interaction**|Ruochen Ji et.al.|[2506.06066](http://arxiv.org/abs/2506.06066)|null|
 |**2025-06-02**|**Sheep Facial Pain Assessment Under Weighted Graph Neural Networks**|Alam Noor et.al.|[2506.01468](http://arxiv.org/abs/2506.01468)|null|
 |**2025-05-30**|**DiG-Net: Enhancing Quality of Life through Hyper-Range Dynamic Gesture Recognition in Assistive Robotics**|Eran Bamani Beeri et.al.|[2505.24786](http://arxiv.org/abs/2505.24786)|null|
@@ -570,6 +575,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Predicting Situation Awareness from Physiological Signals**|Kieran J. Smith et.al.|[2506.07930](http://arxiv.org/abs/2506.07930)|null|
+|**2025-06-09**|**Dataset combining EEG, eye-tracking, and high-speed video for ocular activity analysis across BCI paradigms**|E. Guttmann-Flury et.al.|[2506.07488](http://arxiv.org/abs/2506.07488)|null|
+|**2025-06-08**|**earEOG via Periauricular Electrodes to Facilitate Eye Tracking in a Natural Headphone Form Factor**|Tobias King et.al.|[2506.07193](http://arxiv.org/abs/2506.07193)|null|
+|**2025-06-07**|**Hybrid Vision Transformer-Mamba Framework for Autism Diagnosis via Eye-Tracking Analysis**|Wafaa Kasri et.al.|[2506.06886](http://arxiv.org/abs/2506.06886)|null|
 |**2025-06-06**|**GazeNLQ @ Ego4D Natural Language Queries Challenge 2025**|Wei-Cheng Lin et.al.|[2506.05782](http://arxiv.org/abs/2506.05782)|null|
 |**2025-06-03**|**OpenFace 3.0: A Lightweight Multitask System for Comprehensive Facial Behavior Analysis**|Jiewen Hu et.al.|[2506.02891](http://arxiv.org/abs/2506.02891)|null|
 |**2025-05-31**|**Fovea Stacking: Imaging with Dynamic Localized Aberration Correction**|Shi Mao et.al.|[2506.00716](http://arxiv.org/abs/2506.00716)|null|
@@ -759,6 +768,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior**|Penghao Wu et.al.|[2506.08012](http://arxiv.org/abs/2506.08012)|null|
+|**2025-06-09**|**Play to Generalize: Learning to Reason Through Game Play**|Yunfei Xie et.al.|[2506.08011](http://arxiv.org/abs/2506.08011)|null|
+|**2025-06-09**|**Vision Transformers Don't Need Trained Registers**|Nick Jiang et.al.|[2506.08010](http://arxiv.org/abs/2506.08010)|null|
+|**2025-06-09**|**Hidden in plain sight: VLMs overlook their visual representations**|Stephanie Fu et.al.|[2506.08008](http://arxiv.org/abs/2506.08008)|null|
+|**2025-06-09**|**Reinforcement Pre-Training**|Qingxiu Dong et.al.|[2506.08007](http://arxiv.org/abs/2506.08007)|null|
+|**2025-06-09**|**Dreamland: Controllable World Creation with Simulator and Generative Models**|Sicheng Mo et.al.|[2506.08006](http://arxiv.org/abs/2506.08006)|null|
+|**2025-06-09**|**Aligning Text, Images, and 3D Structure Token-by-Token**|Aadarsh Sahoo et.al.|[2506.08002](http://arxiv.org/abs/2506.08002)|null|
+|**2025-06-09**|**Reparameterized LLM Training via Orthogonal Equivalence Transformation**|Zeju Qiu et.al.|[2506.08001](http://arxiv.org/abs/2506.08001)|null|
+|**2025-06-09**|**Supporting Construction Worker Well-Being with a Multi-Agent Conversational AI System**|Fan Yang et.al.|[2506.07997](http://arxiv.org/abs/2506.07997)|null|
+|**2025-06-09**|**HeuriGym: An Agentic Benchmark for LLM-Crafted Heuristics in Combinatorial Optimization**|Hongzheng Chen et.al.|[2506.07972](http://arxiv.org/abs/2506.07972)|null|
 |**2025-06-06**|**Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**|Yuanzhe Hu et.al.|[2506.06280](http://arxiv.org/abs/2506.06280)|null|
 |**2025-06-06**|**CoMemo: LVLMs Need Image Context with Image Memory**|Shi Liu et.al.|[2506.06279](http://arxiv.org/abs/2506.06279)|null|
 |**2025-06-06**|**Distillation Robustifies Unlearning**|Bruce W. Lee et.al.|[2506.06278](http://arxiv.org/abs/2506.06278)|null|
@@ -2464,6 +2483,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets**|Anh-Quan Cao et.al.|[2506.08013](http://arxiv.org/abs/2506.08013)|null|
+|**2025-06-09**|**Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion**|Xun Huang et.al.|[2506.08009](http://arxiv.org/abs/2506.08009)|null|
+|**2025-06-09**|**Dynamic View Synthesis as an Inverse Problem**|Hidir Yesiltepe et.al.|[2506.08004](http://arxiv.org/abs/2506.08004)|null|
+|**2025-06-09**|**MADFormer: Mixed Autoregressive and Diffusion Transformers for Continuous Image Generation**|Junhao Chen et.al.|[2506.07999](http://arxiv.org/abs/2506.07999)|null|
+|**2025-06-09**|**Generative Modeling of Weights: Generalization or Memorization?**|Boya Zeng et.al.|[2506.07998](http://arxiv.org/abs/2506.07998)|null|
+|**2025-06-09**|**UA-Pose: Uncertainty-Aware 6D Object Pose Estimation and Online Object Completion with Partial References**|Ming-Feng Li et.al.|[2506.07996](http://arxiv.org/abs/2506.07996)|null|
+|**2025-06-09**|**Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers**|Zhengyao Lv et.al.|[2506.07986](http://arxiv.org/abs/2506.07986)|null|
+|**2025-06-09**|**Neural Tangent Kernel Analysis to Probe Convergence in Physics-informed Neural Solvers: PIKANs vs. PINNs**|Salah A. Faroughi et.al.|[2506.07958](http://arxiv.org/abs/2506.07958)|null|
+|**2025-06-09**|**Gradients: When Markets Meet Fine-tuning -- A Distributed Approach to Model Optimisation**|Christopher Subia-Waud et.al.|[2506.07940](http://arxiv.org/abs/2506.07940)|null|
+|**2025-06-09**|**Diffusion of Responsibility in Collective Decision Making**|Pavel Naumov et.al.|[2506.07935](http://arxiv.org/abs/2506.07935)|null|
 |**2025-06-06**|**STARFlow: Scaling Latent Normalizing Flows for High-resolution Image Synthesis**|Jiatao Gu et.al.|[2506.06276](http://arxiv.org/abs/2506.06276)|null|
 |**2025-06-06**|**BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading**|Jonathan Schmidt et.al.|[2506.06271](http://arxiv.org/abs/2506.06271)|null|
 |**2025-06-06**|**GenIR: Generative Visual Feedback for Mental Image Retrieval**|Diji Yang et.al.|[2506.06220](http://arxiv.org/abs/2506.06220)|null|
@@ -4165,6 +4194,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917](http://arxiv.org/abs/2506.07917)|null|
+|**2025-06-09**|**GaussianVAE: Adaptive Learning Dynamics of 3D Gaussians for High-Fidelity Super-Resolution**|Shuja Khalid et.al.|[2506.07897](http://arxiv.org/abs/2506.07897)|null|
+|**2025-06-09**|**R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation**|William Ljungbergh et.al.|[2506.07826](http://arxiv.org/abs/2506.07826)|null|
+|**2025-06-09**|**OpenSplat3D: Open-Vocabulary 3D Instance Segmentation using Gaussian Splatting**|Jens Piekenbrinck et.al.|[2506.07697](http://arxiv.org/abs/2506.07697)|null|
+|**2025-06-09**|**ProSplat: Improved Feed-Forward 3D Gaussian Splatting for Wide-Baseline Sparse Views**|Xiaohan Lu et.al.|[2506.07670](http://arxiv.org/abs/2506.07670)|null|
+|**2025-06-09**|**PIG: Physically-based Multi-Material Interaction with 3D Gaussians**|Zeyu Xiao et.al.|[2506.07657](http://arxiv.org/abs/2506.07657)|null|
+|**2025-06-09**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497](http://arxiv.org/abs/2506.07497)|null|
+|**2025-06-09**|**Hierarchical Scoring with 3D Gaussian Splatting for Instance Image-Goal Navigation**|Yijie Deng et.al.|[2506.07338](http://arxiv.org/abs/2506.07338)|null|
+|**2025-06-08**|**Accelerating 3D Gaussian Splatting with Neural Sorting and Axis-Oriented Rasterization**|Zhican Wang et.al.|[2506.07069](http://arxiv.org/abs/2506.07069)|null|
+|**2025-06-08**|**CrossGen: Learning and Generating Cross Fields for Quad Meshing**|Qiujie Dong et.al.|[2506.07020](http://arxiv.org/abs/2506.07020)|null|
 |**2025-06-06**|**SVD: Spatial Video Dataset**|M. H. Izadimehr et.al.|[2506.06037](http://arxiv.org/abs/2506.06037)|null|
 |**2025-06-06**|**Dy3DGS-SLAM: Monocular 3D Gaussian Splatting SLAM for Dynamic Environments**|Mingrui Li et.al.|[2506.05965](http://arxiv.org/abs/2506.05965)|null|
 |**2025-06-06**|**SurGSplat: Progressive Geometry-Constrained Gaussian Splatting for Surgical Scene Reconstruction**|Yuchao Zheng et.al.|[2506.05935](http://arxiv.org/abs/2506.05935)|null|
@@ -6556,12 +6595,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Domain Randomization for Object Detection in Manufacturing Applications using Synthetic Data: A Comprehensive Study**|Xiaomeng Zhu et.al.|[2506.07539](http://arxiv.org/abs/2506.07539)|null|
 |**2025-06-06**|**Improving Long-Range Navigation with Spatially-Enhanced Recurrent Memory via End-to-End Reinforcement Learning**|Fan Yang et.al.|[2506.05997](http://arxiv.org/abs/2506.05997)|null|
 |**2025-06-05**|**Whole-Body Constrained Learning for Legged Locomotion via Hierarchical Optimization**|Haoyu Wang et.al.|[2506.05115](http://arxiv.org/abs/2506.05115)|null|
 |**2025-06-05**|**A Unified Framework for Simulating Strongly-Coupled Fluid-Robot Multiphysics**|Jeong Hun Lee et.al.|[2506.05012](http://arxiv.org/abs/2506.05012)|null|
 |**2025-06-06**|**ArtVIP: Articulated Digital Assets of Visual Realism, Modular Interaction, and Physical Fidelity for Robot Learning**|Zhao Jin et.al.|[2506.04941](http://arxiv.org/abs/2506.04941)|null|
 |**2025-06-07**|**SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL**|Jiaheng Hu et.al.|[2506.04147](http://arxiv.org/abs/2506.04147)|null|
-|**2025-06-04**|**Splatting Physical Scenes: End-to-End Real-to-Sim from Imperfect Robot Data**|Ben Moran et.al.|[2506.04120](http://arxiv.org/abs/2506.04120)|null|
+|**2025-06-09**|**Splatting Physical Scenes: End-to-End Real-to-Sim from Imperfect Robot Data**|Ben Moran et.al.|[2506.04120](http://arxiv.org/abs/2506.04120)|null|
 |**2025-06-05**|**ADEPT: Adaptive Diffusion Environment for Policy Transfer Sim-to-Real**|Youwei Yu et.al.|[2506.01759](http://arxiv.org/abs/2506.01759)|null|
 |**2025-06-02**|**Provably Safe Reinforcement Learning from Analytic Gradients**|Tim Walter et.al.|[2506.01665](http://arxiv.org/abs/2506.01665)|null|
 |**2025-06-02**|**WoMAP: World Models For Embodied Open-Vocabulary Object Localization**|Tenny Yin et.al.|[2506.01600](http://arxiv.org/abs/2506.01600)|null|
