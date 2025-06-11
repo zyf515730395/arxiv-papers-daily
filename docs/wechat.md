@@ -14,6 +14,8 @@
 
 ## Depth Estimation
 
+|**2025-06-10**|**One Patch to Rule Them All: Transforming Static Patches into Dynamic Attacks in the Physical World**|Xingshuo Han et.al.|[2506.08482](http://arxiv.org/abs/2506.08482)|null|
+|**2025-06-09**|**Jamais Vu: Exposing the Generalization Gap in Supervised Semantic Correspondence**|Octave Mariotti et.al.|[2506.08220](http://arxiv.org/abs/2506.08220)|null|
 |**2025-06-09**|**Hidden in plain sight: VLMs overlook their visual representations**|Stephanie Fu et.al.|[2506.08008](http://arxiv.org/abs/2506.08008)|null|
 |**2025-06-09**|**EgoM2P: Egocentric Multimodal Multitask Pretraining**|Gen Li et.al.|[2506.07886](http://arxiv.org/abs/2506.07886)|null|
 |**2025-06-09**|**Flow-Anything: Learning Real-World Optical Flow Estimation from Large-Scale Single-view Images**|Yingping Liang et.al.|[2506.07740](http://arxiv.org/abs/2506.07740)|null|
@@ -434,6 +436,8 @@
 
 ## Gesture Recognition
 
+|**2025-06-10**|**Diver-Robot Communication Dataset for Underwater Hand Gesture Recognition**|Igor Kvasić et.al.|[2506.08974](http://arxiv.org/abs/2506.08974)|null|
+|**2025-06-10**|**CLONE: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks**|Yixuan Li et.al.|[2506.08931](http://arxiv.org/abs/2506.08931)|null|
 |**2025-06-08**|**AugmentGest: Can Random Data Cropping Augmentation Boost Gesture Recognition Performance?**|Nada Aboudeshish et.al.|[2506.07216](http://arxiv.org/abs/2506.07216)|null|
 |**2025-06-06**|**Conversational Interfaces for Parametric Conceptual Architectural Design: Integrating Mixed Reality with LLM-driven Interaction**|Ruochen Ji et.al.|[2506.06066](http://arxiv.org/abs/2506.06066)|null|
 |**2025-06-02**|**Sheep Facial Pain Assessment Under Weighted Graph Neural Networks**|Alam Noor et.al.|[2506.01468](http://arxiv.org/abs/2506.01468)|null|
@@ -569,6 +573,8 @@
 
 ## Eye Tracking
 
+|**2025-06-10**|**Guidelines for Gaze-based Neural Preliminary Diagnosis**|Mayar Elfares et.al.|[2506.08517](http://arxiv.org/abs/2506.08517)|null|
+|**2025-06-09**|**A System for Accurate Tracking and Video Recordings of Rodent Eye Movements using Convolutional Neural Networks for Biomedical Image Segmentation**|Isha Puri et.al.|[2506.08183](http://arxiv.org/abs/2506.08183)|null|
 |**2025-06-09**|**Predicting Situation Awareness from Physiological Signals**|Kieran J. Smith et.al.|[2506.07930](http://arxiv.org/abs/2506.07930)|null|
 |**2025-06-09**|**Dataset combining EEG, eye-tracking, and high-speed video for ocular activity analysis across BCI paradigms**|E. Guttmann-Flury et.al.|[2506.07488](http://arxiv.org/abs/2506.07488)|null|
 |**2025-06-08**|**earEOG via Periauricular Electrodes to Facilitate Eye Tracking in a Natural Headphone Form Factor**|Tobias King et.al.|[2506.07193](http://arxiv.org/abs/2506.07193)|null|
@@ -760,6 +766,16 @@
 
 ## VLM/LLM
 
+|**2025-06-10**|**ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm Engineering**|Yuki Imajuku et.al.|[2506.09050](http://arxiv.org/abs/2506.09050)|null|
+|**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049](http://arxiv.org/abs/2506.09049)|null|
+|**2025-06-10**|**Understanding Task Vectors in In-Context Learning: Emergence, Functionality, and Limitations**|Yuxin Dong et.al.|[2506.09048](http://arxiv.org/abs/2506.09048)|null|
+|**2025-06-10**|**Same Task, Different Circuits: Disentangling Modality-Specific Mechanisms in VLMs**|Yaniv Nikankin et.al.|[2506.09047](http://arxiv.org/abs/2506.09047)|null|
+|**2025-06-10**|**Agentic Neural Networks: Self-Evolving Multi-Agent Systems via Textual Backpropagation**|Xiaowen Ma et.al.|[2506.09046](http://arxiv.org/abs/2506.09046)|null|
+|**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Dianyi Wang et.al.|[2506.09040](http://arxiv.org/abs/2506.09040)|null|
+|**2025-06-10**|**AbstentionBench: Reasoning LLMs Fail on Unanswerable Questions**|Polina Kirichenko et.al.|[2506.09038](http://arxiv.org/abs/2506.09038)|null|
+|**2025-06-10**|**FZOO: Fast Zeroth-Order Optimizer for Fine-Tuning Large Language Models towards Adam-Scale Speed**|Sizhe Dang et.al.|[2506.09034](http://arxiv.org/abs/2506.09034)|null|
+|**2025-06-10**|**Router-R1: Teaching LLMs Multi-Round Routing and Aggregation via Reinforcement Learning**|Haozhen Zhang et.al.|[2506.09033](http://arxiv.org/abs/2506.09033)|null|
+|**2025-06-10**|**e3: Learning to Explore Enables Extrapolation of Test-Time Compute for LLMs**|Amrith Setlur et.al.|[2506.09026](http://arxiv.org/abs/2506.09026)|null|
 |**2025-06-09**|**GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior**|Penghao Wu et.al.|[2506.08012](http://arxiv.org/abs/2506.08012)|null|
 |**2025-06-09**|**Play to Generalize: Learning to Reason Through Game Play**|Yunfei Xie et.al.|[2506.08011](http://arxiv.org/abs/2506.08011)|null|
 |**2025-06-09**|**Vision Transformers Don't Need Trained Registers**|Nick Jiang et.al.|[2506.08010](http://arxiv.org/abs/2506.08010)|null|
@@ -2473,6 +2489,16 @@
 
 ## Diffusion
 
+|**2025-06-10**|**MagCache: Fast Video Generation with Magnitude-Aware Cache**|Zehong Ma et.al.|[2506.09045](http://arxiv.org/abs/2506.09045)|null|
+|**2025-06-10**|**Learning Correlated Astrophysical Foregrounds with Denoising Diffusion Probabilistic Models**|Karthik Prabhu et.al.|[2506.09036](http://arxiv.org/abs/2506.09036)|null|
+|**2025-06-10**|**Diffuse and Disperse: Image Generation with Representation Regularization**|Runqian Wang et.al.|[2506.09027](http://arxiv.org/abs/2506.09027)|null|
+|**2025-06-10**|**Superlinear Drift in Consensus-Based Optimization with Condensation Phenomena**|Jonathan Franceschi et.al.|[2506.09001](http://arxiv.org/abs/2506.09001)|null|
+|**2025-06-10**|**Do Concept Replacement Techniques Really Erase Unacceptable Concepts?**|Anudeep Das et.al.|[2506.08991](http://arxiv.org/abs/2506.08991)|null|
+|**2025-06-10**|**Tuning the the fundamental periodicity of the current-phase relation in multiterminal diffusive Josephson junctions**|Venkat Chandrasekhar et.al.|[2506.08985](http://arxiv.org/abs/2506.08985)|null|
+|**2025-06-10**|**Who is using AI to code? Global diffusion and impact of generative AI**|Simone Daniotti et.al.|[2506.08945](http://arxiv.org/abs/2506.08945)|null|
+|**2025-06-10**|**Asymptotic error distribution for stochastic Runge--Kutta methods of strong order one**|Diancong Jin et.al.|[2506.08937](http://arxiv.org/abs/2506.08937)|null|
+|**2025-06-10**|**Measurement of the Dispersion $\unicode{x2013}$ Galaxy Cross-Power Spectrum with the Second CHIME/FRB Catalog**|Haochen Wang et.al.|[2506.08932](http://arxiv.org/abs/2506.08932)|null|
+|**2025-06-10**|**Observations of Carbon Radio Recombination Lines with the NenuFAR telescope. I. Cassiopeia A and Cygnus A**|Lucie Cros et.al.|[2506.08895](http://arxiv.org/abs/2506.08895)|null|
 |**2025-06-09**|**StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets**|Anh-Quan Cao et.al.|[2506.08013](http://arxiv.org/abs/2506.08013)|null|
 |**2025-06-09**|**Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion**|Xun Huang et.al.|[2506.08009](http://arxiv.org/abs/2506.08009)|null|
 |**2025-06-09**|**Dynamic View Synthesis as an Inverse Problem**|Hidir Yesiltepe et.al.|[2506.08004](http://arxiv.org/abs/2506.08004)|null|
@@ -4182,6 +4208,13 @@
 
 ## Neural Rendering
 
+|**2025-06-10**|**StreamSplat: Towards Online Dynamic 3D Reconstruction from Uncalibrated Video Streams**|Zike Wu et.al.|[2506.08862](http://arxiv.org/abs/2506.08862)|null|
+|**2025-06-10**|**Gaussian2Scene: 3D Scene Representation Learning via Self-supervised Learning with 3D Gaussian Splatting**|Keyi Liu et.al.|[2506.08777](http://arxiv.org/abs/2506.08777)|null|
+|**2025-06-10**|**SceneSplat++: A Large Dataset and Comprehensive Benchmark for Language Gaussian Splatting**|Mengjiao Ma et.al.|[2506.08710](http://arxiv.org/abs/2506.08710)|null|
+|**2025-06-10**|**TraGraph-GS: Trajectory Graph-based Gaussian Splatting for Arbitrary Large-Scale Scene Rendering**|Xiaohan Zhang et.al.|[2506.08704](http://arxiv.org/abs/2506.08704)|null|
+|**2025-06-10**|**A Probability-guided Sampler for Neural Implicit Surface Rendering**|Gonçalo Dias Pais et.al.|[2506.08619](http://arxiv.org/abs/2506.08619)|null|
+|**2025-06-10**|**Complex-Valued Holographic Radiance Fields**|Yicheng Zhan et.al.|[2506.08350](http://arxiv.org/abs/2506.08350)|null|
+|**2025-06-09**|**GATE: Geometry-Aware Trained Encoding**|Jakub Bokšanský et.al.|[2506.08161](http://arxiv.org/abs/2506.08161)|null|
 |**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917](http://arxiv.org/abs/2506.07917)|null|
 |**2025-06-09**|**GaussianVAE: Adaptive Learning Dynamics of 3D Gaussians for High-Fidelity Super-Resolution**|Shuja Khalid et.al.|[2506.07897](http://arxiv.org/abs/2506.07897)|null|
 |**2025-06-09**|**R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation**|William Ljungbergh et.al.|[2506.07826](http://arxiv.org/abs/2506.07826)|null|
