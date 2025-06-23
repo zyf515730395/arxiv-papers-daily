@@ -5,7 +5,7 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2025.06.22
+Updated on 2025.06.23
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2563,7 +2563,7 @@ Updated on 2025.06.22
 |**2025-06-18**|**Candidate Dark Galaxy-2: Validation and Analysis of an Almost Dark Galaxy in the Perseus Cluster**|Dayi Li et.al.|[2506.15644](http://arxiv.org/abs/2506.15644)|null|
 |**2025-06-18**|**Flips Reveal the Universal Impact of Memory on Random Explorations**|Julien Brémont et.al.|[2506.15642](http://arxiv.org/abs/2506.15642)|null|
 |**2025-06-18**|**HOIDiNi: Human-Object Interaction through Diffusion Noise Optimization**|Roey Ron et.al.|[2506.15625](http://arxiv.org/abs/2506.15625)|null|
-|**2025-06-18**|**One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution**|Yujing Sun et.al.|[2506.15591](http://arxiv.org/abs/2506.15591)|**[link](https://github.com/yjsunnn/dloral)**|
+|**2025-06-20**|**One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution**|Yujing Sun et.al.|[2506.15591](http://arxiv.org/abs/2506.15591)|**[link](https://github.com/yjsunnn/dloral)**|
 |**2025-06-18**|**Control and Realism: Best of Both Worlds in Layout-to-Image without Training**|Bonan Li et.al.|[2506.15563](http://arxiv.org/abs/2506.15563)|null|
 |**2025-06-17**|**CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion**|Jiahua Ma et.al.|[2506.14769](http://arxiv.org/abs/2506.14769)|null|
 |**2025-06-17**|**Cost-Aware Routing for Efficient Text-To-Image Generation**|Qinchan et.al.|[2506.14753](http://arxiv.org/abs/2506.14753)|null|
@@ -6759,12 +6759,12 @@ Updated on 2025.06.22
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-17**|**ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes**|Zeyuan Chen et.al.|[2506.14317](http://arxiv.org/abs/2506.14317)|null|
+|**2025-06-19**|**ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes**|Zeyuan Chen et.al.|[2506.14317](http://arxiv.org/abs/2506.14317)|null|
 |**2025-06-17**|**Hard Contacts with Soft Gradients: Refining Differentiable Simulators for Learning and Control**|Anselm Paulus et.al.|[2506.14186](http://arxiv.org/abs/2506.14186)|null|
 |**2025-06-16**|**ATK: Automatic Task-driven Keypoint Selection for Robust Policy Learning**|Yunchu Zhang et.al.|[2506.13867](http://arxiv.org/abs/2506.13867)|null|
-|**2025-06-16**|**LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction**|Haoru Xue et.al.|[2506.13751](http://arxiv.org/abs/2506.13751)|null|
+|**2025-06-19**|**LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction**|Haoru Xue et.al.|[2506.13751](http://arxiv.org/abs/2506.13751)|null|
 |**2025-06-16**|**How Real is CARLAs Dynamic Vision Sensor? A Study on the Sim-to-Real Gap in Traffic Object Detection**|Kaiyuan Tan et.al.|[2506.13722](http://arxiv.org/abs/2506.13722)|null|
-|**2025-06-15**|**From Experts to a Generalist: Toward General Whole-Body Control for Humanoid Robots**|Yuxuan Wang et.al.|[2506.12779](http://arxiv.org/abs/2506.12779)|null|
+|**2025-06-19**|**From Experts to a Generalist: Toward General Whole-Body Control for Humanoid Robots**|Yuxuan Wang et.al.|[2506.12779](http://arxiv.org/abs/2506.12779)|null|
 |**2025-06-15**|**RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control**|Junpeng Yue et.al.|[2506.12769](http://arxiv.org/abs/2506.12769)|null|
 |**2025-06-15**|**Revealing the Challenges of Sim-to-Real Transfer in Model-Based Reinforcement Learning via Latent Space Modeling**|Zhilin Lin et.al.|[2506.12735](http://arxiv.org/abs/2506.12735)|null|
 |**2025-06-13**|**ViTaSCOPE: Visuo-tactile Implicit Representation for In-hand Pose and Extrinsic Contact Estimation**|Jayjun Lee et.al.|[2506.12239](http://arxiv.org/abs/2506.12239)|null|
