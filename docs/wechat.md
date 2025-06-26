@@ -605,6 +605,8 @@
 
 ## Eye Tracking
 
+|**2025-06-25**|**That's Not the Feedback I Need! -- Student Engagement with GenAI Feedback in the Tutor Kai**|Sven Jacobs et.al.|[2506.20433](http://arxiv.org/abs/2506.20433)|null|
+|**2025-06-24**|**A Spatio-Temporal Point Process for Fine-Grained Modeling of Reading Behavior**|Francesco Ignazio Re et.al.|[2506.19999](http://arxiv.org/abs/2506.19999)|null|
 |**2025-06-25**|**Examination of Eye-Tracking, Head-Gaze, and Controller-Based Ray-casting in TMT-VR: Performance and Usability Across Adulthood**|Panagiotis Kourtesis et.al.|[2506.19519](http://arxiv.org/abs/2506.19519)|null|
 |**2025-06-22**|**Beyond utility: incorporating eye-tracking, skin conductance and heart rate data into cognitive and econometric travel behaviour models**|Thomas O. Hancock et.al.|[2506.18068](http://arxiv.org/abs/2506.18068)|null|
 |**2025-06-21**|**Inference-Time Gaze Refinement for Micro-Expression Recognition: Enhancing Event-Based Eye Tracking with Motion-Aware Post-Processing**|Nuwan Bandara et.al.|[2506.12524](http://arxiv.org/abs/2506.12524)|**[link](https://github.com/eye-tracking-for-physiological-sensing/eyelorin)**|
@@ -802,6 +804,16 @@
 
 ## VLM/LLM
 
+|**2025-06-25**|**Inside you are many wolves: Using cognitive models to interpret value trade-offs in LLMs**|Sonia K. Murthy et.al.|[2506.20666](http://arxiv.org/abs/2506.20666)|null|
+|**2025-06-25**|**The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind**|Andrei Lupu et.al.|[2506.20664](http://arxiv.org/abs/2506.20664)|null|
+|**2025-06-25**|**Memento: Note-Taking for Your Future Self**|Chao Wan et.al.|[2506.20642](http://arxiv.org/abs/2506.20642)|null|
+|**2025-06-25**|**Towards Community-Driven Agents for Machine Learning Engineering**|Sijie Li et.al.|[2506.20640](http://arxiv.org/abs/2506.20640)|null|
+|**2025-06-25**|**DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation**|Shansan Gong et.al.|[2506.20639](http://arxiv.org/abs/2506.20639)|null|
+|**2025-06-25**|**Shape2Animal: Creative Animal Generation from Natural Silhouettes**|Quoc-Duy Tran et.al.|[2506.20616](http://arxiv.org/abs/2506.20616)|null|
+|**2025-06-25**|**AI Assistants to Enhance and Exploit the PETSc Knowledge Base**|Barry Smith et.al.|[2506.20608](http://arxiv.org/abs/2506.20608)|null|
+|**2025-06-25**|**Model Editing as a Double-Edged Sword: Steering Agent Ethical Behavior Toward Beneficence or Harm**|Baixiang Huang et.al.|[2506.20606](http://arxiv.org/abs/2506.20606)|null|
+|**2025-06-25**|**Video Perception Models for 3D Scene Synthesis**|Rui Huang et.al.|[2506.20601](http://arxiv.org/abs/2506.20601)|null|
+|**2025-06-25**|**Fine-Tuning and Prompt Engineering of LLMs, for the Creation of Multi-Agent AI for Addressing Sustainable Protein Production Challenges**|Alexander D. Kalian et.al.|[2506.20598](http://arxiv.org/abs/2506.20598)|null|
 |**2025-06-24**|**Unified Vision-Language-Action Model**|Yuqi Wang et.al.|[2506.19850](http://arxiv.org/abs/2506.19850)|null|
 |**2025-06-24**|**JoyAgents-R1: Joint Evolution Dynamics for Versatile Multi-LLM Agents with Reinforcement Learning**|Ai Han et.al.|[2506.19846](http://arxiv.org/abs/2506.19846)|null|
 |**2025-06-24**|**MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration**|Yucheng Zhou et.al.|[2506.19835](http://arxiv.org/abs/2506.19835)|null|
@@ -2605,6 +2617,16 @@
 
 ## Diffusion
 
+|**2025-06-25**|**DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy**|Sungjae Park et.al.|[2506.20668](http://arxiv.org/abs/2506.20668)|null|
+|**2025-06-25**|**EditP23: 3D Editing via Propagation of Image Prompts to Multi-View**|Roi Bar-On et.al.|[2506.20652](http://arxiv.org/abs/2506.20652)|null|
+|**2025-06-25**|**Excitation of the non-resonant streaming instability around sources of Ultra-High Energy Cosmic Rays**|Alessandro Cermenati et.al.|[2506.20646](http://arxiv.org/abs/2506.20646)|null|
+|**2025-06-25**|**Telegrapher's Generative Model via Kac Flows**|Richard Duong et.al.|[2506.20641](http://arxiv.org/abs/2506.20641)|null|
+|**2025-06-25**|**DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation**|Shansan Gong et.al.|[2506.20639](http://arxiv.org/abs/2506.20639)|null|
+|**2025-06-25**|**Joint attitude estimation and 3D neural reconstruction of non-cooperative space objects**|Clément Forray et.al.|[2506.20638](http://arxiv.org/abs/2506.20638)|null|
+|**2025-06-25**|**MC for Agriculture: A Framework for Nature-inspired Sustainable Pest Control**|Fardad Vakilipoor et.al.|[2506.20637](http://arxiv.org/abs/2506.20637)|null|
+|**2025-06-25**|**rd-spiral: An open-source Python library for learning 2D reaction-diffusion dynamics through pseudo-spectral method**|Sandy H. S. Herho et.al.|[2506.20633](http://arxiv.org/abs/2506.20633)|**[link](https://github.com/sandyherho/rd_spiral)**|
+|**2025-06-25**|**Shape2Animal: Creative Animal Generation from Natural Silhouettes**|Quoc-Duy Tran et.al.|[2506.20616](http://arxiv.org/abs/2506.20616)|null|
+|**2025-06-25**|**Depinning and activated motion of chiral self-propelled robots**|Juan Pablo Carrillo-Mora et.al.|[2506.20610](http://arxiv.org/abs/2506.20610)|null|
 |**2025-06-24**|**Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation**|Xingyang Li et.al.|[2506.19852](http://arxiv.org/abs/2506.19852)|null|
 |**2025-06-24**|**AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models**|Zehuan Huang et.al.|[2506.19851](http://arxiv.org/abs/2506.19851)|null|
 |**2025-06-24**|**GenHSI: Controllable Generation of Human-Scene Interaction Videos**|Zekun Li et.al.|[2506.19840](http://arxiv.org/abs/2506.19840)|null|
@@ -4404,6 +4426,9 @@
 
 ## Neural Rendering
 
+|**2025-06-25**|**Joint attitude estimation and 3D neural reconstruction of non-cooperative space objects**|Clément Forray et.al.|[2506.20638](http://arxiv.org/abs/2506.20638)|null|
+|**2025-06-25**|**Feature Hallucination for Self-supervised Action Recognition**|Lei Wang et.al.|[2506.20342](http://arxiv.org/abs/2506.20342)|null|
+|**2025-06-25**|**RaRa Clipper: A Clipper for Gaussian Splatting Based on Ray Tracer and Rasterizer**|Da Li et.al.|[2506.20202](http://arxiv.org/abs/2506.20202)|null|
 |**2025-06-24**|**ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model**|Tengbo Yu et.al.|[2506.19842](http://arxiv.org/abs/2506.19842)|null|
 |**2025-06-24**|**NeRF-based CBCT Reconstruction needs Normalization and Initialization**|Zhuowei Xu et.al.|[2506.19742](http://arxiv.org/abs/2506.19742)|null|
 |**2025-06-25**|**Self-Supervised Multimodal NeRF for Autonomous Driving**|Gaurav Sharma et.al.|[2506.19615](http://arxiv.org/abs/2506.19615)|null|
