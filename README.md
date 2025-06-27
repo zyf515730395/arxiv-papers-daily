@@ -16,6 +16,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**ESMStereo: Enhanced ShuffleMixer Disparity Upsampling for Real-Time and Accurate Stereo Matching**|Mahmoud Tahmasebi et.al.|[2506.21091](http://arxiv.org/abs/2506.21091)|null|
+|**2025-06-26**|**ThermalDiffusion: Visual-to-Thermal Image-to-Image Translation for Autonomous Navigation**|Shruti Bansal et.al.|[2506.20969](http://arxiv.org/abs/2506.20969)|null|
+|**2025-06-25**|**THIRDEYE: Cue-Aware Monocular Depth Estimation via Brain-Inspired Multi-Stage Fusion**|Calin Teodor Ioan et.al.|[2506.20877](http://arxiv.org/abs/2506.20877)|null|
+|**2025-06-25**|**StereoDiff: Stereo-Diffusion Synergy for Video Depth Estimation**|Haodong Li et.al.|[2506.20756](http://arxiv.org/abs/2506.20756)|null|
 |**2025-06-24**|**Look to Locate: Vision-Based Multisensory Navigation with 3-D Digital Maps for GNSS-Challenged Environments**|Ola Elmaghraby et.al.|[2506.19827](http://arxiv.org/abs/2506.19827)|null|
 |**2025-06-23**|**SOF: Sorted Opacity Fields for Fast Unbounded Surface Reconstruction**|Lukas Radl et.al.|[2506.19139](http://arxiv.org/abs/2506.19139)|null|
 |**2025-06-23**|**BulletGen: Improving 4D Reconstruction with Bullet-Time Generation**|Denys Rozumnyi et.al.|[2506.18601](http://arxiv.org/abs/2506.18601)|null|
@@ -461,6 +465,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-25**|**How do Foundation Models Compare to Skeleton-Based Approaches for Gesture Recognition in Human-Robot Interaction?**|Stephanie Käs et.al.|[2506.20795](http://arxiv.org/abs/2506.20795)|null|
 |**2025-06-26**|**ReactEMG: Zero-Shot, Low-Latency Intent Detection via sEMG**|Runsheng Wang et.al.|[2506.19815](http://arxiv.org/abs/2506.19815)|null|
 |**2025-06-23**|**Robot Tactile Gesture Recognition Based on Full-body Modular E-skin**|Shuo Jiang et.al.|[2506.18256](http://arxiv.org/abs/2506.18256)|null|
 |**2025-06-20**|**Wi-Fi Sensing Tool Release: Gathering 802.11ax Channel State Information from a Commercial Wi-Fi Access Point**|Zisheng Wang et.al.|[2506.16957](http://arxiv.org/abs/2506.16957)|null|
@@ -812,6 +817,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test**|Ziyue Li et.al.|[2506.21551](http://arxiv.org/abs/2506.21551)|null|
+|**2025-06-26**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al.|[2506.21550](http://arxiv.org/abs/2506.21550)|null|
+|**2025-06-26**|**PsyLite Technical Report**|Fangjun Ding et.al.|[2506.21536](http://arxiv.org/abs/2506.21536)|null|
+|**2025-06-26**|**Exploring the Design Space of 3D MLLMs for CT Report Generation**|Mohammed Baharoon et.al.|[2506.21535](http://arxiv.org/abs/2506.21535)|null|
+|**2025-06-26**|**"What's Up, Doc?": Analyzing How Users Seek Health Information in Large-Scale Conversational AI Datasets**|Akshay Paruchuri et.al.|[2506.21532](http://arxiv.org/abs/2506.21532)|null|
+|**2025-06-26**|**Potemkin Understanding in Large Language Models**|Marina Mancoridis et.al.|[2506.21521](http://arxiv.org/abs/2506.21521)|null|
+|**2025-06-26**|**Mitigating Hallucination of Large Vision-Language Models via Dynamic Logits Calibration**|Jiahe Chen et.al.|[2506.21509](http://arxiv.org/abs/2506.21509)|null|
+|**2025-06-26**|**Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge**|Boyu Gou et.al.|[2506.21506](http://arxiv.org/abs/2506.21506)|null|
+|**2025-06-26**|**Enhancing User Engagement in Socially-Driven Dialogue through Interactive LLM Alignments**|Jiashuo Wang et.al.|[2506.21497](http://arxiv.org/abs/2506.21497)|null|
+|**2025-06-26**|**Bridging Offline and Online Reinforcement Learning for LLMs**|Jack Lanchantin et.al.|[2506.21495](http://arxiv.org/abs/2506.21495)|null|
 |**2025-06-25**|**Inside you are many wolves: Using cognitive models to interpret value trade-offs in LLMs**|Sonia K. Murthy et.al.|[2506.20666](http://arxiv.org/abs/2506.20666)|null|
 |**2025-06-25**|**The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind**|Andrei Lupu et.al.|[2506.20664](http://arxiv.org/abs/2506.20664)|null|
 |**2025-06-25**|**Memento: Note-Taking for Your Future Self**|Chao Wan et.al.|[2506.20642](http://arxiv.org/abs/2506.20642)|null|
@@ -2627,6 +2642,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Whole-Body Conditioned Egocentric Video Prediction**|Yutong Bai et.al.|[2506.21552](http://arxiv.org/abs/2506.21552)|null|
+|**2025-06-26**|**DeOcc-1-to-3: 3D De-Occlusion from a Single Image via Self-Supervised Multi-View Diffusion**|Yansong Qu et.al.|[2506.21544](http://arxiv.org/abs/2506.21544)|null|
+|**2025-06-26**|**SmoothSinger: A Conditional Diffusion Model for Singing Voice Synthesis with Multi-Resolution Architecture**|Kehan Sui et.al.|[2506.21478](http://arxiv.org/abs/2506.21478)|null|
+|**2025-06-26**|**Rethinking Oversaturation in Classifier-Free Guidance via Low Frequency**|Kaiyu Song et.al.|[2506.21452](http://arxiv.org/abs/2506.21452)|null|
+|**2025-06-26**|**Controllable 3D Placement of Objects with Scene-Aware Diffusion Models**|Mohamed Omran et.al.|[2506.21446](http://arxiv.org/abs/2506.21446)|null|
+|**2025-06-26**|**Flow-Based Single-Step Completion for Efficient and Expressive Policy Learning**|Prajwal Koirala et.al.|[2506.21427](http://arxiv.org/abs/2506.21427)|null|
+|**2025-06-26**|**XVerse: Consistent Multi-Subject Control of Identity and Semantic Attributes via DiT Modulation**|Bowen Chen et.al.|[2506.21416](http://arxiv.org/abs/2506.21416)|null|
+|**2025-06-26**|**Ultrafast photocurrent detection reveals that device efficiency is dominated by ultrafast exciton dissociation not exciton diffusion**|Zachary M. Faitz et.al.|[2506.21402](http://arxiv.org/abs/2506.21402)|null|
+|**2025-06-26**|**A discontinuous in time Streamline Diffusion Virtual Element Method for Darcy-transport problem**|R A Caraballo Diaz et.al.|[2506.21326](http://arxiv.org/abs/2506.21326)|null|
+|**2025-06-26**|**An H $α$ Cloud in the HI Tail: Recent Star Formation in the Outskirts of NGC 4258 Revealed by Nanshan 1-m Telescope**|Cheng Cheng et.al.|[2506.21321](http://arxiv.org/abs/2506.21321)|null|
 |**2025-06-25**|**DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy**|Sungjae Park et.al.|[2506.20668](http://arxiv.org/abs/2506.20668)|null|
 |**2025-06-25**|**EditP23: 3D Editing via Propagation of Image Prompts to Multi-View**|Roi Bar-On et.al.|[2506.20652](http://arxiv.org/abs/2506.20652)|null|
 |**2025-06-25**|**Excitation of the non-resonant streaming instability around sources of Ultra-High Energy Cosmic Rays**|Alessandro Cermenati et.al.|[2506.20646](http://arxiv.org/abs/2506.20646)|null|
@@ -4438,6 +4463,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**MADrive: Memory-Augmented Driving Scene Modeling**|Polina Karpikova et.al.|[2506.21520](http://arxiv.org/abs/2506.21520)|null|
+|**2025-06-26**|**EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting**|Taoyu Wu et.al.|[2506.21420](http://arxiv.org/abs/2506.21420)|null|
+|**2025-06-26**|**Curve-Aware Gaussian Splatting for 3D Parametric Curve Reconstruction**|Zhirui Gao. Renjiao Yi et.al.|[2506.21401](http://arxiv.org/abs/2506.21401)|null|
+|**2025-06-26**|**PanSt3R: Multi-view Consistent Panoptic Segmentation**|Lojze Zust et.al.|[2506.21348](http://arxiv.org/abs/2506.21348)|null|
+|**2025-06-26**|**Geometry and Perception Guided Gaussians for Multiview-consistent 3D Generation from a Single Image**|Pufan Li et.al.|[2506.21152](http://arxiv.org/abs/2506.21152)|null|
+|**2025-06-26**|**CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization**|Jan Ackermann et.al.|[2506.21117](http://arxiv.org/abs/2506.21117)|null|
+|**2025-06-26**|**User-in-the-Loop View Sampling with Error Peaking Visualization**|Ayaka Yasunaga et.al.|[2506.21009](http://arxiv.org/abs/2506.21009)|null|
+|**2025-06-26**|**DBMovi-GS: Dynamic View Synthesis from Blurry Monocular Video via Sparse-Controlled Gaussian Splatting**|Yeon-Ji Song et.al.|[2506.20998](http://arxiv.org/abs/2506.20998)|null|
+|**2025-06-25**|**3DGH: 3D Head Generation with Composable Hair and Face**|Chengan He et.al.|[2506.20875](http://arxiv.org/abs/2506.20875)|null|
 |**2025-06-25**|**Joint attitude estimation and 3D neural reconstruction of non-cooperative space objects**|Clément Forray et.al.|[2506.20638](http://arxiv.org/abs/2506.20638)|null|
 |**2025-06-25**|**Feature Hallucination for Self-supervised Action Recognition**|Lei Wang et.al.|[2506.20342](http://arxiv.org/abs/2506.20342)|null|
 |**2025-06-25**|**RaRa Clipper: A Clipper for Gaussian Splatting Based on Ray Tracer and Rasterizer**|Da Li et.al.|[2506.20202](http://arxiv.org/abs/2506.20202)|null|
