@@ -1,4 +1,4 @@
-> Updated on 2025.06.30
+> Updated on 2025.07.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,7 +17,7 @@
 |**2025-06-26**|**ESMStereo: Enhanced ShuffleMixer Disparity Upsampling for Real-Time and Accurate Stereo Matching**|Mahmoud Tahmasebi et.al.|[2506.21091](http://arxiv.org/abs/2506.21091)|null|
 |**2025-06-26**|**ThermalDiffusion: Visual-to-Thermal Image-to-Image Translation for Autonomous Navigation**|Shruti Bansal et.al.|[2506.20969](http://arxiv.org/abs/2506.20969)|null|
 |**2025-06-25**|**THIRDEYE: Cue-Aware Monocular Depth Estimation via Brain-Inspired Multi-Stage Fusion**|Calin Teodor Ioan et.al.|[2506.20877](http://arxiv.org/abs/2506.20877)|null|
-|**2025-06-25**|**StereoDiff: Stereo-Diffusion Synergy for Video Depth Estimation**|Haodong Li et.al.|[2506.20756](http://arxiv.org/abs/2506.20756)|null|
+|**2025-06-30**|**StereoDiff: Stereo-Diffusion Synergy for Video Depth Estimation**|Haodong Li et.al.|[2506.20756](http://arxiv.org/abs/2506.20756)|null|
 |**2025-06-24**|**Look to Locate: Vision-Based Multisensory Navigation with 3-D Digital Maps for GNSS-Challenged Environments**|Ola Elmaghraby et.al.|[2506.19827](http://arxiv.org/abs/2506.19827)|null|
 |**2025-06-23**|**SOF: Sorted Opacity Fields for Fast Unbounded Surface Reconstruction**|Lukas Radl et.al.|[2506.19139](http://arxiv.org/abs/2506.19139)|null|
 |**2025-06-23**|**BulletGen: Improving 4D Reconstruction with Bullet-Time Generation**|Denys Rozumnyi et.al.|[2506.18601](http://arxiv.org/abs/2506.18601)|null|
@@ -457,12 +457,12 @@
 |**2024-09-23**|**GroCo: Ground Constraint for Metric Self-Supervised Monocular Depth**|Aurélien Cecille et.al.|[2409.14850](http://arxiv.org/abs/2409.14850)|**[link](https://github.com/Visual-Behavior/GroCo)**|
 |**2024-09-23**|**Robust and Flexible Omnidirectional Depth Estimation with Multiple 360° Cameras**|Ming Li et.al.|[2409.14766](http://arxiv.org/abs/2409.14766)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Gesture Recognition
 
 |**2025-06-25**|**How do Foundation Models Compare to Skeleton-Based Approaches for Gesture Recognition in Human-Robot Interaction?**|Stephanie Käs et.al.|[2506.20795](http://arxiv.org/abs/2506.20795)|null|
-|**2025-06-26**|**ReactEMG: Zero-Shot, Low-Latency Intent Detection via sEMG**|Runsheng Wang et.al.|[2506.19815](http://arxiv.org/abs/2506.19815)|null|
+|**2025-06-27**|**ReactEMG: Zero-Shot, Low-Latency Intent Detection via sEMG**|Runsheng Wang et.al.|[2506.19815](http://arxiv.org/abs/2506.19815)|null|
 |**2025-06-23**|**Robot Tactile Gesture Recognition Based on Full-body Modular E-skin**|Shuo Jiang et.al.|[2506.18256](http://arxiv.org/abs/2506.18256)|null|
 |**2025-06-20**|**Wi-Fi Sensing Tool Release: Gathering 802.11ax Channel State Information from a Commercial Wi-Fi Access Point**|Zisheng Wang et.al.|[2506.16957](http://arxiv.org/abs/2506.16957)|null|
 |**2025-06-20**|**IsoNet: Causal Analysis of Multimodal Transformers for Neuromuscular Gesture Classification**|Eion Tyacke et.al.|[2506.16744](http://arxiv.org/abs/2506.16744)|null|
@@ -606,7 +606,7 @@
 |**2024-09-10**|**Advancements in Gesture Recognition Techniques and Machine Learning for Enhanced Human-Robot Interaction: A Comprehensive Review**|Sajjad Hussain et.al.|[2409.06503](http://arxiv.org/abs/2409.06503)|null|
 |**2024-09-05**|**MVTN: A Multiscale Video Transformer Network for Hand Gesture Recognition**|Mallika Garg et.al.|[2409.03890](http://arxiv.org/abs/2409.03890)|**[link](https://github.com/mallikagarg/mvtn)**|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Eye Tracking
 
@@ -805,7 +805,7 @@
 |**2024-09-11**|**Bridging Quantitative and Qualitative Methods for Visualization Research: A Data/Semantics Perspective in Light of Advanced AI**|Daniel Weiskopf et.al.|[2409.07250](http://arxiv.org/abs/2409.07250)|null|
 |**2024-09-10**|**Mazed and Confused: A Dataset of Cybersickness, Working Memory, Mental Load, Physical Load, and Attention During a Real Walking Task in VR**|Jyotirmay Nag Setu et.al.|[2409.06898](http://arxiv.org/abs/2409.06898)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## VLM/LLM
 
@@ -2638,7 +2638,7 @@
 |**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278](http://arxiv.org/abs/2409.16278)|null|
 |**2024-09-24**|**CDChat: A Large Multimodal Model for Remote Sensing Change Description**|Mubashir Noman et.al.|[2409.16261](http://arxiv.org/abs/2409.16261)|**[link](https://github.com/techmn/cdchat)**|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Diffusion
 
@@ -4467,7 +4467,7 @@
 |**2024-09-25**|**Decomposition of Friction Coefficients to Analyze Hydration Effects on a C $_{60}$(OH)$_{\rm n}$**|Tomoya Iwashita et.al.|[2409.17028](http://arxiv.org/abs/2409.17028)|null|
 |**2024-09-25**|**Single Image, Any Face: Generalisable 3D Face Generation**|Wenqing Wang et.al.|[2409.16990](http://arxiv.org/abs/2409.16990)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Neural Rendering
 
@@ -4477,7 +4477,7 @@
 |**2025-06-26**|**PhotonSplat: 3D Scene Reconstruction and Colorization from SPAD Sensors**|Sai Sri Teja et.al.|[2506.21680](http://arxiv.org/abs/2506.21680)|null|
 |**2025-06-26**|**MADrive: Memory-Augmented Driving Scene Modeling**|Polina Karpikova et.al.|[2506.21520](http://arxiv.org/abs/2506.21520)|null|
 |**2025-06-26**|**EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting**|Taoyu Wu et.al.|[2506.21420](http://arxiv.org/abs/2506.21420)|null|
-|**2025-06-26**|**Curve-Aware Gaussian Splatting for 3D Parametric Curve Reconstruction**|Zhirui Gao. Renjiao Yi et.al.|[2506.21401](http://arxiv.org/abs/2506.21401)|null|
+|**2025-06-28**|**Curve-Aware Gaussian Splatting for 3D Parametric Curve Reconstruction**|Zhirui Gao et.al.|[2506.21401](http://arxiv.org/abs/2506.21401)|null|
 |**2025-06-26**|**PanSt3R: Multi-view Consistent Panoptic Segmentation**|Lojze Zust et.al.|[2506.21348](http://arxiv.org/abs/2506.21348)|null|
 |**2025-06-26**|**Geometry and Perception Guided Gaussians for Multiview-consistent 3D Generation from a Single Image**|Pufan Li et.al.|[2506.21152](http://arxiv.org/abs/2506.21152)|null|
 |**2025-06-26**|**CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization**|Jan Ackermann et.al.|[2506.21117](http://arxiv.org/abs/2506.21117)|null|
@@ -6937,7 +6937,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## RSR
 
@@ -7163,5 +7163,5 @@
 |**2024-11-02**|**GarmentLab: A Unified Simulation and Benchmark for Garment Manipulation**|Haoran Lu et.al.|[2411.01200](http://arxiv.org/abs/2411.01200)|**[link](https://github.com/GarmentLab/GarmentLab)**|
 |**2024-10-31**|**Learning Visual Parkour from Generated Images**|Alan Yu et.al.|[2411.00083](http://arxiv.org/abs/2411.00083)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 

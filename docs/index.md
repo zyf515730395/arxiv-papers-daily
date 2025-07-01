@@ -5,7 +5,7 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2025.06.30
+Updated on 2025.07.01
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -13,7 +13,7 @@ Updated on 2025.06.30
 |**2025-06-26**|**ESMStereo: Enhanced ShuffleMixer Disparity Upsampling for Real-Time and Accurate Stereo Matching**|Mahmoud Tahmasebi et.al.|[2506.21091](http://arxiv.org/abs/2506.21091)|null|
 |**2025-06-26**|**ThermalDiffusion: Visual-to-Thermal Image-to-Image Translation for Autonomous Navigation**|Shruti Bansal et.al.|[2506.20969](http://arxiv.org/abs/2506.20969)|null|
 |**2025-06-25**|**THIRDEYE: Cue-Aware Monocular Depth Estimation via Brain-Inspired Multi-Stage Fusion**|Calin Teodor Ioan et.al.|[2506.20877](http://arxiv.org/abs/2506.20877)|null|
-|**2025-06-25**|**StereoDiff: Stereo-Diffusion Synergy for Video Depth Estimation**|Haodong Li et.al.|[2506.20756](http://arxiv.org/abs/2506.20756)|null|
+|**2025-06-30**|**StereoDiff: Stereo-Diffusion Synergy for Video Depth Estimation**|Haodong Li et.al.|[2506.20756](http://arxiv.org/abs/2506.20756)|null|
 |**2025-06-24**|**Look to Locate: Vision-Based Multisensory Navigation with 3-D Digital Maps for GNSS-Challenged Environments**|Ola Elmaghraby et.al.|[2506.19827](http://arxiv.org/abs/2506.19827)|null|
 |**2025-06-23**|**SOF: Sorted Opacity Fields for Fast Unbounded Surface Reconstruction**|Lukas Radl et.al.|[2506.19139](http://arxiv.org/abs/2506.19139)|null|
 |**2025-06-23**|**BulletGen: Improving 4D Reconstruction with Bullet-Time Generation**|Denys Rozumnyi et.al.|[2506.18601](http://arxiv.org/abs/2506.18601)|null|
@@ -458,7 +458,7 @@ Updated on 2025.06.30
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-25**|**How do Foundation Models Compare to Skeleton-Based Approaches for Gesture Recognition in Human-Robot Interaction?**|Stephanie Käs et.al.|[2506.20795](http://arxiv.org/abs/2506.20795)|null|
-|**2025-06-26**|**ReactEMG: Zero-Shot, Low-Latency Intent Detection via sEMG**|Runsheng Wang et.al.|[2506.19815](http://arxiv.org/abs/2506.19815)|null|
+|**2025-06-27**|**ReactEMG: Zero-Shot, Low-Latency Intent Detection via sEMG**|Runsheng Wang et.al.|[2506.19815](http://arxiv.org/abs/2506.19815)|null|
 |**2025-06-23**|**Robot Tactile Gesture Recognition Based on Full-body Modular E-skin**|Shuo Jiang et.al.|[2506.18256](http://arxiv.org/abs/2506.18256)|null|
 |**2025-06-20**|**Wi-Fi Sensing Tool Release: Gathering 802.11ax Channel State Information from a Commercial Wi-Fi Access Point**|Zisheng Wang et.al.|[2506.16957](http://arxiv.org/abs/2506.16957)|null|
 |**2025-06-20**|**IsoNet: Causal Analysis of Multimodal Transformers for Neuromuscular Gesture Classification**|Eion Tyacke et.al.|[2506.16744](http://arxiv.org/abs/2506.16744)|null|
@@ -4473,7 +4473,7 @@ Updated on 2025.06.30
 |**2025-06-26**|**PhotonSplat: 3D Scene Reconstruction and Colorization from SPAD Sensors**|Sai Sri Teja et.al.|[2506.21680](http://arxiv.org/abs/2506.21680)|null|
 |**2025-06-26**|**MADrive: Memory-Augmented Driving Scene Modeling**|Polina Karpikova et.al.|[2506.21520](http://arxiv.org/abs/2506.21520)|null|
 |**2025-06-26**|**EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting**|Taoyu Wu et.al.|[2506.21420](http://arxiv.org/abs/2506.21420)|null|
-|**2025-06-26**|**Curve-Aware Gaussian Splatting for 3D Parametric Curve Reconstruction**|Zhirui Gao. Renjiao Yi et.al.|[2506.21401](http://arxiv.org/abs/2506.21401)|null|
+|**2025-06-28**|**Curve-Aware Gaussian Splatting for 3D Parametric Curve Reconstruction**|Zhirui Gao et.al.|[2506.21401](http://arxiv.org/abs/2506.21401)|null|
 |**2025-06-26**|**PanSt3R: Multi-view Consistent Panoptic Segmentation**|Lojze Zust et.al.|[2506.21348](http://arxiv.org/abs/2506.21348)|null|
 |**2025-06-26**|**Geometry and Perception Guided Gaussians for Multiview-consistent 3D Generation from a Single Image**|Pufan Li et.al.|[2506.21152](http://arxiv.org/abs/2506.21152)|null|
 |**2025-06-26**|**CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization**|Jan Ackermann et.al.|[2506.21117](http://arxiv.org/abs/2506.21117)|null|
