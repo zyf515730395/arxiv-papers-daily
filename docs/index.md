@@ -5,7 +5,7 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2025.07.01
+Updated on 2025.07.02
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -808,10 +808,10 @@ Updated on 2025.07.01
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-30**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Dong Sixun et.al.|[2506.24124](http://arxiv.org/abs/2506.24124)|null|
+|**2025-07-01**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Sixun Dong et.al.|[2506.24124](http://arxiv.org/abs/2506.24124)|null|
 |**2025-06-30**|**Calligrapher: Freestyle Text Image Customization**|Yue Ma et.al.|[2506.24123](http://arxiv.org/abs/2506.24123)|null|
 |**2025-06-30**|**Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime**|Yuqing Wang et.al.|[2506.24120](http://arxiv.org/abs/2506.24120)|null|
-|**2025-06-30**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
+|**2025-07-01**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
 |**2025-06-30**|**Scaling Human Judgment in Community Notes with LLMs**|Haiwen Li et.al.|[2506.24118](http://arxiv.org/abs/2506.24118)|null|
 |**2025-06-30**|**DenseWorld-1M: Towards Detailed Dense Grounded Caption in the Real World**|Xiangtai Li et.al.|[2506.24102](http://arxiv.org/abs/2506.24102)|null|
 |**2025-06-30**|**STACK: Adversarial Attacks on LLM Safeguard Pipelines**|Ian R. McKenzie et.al.|[2506.24068](http://arxiv.org/abs/2506.24068)|null|
@@ -4495,7 +4495,7 @@ Updated on 2025.07.01
 |**2025-06-30**|**HiNeuS: High-fidelity Neural Surface Mitigating Low-texture and Reflective Ambiguity**|Yida Wang et.al.|[2506.23854](http://arxiv.org/abs/2506.23854)|null|
 |**2025-06-30**|**AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**|Ziao Liu et.al.|[2506.23611](http://arxiv.org/abs/2506.23611)|null|
 |**2025-06-30**|**Instant GaussianImage: A Generalizable and Self-Adaptive Image Representation via 2D Gaussian Splatting**|Zhaojie Zeng et.al.|[2506.23479](http://arxiv.org/abs/2506.23479)|null|
-|**2025-06-29**|**SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting**|Yiming Huang et.al.|[2506.23309](http://arxiv.org/abs/2506.23309)|null|
+|**2025-07-01**|**SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting**|Yiming Huang et.al.|[2506.23309](http://arxiv.org/abs/2506.23309)|null|
 |**2025-06-29**|**Endo-4DGX: Robust Endoscopic Scene Reconstruction and Illumination Correction with Gaussian Splatting**|Yiming Huang et.al.|[2506.23308](http://arxiv.org/abs/2506.23308)|null|
 |**2025-06-29**|**VolumetricSMPL: A Neural Volumetric Body Model for Efficient Interactions, Contacts, and Collisions**|Marko Mihajlovic et.al.|[2506.23236](http://arxiv.org/abs/2506.23236)|null|
 |**2025-06-29**|**TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints**|Zhen Tan et.al.|[2506.23207](http://arxiv.org/abs/2506.23207)|null|
