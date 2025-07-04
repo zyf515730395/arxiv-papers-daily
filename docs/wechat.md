@@ -14,6 +14,8 @@
 
 ## Depth Estimation
 
+|**2025-07-03**|**From Pixels to Damage Severity: Estimating Earthquake Impacts Using Semantic Segmentation of Social Media Images**|Danrong Zhang et.al.|[2507.02781](http://arxiv.org/abs/2507.02781)|null|
+|**2025-07-02**|**Underwater Monocular Metric Depth Estimation: Real-World Benchmarks and Synthetic Fine-Tuning**|Zijie Cai et.al.|[2507.02148](http://arxiv.org/abs/2507.02148)|null|
 |**2025-07-02**|**RobuSTereo: Robust Zero-Shot Stereo Matching under Adverse Weather**|Yuran Wang et.al.|[2507.01653](http://arxiv.org/abs/2507.01653)|null|
 |**2025-07-02**|**Depth Anything at Any Condition**|Boyuan Sun et.al.|[2507.01634](http://arxiv.org/abs/2507.01634)|null|
 |**2025-07-02**|**DepthSync: Diffusion Guidance-Based Depth Synchronization for Scale- and Geometry-Consistent Video Depth Estimation**|Yue-Jiang Dong et.al.|[2507.01603](http://arxiv.org/abs/2507.01603)|null|
@@ -820,6 +822,16 @@
 
 ## VLM/LLM
 
+|**2025-07-03**|**Bootstrapping Grounded Chain-of-Thought in Multimodal LLMs for Data-Efficient Model Adaptation**|Jiaer Xia et.al.|[2507.02859](http://arxiv.org/abs/2507.02859)|null|
+|**2025-07-03**|**Requirements Elicitation Follow-Up Question Generation**|Yuchen Shen et.al.|[2507.02858](http://arxiv.org/abs/2507.02858)|null|
+|**2025-07-03**|**Answer Matching Outperforms Multiple Choice for Language Model Evaluation**|Nikhil Chandak et.al.|[2507.02856](http://arxiv.org/abs/2507.02856)|null|
+|**2025-07-03**|**MOTIF: Modular Thinking via Reinforcement Fine-tuning in LLMs**|Purbesh Mitra et.al.|[2507.02851](http://arxiv.org/abs/2507.02851)|null|
+|**2025-07-03**|**LLM Hypnosis: Exploiting User Feedback for Unauthorized Knowledge Injection to All Users**|Almog Hilel et.al.|[2507.02850](http://arxiv.org/abs/2507.02850)|null|
+|**2025-07-03**|**Visual Contextual Attack: Jailbreaking MLLMs with Image-Driven Context Injection**|Ziqi Miao et.al.|[2507.02844](http://arxiv.org/abs/2507.02844)|null|
+|**2025-07-03**|**LLM-Driven Treatment Effect Estimation Under Inference Time Text Confounding**|Yuchen Ma et.al.|[2507.02843](http://arxiv.org/abs/2507.02843)|null|
+|**2025-07-03**|**StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason**|Kaiyi Zhang et.al.|[2507.02841](http://arxiv.org/abs/2507.02841)|null|
+|**2025-07-03**|**ExPO: Unlocking Hard Reasoning with Self-Explanation-Guided Reinforcement Learning**|Ruiyang Zhou et.al.|[2507.02834](http://arxiv.org/abs/2507.02834)|null|
+|**2025-07-03**|**SynapseRoute: An Auto-Route Switching Framework on Dual-State Large Language Model**|Wencheng Zhang et.al.|[2507.02822](http://arxiv.org/abs/2507.02822)|null|
 |**2025-07-02**|**Kwai Keye-VL Technical Report**|Kwai Keye Team et.al.|[2507.01949](http://arxiv.org/abs/2507.01949)|null|
 |**2025-07-02**|**SpecCLIP: Aligning and Translating Spectroscopic Measurements for Stars**|Xiaosheng Zhao et.al.|[2507.01939](http://arxiv.org/abs/2507.01939)|null|
 |**2025-07-02**|**CI-VID: A Coherent Interleaved Text-Video Dataset**|Yiming Ju et.al.|[2507.01938](http://arxiv.org/abs/2507.01938)|null|
@@ -2673,6 +2685,16 @@
 
 ## Diffusion
 
+|**2025-07-03**|**Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching**|Xin Zhou et.al.|[2507.02860](http://arxiv.org/abs/2507.02860)|null|
+|**2025-07-03**|**AnyI2V: Animating Any Conditional Image with Motion Control**|Ziye Li et.al.|[2507.02857](http://arxiv.org/abs/2507.02857)|null|
+|**2025-07-03**|**USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network**|Ying Yu et.al.|[2507.02827](http://arxiv.org/abs/2507.02827)|null|
+|**2025-07-03**|**LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion**|Fangfu Liu et.al.|[2507.02813](http://arxiv.org/abs/2507.02813)|null|
+|**2025-07-03**|**Block triangular preconditioning for inverse source problems in time-space fractional diffusion equations**|Monoswini Majumdar et.al.|[2507.02809](http://arxiv.org/abs/2507.02809)|null|
+|**2025-07-03**|**Random Flights and Anomalous Diffusion: A Non-Markovian Take on Lorentz Processes**|Lorenzo Facciaroni et.al.|[2507.02796](http://arxiv.org/abs/2507.02796)|null|
+|**2025-07-03**|**Boosting the NOx production in microwave air plasma: A synergy of chemistry and vibrational kinetics**|Qinghao Shen et.al.|[2507.02795](http://arxiv.org/abs/2507.02795)|null|
+|**2025-07-03**|**RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation**|Liheng Zhang et.al.|[2507.02792](http://arxiv.org/abs/2507.02792)|null|
+|**2025-07-03**|**Diffusive charge transport in the gapped 1D Hubbard model at all finite temperatures**|J. M. P. Carmelo et.al.|[2507.02753](http://arxiv.org/abs/2507.02753)|null|
+|**2025-07-03**|**On the origin of the X-ray emission surrounding PSR B0656+14 in the eROSITA Cal-PV data**|Alena Khokhriakova et.al.|[2507.02750](http://arxiv.org/abs/2507.02750)|null|
 |**2025-07-03**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961](http://arxiv.org/abs/2507.01961)|null|
 |**2025-07-02**|**FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model**|Yukang Cao et.al.|[2507.01953](http://arxiv.org/abs/2507.01953)|null|
 |**2025-07-02**|**Morphology and stellar populations of a candidate ultra-diffuse galaxy in early Euclid and Rubin imaging**|Aaron J. Romanowsky et.al.|[2507.01942](http://arxiv.org/abs/2507.01942)|null|
@@ -4522,6 +4544,10 @@
 
 ## Neural Rendering
 
+|**2025-07-03**|**HyperGaussians: High-Dimensional Gaussian Splatting for High-Fidelity Animatable Face Avatars**|Gent Serifi et.al.|[2507.02803](http://arxiv.org/abs/2507.02803)|null|
+|**2025-07-03**|**ArtGS:3D Gaussian Splatting for Interactive Visual-Physical Modeling and Manipulation of Articulated Objects**|Qiaojun Yu et.al.|[2507.02600](http://arxiv.org/abs/2507.02600)|null|
+|**2025-07-03**|**LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling**|Jiahao Wu et.al.|[2507.02363](http://arxiv.org/abs/2507.02363)|null|
+|**2025-07-03**|**Gbake: Baking 3D Gaussian Splats into Reflection Probes**|Stephen Pasch et.al.|[2507.02257](http://arxiv.org/abs/2507.02257)|null|
 |**2025-07-02**|**Tile and Slide : A New Framework for Scaling NeRF from Local to Global 3D Earth Observation**|Camille Billouard et.al.|[2507.01631](http://arxiv.org/abs/2507.01631)|null|
 |**2025-07-02**|**3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation**|Tianrui Lou et.al.|[2507.01367](http://arxiv.org/abs/2507.01367)|null|
 |**2025-07-01**|**VISTA: Open-Vocabulary, Task-Relevant Robot Exploration with Online Semantic Gaussian Splatting**|Keiko Nagami et.al.|[2507.01125](http://arxiv.org/abs/2507.01125)|null|
@@ -7012,6 +7038,8 @@
 
 ## RSR
 
+|**2025-07-03**|**MultiGen: Using Multimodal Generation in Simulation to Learn Multimodal Policies in Real**|Renhao Wang et.al.|[2507.02864](http://arxiv.org/abs/2507.02864)|null|
+|**2025-07-02**|**cVLA: Towards Efficient Camera-Space VLAs**|Max Argus et.al.|[2507.02190](http://arxiv.org/abs/2507.02190)|null|
 |**2025-06-28**|**RoboPearls: Editable Video Simulation for Robot Manipulation**|Tao Tang et.al.|[2506.22756](http://arxiv.org/abs/2506.22756)|null|
 |**2025-06-24**|**Position: Intelligent Science Laboratory Requires the Integration of Cognitive and Embodied AI**|Sha Zhang et.al.|[2506.19613](http://arxiv.org/abs/2506.19613)|null|
 |**2025-06-25**|**AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation**|Ziyan Zhao et.al.|[2506.19269](http://arxiv.org/abs/2506.19269)|null|
