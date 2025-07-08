@@ -5,7 +5,7 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2025.07.07
+Updated on 2025.07.08
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -4547,7 +4547,7 @@ Updated on 2025.07.07
 |**2025-07-02**|**Tile and Slide : A New Framework for Scaling NeRF from Local to Global 3D Earth Observation**|Camille Billouard et.al.|[2507.01631](http://arxiv.org/abs/2507.01631)|null|
 |**2025-07-02**|**3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation**|Tianrui Lou et.al.|[2507.01367](http://arxiv.org/abs/2507.01367)|null|
 |**2025-07-01**|**VISTA: Open-Vocabulary, Task-Relevant Robot Exploration with Online Semantic Gaussian Splatting**|Keiko Nagami et.al.|[2507.01125](http://arxiv.org/abs/2507.01125)|null|
-|**2025-07-01**|**A LoD of Gaussians: Unified Training and Rendering for Ultra-Large Scale Reconstruction with External Memory**|Felix Windisch et.al.|[2507.01110](http://arxiv.org/abs/2507.01110)|null|
+|**2025-07-05**|**A LoD of Gaussians: Unified Training and Rendering for Ultra-Large Scale Reconstruction with External Memory**|Felix Windisch et.al.|[2507.01110](http://arxiv.org/abs/2507.01110)|null|
 |**2025-07-01**|**Surgical Neural Radiance Fields from One Image**|Alberto Neri et.al.|[2507.00969](http://arxiv.org/abs/2507.00969)|null|
 |**2025-07-01**|**Masks make discriminative models great again!**|Tianshi Cao et.al.|[2507.00916](http://arxiv.org/abs/2507.00916)|null|
 |**2025-07-01**|**GaussianVLM: Scene-centric 3D Vision-Language Models using Language-aligned Gaussian Splats for Embodied Reasoning and Beyond**|Anna-Maria Halacheva et.al.|[2507.00886](http://arxiv.org/abs/2507.00886)|null|
