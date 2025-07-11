@@ -1,4 +1,4 @@
-> Updated on 2025.07.10
+> Updated on 2025.07.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,13 +17,13 @@
 |**2025-07-08**|**LighthouseGS: Indoor Structure-aware 3D Gaussian Splatting for Panorama-Style Mobile Captures**|Seungoh Han et.al.|[2507.06109](http://arxiv.org/abs/2507.06109)|null|
 |**2025-07-08**|**Beyond Appearance: Geometric Cues for Robust Video Instance Segmentation**|Quanzhu Niu et.al.|[2507.05948](http://arxiv.org/abs/2507.05948)|null|
 |**2025-07-07**|**The Generalization Ridge: Information Flow in Natural Language Generation**|Ruidi Chang et.al.|[2507.05387](http://arxiv.org/abs/2507.05387)|null|
-|**2025-07-07**|**VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting**|Juyi Lin et.al.|[2507.05116](http://arxiv.org/abs/2507.05116)|null|
+|**2025-07-10**|**VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting**|Juyi Lin et.al.|[2507.05116](http://arxiv.org/abs/2507.05116)|null|
 |**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso et.al.|[2507.05029](http://arxiv.org/abs/2507.05029)|null|
 |**2025-07-07**|**Learning Robust Stereo Matching in the Wild with Selective Mixture-of-Experts**|Yun Wang et.al.|[2507.04631](http://arxiv.org/abs/2507.04631)|null|
 |**2025-07-06**|**A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields**|Aoxiang Fan et.al.|[2507.04408](http://arxiv.org/abs/2507.04408)|null|
 |**2025-07-06**|**High-Resolution Sustain Pedal Depth Estimation from Piano Audio Across Room Acoustics**|Kun Fang et.al.|[2507.04230](http://arxiv.org/abs/2507.04230)|null|
 |**2025-07-03**|**From Pixels to Damage Severity: Estimating Earthquake Impacts Using Semantic Segmentation of Social Media Images**|Danrong Zhang et.al.|[2507.02781](http://arxiv.org/abs/2507.02781)|null|
-|**2025-07-02**|**Underwater Monocular Metric Depth Estimation: Real-World Benchmarks and Synthetic Fine-Tuning**|Zijie Cai et.al.|[2507.02148](http://arxiv.org/abs/2507.02148)|null|
+|**2025-07-10**|**Underwater Monocular Metric Depth Estimation: Real-World Benchmarks and Synthetic Fine-Tuning with Vision Foundation Models**|Zijie Cai et.al.|[2507.02148](http://arxiv.org/abs/2507.02148)|null|
 |**2025-07-02**|**RobuSTereo: Robust Zero-Shot Stereo Matching under Adverse Weather**|Yuran Wang et.al.|[2507.01653](http://arxiv.org/abs/2507.01653)|null|
 |**2025-07-02**|**Depth Anything at Any Condition**|Boyuan Sun et.al.|[2507.01634](http://arxiv.org/abs/2507.01634)|null|
 |**2025-07-02**|**DepthSync: Diffusion Guidance-Based Depth Synchronization for Scale- and Geometry-Consistent Video Depth Estimation**|Yue-Jiang Dong et.al.|[2507.01603](http://arxiv.org/abs/2507.01603)|null|
@@ -473,7 +473,7 @@
 |**2024-09-23**|**GroCo: Ground Constraint for Metric Self-Supervised Monocular Depth**|Aurélien Cecille et.al.|[2409.14850](http://arxiv.org/abs/2409.14850)|**[link](https://github.com/Visual-Behavior/GroCo)**|
 |**2024-09-23**|**Robust and Flexible Omnidirectional Depth Estimation with Multiple 360° Cameras**|Ming Li et.al.|[2409.14766](http://arxiv.org/abs/2409.14766)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Gesture Recognition
 
@@ -623,7 +623,7 @@
 |**2024-09-10**|**Advancements in Gesture Recognition Techniques and Machine Learning for Enhanced Human-Robot Interaction: A Comprehensive Review**|Sajjad Hussain et.al.|[2409.06503](http://arxiv.org/abs/2409.06503)|null|
 |**2024-09-05**|**MVTN: A Multiscale Video Transformer Network for Hand Gesture Recognition**|Mallika Garg et.al.|[2409.03890](http://arxiv.org/abs/2409.03890)|**[link](https://github.com/mallikagarg/mvtn)**|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Eye Tracking
 
@@ -827,7 +827,7 @@
 |**2024-09-11**|**Bridging Quantitative and Qualitative Methods for Visualization Research: A Data/Semantics Perspective in Light of Advanced AI**|Daniel Weiskopf et.al.|[2409.07250](http://arxiv.org/abs/2409.07250)|null|
 |**2024-09-10**|**Mazed and Confused: A Dataset of Cybersickness, Working Memory, Mental Load, Physical Load, and Attention During a Real Walking Task in VR**|Jyotirmay Nag Setu et.al.|[2409.06898](http://arxiv.org/abs/2409.06898)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## VLM/LLM
 
@@ -2720,7 +2720,7 @@
 |**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278](http://arxiv.org/abs/2409.16278)|null|
 |**2024-09-24**|**CDChat: A Large Multimodal Model for Remote Sensing Change Description**|Mubashir Noman et.al.|[2409.16261](http://arxiv.org/abs/2409.16261)|**[link](https://github.com/techmn/cdchat)**|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Diffusion
 
@@ -2728,7 +2728,7 @@
 |**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
 |**2025-07-09**|**The cosmic-ray sea explains the Galactic $γ$-ray and $ν$ diffuse emissions from GeV to PeV**|Pedro De La Torre Luque et.al.|[2507.07083](http://arxiv.org/abs/2507.07083)|null|
 |**2025-07-09**|**Exact Evaluation of the Accuracy of Diffusion Models for Inverse Problems with Gaussian Data Distributions**|Emile Pierret et.al.|[2507.07008](http://arxiv.org/abs/2507.07008)|null|
-|**2025-07-09**|**Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**|Fei Teng et.al.|[2507.06971](http://arxiv.org/abs/2507.06971)|null|
+|**2025-07-10**|**Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**|Fei Teng et.al.|[2507.06971](http://arxiv.org/abs/2507.06971)|null|
 |**2025-07-09**|**Dataset and Benchmark for Enhancing Critical Retained Foreign Object Detection**|Yuli Wang et.al.|[2507.06937](http://arxiv.org/abs/2507.06937)|null|
 |**2025-07-09**|**Search for High Energy Neutrinos from Infrared Flares**|Teresa Pernice et.al.|[2507.06934](http://arxiv.org/abs/2507.06934)|null|
 |**2025-07-09**|**Nonparametric Bayesian Inference for Stochastic Reaction-Diffusion Equations**|Randolf Altmeyer et.al.|[2507.06857](http://arxiv.org/abs/2507.06857)|null|
@@ -4609,7 +4609,7 @@
 |**2024-09-25**|**Decomposition of Friction Coefficients to Analyze Hydration Effects on a C $_{60}$(OH)$_{\rm n}$**|Tomoya Iwashita et.al.|[2409.17028](http://arxiv.org/abs/2409.17028)|null|
 |**2024-09-25**|**Single Image, Any Face: Generalisable 3D Face Generation**|Wenqing Wang et.al.|[2409.16990](http://arxiv.org/abs/2409.16990)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Neural Rendering
 
@@ -7124,7 +7124,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## RSR
 
@@ -7358,5 +7358,5 @@
 |**2024-11-02**|**GarmentLab: A Unified Simulation and Benchmark for Garment Manipulation**|Haoran Lu et.al.|[2411.01200](http://arxiv.org/abs/2411.01200)|**[link](https://github.com/GarmentLab/GarmentLab)**|
 |**2024-10-31**|**Learning Visual Parkour from Generated Images**|Alan Yu et.al.|[2411.00083](http://arxiv.org/abs/2411.00083)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
