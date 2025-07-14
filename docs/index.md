@@ -5,7 +5,7 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2025.07.13
+Updated on 2025.07.14
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2737,7 +2737,7 @@ Updated on 2025.07.13
 |**2025-07-10**|**A Semi-Analytic model for Effects of Fuzzy Dark Matter Granule Perturbations on Orbital Motion**|Yu Zhao et.al.|[2507.07963](http://arxiv.org/abs/2507.07963)|null|
 |**2025-07-10**|**Low Resource Reconstruction Attacks Through Benign Prompts**|Sol Yarkoni et.al.|[2507.07947](http://arxiv.org/abs/2507.07947)|null|
 |**2025-07-10**|**The Potential of Olfactory Stimuli in Stress Reduction through Virtual Reality**|Yasmin Elsaddik Valdivieso et.al.|[2507.07911](http://arxiv.org/abs/2507.07911)|null|
-|**2025-07-10**|**Single-Step Latent Diffusion for Underwater Image Restoration**|Jiayi Wu et.al.|[2507.07878](http://arxiv.org/abs/2507.07878)|null|
+|**2025-07-11**|**Single-Step Latent Diffusion for Underwater Image Restoration**|Jiayi Wu et.al.|[2507.07878](http://arxiv.org/abs/2507.07878)|null|
 |**2025-07-10**|**Re-Bottleneck: Latent Re-Structuring for Neural Audio Autoencoders**|Dimitrios Bralios et.al.|[2507.07867](http://arxiv.org/abs/2507.07867)|null|
 |**2025-07-10**|**Predicting and generating antibiotics against future pathogens with ApexOracle**|Tianang Leng et.al.|[2507.07862](http://arxiv.org/abs/2507.07862)|null|
 |**2025-07-10**|**Benchmarking Content-Based Puzzle Solvers on Corrupted Jigsaw Puzzles**|Richard Dirauf et.al.|[2507.07828](http://arxiv.org/abs/2507.07828)|null|
