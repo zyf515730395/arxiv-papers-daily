@@ -10,6 +10,9 @@ Updated on 2025.07.15
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Cameras as Relative Positional Encoding**|Ruilong Li et.al.|[2507.10496](http://arxiv.org/abs/2507.10496)|null|
+|**2025-07-14**|**Spatial Lifting for Dense Prediction**|Mingzhi Xu et.al.|[2507.10222](http://arxiv.org/abs/2507.10222)|null|
+|**2025-07-13**|**Prompt2DEM: High-Resolution DEMs for Urban and Open Environments from Global Prompts Using a Monocular Foundation Model**|Osher Rafaeli et.al.|[2507.09681](http://arxiv.org/abs/2507.09681)|null|
 |**2025-07-11**|**ByDeWay: Boost Your multimodal LLM with DEpth prompting in a Training-Free Way**|Rajarshi Roy et.al.|[2507.08679](http://arxiv.org/abs/2507.08679)|null|
 |**2025-07-11**|**PanMatch: Unleashing the Potential of Large Vision Models for Unified Matching Models**|Yongjian Zhang et.al.|[2507.08400](http://arxiv.org/abs/2507.08400)|null|
 |**2025-07-10**|**An Embedded Real-time Object Alert System for Visually Impaired: A Monocular Depth Estimation based Approach through Computer Vision**|Jareen Anjom et.al.|[2507.08165](http://arxiv.org/abs/2507.08165)|null|
@@ -478,6 +481,8 @@ Updated on 2025.07.15
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Hand Gesture Recognition for Collaborative Robots Using Lightweight Deep Learning in Real-Time Robotic Systems**|Muhtadin et.al.|[2507.10055](http://arxiv.org/abs/2507.10055)|null|
+|**2025-07-13**|**Online Micro-gesture Recognition Using Data Augmentation and Spatial-Temporal Attention**|Pengyu Liu et.al.|[2507.09512](http://arxiv.org/abs/2507.09512)|null|
 |**2025-07-11**|**MM-Gesture: Towards Precise Micro-Gesture Recognition through Multimodal Fusion**|Jihao Gu et.al.|[2507.08344](http://arxiv.org/abs/2507.08344)|null|
 |**2025-07-06**|**Visual Hand Gesture Recognition with Deep Learning: A Comprehensive Review of Methods, Datasets, Challenges and Future Research Directions**|Konstantinos Foteinos et.al.|[2507.04465](http://arxiv.org/abs/2507.04465)|null|
 |**2025-06-25**|**How do Foundation Models Compare to Skeleton-Based Approaches for Gesture Recognition in Human-Robot Interaction?**|Stephanie Käs et.al.|[2506.20795](http://arxiv.org/abs/2506.20795)|null|
@@ -629,6 +634,9 @@ Updated on 2025.07.15
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Riding the Carousel: The First Extensive Eye Tracking Analysis of Browsing Behavior in Carousel Recommenders**|Santiago de Leon-Martinez et.al.|[2507.10135](http://arxiv.org/abs/2507.10135)|null|
+|**2025-07-13**|**EyeSeg: An Uncertainty-Aware Eye Segmentation Framework for AR/VR**|Zhengyuan Peng et.al.|[2507.09649](http://arxiv.org/abs/2507.09649)|null|
+|**2025-07-12**|**Simulation for All: A Step-by-Step Cookbook for Developing Human-Centered Multi-Agent Transportation Simulators**|Shiva Azimi et.al.|[2507.09367](http://arxiv.org/abs/2507.09367)|null|
 |**2025-07-02**|**AI Meets Maritime Training: Precision Analytics for Enhanced Safety and Performance**|Vishakha Lall et.al.|[2507.01274](http://arxiv.org/abs/2507.01274)|null|
 |**2025-07-01**|**Stable Tracking of Eye Gaze Direction During Ophthalmic Surgery**|Tinghe Hong et.al.|[2507.00635](http://arxiv.org/abs/2507.00635)|null|
 |**2025-06-30**|**GazeTarget360: Towards Gaze Target Estimation in 360-Degree for Robot Perception**|Zhuangzhuang Dai et.al.|[2507.00253](http://arxiv.org/abs/2507.00253)|null|
@@ -833,6 +841,16 @@ Updated on 2025.07.15
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
+|**2025-07-14**|**Fusing LLM Capabilities with Routing Data**|Tao Feng et.al.|[2507.10540](http://arxiv.org/abs/2507.10540)|null|
+|**2025-07-14**|**CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks**|Hongchao Jiang et.al.|[2507.10535](http://arxiv.org/abs/2507.10535)|null|
+|**2025-07-14**|**Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination**|Mingqi Wu et.al.|[2507.10532](http://arxiv.org/abs/2507.10532)|null|
+|**2025-07-14**|**DeepResearch $^{\text{Eco}}$ : A Recursive Agentic Workflow for Complex Scientific Question Answering in Ecology**|Jennifer D'Souza et.al.|[2507.10522](http://arxiv.org/abs/2507.10522)|null|
+|**2025-07-14**|**Chat with AI: The Surprising Turn of Real-time Video Communication from Human to AI**|Jiangkai Wu et.al.|[2507.10510](http://arxiv.org/abs/2507.10510)|null|
+|**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500](http://arxiv.org/abs/2507.10500)|null|
+|**2025-07-14**|**Can You Detect the Difference?**|İsmail Tarım et.al.|[2507.10475](http://arxiv.org/abs/2507.10475)|null|
+|**2025-07-14**|**MLAR: Multi-layer Large Language Model-based Robotic Process Automation Applicant Tracking**|Mohamed T. Younes et.al.|[2507.10472](http://arxiv.org/abs/2507.10472)|null|
+|**2025-07-14**|**An Empirical Evaluation of AI-Powered Non-Player Characters' Perceived Realism and Performance in Virtual Reality Environments**|Mikko Korkiakoski et.al.|[2507.10469](http://arxiv.org/abs/2507.10469)|null|
 |**2025-07-11**|**Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective**|Hangjie Yuan et.al.|[2507.08801](http://arxiv.org/abs/2507.08801)|null|
 |**2025-07-11**|**One Token to Fool LLM-as-a-Judge**|Yulai Zhao et.al.|[2507.08794](http://arxiv.org/abs/2507.08794)|null|
 |**2025-07-11**|**BlockFFN: Towards End-Side Acceleration-Friendly Mixture-of-Experts with Chunk-Level Activation Sparsity**|Chenyang Song et.al.|[2507.08771](http://arxiv.org/abs/2507.08771)|null|
@@ -2746,6 +2764,16 @@ Updated on 2025.07.15
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation**|Juyi Sheng et.al.|[2507.10543](http://arxiv.org/abs/2507.10543)|null|
+|**2025-07-14**|**Scaling limit of boundary random walks: A martingale problem approach**|Juan Carlos Arroyave et.al.|[2507.10528](http://arxiv.org/abs/2507.10528)|null|
+|**2025-07-14**|**A shape theorem for BBM in a periodic environment**|Louigi Addario-Berry et.al.|[2507.10515](http://arxiv.org/abs/2507.10515)|null|
+|**2025-07-14**|**Can You Detect the Difference?**|İsmail Tarım et.al.|[2507.10475](http://arxiv.org/abs/2507.10475)|null|
+|**2025-07-14**|**Solving the compute crisis with physics-based ASICs**|Maxwell Aifer et.al.|[2507.10463](http://arxiv.org/abs/2507.10463)|null|
+|**2025-07-14**|**On a class of forward-backward reaction-diffusion systems with local and nonlocal coupling for image restoration**|Yihui Tong et.al.|[2507.10393](http://arxiv.org/abs/2507.10393)|null|
+|**2025-07-14**|**Parallel Sampling of Diffusion Models on $SO(3)$**|Yan-Ting Chen et.al.|[2507.10347](http://arxiv.org/abs/2507.10347)|null|
+|**2025-07-14**|**Diffusion Monte Carlo calculation of compact $T_{cs0}$ and $T_{c\bar{s}0}$ tetraquarks**|M. C. Gordillo et.al.|[2507.10346](http://arxiv.org/abs/2507.10346)|null|
+|**2025-07-14**|**Text Embedding Knows How to Quantize Text-Guided Diffusion Models**|Hongjae Lee et.al.|[2507.10340](http://arxiv.org/abs/2507.10340)|null|
+|**2025-07-14**|**Lévy Langevin Monte Carlo for sampling from heavy-tailed target distributions**|Anita Behme et.al.|[2507.10320](http://arxiv.org/abs/2507.10320)|null|
 |**2025-07-11**|**Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective**|Hangjie Yuan et.al.|[2507.08801](http://arxiv.org/abs/2507.08801)|null|
 |**2025-07-11**|**NeuralOS: Towards Simulating Operating Systems via Neural Generative Models**|Luke Rivard et.al.|[2507.08800](http://arxiv.org/abs/2507.08800)|null|
 |**2025-07-11**|**From One to More: Contextual Part Latents for 3D Generation**|Shaocong Dong et.al.|[2507.08772](http://arxiv.org/abs/2507.08772)|null|
@@ -4655,6 +4683,12 @@ Updated on 2025.07.15
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions**|Shivangi Aneja et.al.|[2507.10542](http://arxiv.org/abs/2507.10542)|null|
+|**2025-07-14**|**REACT: Real-time Entanglement-Aware Coverage Path Planning for Tethered Underwater Vehicles**|Abdelhakim Amer et.al.|[2507.10204](http://arxiv.org/abs/2507.10204)|null|
+|**2025-07-14**|**3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**|Yixun Zhang et.al.|[2507.09993](http://arxiv.org/abs/2507.09993)|null|
+|**2025-07-14**|**VoxelRF: Voxelized Radiance Field for Fast Wireless Channel Modeling**|Zihang Zeng et.al.|[2507.09987](http://arxiv.org/abs/2507.09987)|null|
+|**2025-07-12**|**Stable Score Distillation**|Haiming Zhu et.al.|[2507.09168](http://arxiv.org/abs/2507.09168)|null|
+|**2025-07-11**|**From images to properties: a NeRF-driven framework for granular material parameter inversion**|Cheng-Hsi Hsiao et.al.|[2507.09005](http://arxiv.org/abs/2507.09005)|null|
 |**2025-07-11**|**NeuralOS: Towards Simulating Operating Systems via Neural Generative Models**|Luke Rivard et.al.|[2507.08800](http://arxiv.org/abs/2507.08800)|null|
 |**2025-07-14**|**CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering**|Zhengqing Wang et.al.|[2507.08776](http://arxiv.org/abs/2507.08776)|null|
 |**2025-07-11**|**Learning human-to-robot handovers through 3D scene reconstruction**|Yuekun Wu et.al.|[2507.08726](http://arxiv.org/abs/2507.08726)|null|
@@ -7181,6 +7215,10 @@ Updated on 2025.07.15
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Prompt Informed Reinforcement Learning for Visual Coverage Path Planning**|Venkat Margapuri et.al.|[2507.10284](http://arxiv.org/abs/2507.10284)|null|
+|**2025-07-14**|**Robust RL Control for Bipedal Locomotion with Closed Kinematic Chains**|Egor Maslennikov et.al.|[2507.10164](http://arxiv.org/abs/2507.10164)|null|
+|**2025-07-14**|**Foundation Model Driven Robotics: A Comprehensive Review**|Muhammad Tayyab Khan et.al.|[2507.10087](http://arxiv.org/abs/2507.10087)|null|
+|**2025-07-11**|**Taming generative video models for zero-shot optical flow extraction**|Seungwoo Kim et.al.|[2507.09082](http://arxiv.org/abs/2507.09082)|null|
 |**2025-07-11**|**SPLASH! Sample-efficient Preference-based inverse reinforcement learning for Long-horizon Adversarial tasks from Suboptimal Hierarchical demonstrations**|Peter Crowley et.al.|[2507.08707](http://arxiv.org/abs/2507.08707)|null|
 |**2025-07-11**|**Robotic Calibration Based on Haptic Feedback Improves Sim-to-Real Transfer**|Juraj Gavura et.al.|[2507.08572](http://arxiv.org/abs/2507.08572)|null|
 |**2025-07-11**|**Learning Robust Motion Skills via Critical Adversarial Attacks for Humanoid Robots**|Yang Zhang et.al.|[2507.08303](http://arxiv.org/abs/2507.08303)|null|
