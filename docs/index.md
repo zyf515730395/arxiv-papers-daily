@@ -5,7 +5,7 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2025.07.14
+Updated on 2025.07.15
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -16,7 +16,7 @@ Updated on 2025.07.14
 |**2025-07-10**|**Tree-Mamba: A Tree-Aware Mamba for Underwater Monocular Depth Estimation**|Peixian Zhuang et.al.|[2507.07687](http://arxiv.org/abs/2507.07687)|null|
 |**2025-07-10**|**HOTA: Hierarchical Overlap-Tiling Aggregation for Large-Area 3D Flood Mapping**|Wenfeng Jia et.al.|[2507.07585](http://arxiv.org/abs/2507.07585)|null|
 |**2025-07-08**|**LighthouseGS: Indoor Structure-aware 3D Gaussian Splatting for Panorama-Style Mobile Captures**|Seungoh Han et.al.|[2507.06109](http://arxiv.org/abs/2507.06109)|null|
-|**2025-07-08**|**Beyond Appearance: Geometric Cues for Robust Video Instance Segmentation**|Quanzhu Niu et.al.|[2507.05948](http://arxiv.org/abs/2507.05948)|null|
+|**2025-07-14**|**Beyond Appearance: Geometric Cues for Robust Video Instance Segmentation**|Quanzhu Niu et.al.|[2507.05948](http://arxiv.org/abs/2507.05948)|null|
 |**2025-07-07**|**The Generalization Ridge: Information Flow in Natural Language Generation**|Ruidi Chang et.al.|[2507.05387](http://arxiv.org/abs/2507.05387)|null|
 |**2025-07-10**|**VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting**|Juyi Lin et.al.|[2507.05116](http://arxiv.org/abs/2507.05116)|null|
 |**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso et.al.|[2507.05029](http://arxiv.org/abs/2507.05029)|null|
@@ -4656,7 +4656,7 @@ Updated on 2025.07.14
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-11**|**NeuralOS: Towards Simulating Operating Systems via Neural Generative Models**|Luke Rivard et.al.|[2507.08800](http://arxiv.org/abs/2507.08800)|null|
-|**2025-07-11**|**CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering**|Zhengqing Wang et.al.|[2507.08776](http://arxiv.org/abs/2507.08776)|null|
+|**2025-07-14**|**CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering**|Zhengqing Wang et.al.|[2507.08776](http://arxiv.org/abs/2507.08776)|null|
 |**2025-07-11**|**Learning human-to-robot handovers through 3D scene reconstruction**|Yuekun Wu et.al.|[2507.08726](http://arxiv.org/abs/2507.08726)|null|
 |**2025-07-11**|**RePaintGS: Reference-Guided Gaussian Splatting for Realistic and View-Consistent 3D Scene Inpainting**|Ji Hyun Seo et.al.|[2507.08434](http://arxiv.org/abs/2507.08434)|null|
 |**2025-07-10**|**Temporally Consistent Amodal Completion for 3D Human-Object Interaction Reconstruction**|Hyungjun Doh et.al.|[2507.08137](http://arxiv.org/abs/2507.08137)|null|

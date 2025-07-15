@@ -1,4 +1,4 @@
-> Updated on 2025.07.14
+> Updated on 2025.07.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -20,7 +20,7 @@
 |**2025-07-10**|**Tree-Mamba: A Tree-Aware Mamba for Underwater Monocular Depth Estimation**|Peixian Zhuang et.al.|[2507.07687](http://arxiv.org/abs/2507.07687)|null|
 |**2025-07-10**|**HOTA: Hierarchical Overlap-Tiling Aggregation for Large-Area 3D Flood Mapping**|Wenfeng Jia et.al.|[2507.07585](http://arxiv.org/abs/2507.07585)|null|
 |**2025-07-08**|**LighthouseGS: Indoor Structure-aware 3D Gaussian Splatting for Panorama-Style Mobile Captures**|Seungoh Han et.al.|[2507.06109](http://arxiv.org/abs/2507.06109)|null|
-|**2025-07-08**|**Beyond Appearance: Geometric Cues for Robust Video Instance Segmentation**|Quanzhu Niu et.al.|[2507.05948](http://arxiv.org/abs/2507.05948)|null|
+|**2025-07-14**|**Beyond Appearance: Geometric Cues for Robust Video Instance Segmentation**|Quanzhu Niu et.al.|[2507.05948](http://arxiv.org/abs/2507.05948)|null|
 |**2025-07-07**|**The Generalization Ridge: Information Flow in Natural Language Generation**|Ruidi Chang et.al.|[2507.05387](http://arxiv.org/abs/2507.05387)|null|
 |**2025-07-10**|**VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting**|Juyi Lin et.al.|[2507.05116](http://arxiv.org/abs/2507.05116)|null|
 |**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso et.al.|[2507.05029](http://arxiv.org/abs/2507.05029)|null|
@@ -478,7 +478,7 @@
 |**2024-09-23**|**GroCo: Ground Constraint for Metric Self-Supervised Monocular Depth**|Aurélien Cecille et.al.|[2409.14850](http://arxiv.org/abs/2409.14850)|**[link](https://github.com/Visual-Behavior/GroCo)**|
 |**2024-09-23**|**Robust and Flexible Omnidirectional Depth Estimation with Multiple 360° Cameras**|Ming Li et.al.|[2409.14766](http://arxiv.org/abs/2409.14766)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Gesture Recognition
 
@@ -629,7 +629,7 @@
 |**2024-09-10**|**Advancements in Gesture Recognition Techniques and Machine Learning for Enhanced Human-Robot Interaction: A Comprehensive Review**|Sajjad Hussain et.al.|[2409.06503](http://arxiv.org/abs/2409.06503)|null|
 |**2024-09-05**|**MVTN: A Multiscale Video Transformer Network for Hand Gesture Recognition**|Mallika Garg et.al.|[2409.03890](http://arxiv.org/abs/2409.03890)|**[link](https://github.com/mallikagarg/mvtn)**|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Eye Tracking
 
@@ -833,7 +833,7 @@
 |**2024-09-11**|**Bridging Quantitative and Qualitative Methods for Visualization Research: A Data/Semantics Perspective in Light of Advanced AI**|Daniel Weiskopf et.al.|[2409.07250](http://arxiv.org/abs/2409.07250)|null|
 |**2024-09-10**|**Mazed and Confused: A Dataset of Cybersickness, Working Memory, Mental Load, Physical Load, and Attention During a Real Walking Task in VR**|Jyotirmay Nag Setu et.al.|[2409.06898](http://arxiv.org/abs/2409.06898)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## VLM/LLM
 
@@ -2746,7 +2746,7 @@
 |**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278](http://arxiv.org/abs/2409.16278)|null|
 |**2024-09-24**|**CDChat: A Large Multimodal Model for Remote Sensing Change Description**|Mubashir Noman et.al.|[2409.16261](http://arxiv.org/abs/2409.16261)|**[link](https://github.com/techmn/cdchat)**|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Diffusion
 
@@ -4655,12 +4655,12 @@
 |**2024-09-25**|**Decomposition of Friction Coefficients to Analyze Hydration Effects on a C $_{60}$(OH)$_{\rm n}$**|Tomoya Iwashita et.al.|[2409.17028](http://arxiv.org/abs/2409.17028)|null|
 |**2024-09-25**|**Single Image, Any Face: Generalisable 3D Face Generation**|Wenqing Wang et.al.|[2409.16990](http://arxiv.org/abs/2409.16990)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## Neural Rendering
 
 |**2025-07-11**|**NeuralOS: Towards Simulating Operating Systems via Neural Generative Models**|Luke Rivard et.al.|[2507.08800](http://arxiv.org/abs/2507.08800)|null|
-|**2025-07-11**|**CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering**|Zhengqing Wang et.al.|[2507.08776](http://arxiv.org/abs/2507.08776)|null|
+|**2025-07-14**|**CLiFT: Compressive Light-Field Tokens for Compute-Efficient and Adaptive Neural Rendering**|Zhengqing Wang et.al.|[2507.08776](http://arxiv.org/abs/2507.08776)|null|
 |**2025-07-11**|**Learning human-to-robot handovers through 3D scene reconstruction**|Yuekun Wu et.al.|[2507.08726](http://arxiv.org/abs/2507.08726)|null|
 |**2025-07-11**|**RePaintGS: Reference-Guided Gaussian Splatting for Realistic and View-Consistent 3D Scene Inpainting**|Ji Hyun Seo et.al.|[2507.08434](http://arxiv.org/abs/2507.08434)|null|
 |**2025-07-10**|**Temporally Consistent Amodal Completion for 3D Human-Object Interaction Reconstruction**|Hyungjun Doh et.al.|[2507.08137](http://arxiv.org/abs/2507.08137)|null|
@@ -7181,7 +7181,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## RSR
 
@@ -7419,5 +7419,5 @@
 |**2024-11-02**|**GarmentLab: A Unified Simulation and Benchmark for Garment Manipulation**|Haoran Lu et.al.|[2411.01200](http://arxiv.org/abs/2411.01200)|**[link](https://github.com/GarmentLab/GarmentLab)**|
 |**2024-10-31**|**Learning Visual Parkour from Generated Images**|Alan Yu et.al.|[2411.00083](http://arxiv.org/abs/2411.00083)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
