@@ -14,6 +14,10 @@
 
 ## Depth Estimation
 
+|**2025-07-15**|**Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**|Zhen Xu et.al.|[2507.11540](http://arxiv.org/abs/2507.11540)|null|
+|**2025-07-15**|**MonoMVSNet: Monocular Priors Guided Multi-View Stereo Network**|Jianfei Jiang et.al.|[2507.11333](http://arxiv.org/abs/2507.11333)|null|
+|**2025-07-15**|**Uncertainty Aware Mapping for Vision-Based Underwater Robots**|Abhimanyu Bhowmik et.al.|[2507.10991](http://arxiv.org/abs/2507.10991)|null|
+|**2025-07-14**|**Static or Temporal? Semantic Scene Simplification to Aid Wayfinding in Immersive Simulations of Bionic Vision**|Justin M. Kasowski et.al.|[2507.10813](http://arxiv.org/abs/2507.10813)|null|
 |**2025-07-14**|**Cameras as Relative Positional Encoding**|Ruilong Li et.al.|[2507.10496](http://arxiv.org/abs/2507.10496)|null|
 |**2025-07-14**|**Spatial Lifting for Dense Prediction**|Mingzhi Xu et.al.|[2507.10222](http://arxiv.org/abs/2507.10222)|null|
 |**2025-07-13**|**Prompt2DEM: High-Resolution DEMs for Urban and Open Environments from Global Prompts Using a Monocular Foundation Model**|Osher Rafaeli et.al.|[2507.09681](http://arxiv.org/abs/2507.09681)|null|
@@ -845,6 +849,16 @@
 
 ## VLM/LLM
 
+|**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
+|**2025-07-15**|**How Many Instructions Can LLMs Follow at Once?**|Daniel Jaroslawicz et.al.|[2507.11538](http://arxiv.org/abs/2507.11538)|null|
+|**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527](http://arxiv.org/abs/2507.11527)|null|
+|**2025-07-15**|**LLM-based ambiguity detection in natural language instructions for collaborative surgical robots**|Ana Davila et.al.|[2507.11525](http://arxiv.org/abs/2507.11525)|null|
+|**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515](http://arxiv.org/abs/2507.11515)|null|
+|**2025-07-15**|**Real-World Summarization: When Evaluation Reaches Its Limits**|Patrícia Schmidtová et.al.|[2507.11508](http://arxiv.org/abs/2507.11508)|null|
+|**2025-07-15**|**MIRAGE: KV Cache Optimization through Parameter Remapping for Multi-tenant LLM Serving**|Ruihao Li et.al.|[2507.11507](http://arxiv.org/abs/2507.11507)|null|
+|**2025-07-15**|**REVA: Supporting LLM-Generated Programming Feedback Validation at Scale Through User Attention-based Adaptation**|Xiaohang Tang et.al.|[2507.11470](http://arxiv.org/abs/2507.11470)|null|
+|**2025-07-15**|**Modeling Code: Is Text All You Need?**|Daniel Nichols et.al.|[2507.11467](http://arxiv.org/abs/2507.11467)|null|
+|**2025-07-15**|**LRMR: LLM-Driven Relational Multi-node Ranking for Lymph Node Metastasis Assessment in Rectal Cancer**|Yaoxian Dong et.al.|[2507.11457](http://arxiv.org/abs/2507.11457)|null|
 |**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
 |**2025-07-14**|**Fusing LLM Capabilities with Routing Data**|Tao Feng et.al.|[2507.10540](http://arxiv.org/abs/2507.10540)|null|
 |**2025-07-14**|**CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks**|Hongchao Jiang et.al.|[2507.10535](http://arxiv.org/abs/2507.10535)|null|
@@ -2768,6 +2782,16 @@
 
 ## Diffusion
 
+|**2025-07-15**|**CATVis: Context-Aware Thought Visualization**|Tariq Mehmood et.al.|[2507.11522](http://arxiv.org/abs/2507.11522)|null|
+|**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515](http://arxiv.org/abs/2507.11515)|null|
+|**2025-07-15**|**Exploring the robustness of TractOracle methods in RL-based tractography**|Jeremi Levesque et.al.|[2507.11486](http://arxiv.org/abs/2507.11486)|null|
+|**2025-07-15**|**HUG-VAS: A Hierarchical NURBS-Based Generative Model for Aortic Geometry Synthesis and Controllable Editing**|Pan Du et.al.|[2507.11474](http://arxiv.org/abs/2507.11474)|null|
+|**2025-07-15**|**Timescales for stochastic barrier crossing: inferring the potential from nonequilibrium data**|A. J. Archer et.al.|[2507.11456](http://arxiv.org/abs/2507.11456)|null|
+|**2025-07-15**|**Implementing Adaptations for Vision AutoRegressive Model**|Kaif Shaikh et.al.|[2507.11441](http://arxiv.org/abs/2507.11441)|null|
+|**2025-07-15**|**A Stochastic RAGE Theorem and Enhanced Dissipation for Transport Noise**|Michele Coti Zelati et.al.|[2507.11422](http://arxiv.org/abs/2507.11422)|null|
+|**2025-07-15**|**Mapping Diffuse Radio Sources Using TUNA: A Transformer-Based Deep Learning Approach**|Nicoletta Sanvitale et.al.|[2507.11320](http://arxiv.org/abs/2507.11320)|null|
+|**2025-07-15**|**Diffusion-Based Imaginative Coordination for Bimanual Manipulation**|Huilin Xu et.al.|[2507.11296](http://arxiv.org/abs/2507.11296)|null|
+|**2025-07-15**|**Markov approximation for controlled Hawkes Jump-Diffusions with general kernels**|Mahmoud Khabou et.al.|[2507.11294](http://arxiv.org/abs/2507.11294)|null|
 |**2025-07-14**|**MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation**|Juyi Sheng et.al.|[2507.10543](http://arxiv.org/abs/2507.10543)|null|
 |**2025-07-14**|**Scaling limit of boundary random walks: A martingale problem approach**|Juan Carlos Arroyave et.al.|[2507.10528](http://arxiv.org/abs/2507.10528)|null|
 |**2025-07-14**|**A shape theorem for BBM in a periodic environment**|Louigi Addario-Berry et.al.|[2507.10515](http://arxiv.org/abs/2507.10515)|null|
@@ -4687,6 +4711,9 @@
 
 ## Neural Rendering
 
+|**2025-07-15**|**A Mixed-Primitive-based Gaussian Splatting Method for Surface Reconstruction**|Haoxuan Qu et.al.|[2507.11321](http://arxiv.org/abs/2507.11321)|null|
+|**2025-07-15**|**TRAN-D: 2D Gaussian Splatting-based Sparse-view Transparent Object Depth Reconstruction via Physics Simulation for Scene Update**|Jeongyun Kim et.al.|[2507.11069](http://arxiv.org/abs/2507.11069)|null|
+|**2025-07-15**|**Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling**|Hayeon Kim et.al.|[2507.11061](http://arxiv.org/abs/2507.11061)|null|
 |**2025-07-14**|**ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions**|Shivangi Aneja et.al.|[2507.10542](http://arxiv.org/abs/2507.10542)|null|
 |**2025-07-14**|**REACT: Real-time Entanglement-Aware Coverage Path Planning for Tethered Underwater Vehicles**|Abdelhakim Amer et.al.|[2507.10204](http://arxiv.org/abs/2507.10204)|null|
 |**2025-07-14**|**3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**|Yixun Zhang et.al.|[2507.09993](http://arxiv.org/abs/2507.09993)|null|
@@ -7219,6 +7246,7 @@
 
 ## RSR
 
+|**2025-07-15**|**Learning to Tune Like an Expert: Interpretable and Scene-Aware Navigation via MLLM Reasoning and CVAE-Based Adaptation**|Yanbo Wang et.al.|[2507.11001](http://arxiv.org/abs/2507.11001)|null|
 |**2025-07-14**|**Prompt Informed Reinforcement Learning for Visual Coverage Path Planning**|Venkat Margapuri et.al.|[2507.10284](http://arxiv.org/abs/2507.10284)|null|
 |**2025-07-14**|**Robust RL Control for Bipedal Locomotion with Closed Kinematic Chains**|Egor Maslennikov et.al.|[2507.10164](http://arxiv.org/abs/2507.10164)|null|
 |**2025-07-14**|**Foundation Model Driven Robotics: A Comprehensive Review**|Muhammad Tayyab Khan et.al.|[2507.10087](http://arxiv.org/abs/2507.10087)|null|
