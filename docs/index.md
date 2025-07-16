@@ -5,7 +5,7 @@ layout: default
 * toc 
 {:toc} 
 ## Intro 
-Updated on 2025.07.15
+Updated on 2025.07.16
 ## Depth Estimation
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -636,7 +636,7 @@ Updated on 2025.07.15
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-14**|**Riding the Carousel: The First Extensive Eye Tracking Analysis of Browsing Behavior in Carousel Recommenders**|Santiago de Leon-Martinez et.al.|[2507.10135](http://arxiv.org/abs/2507.10135)|null|
 |**2025-07-13**|**EyeSeg: An Uncertainty-Aware Eye Segmentation Framework for AR/VR**|Zhengyuan Peng et.al.|[2507.09649](http://arxiv.org/abs/2507.09649)|null|
-|**2025-07-12**|**Simulation for All: A Step-by-Step Cookbook for Developing Human-Centered Multi-Agent Transportation Simulators**|Shiva Azimi et.al.|[2507.09367](http://arxiv.org/abs/2507.09367)|null|
+|**2025-07-15**|**Simulation for All: A Step-by-Step Cookbook for Developing Human-Centered Multi-Agent Transportation Simulators**|Shiva Azimi et.al.|[2507.09367](http://arxiv.org/abs/2507.09367)|null|
 |**2025-07-02**|**AI Meets Maritime Training: Precision Analytics for Enhanced Safety and Performance**|Vishakha Lall et.al.|[2507.01274](http://arxiv.org/abs/2507.01274)|null|
 |**2025-07-01**|**Stable Tracking of Eye Gaze Direction During Ophthalmic Surgery**|Tinghe Hong et.al.|[2507.00635](http://arxiv.org/abs/2507.00635)|null|
 |**2025-06-30**|**GazeTarget360: Towards Gaze Target Estimation in 360-Degree for Robot Perception**|Zhuangzhuang Dai et.al.|[2507.00253](http://arxiv.org/abs/2507.00253)|null|
@@ -2772,7 +2772,7 @@ Updated on 2025.07.15
 |**2025-07-14**|**On a class of forward-backward reaction-diffusion systems with local and nonlocal coupling for image restoration**|Yihui Tong et.al.|[2507.10393](http://arxiv.org/abs/2507.10393)|null|
 |**2025-07-14**|**Parallel Sampling of Diffusion Models on $SO(3)$**|Yan-Ting Chen et.al.|[2507.10347](http://arxiv.org/abs/2507.10347)|null|
 |**2025-07-14**|**Diffusion Monte Carlo calculation of compact $T_{cs0}$ and $T_{c\bar{s}0}$ tetraquarks**|M. C. Gordillo et.al.|[2507.10346](http://arxiv.org/abs/2507.10346)|null|
-|**2025-07-14**|**Text Embedding Knows How to Quantize Text-Guided Diffusion Models**|Hongjae Lee et.al.|[2507.10340](http://arxiv.org/abs/2507.10340)|null|
+|**2025-07-15**|**Text Embedding Knows How to Quantize Text-Guided Diffusion Models**|Hongjae Lee et.al.|[2507.10340](http://arxiv.org/abs/2507.10340)|null|
 |**2025-07-14**|**Lévy Langevin Monte Carlo for sampling from heavy-tailed target distributions**|Anita Behme et.al.|[2507.10320](http://arxiv.org/abs/2507.10320)|null|
 |**2025-07-11**|**Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective**|Hangjie Yuan et.al.|[2507.08801](http://arxiv.org/abs/2507.08801)|null|
 |**2025-07-11**|**NeuralOS: Towards Simulating Operating Systems via Neural Generative Models**|Luke Rivard et.al.|[2507.08800](http://arxiv.org/abs/2507.08800)|null|
