@@ -15,6 +15,7 @@ ENTRY_PATTERN = re.compile(
     r"(?P<authors>.*?)\|\[(?P<pdf_label>[^]]+)]\((?P<pdf_url>[^)]+)\)\|"
     r"(?P<code>.*?)\|$"
 )
+RECENT_YEAR_COUNT = 3
 
 
 def slugify(value: str) -> str:
@@ -122,6 +123,33 @@ def month_paper_count(weeks: OrderedDict) -> int:
 
 def year_paper_count(months: OrderedDict) -> int:
     return sum(month_paper_count(weeks) for weeks in months.values())
+
+
+def filter_recent_archive(
+    categories: list[dict], current_year: int, year_count: int = RECENT_YEAR_COUNT
+) -> tuple[list[dict], OrderedDict]:
+    earliest_year = current_year - year_count + 1
+    recent_categories = []
+    recent_themes = OrderedDict()
+
+    for category in categories:
+        years = OrderedDict(
+            (year, months)
+            for year, months in category["years"].items()
+            if earliest_year <= year <= current_year
+        )
+        if not years:
+            continue
+
+        recent_category = {
+            **category,
+            "count": sum(year_paper_count(months) for months in years.values()),
+            "years": years,
+        }
+        recent_categories.append(recent_category)
+        recent_themes.setdefault(recent_category["theme"], []).append(recent_category)
+
+    return recent_categories, recent_themes
 
 
 def render_sidebar(themes: OrderedDict) -> str:
@@ -297,8 +325,10 @@ def render_content(categories: list[dict]) -> str:
 
 def generate_site(json_path: str | Path, output_path: str | Path) -> None:
     data = json.loads(Path(json_path).read_text(encoding="utf-8"))
-    categories, themes = build_archive(data)
-    updated = datetime.date.today().isoformat()
+    all_categories, _ = build_archive(data)
+    today = datetime.date.today()
+    categories, themes = filter_recent_archive(all_categories, today.year)
+    updated = today.isoformat()
     total_papers = sum(category["count"] for category in categories)
     years = {
         year
