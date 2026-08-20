@@ -15,6 +15,7 @@ ENTRY_PATTERN = re.compile(
     r"(?P<authors>.*?)\|\[(?P<pdf_label>[^]]+)]\((?P<pdf_url>[^)]+)\)\|"
     r"(?P<code>.*?)\|$"
 )
+SITE_TITLE = "Arxiv Papers Daily"
 RECENT_YEAR_COUNT = 3
 
 
@@ -156,7 +157,7 @@ def render_sidebar(themes: OrderedDict) -> str:
     output = [
         '<aside class="paper-sidebar" id="paper-sidebar" aria-label="Paper archive">',
         '  <div class="sidebar-brand">',
-        '    <a href="#top">ARXIV / DAILY</a>',
+        f'    <a href="#top">{SITE_TITLE}</a>',
         '    <span>Computer vision research index</span>',
         '  </div>',
         '  <div class="sidebar-actions">',
@@ -342,7 +343,7 @@ def generate_site(json_path: str | Path, output_path: str | Path) -> None:
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="A daily index of image, video, and 3D generation, neural rendering, and depth estimation papers from arXiv.">
-  <title>Arxiv Papers Daily</title>
+  <title>{SITE_TITLE}</title>
   <script>
     (() => {{
       document.documentElement.classList.add("js");
@@ -369,7 +370,7 @@ def generate_site(json_path: str | Path, output_path: str | Path) -> None:
 {render_sidebar(themes)}
   <main class="page-content" id="top">
     <header class="hero">
-      <h1>Arxiv Papers Daily</h1>
+      <h1>{SITE_TITLE}</h1>
       <div class="hero-stats" aria-label="Archive statistics">
         <div><strong>{total_papers:,}</strong><span>Papers</span></div>
         <div><strong>{len(themes)}</strong><span>Topics</span></div>
@@ -378,7 +379,7 @@ def generate_site(json_path: str | Path, output_path: str | Path) -> None:
       <p class="updated">Updated {updated}</p>
     </header>
 {render_content(categories)}
-    <footer>Generated from arXiv metadata · <a href="https://github.com/zyf515730395/arxiv-papers-daily">View source on GitHub</a></footer>
+    <footer>Generated from arXiv metadata · Source: <a href="https://github.com/zyf515730395/arxiv-papers-daily">{SITE_TITLE}</a></footer>
   </main>
 </body>
 </html>
