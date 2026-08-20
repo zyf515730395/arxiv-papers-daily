@@ -1,0 +1,18 @@
+max_results: 10
+
+# file paths
+json_gitpage_path: './docs/arxiv-papers-daily-web.json'
+html_gitpage_path: './docs/index.html'
+
+# keywords to search
+keywords:
+    "Image Generation":
+        filters: ["Text-to-Image Generation", "Image Generation Model", "Generative Image Model", "Image Synthesis", "Image Editing", "Image Personalization", "Autoregressive Image Generation", "Flow Matching Image Generation", "Image Diffusion Model", "Diffusion Image Generation", "Stable Diffusion", "Diffusion Transformer Image"]
+    "Video Generation":
+        filters: ["Text-to-Video Generation", "Image-to-Video Generation", "Video Generation Model", "Generative Video Model", "Video Synthesis", "Video Editing", "Video Personalization", "Autoregressive Video Generation", "Flow Matching Video Generation", "Video Diffusion Model", "Diffusion Video Generation", "Video Diffusion Transformer"]
+    "3D Generation":
+        filters: ["Text-to-3D", "Image-to-3D", "Video-to-3D", "3D Generation", "Generative 3D", "Generative 3D Model", "3D Model Generation", "3D Object Generation", "3D Shape Generation", "3D Asset Generation", "3D Scene Generation", "3D World Generation", "3D Human Generation", "3D Content Generation", "3D Content Creation", "3DGS Generation", "3D Editing", "Mesh Generation", "CAD Generation", "4D Generation"]
+    "Neural Rendering":
+        filters: ["Neural Rendering", "Gaussian Splatting", "3D GS", "NeRF", "Neural Radiance Fields", "SDF", "Signed Distance Function"]
+    "Depth Estimation":
+        filters: ["Depth Estimation", "Monocular Depth", "Stereo Matching", "Multi-View Stereo", "Depth Completion"]
