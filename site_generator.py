@@ -49,11 +49,31 @@ def build_archive(data: dict) -> tuple[list[dict], OrderedDict]:
         rows = [parse_entry(paper_id, entry) for paper_id, entry in entries.items()]
         rows.sort(key=lambda row: (row["date"], row["id"]), reverse=True)
 
-        years = OrderedDict()
+        grouped_years = {}
         for row in rows:
-            year = row["date"].year
-            month = row["date"].month
-            years.setdefault(year, OrderedDict()).setdefault(month, []).append(row)
+            week_start, _ = week_bounds(row["date"])
+            if week_start.year == row["date"].year:
+                year = week_start.year
+                month = week_start.month
+            else:
+                # Keep January papers in their publication year when a natural
+                # week starts in the previous December.
+                year = row["date"].year
+                month = row["date"].month
+            grouped_years.setdefault(year, {}).setdefault(month, {}).setdefault(
+                week_start, []
+            ).append(row)
+
+        years = OrderedDict()
+        for year in sorted(grouped_years, reverse=True):
+            months = OrderedDict()
+            for month in sorted(grouped_years[year], reverse=True):
+                weeks = grouped_years[year][month]
+                months[month] = OrderedDict(
+                    (week_start, weeks[week_start])
+                    for week_start in sorted(weeks, reverse=True)
+                )
+            years[year] = months
 
         category = {
             "topic": topic,
@@ -71,6 +91,37 @@ def build_archive(data: dict) -> tuple[list[dict], OrderedDict]:
 
 def month_anchor(category: dict, year: int, month: int) -> str:
     return f'{category["slug"]}-{year}-{month:02d}'
+
+
+def week_anchor(category: dict, year: int, month: int, week_start: datetime.date) -> str:
+    return f'{month_anchor(category, year, month)}-week-{week_start.isoformat()}'
+
+
+def week_bounds(published: datetime.date) -> tuple[datetime.date, datetime.date]:
+    week_start = published - datetime.timedelta(days=published.weekday())
+    return week_start, week_start + datetime.timedelta(days=6)
+
+
+def week_label(week_start: datetime.date) -> str:
+    week_end = week_start + datetime.timedelta(days=6)
+    start_month = calendar.month_abbr[week_start.month]
+    end_month = calendar.month_abbr[week_end.month]
+    if week_start.year != week_end.year:
+        return (
+            f"{start_month} {week_start.day}, {week_start.year}"
+            f"–{end_month} {week_end.day}, {week_end.year}"
+        )
+    if week_start.month != week_end.month:
+        return f"{start_month} {week_start.day}–{end_month} {week_end.day}"
+    return f"{start_month} {week_start.day}–{week_end.day}"
+
+
+def month_paper_count(weeks: OrderedDict) -> int:
+    return sum(len(rows) for rows in weeks.values())
+
+
+def year_paper_count(months: OrderedDict) -> int:
+    return sum(month_paper_count(weeks) for weeks in months.values())
 
 
 def render_sidebar(themes: OrderedDict) -> str:
@@ -108,7 +159,7 @@ def render_sidebar(themes: OrderedDict) -> str:
 
             indent = "        " if has_subtype else "      "
             for year_index, (year, months) in enumerate(category["years"].items()):
-                year_count = sum(len(rows) for rows in months.values())
+                year_count = year_paper_count(months)
                 year_open = " open" if theme_index == 0 and category_index == 0 and year_index == 0 else ""
                 output.append(f'{indent}<details class="nav-year"{year_open}>')
                 output.append(
@@ -116,12 +167,12 @@ def render_sidebar(themes: OrderedDict) -> str:
                     f'<span class="nav-count">{year_count}</span></summary>'
                 )
                 output.append(f'{indent}  <ul>')
-                for month, rows in months.items():
+                for month, weeks in months.items():
                     anchor = month_anchor(category, year, month)
                     output.append(
                         f'{indent}    <li><a href="#{anchor}">'
                         f'<span>{calendar.month_name[month]}</span>'
-                        f'<span class="nav-count">{len(rows)}</span></a></li>'
+                        f'<span class="nav-count">{month_paper_count(weeks)}</span></a></li>'
                     )
                 output.append(f'{indent}  </ul>')
                 output.append(f'{indent}</details>')
@@ -176,23 +227,70 @@ def render_content(categories: list[dict]) -> str:
             '  </header>',
         ])
         for year_index, (year, months) in enumerate(category["years"].items()):
-            year_count = sum(len(rows) for rows in months.values())
-            year_open = " open" if year_index == 0 else ""
-            output.append(f'  <details class="archive-year"{year_open}>')
+            year_count = year_paper_count(months)
+            year_id = f'{category["slug"]}-{year}-content'
+            year_expanded = "true" if year_index == 0 else "false"
+            selected_month = next(iter(months))
             output.append(
-                f'    <summary><span>{year}</span><span>{year_count} papers</span></summary>'
+                f'  <section class="archive-year" data-archive-year '
+                f'data-expanded="{year_expanded}">'
             )
-            for month_index, (month, rows) in enumerate(months.items()):
+            output.extend([
+                '    <div class="archive-year-header">',
+                f'      <button class="archive-year-toggle" type="button" '
+                f'aria-expanded="{year_expanded}" aria-controls="{year_id}">',
+                f'        <span>{year}</span>',
+                '      </button>',
+                f'      <div class="archive-month-tabs" role="tablist" '
+                f'aria-label="{year} months">',
+            ])
+            for month in range(1, 13):
+                weeks = months.get(month)
+                month_name = calendar.month_abbr[month]
+                if weeks is None:
+                    output.append(
+                        f'        <button type="button" role="tab" disabled '
+                        f'aria-disabled="true" aria-selected="false">{month_name}</button>'
+                    )
+                    continue
                 anchor = month_anchor(category, year, month)
-                month_open = " open" if year_index == 0 and month_index == 0 else ""
-                output.append(f'    <details class="archive-month" id="{anchor}"{month_open}>')
+                is_selected = month == selected_month
+                selected = "true" if is_selected else "false"
+                tabindex = "0" if is_selected else "-1"
                 output.append(
-                    f'      <summary><span>{calendar.month_name[month]}</span>'
-                    f'<span>{len(rows)} papers</span></summary>'
+                    f'        <button id="{anchor}-tab" type="button" role="tab" '
+                    f'aria-controls="{anchor}" aria-selected="{selected}" '
+                    f'tabindex="{tabindex}" data-month-target="{anchor}">{month_name}</button>'
                 )
-                output.append(render_table(rows))
-                output.append("    </details>")
-            output.append("  </details>")
+            output.extend([
+                '      </div>',
+                f'      <span class="archive-year-count">{year_count} papers</span>',
+                '    </div>',
+                f'    <div class="archive-year-content" id="{year_id}">',
+            ])
+            for month, weeks in months.items():
+                anchor = month_anchor(category, year, month)
+                is_active = month == selected_month
+                active = "true" if is_active else "false"
+                output.append(
+                    f'      <section class="archive-month-panel" id="{anchor}" '
+                    f'role="tabpanel" aria-labelledby="{anchor}-tab" '
+                    f'aria-hidden="{"false" if is_active else "true"}" data-active="{active}">'
+                )
+                for week_index, (week_start, rows) in enumerate(weeks.items()):
+                    anchor_id = week_anchor(category, year, month, week_start)
+                    week_open = " open" if week_index == 0 else ""
+                    output.append(
+                        f'        <details class="archive-week" id="{anchor_id}"{week_open}>'
+                    )
+                    output.append(
+                        f'          <summary><span>{week_label(week_start)}</span>'
+                        f'<span>{len(rows)} papers</span></summary>'
+                    )
+                    output.append(render_table(rows))
+                    output.append("        </details>")
+                output.append("      </section>")
+            output.extend(["    </div>", "  </section>"])
         output.append("</section>")
     return "\n".join(output)
 
@@ -217,6 +315,7 @@ def generate_site(json_path: str | Path, output_path: str | Path) -> None:
   <title>Arxiv Papers Daily</title>
   <script>
     (() => {{
+      document.documentElement.classList.add("js");
       const storageKey = "arxiv-theme";
       let theme = null;
       try {{ theme = window.localStorage.getItem(storageKey); }} catch (error) {{ /* Storage can be unavailable. */ }}

@@ -53,14 +53,97 @@ function setSidebar(open) {
   toggle?.setAttribute("aria-expanded", String(open));
 }
 
-function revealHashTarget() {
-  if (!window.location.hash) return;
-  const target = document.querySelector(window.location.hash);
+function setYearExpanded(yearArchive, expanded) {
+  if (!yearArchive) return;
+  const yearToggle = yearArchive.querySelector(".archive-year-toggle");
+  const content = yearArchive.querySelector(".archive-year-content");
+  yearArchive.dataset.expanded = String(expanded);
+  yearToggle?.setAttribute("aria-expanded", String(expanded));
+  content?.setAttribute("aria-hidden", String(!expanded));
+}
+
+function revealMonthTab(tab) {
+  const tablist = tab?.parentElement;
+  if (!tablist) return;
+  const tabRect = tab.getBoundingClientRect();
+  const tablistRect = tablist.getBoundingClientRect();
+  if (tabRect.left < tablistRect.left) {
+    tablist.scrollLeft -= tablistRect.left - tabRect.left;
+  } else if (tabRect.right > tablistRect.right) {
+    tablist.scrollLeft += tabRect.right - tablistRect.right;
+  }
+}
+
+function selectMonth(tab, { updateHash = false, focus = false } = {}) {
+  const targetId = tab?.dataset.monthTarget;
+  const yearArchive = tab?.closest("[data-archive-year]");
+  if (!targetId || !yearArchive || tab.disabled) return;
+
+  yearArchive.querySelectorAll("[data-month-target]").forEach((candidate) => {
+    const selected = candidate === tab;
+    candidate.setAttribute("aria-selected", String(selected));
+    candidate.tabIndex = selected ? 0 : -1;
+  });
+  yearArchive.querySelectorAll(".archive-month-panel").forEach((panel) => {
+    const active = panel.id === targetId;
+    panel.dataset.active = String(active);
+    panel.setAttribute("aria-hidden", String(!active));
+  });
+  setYearExpanded(yearArchive, true);
+  revealMonthTab(tab);
+
+  if (updateHash) window.history.replaceState(null, "", `#${targetId}`);
+  if (focus) tab.focus();
+}
+
+document.querySelectorAll("[data-archive-year]").forEach((yearArchive) => {
+  const yearToggle = yearArchive.querySelector(".archive-year-toggle");
+  setYearExpanded(yearArchive, yearArchive.dataset.expanded === "true");
+  yearToggle?.addEventListener("click", () => {
+    setYearExpanded(yearArchive, yearArchive.dataset.expanded !== "true");
+  });
+
+  const tabs = [...yearArchive.querySelectorAll("[data-month-target]")];
+  const selectedTab = tabs.find((tab) => tab.getAttribute("aria-selected") === "true");
+  window.requestAnimationFrame(() => revealMonthTab(selectedTab));
+  tabs.forEach((tab) => {
+    tab.addEventListener("click", () => selectMonth(tab, { updateHash: true }));
+    tab.addEventListener("keydown", (event) => {
+      const currentIndex = tabs.indexOf(tab);
+      let nextIndex = null;
+      if (event.key === "ArrowRight") nextIndex = (currentIndex + 1) % tabs.length;
+      if (event.key === "ArrowLeft") nextIndex = (currentIndex - 1 + tabs.length) % tabs.length;
+      if (event.key === "Home") nextIndex = 0;
+      if (event.key === "End") nextIndex = tabs.length - 1;
+      if (nextIndex === null) return;
+      event.preventDefault();
+      selectMonth(tabs[nextIndex], { updateHash: true, focus: true });
+    });
+  });
+});
+
+function revealHashTarget({ scroll = false } = {}) {
+  const id = decodeURIComponent(window.location.hash.slice(1));
+  if (!id) return;
+  const target = document.getElementById(id);
   if (!target) return;
+
+  const monthPanel = target.matches(".archive-month-panel")
+    ? target
+    : target.closest(".archive-month-panel");
+  if (monthPanel) {
+    const tab = document.querySelector(`[data-month-target="${monthPanel.id}"]`);
+    selectMonth(tab);
+  }
+  setYearExpanded(target.closest("[data-archive-year]"), true);
+
   let parent = target;
   while (parent) {
     if (parent.tagName === "DETAILS") parent.open = true;
     parent = parent.parentElement;
+  }
+  if (scroll) {
+    window.requestAnimationFrame(() => target.scrollIntoView({ block: "start" }));
   }
 }
 
@@ -80,5 +163,5 @@ document.querySelectorAll("[data-sidebar-action]").forEach((button) => {
   });
 });
 
-window.addEventListener("hashchange", revealHashTarget);
-revealHashTarget();
+window.addEventListener("hashchange", () => revealHashTarget({ scroll: true }));
+revealHashTarget({ scroll: true });

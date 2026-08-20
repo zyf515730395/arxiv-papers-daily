@@ -132,12 +132,64 @@ summary { cursor: pointer; }
 .topic-header h2 { margin: 0; font-size: clamp(1.65rem, 3vw, 2.5rem); letter-spacing: -.035em; }
 .topic-header > span { color: var(--muted); font-size: .75rem; }
 .archive-year { margin: .8rem 0; border: 1px solid var(--line); border-radius: .75rem; background: var(--panel); overflow: clip; }
-.archive-year > summary, .archive-month > summary { display: flex; justify-content: space-between; align-items: center; }
-.archive-year > summary { padding: .9rem 1.1rem; font-size: 1.15rem; font-weight: 750; }
-.archive-year > summary span:last-child, .archive-month > summary span:last-child { color: var(--muted); font-size: .72rem; font-weight: 500; }
-.archive-month { border-top: 1px solid var(--line); background: var(--panel-raised); scroll-margin-top: 1rem; }
-.archive-month > summary { padding: .72rem 1.25rem; color: var(--subtle-text); font-size: .88rem; }
-.archive-month:target { box-shadow: inset 3px 0 var(--emphasis); }
+.archive-year-header {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  align-items: center;
+  min-width: 0;
+}
+.archive-year-toggle {
+  display: flex;
+  align-items: center;
+  gap: .55rem;
+  align-self: stretch;
+  border: 0;
+  background: transparent;
+  color: var(--text);
+  padding: .9rem .6rem .9rem 1.1rem;
+  font-size: 1.15rem;
+  font-weight: 750;
+  cursor: pointer;
+}
+.archive-year-toggle::before {
+  content: "›";
+  color: var(--muted);
+  font-size: 1.3rem;
+  line-height: 1;
+  transition: transform .16s ease;
+}
+.archive-year[data-expanded="true"] .archive-year-toggle::before { transform: rotate(90deg); }
+.archive-year-count { padding: 0 1.1rem 0 .6rem; color: var(--muted); font-size: .72rem; white-space: nowrap; }
+.archive-month-tabs {
+  display: flex;
+  gap: .2rem;
+  min-width: 0;
+  overflow-x: auto;
+  padding: .55rem .35rem;
+  scrollbar-width: thin;
+}
+.archive-month-tabs button {
+  flex: 0 0 auto;
+  min-width: 2.45rem;
+  border: 1px solid transparent;
+  border-radius: .4rem;
+  background: transparent;
+  color: var(--subtle-text);
+  padding: .3rem .4rem;
+  font-size: .72rem;
+  cursor: pointer;
+}
+.archive-month-tabs button:not(:disabled):hover { border-color: var(--line); background: var(--emphasis-soft); }
+.archive-month-tabs button[aria-selected="true"] { border-color: var(--emphasis); background: var(--emphasis); color: var(--panel); font-weight: 750; }
+.archive-month-tabs button:disabled { color: var(--muted-strong); cursor: not-allowed; opacity: .42; }
+.archive-year-content { border-top: 1px solid var(--line); }
+.js .archive-year[data-expanded="false"] .archive-year-content,
+.js .archive-month-panel[data-active="false"] { display: none; }
+.archive-month-panel { background: var(--panel-raised); scroll-margin-top: 1rem; }
+.archive-month-panel:target { box-shadow: inset 3px 0 var(--emphasis); }
+.archive-week + .archive-week { border-top: 1px solid var(--line); }
+.archive-week > summary { display: flex; justify-content: space-between; align-items: center; padding: .72rem 1.25rem; color: var(--subtle-text); font-size: .88rem; }
+.archive-week > summary span:last-child { color: var(--muted); font-size: .72rem; font-weight: 500; }
 .table-scroll { overflow-x: auto; border-top: 1px solid var(--line); }
 .paper-table { width: 100%; border-collapse: collapse; font-size: .78rem; }
 .paper-table th { color: var(--muted); font-size: .65rem; text-align: left; text-transform: uppercase; letter-spacing: .1em; }
@@ -171,7 +223,8 @@ footer { padding: 2rem clamp(1rem, 5vw, 5rem); color: var(--muted); font-size: .
   line-height: 1;
 }
 .theme-toggle:hover { border-color: var(--emphasis); color: var(--emphasis); }
-.theme-toggle:focus-visible, .sidebar-toggle:focus-visible, .sidebar-actions button:focus-visible {
+.theme-toggle:focus-visible, .sidebar-toggle:focus-visible, .sidebar-actions button:focus-visible,
+.archive-year-toggle:focus-visible, .archive-month-tabs button:focus-visible {
   outline: 2px solid var(--emphasis);
   outline-offset: 2px;
 }
@@ -222,4 +275,5 @@ footer { padding: 2rem clamp(1rem, 5vw, 5rem); color: var(--muted); font-size: .
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   .paper-sidebar { transition: none; }
+  .archive-year-toggle::before { transition: none; }
 }
