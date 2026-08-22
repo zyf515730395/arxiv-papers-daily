@@ -1,4 +1,5 @@
 const body = document.body;
+const navigationShell = document.querySelector("#navigation-shell");
 const sidebar = document.querySelector("#paper-sidebar");
 const toggle = document.querySelector(".sidebar-toggle");
 const themeToggle = document.querySelector(".theme-toggle");
@@ -149,7 +150,7 @@ function revealHashTarget({ scroll = false } = {}) {
 
 toggle?.addEventListener("click", () => setSidebar(!body.classList.contains("sidebar-open")));
 document.querySelector("[data-sidebar-close]")?.addEventListener("click", () => setSidebar(false));
-sidebar?.addEventListener("click", (event) => {
+navigationShell?.addEventListener("click", (event) => {
   if (event.target.closest("a")) setSidebar(false);
 });
 document.addEventListener("keydown", (event) => {

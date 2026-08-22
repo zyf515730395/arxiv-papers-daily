@@ -17,6 +17,7 @@ ENTRY_PATTERN = re.compile(
 )
 SITE_TITLE = "Arxiv Papers Daily"
 RECENT_YEAR_COUNT = 3
+NOTES_DIRECTORY_NAME = "notes"
 
 
 def slugify(value: str) -> str:
@@ -155,16 +156,31 @@ def filter_recent_archive(
 
 def render_sidebar(themes: OrderedDict) -> str:
     output = [
-        '<aside class="paper-sidebar" id="paper-sidebar" aria-label="Paper archive">',
-        '  <div class="sidebar-brand">',
-        f'    <a href="#top">{SITE_TITLE}</a>',
-        '    <span>Computer vision research index</span>',
-        '  </div>',
-        '  <div class="sidebar-actions">',
-        '    <button type="button" data-sidebar-action="expand">Expand all</button>',
-        '    <button type="button" data-sidebar-action="collapse">Collapse all</button>',
-        '  </div>',
-        '  <nav class="archive-nav">',
+        '<div class="navigation-shell" id="navigation-shell">',
+        '  <aside class="primary-sidebar" aria-label="Main sections">',
+        '    <a class="primary-brand" href="#top" aria-label="Arxiv Papers Daily home">APD</a>',
+        '    <nav class="primary-navigation" aria-label="Knowledge sections">',
+        '      <a class="primary-nav-item is-active" href="#top" aria-current="page">',
+        '        <span aria-hidden="true">P</span>',
+        '        <strong>论文阅读</strong>',
+        '      </a>',
+        '      <span class="primary-nav-item is-disabled" aria-disabled="true">',
+        '        <span aria-hidden="true">B</span>',
+        '        <strong>读书笔记</strong>',
+        '        <small>即将上线</small>',
+        '      </span>',
+        '    </nav>',
+        '  </aside>',
+        '  <aside class="paper-sidebar" id="paper-sidebar" aria-label="Paper archive">',
+        '    <div class="sidebar-brand">',
+        '      <a href="#top">论文阅读</a>',
+        '      <span>按主题、年份与月份浏览</span>',
+        '    </div>',
+        '    <div class="sidebar-actions">',
+        '      <button type="button" data-sidebar-action="expand">Expand all</button>',
+        '      <button type="button" data-sidebar-action="collapse">Collapse all</button>',
+        '    </div>',
+        '    <nav class="archive-nav">',
     ]
 
     for theme_index, (theme, categories) in enumerate(themes.items()):
@@ -211,38 +227,54 @@ def render_sidebar(themes: OrderedDict) -> str:
 
         output.append("    </details>")
 
-    output.extend(["  </nav>", "</aside>"])
+    output.extend(["    </nav>", "  </aside>", "</div>"])
     return "\n".join(output)
 
 
-def render_table(rows: list[dict]) -> str:
+def discover_note_urls(output_path: str | Path) -> dict[str, str]:
+    output_directory = Path(output_path).parent
+    notes_directory = output_directory / NOTES_DIRECTORY_NAME
+    if not notes_directory.is_dir():
+        return {}
+
+    note_urls = {}
+    for note_path in sorted(notes_directory.rglob("*.md")):
+        relative_note = note_path.relative_to(output_directory).with_suffix(".html")
+        note_urls[note_path.stem] = relative_note.as_posix()
+    return note_urls
+
+
+def render_table(rows: list[dict], note_urls: dict[str, str]) -> str:
     output = [
         '<div class="table-scroll">',
         '  <table class="paper-table">',
-        '    <thead><tr><th>Date</th><th>Paper</th><th>Authors</th><th>arXiv</th><th>Code</th></tr></thead>',
+        '    <thead><tr><th>Arxiv ID</th><th>Paper</th><th>Authors</th><th>Summary</th></tr></thead>',
         '    <tbody>',
     ]
     for row in rows:
         paper_url = html.escape(row["paper_url"], quote=True)
-        code_cell = '<span class="muted">—</span>'
-        if row["code_url"]:
-            code_url = html.escape(row["code_url"], quote=True)
-            code_cell = f'<a href="{code_url}" target="_blank" rel="noopener">Repository</a>'
+        note_url = note_urls.get(row["id"])
+        summary_cell = '<span class="muted">—</span>'
+        if note_url:
+            summary_cell = (
+                f'<a class="summary-link" href="{html.escape(note_url, quote=True)}">'
+                'Read note</a>'
+            )
         output.append(
             "      <tr>"
-            f'<td><time datetime="{row["date"].isoformat()}">{row["date"].isoformat()}</time></td>'
+            f'<td class="paper-id"><a href="{paper_url}" target="_blank" rel="noopener">'
+            f'{html.escape(row["id"])}</a></td>'
             f'<td class="paper-title"><a href="{paper_url}" target="_blank" rel="noopener">'
             f'{html.escape(row["title"])}</a></td>'
             f'<td>{html.escape(row["authors"])}</td>'
-            f'<td><a href="{paper_url}" target="_blank" rel="noopener">{html.escape(row["id"])}</a></td>'
-            f"<td>{code_cell}</td>"
+            f'<td class="paper-summary">{summary_cell}</td>'
             "</tr>"
         )
     output.extend(["    </tbody>", "  </table>", "</div>"])
     return "\n".join(output)
 
 
-def render_content(categories: list[dict]) -> str:
+def render_content(categories: list[dict], note_urls: dict[str, str]) -> str:
     output = []
     for category in categories:
         eyebrow = category["theme"]
@@ -316,7 +348,7 @@ def render_content(categories: list[dict]) -> str:
                         f'          <summary><span>{week_label(week_start)}</span>'
                         f'<span>{len(rows)} papers</span></summary>'
                     )
-                    output.append(render_table(rows))
+                    output.append(render_table(rows, note_urls))
                     output.append("        </details>")
                 output.append("      </section>")
             output.extend(["    </div>", "  </section>"])
@@ -329,6 +361,7 @@ def generate_site(json_path: str | Path, output_path: str | Path) -> None:
     all_categories, _ = build_archive(data)
     today = datetime.date.today()
     categories, themes = filter_recent_archive(all_categories, today.year)
+    note_urls = discover_note_urls(output_path)
     updated = today.isoformat()
     total_papers = sum(category["count"] for category in categories)
     years = {
@@ -360,7 +393,7 @@ def generate_site(json_path: str | Path, output_path: str | Path) -> None:
   <script src="assets/js/sidebar.js" defer></script>
 </head>
 <body>
-  <button class="sidebar-toggle" type="button" aria-controls="paper-sidebar" aria-expanded="false">
+  <button class="sidebar-toggle" type="button" aria-controls="navigation-shell" aria-expanded="false">
     <span aria-hidden="true">&#9776;</span> Browse archive
   </button>
   <button class="theme-toggle" type="button" aria-label="Switch color theme" aria-pressed="false">
@@ -378,7 +411,7 @@ def generate_site(json_path: str | Path, output_path: str | Path) -> None:
       </div>
       <p class="updated">Updated {updated}</p>
     </header>
-{render_content(categories)}
+{render_content(categories, note_urls)}
     <footer>Generated from arXiv metadata · Source: <a href="https://github.com/zyf515730395/arxiv-papers-daily">{SITE_TITLE}</a></footer>
   </main>
 </body>
